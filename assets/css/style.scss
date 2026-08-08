@@ -1,0 +1,180 @@
+---
+---
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400;500;600;700&display=swap");
+
+@import "{{ site.theme }}";
+
+/* ------------------------------------------------------------------
+   ตัวอักษรไทย
+   ธีมเดิมเป็นฟอนต์อังกฤษล้วน ภาษาไทยมีสระบนล่างและวรรณยุกต์
+   จึงต้องเพิ่มระยะบรรทัดและขนาดตัวอักษรกว่าค่าเริ่มต้น
+   ------------------------------------------------------------------ */
+
+$thai-font: "Noto Sans Thai", -apple-system, BlinkMacSystemFont, "Segoe UI",
+  Helvetica, Arial, sans-serif;
+
+body {
+  font-family: $thai-font;
+}
+
+.markdown-body {
+  font-family: $thai-font;
+  font-size: 17px;
+  line-height: 1.85;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4 {
+  font-family: $thai-font;
+  line-height: 1.5;
+}
+
+.markdown-body h2 {
+  margin-top: 2em;
+}
+
+/* ชื่อเว็บที่ธีมแปะไว้บนสุดของทุกหน้า ทำให้เล็กลงและจางลง
+   เพราะหัวข้อจริงของหน้าอยู่บรรทัดถัดไปอยู่แล้ว */
+.markdown-body .page-name {
+  font-size: 15px;
+  font-weight: 500;
+  color: #6a737d;
+  border-bottom: none;
+  margin-bottom: 2rem;
+}
+
+/* ------------------------------------------------------------------
+   ตาราง
+   เอกสารชุดนี้ใช้ตารางเป็นหลัก และบางตารางกว้างมาก
+   บังคับให้เลื่อนแนวนอนในกรอบตัวเอง ไม่ให้ทั้งหน้าเลื่อนตาม
+   ------------------------------------------------------------------ */
+
+.markdown-body table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  font-size: 15.5px;
+}
+
+.markdown-body table th,
+.markdown-body table td {
+  line-height: 1.65;
+  vertical-align: top;
+}
+
+/* ------------------------------------------------------------------
+   บล็อกคำพูด (blockquote)
+   เอกสารใช้ > เป็นกล่องเน้นกฎสำคัญ ทำให้เด่นกว่าค่าเริ่มต้นของธีม
+   ------------------------------------------------------------------ */
+
+.markdown-body blockquote {
+  border-left-width: 4px;
+  border-left-color: #0969da;
+  background: #f6f8fa;
+  padding: 0.75em 1em;
+  color: #24292f;
+}
+
+.markdown-body blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+/* ------------------------------------------------------------------
+   จอมือถือ
+   ------------------------------------------------------------------ */
+
+@media (max-width: 600px) {
+  .markdown-body {
+    font-size: 16px;
+  }
+
+  .markdown-body table {
+    font-size: 14px;
+  }
+}
+
+/* ------------------------------------------------------------------
+   โหมดมืด
+   คนเล่นมักเปิดคู่มือบนโต๊ะเล่นตอนกลางคืน
+   ธีม primer เป็นโหมดสว่างอย่างเดียว จึงเขียนทับเอง
+   ------------------------------------------------------------------ */
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #0d1117;
+  }
+
+  .markdown-body {
+    color: #c9d1d9;
+    background-color: transparent;
+  }
+
+  .markdown-body a {
+    color: #58a6ff;
+  }
+
+  .markdown-body .page-name {
+    color: #8b949e;
+  }
+
+  .markdown-body h1,
+  .markdown-body h2 {
+    border-bottom-color: #21262d;
+  }
+
+  .markdown-body h1,
+  .markdown-body h2,
+  .markdown-body h3,
+  .markdown-body h4,
+  .markdown-body h5,
+  .markdown-body h6,
+  .markdown-body strong {
+    color: #e6edf3;
+  }
+
+  .markdown-body hr {
+    background-color: #21262d;
+    border-bottom-color: #21262d;
+  }
+
+  .markdown-body table th,
+  .markdown-body table td {
+    border-color: #30363d;
+  }
+
+  .markdown-body table tr {
+    background-color: #0d1117;
+    border-top-color: #30363d;
+  }
+
+  .markdown-body table tr:nth-child(2n) {
+    background-color: #161b22;
+  }
+
+  .markdown-body blockquote {
+    background: #161b22;
+    border-left-color: #1f6feb;
+    color: #c9d1d9;
+  }
+
+  .markdown-body code,
+  .markdown-body tt {
+    background-color: rgba(110, 118, 129, 0.4);
+    color: #c9d1d9;
+  }
+
+  .markdown-body pre,
+  .markdown-body pre code {
+    background-color: #161b22;
+    color: #c9d1d9;
+  }
+
+  .markdown-body .footer {
+    color: #8b949e;
+    border-top-color: #21262d;
+  }
+}

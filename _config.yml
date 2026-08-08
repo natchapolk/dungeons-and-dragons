@@ -1,0 +1,26 @@
+title: คู่มือ Dungeons & Dragons ฉบับผู้เล่นใหม่
+description: คู่มือ D&D ภาษาไทยสำหรับผู้เล่นใหม่ อ้างอิงกฎ Player's Handbook ฉบับปี 2024
+lang: th-TH
+
+theme: jekyll-theme-primer
+
+# ถ้าเปลี่ยนชื่อ repo บน GitHub ต้องแก้ baseurl ตรงนี้ให้ตรงกันด้วย
+url: https://natchapolk.github.io
+baseurl: /dungeons-and-dragons
+
+plugins:
+  - jekyll-optional-front-matter # ให้ไฟล์ .md ที่ไม่มี front matter ถูกแปลงเป็นหน้าเว็บ (ทั้ง 71 ไฟล์จึงไม่ต้องแก้)
+  - jekyll-readme-index          # ใช้ README.md เป็นหน้าแรกของเว็บ
+  - jekyll-relative-links        # แปลงลิงก์ .md ระหว่างไฟล์ให้เป็น URL ที่กดได้จริงบนเว็บ
+  - jekyll-titles-from-headings  # ใช้หัวข้อ H1 ของแต่ละไฟล์เป็นชื่อหน้า (ชื่อแท็บเบราว์เซอร์)
+  - jekyll-default-layout
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# ไฟล์คู่มือสำหรับ Claude Code ไม่ใช่เนื้อหาสำหรับผู้อ่าน จึงไม่ต้องขึ้นเว็บ
+exclude:
+  - CLAUDE.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README-jekyll.md
