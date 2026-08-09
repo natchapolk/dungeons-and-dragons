@@ -6,249 +6,226 @@
 
 ## ระบบเงินตรา
 
-| เหรียญ | ค่าเทียบ GP |
-|---|---|
-| **เหรียญทองแดง (CP — Copper Piece)** | 1/100 GP |
-| **เหรียญเงิน (SP — Silver Piece)** | 1/10 GP |
-| **เหรียญอิเล็กตรัม (EP — Electrum Piece)** | 1/2 GP (หายาก ไม่ค่อยใช้) |
-| ****เหรียญทอง** (GP — Gold Piece)** | **1 GP** หน่วยหลักที่ใช้พูดถึงทุกอย่าง |
-| **เหรียญแพลตินัม (PP — Platinum Piece)** | 10 GP |
+หน่วยหลักที่ทุกคนใช้พูดถึงราคาคือ **เหรียญทอง (Gold Piece)** ตัวย่อ GP เหรียญอื่นเทียบกับ GP ได้ดังนี้
 
-```
-10 CP = 1 SP | 10 SP = 1 GP | 10 GP = 1 PP
-```
+- **เหรียญทองแดง (Copper Piece)** ตัวย่อ CP มีค่าหนึ่งในร้อยของ GP
+- **เหรียญเงิน (Silver Piece)** ตัวย่อ SP มีค่าหนึ่งในสิบของ GP
+- **เหรียญอิเล็กตรัม (Electrum Piece)** ตัวย่อ EP มีค่าครึ่งหนึ่งของ GP หายากและไม่ค่อยมีใครใช้
+- **เหรียญทอง (Gold Piece)** ตัวย่อ GP เป็นหน่วยหลัก
+- **เหรียญแพลตินัม (Platinum Piece)** ตัวย่อ PP มีค่า 10 GP
 
-> **ค่าครองชีพเทียบ:** อาหารมื้อหนึ่ง ~3 SP • ค้างโรงเตี๊ยม 1 คืน ~5 SP • ดาบยาว 15 GP • Healing Potion 50 GP
+วิธีจำง่าย ๆ คือ 10 CP เท่ากับ 1 SP, 10 SP เท่ากับ 1 GP และ 10 GP เท่ากับ 1 PP
+
+เทียบค่าครองชีพให้เห็นภาพ อาหารมื้อหนึ่งประมาณ 3 SP ค้างโรงเตี๊ยม 1 คืนประมาณ 5 SP ดาบยาวราคา 15 GP และยาฟื้นพลังราคา 50 GP
 
 ---
 
-## อาวุธ (Weapons)
+## คุณสมบัติอาวุธ (Weapon Properties)
 
-### คุณสมบัติอาวุธ (Weapon Properties)
-
-| Property | ความหมาย |
-|---|---|
-| **ต้องใช้กระสุน (Ammunition)** | ต้องมีลูกธนู/ลูกดอก เก็บคืนได้ครึ่งหนึ่งหลังสู้ |
-| **คมกริบ (Finesse)** | **เลือกใช้ STR หรือ DEX** ก็ได้ ทั้งโจมตีและดาเมจ |
-| **หนัก (Heavy)** | สิ่งมีชีวิตขนาด **Small** ทอยโจมตีเสียเปรียบ |
-| **เบา (Light)** | ใช้ **Two-Weapon Fighting** ได้ |
-| **บรรจุกระสุน (Loading)** | ยิงได้แค่ **1 ครั้งต่อ Action** ไม่ว่าจะมี Extra Attack กี่ครั้ง |
-| **ระยะ (Range)** | เขียนเป็น (ปกติ/ไกลสุด) — เกินระยะปกติ = **Disadvantage** |
-| **ระยะเอื้อม (Reach)** | ตีได้ไกลขึ้น **+5 ฟุต** (รวมเป็น 10 ฟุต) |
-| **ขว้างได้ (Thrown)** | ขว้างใส่ศัตรูได้ |
-| **สองมือ (Two-Handed)** | ต้องใช้ 2 มือ **ถือโล่ไม่ได้** |
-| **อเนกประสงค์ (Versatile)** | ถือ 2 มือได้ดาเมจเต๋าใหญ่ขึ้น (เขียนในวงเล็บ) |
+- **ต้องใช้กระสุน (Ammunition)** ต้องมีลูกธนูหรือลูกดอก และเก็บคืนได้ครึ่งหนึ่งหลังจบการต่อสู้
+- **คมกริบ (Finesse)** เลือกใช้ STR หรือ DEX ก็ได้ ทั้งตอนโจมตีและตอนทอยดาเมจ
+- **หนัก (Heavy)** สิ่งมีชีวิตขนาด Small ทอยโจมตีด้วยอาวุธนี้แบบเสียเปรียบ
+- **เบา (Light)** ใช้ทำ Two-Weapon Fighting ได้
+- **บรรจุกระสุน (Loading)** ยิงได้แค่ 1 ครั้งต่อ Action ไม่ว่าจะมี Extra Attack กี่ครั้งก็ตาม
+- **ระยะ (Range)** เขียนเป็นสองตัวเลข คือระยะปกติกับระยะไกลสุด ถ้ายิงเกินระยะปกติจะเสียเปรียบ
+- **ระยะเอื้อม (Reach)** ตีได้ไกลขึ้นอีก 5 ฟุต รวมเป็น 10 ฟุต
+- **ขว้างได้ (Thrown)** ขว้างใส่ศัตรูได้
+- **สองมือ (Two-Handed)** ต้องใช้สองมือถือ จึงถือโล่ไม่ได้
+- **อเนกประสงค์ (Versatile)** ถ้าถือสองมือจะได้ดาเมจเต๋าใหญ่ขึ้น ตัวเลขในวงเล็บคือเต๋าเมื่อถือสองมือ
 
 ---
 
-### ความชำนาญอาวุธ (Weapon Mastery Properties) — ระบบใหม่ 2024
+## ความชำนาญอาวุธ (Weapon Mastery Properties) เป็นระบบใหม่ปี 2024
 
-**เฉพาะคลาสสายรบเท่านั้นที่ปลดล็อกได้** (Barbarian, Fighter, Monk, Paladin, Ranger, Rogue)
+เฉพาะคลาสสายรบเท่านั้นที่ปลดล็อกได้ ได้แก่ Barbarian, Fighter, Monk, Paladin, Ranger และ Rogue
 
-| Mastery | ผล |
-|---|---|
-| **ฟันกวาด (Cleave)** | ตีโดน โจมตีศัตรูอีกตัวที่อยู่ห่างจากเป้าหมายแรก 5 ฟุต (ดาเมจไม่บวก Ability modifier) — **1 ครั้ง/เทิร์น** |
-| **เฉียด (Graze)** | **ตีพลาด ยังทำดาเมจเท่ากับ Ability modifier** |
-| **ฉวัดเฉวียน (Nick)** | โจมตีมือสอง (Two-Weapon Fighting) **ใช้ Action เดียวกัน ไม่ต้องเสีย Bonus Action** |
-| **ผลัก (Push)** | ตีโดน **ผลักเป้าหมายถอย 10 ฟุต** (เป้าหมายต้อง Large หรือเล็กกว่า) |
-| **ทอนกำลัง (Sap)** | ตีโดน **การโจมตีครั้งต่อไปของเป้าหมายเสียเปรียบ** (จนถึงเริ่มเทิร์นหน้าของมัน) |
-| **หน่วง (Slow)** | ตีโดน **ลด Speed ของเป้าหมาย 10 ฟุต** จนถึงเริ่มเทิร์นหน้าของเรา |
-| **ทุ่มล้ม (Topple)** | ตีโดน เป้าหมายทอย **DC = 8+Prof+ค่าที่ใช้โจมตี (CON Save)** **ล้มเหลว = Prone** |
-| **รบกวน (Vex)** | ตีโดน **การโจมตีครั้งต่อไปของเราต่อเป้าหมายนั้นได้เปรียบ** (จนจบเทิร์นหน้าของเรา) |
+- **ฟันกวาด (Cleave)** เมื่อตีโดน ให้โจมตีศัตรูอีกตัวที่อยู่ห่างจากเป้าหมายแรกไม่เกิน 5 ฟุตได้ด้วย โดยดาเมจครั้งที่สองไม่บวก Ability modifier ใช้ได้ 1 ครั้งต่อเทิร์น
+- **เฉียด (Graze)** เมื่อตีพลาด ยังทำดาเมจเท่ากับ Ability modifier ของเรา
+- **ฉวัดเฉวียน (Nick)** การโจมตีด้วยมือสองแบบ Two-Weapon Fighting ใช้ Action เดียวกันได้เลย ไม่ต้องเสีย Bonus Action
+- **ผลัก (Push)** เมื่อตีโดน ผลักเป้าหมายถอยไป 10 ฟุต เป้าหมายต้องมีขนาด Large หรือเล็กกว่า
+- **ทอนกำลัง (Sap)** เมื่อตีโดน การโจมตีครั้งต่อไปของเป้าหมายจะเสียเปรียบ จนถึงตอนเริ่มเทิร์นหน้าของมัน
+- **หน่วง (Slow)** เมื่อตีโดน ลด Speed ของเป้าหมายลง 10 ฟุต จนถึงตอนเริ่มเทิร์นหน้าของเรา
+- **ทุ่มล้ม (Topple)** เมื่อตีโดน เป้าหมายต้องทอย CON Save เทียบ DC ที่เท่ากับ 8 บวก Proficiency Bonus บวกค่าที่เราใช้โจมตี ถ้าล้มเหลวจะติดสภาวะ Prone
+- **รบกวน (Vex)** เมื่อตีโดน การโจมตีครั้งต่อไปของเราต่อเป้าหมายนั้นจะได้เปรียบ จนจบเทิร์นหน้าของเรา
 
-> **แนะนำ Mastery ที่ดีที่สุดสำหรับมือใหม่:**
-> - **ล้มศัตรู = ทั้งทีมได้ Advantage (Topple)** — Maul, Quarterstaff, Trident, Battleaxe (Versatile)
-> - **ตีติดกันได้ Advantage (Vex)** — Rapier, Shortsword, Shortbow, Dagger, Hand Crossbow
-> - **ไม่เสียเปล่าแม้พลาด (Graze)** — Greatsword, Greataxe, Glaive, Halberd
+คำแนะนำ Mastery ที่ดีที่สุดสำหรับมือใหม่
+
+- อยากล้มศัตรูให้ทั้งทีมได้ Advantage ให้เลือก Topple ซึ่งมีในอาวุธ Maul, Quarterstaff, Trident และ Battleaxe
+- อยากตีติดกันแล้วได้ Advantage ให้เลือก Vex ซึ่งมีในอาวุธ Rapier, Shortsword, Shortbow, Dagger และ Hand Crossbow
+- อยากให้ไม่เสียเปล่าแม้ตีพลาด ให้เลือก Graze ซึ่งมีในอาวุธ Greatsword, Greataxe, Glaive และ Halberd
 
 ---
 
-### อาวุธประชิดพื้นฐาน (Simple Melee Weapons)
+## อาวุธประชิดพื้นฐาน (Simple Melee Weapons)
 
-| อาวุธ | ราคา | ดาเมจ | น้ำหนัก | Properties | **Mastery** |
-|---|---|---|---|---|---|
-| **Club** | 1 SP | 1d4 Bludgeoning | 2 lb | Light | **Slow** |
-| **Dagger** | 2 GP | 1d4 Piercing | 1 lb | Finesse, Light, Thrown (20/60) | **Nick** |
-| **Greatclub** | 2 SP | 1d8 Bludgeoning | 10 lb | Two-Handed | **Push** |
-| **Handaxe** | 5 GP | 1d6 Slashing | 2 lb | Light, Thrown (20/60) | **Vex** |
-| **Javelin** | 5 SP | 1d6 Piercing | 2 lb | Thrown (30/120) | **Slow** |
-| **Light Hammer** | 2 GP | 1d4 Bludgeoning | 2 lb | Light, Thrown (20/60) | **Nick** |
-| **Mace** | 5 GP | 1d6 Bludgeoning | 4 lb | — | **Sap** |
-| **Quarterstaff** | 2 SP | 1d6 Bludgeoning | 4 lb | Versatile (1d8) | **Topple** |
-| **Sickle** | 1 GP | 1d4 Slashing | 2 lb | Light | **Nick** |
-| **Spear** | 1 GP | 1d6 Piercing | 3 lb | Thrown (20/60), Versatile (1d8) | **Sap** |
+- **กระบอง (Club)** ราคา 1 SP ดาเมจ 1d4 Bludgeoning หนัก 2 ปอนด์ คุณสมบัติ Light ความชำนาญ Slow
+- **มีดสั้น (Dagger)** ราคา 2 GP ดาเมจ 1d4 Piercing หนัก 1 ปอนด์ คุณสมบัติ Finesse, Light และ Thrown ระยะ 20 ถึง 60 ฟุต ความชำนาญ Nick
+- **กระบองใหญ่ (Greatclub)** ราคา 2 SP ดาเมจ 1d8 Bludgeoning หนัก 10 ปอนด์ คุณสมบัติ Two-Handed ความชำนาญ Push
+- **ขวานมือ (Handaxe)** ราคา 5 GP ดาเมจ 1d6 Slashing หนัก 2 ปอนด์ คุณสมบัติ Light และ Thrown ระยะ 20 ถึง 60 ฟุต ความชำนาญ Vex
+- **หอกซัด (Javelin)** ราคา 5 SP ดาเมจ 1d6 Piercing หนัก 2 ปอนด์ คุณสมบัติ Thrown ระยะ 30 ถึง 120 ฟุต ความชำนาญ Slow
+- **ค้อนเบา (Light Hammer)** ราคา 2 GP ดาเมจ 1d4 Bludgeoning หนัก 2 ปอนด์ คุณสมบัติ Light และ Thrown ระยะ 20 ถึง 60 ฟุต ความชำนาญ Nick
+- **กระบองหัวเหล็ก (Mace)** ราคา 5 GP ดาเมจ 1d6 Bludgeoning หนัก 4 ปอนด์ ไม่มีคุณสมบัติพิเศษ ความชำนาญ Sap
+- **ไม้พลอง (Quarterstaff)** ราคา 2 SP ดาเมจ 1d6 Bludgeoning หนัก 4 ปอนด์ คุณสมบัติ Versatile ถือสองมือได้ 1d8 ความชำนาญ Topple
+- **เคียว (Sickle)** ราคา 1 GP ดาเมจ 1d4 Slashing หนัก 2 ปอนด์ คุณสมบัติ Light ความชำนาญ Nick
+- **หอก (Spear)** ราคา 1 GP ดาเมจ 1d6 Piercing หนัก 3 ปอนด์ คุณสมบัติ Thrown ระยะ 20 ถึง 60 ฟุต และ Versatile ถือสองมือได้ 1d8 ความชำนาญ Sap
 
-### อาวุธไกลพื้นฐาน (Simple Ranged Weapons)
+## อาวุธระยะไกลพื้นฐาน (Simple Ranged Weapons)
 
-| อาวุธ | ราคา | ดาเมจ | น้ำหนัก | Properties | **Mastery** |
-|---|---|---|---|---|---|
-| **Dart** | 5 CP | 1d4 Piercing | ¼ lb | Finesse, Thrown (20/60) | **Vex** |
-| **Light Crossbow** | 25 GP | 1d8 Piercing | 5 lb | Ammunition (80/320), Loading, Two-Handed | **Slow** |
-| **Shortbow** | 25 GP | 1d6 Piercing | 2 lb | Ammunition (80/320), Two-Handed | **Vex** |
-| **Sling** | 1 SP | 1d4 Bludgeoning | — | Ammunition (30/120) | **Slow** |
+- **ลูกดอก (Dart)** ราคา 5 CP ดาเมจ 1d4 Piercing หนัก 0.25 ปอนด์ คุณสมบัติ Finesse และ Thrown ระยะ 20 ถึง 60 ฟุต ความชำนาญ Vex
+- **หน้าไม้เบา (Light Crossbow)** ราคา 25 GP ดาเมจ 1d8 Piercing หนัก 5 ปอนด์ คุณสมบัติ Ammunition ระยะ 80 ถึง 320 ฟุต, Loading และ Two-Handed ความชำนาญ Slow
+- **ธนูสั้น (Shortbow)** ราคา 25 GP ดาเมจ 1d6 Piercing หนัก 2 ปอนด์ คุณสมบัติ Ammunition ระยะ 80 ถึง 320 ฟุต และ Two-Handed ความชำนาญ Vex
+- **สลิง (Sling)** ราคา 1 SP ดาเมจ 1d4 Bludgeoning น้ำหนักไม่นับ คุณสมบัติ Ammunition ระยะ 30 ถึง 120 ฟุต ความชำนาญ Slow
 
-### อาวุธประชิดชั้นสูง (Martial Melee Weapons)
+## อาวุธประชิดชั้นสูง (Martial Melee Weapons)
 
-| อาวุธ | ราคา | ดาเมจ | น้ำหนัก | Properties | **Mastery** |
-|---|---|---|---|---|---|
-| **Battleaxe** | 10 GP | 1d8 Slashing | 4 lb | Versatile (1d10) | **Topple** |
-| **Flail** | 10 GP | 1d8 Bludgeoning | 2 lb | — | **Sap** |
-| **Glaive** | 20 GP | 1d10 Slashing | 6 lb | Heavy, Reach, Two-Handed | **Graze** |
-| **Greataxe** | 30 GP | 1d12 Slashing | 7 lb | Heavy, Two-Handed | **Cleave** |
-| **Greatsword** | 50 GP | 2d6 Slashing | 6 lb | Heavy, Two-Handed | **Graze** |
-| **Halberd** | 20 GP | 1d10 Slashing | 6 lb | Heavy, Reach, Two-Handed | **Cleave** |
-| **Lance** | 10 GP | 1d10 Piercing | 6 lb | Heavy, Reach, Two-Handed (ยกเว้นขี่ม้า) | **Topple** |
-| **Longsword** | 15 GP | 1d8 Slashing | 3 lb | Versatile (1d10) | **Sap** |
-| **Maul** | 10 GP | 2d6 Bludgeoning | 10 lb | Heavy, Two-Handed | **Topple** |
-| **Morningstar** | 15 GP | 1d8 Piercing | 4 lb | — | **Sap** |
-| **Pike** | 5 GP | 1d10 Piercing | 18 lb | Heavy, Reach, Two-Handed | **Push** |
-| **Rapier** | 25 GP | 1d8 Piercing | 2 lb | Finesse | **Vex** |
-| **Scimitar** | 25 GP | 1d6 Slashing | 3 lb | Finesse, Light | **Nick** |
-| **Shortsword** | 10 GP | 1d6 Piercing | 2 lb | Finesse, Light | **Vex** |
-| **Trident** | 5 GP | 1d8 Piercing | 4 lb | Thrown (20/60), Versatile (1d10) | **Topple** |
-| **Warhammer** | 15 GP | 1d8 Bludgeoning | 5 lb | Versatile (1d10) | **Push** |
-| **War Pick** | 5 GP | 1d8 Piercing | 2 lb | Versatile (1d10) | **Sap** |
-| **Whip** | 2 GP | 1d4 Slashing | 3 lb | Finesse, Reach | **Slow** |
+- **ขวานรบ (Battleaxe)** ราคา 10 GP ดาเมจ 1d8 Slashing หนัก 4 ปอนด์ คุณสมบัติ Versatile ถือสองมือได้ 1d10 ความชำนาญ Topple
+- **กระบองลูกตุ้ม (Flail)** ราคา 10 GP ดาเมจ 1d8 Bludgeoning หนัก 2 ปอนด์ ไม่มีคุณสมบัติพิเศษ ความชำนาญ Sap
+- **ง้าว (Glaive)** ราคา 20 GP ดาเมจ 1d10 Slashing หนัก 6 ปอนด์ คุณสมบัติ Heavy, Reach และ Two-Handed ความชำนาญ Graze
+- **ขวานใหญ่ (Greataxe)** ราคา 30 GP ดาเมจ 1d12 Slashing หนัก 7 ปอนด์ คุณสมบัติ Heavy และ Two-Handed ความชำนาญ Cleave
+- **ดาบใหญ่ (Greatsword)** ราคา 50 GP ดาเมจ 2d6 Slashing หนัก 6 ปอนด์ คุณสมบัติ Heavy และ Two-Handed ความชำนาญ Graze
+- **ทวนขวาน (Halberd)** ราคา 20 GP ดาเมจ 1d10 Slashing หนัก 6 ปอนด์ คุณสมบัติ Heavy, Reach และ Two-Handed ความชำนาญ Cleave
+- **ทวนทหารม้า (Lance)** ราคา 10 GP ดาเมจ 1d10 Piercing หนัก 6 ปอนด์ คุณสมบัติ Heavy, Reach และ Two-Handed ยกเว้นตอนขี่ม้าที่ใช้มือเดียวได้ ความชำนาญ Topple
+- **ดาบยาว (Longsword)** ราคา 15 GP ดาเมจ 1d8 Slashing หนัก 3 ปอนด์ คุณสมบัติ Versatile ถือสองมือได้ 1d10 ความชำนาญ Sap
+- **ค้อนสงคราม (Maul)** ราคา 10 GP ดาเมจ 2d6 Bludgeoning หนัก 10 ปอนด์ คุณสมบัติ Heavy และ Two-Handed ความชำนาญ Topple
+- **กระบองดาวรุ่ง (Morningstar)** ราคา 15 GP ดาเมจ 1d8 Piercing หนัก 4 ปอนด์ ไม่มีคุณสมบัติพิเศษ ความชำนาญ Sap
+- **ทวนยาว (Pike)** ราคา 5 GP ดาเมจ 1d10 Piercing หนัก 18 ปอนด์ คุณสมบัติ Heavy, Reach และ Two-Handed ความชำนาญ Push
+- **ดาบแรพเพียร์ (Rapier)** ราคา 25 GP ดาเมจ 1d8 Piercing หนัก 2 ปอนด์ คุณสมบัติ Finesse ความชำนาญ Vex
+- **ดาบโค้ง (Scimitar)** ราคา 25 GP ดาเมจ 1d6 Slashing หนัก 3 ปอนด์ คุณสมบัติ Finesse และ Light ความชำนาญ Nick
+- **ดาบสั้น (Shortsword)** ราคา 10 GP ดาเมจ 1d6 Piercing หนัก 2 ปอนด์ คุณสมบัติ Finesse และ Light ความชำนาญ Vex
+- **สามง่าม (Trident)** ราคา 5 GP ดาเมจ 1d8 Piercing หนัก 4 ปอนด์ คุณสมบัติ Thrown ระยะ 20 ถึง 60 ฟุต และ Versatile ถือสองมือได้ 1d10 ความชำนาญ Topple
+- **ค้อนศึก (Warhammer)** ราคา 15 GP ดาเมจ 1d8 Bludgeoning หนัก 5 ปอนด์ คุณสมบัติ Versatile ถือสองมือได้ 1d10 ความชำนาญ Push
+- **จอบรบ (War Pick)** ราคา 5 GP ดาเมจ 1d8 Piercing หนัก 2 ปอนด์ คุณสมบัติ Versatile ถือสองมือได้ 1d10 ความชำนาญ Sap
+- **แส้ (Whip)** ราคา 2 GP ดาเมจ 1d4 Slashing หนัก 3 ปอนด์ คุณสมบัติ Finesse และ Reach ความชำนาญ Slow
 
-### อาวุธไกลชั้นสูง (Martial Ranged Weapons)
+## อาวุธระยะไกลชั้นสูง (Martial Ranged Weapons)
 
-| อาวุธ | ราคา | ดาเมจ | น้ำหนัก | Properties | **Mastery** |
-|---|---|---|---|---|---|
-| **Blowgun** | 10 GP | 1 Piercing | 1 lb | Ammunition (25/100), Loading | **Vex** |
-| **Hand Crossbow** | 75 GP | 1d6 Piercing | 3 lb | Ammunition (30/120), Light, Loading | **Vex** |
-| **Heavy Crossbow** | 50 GP | 1d10 Piercing | 18 lb | Ammunition (100/400), Heavy, Loading, Two-Handed | **Push** |
-| **Longbow** | 50 GP | 1d8 Piercing | 2 lb | Ammunition (150/600), Heavy, Two-Handed | **Slow** |
-| **Musket** | 500 GP | 1d12 Piercing | 10 lb | Ammunition (40/120), Loading, Two-Handed | **Slow** |
-| **Pistol** | 250 GP | 1d10 Piercing | 3 lb | Ammunition (30/90), Loading | **Vex** |
+- **ท่อเป่าลูกดอก (Blowgun)** ราคา 10 GP ดาเมจ 1 Piercing หนัก 1 ปอนด์ คุณสมบัติ Ammunition ระยะ 25 ถึง 100 ฟุต และ Loading ความชำนาญ Vex
+- **หน้าไม้มือเดียว (Hand Crossbow)** ราคา 75 GP ดาเมจ 1d6 Piercing หนัก 3 ปอนด์ คุณสมบัติ Ammunition ระยะ 30 ถึง 120 ฟุต, Light และ Loading ความชำนาญ Vex
+- **หน้าไม้หนัก (Heavy Crossbow)** ราคา 50 GP ดาเมจ 1d10 Piercing หนัก 18 ปอนด์ คุณสมบัติ Ammunition ระยะ 100 ถึง 400 ฟุต, Heavy, Loading และ Two-Handed ความชำนาญ Push
+- **ธนูยาว (Longbow)** ราคา 50 GP ดาเมจ 1d8 Piercing หนัก 2 ปอนด์ คุณสมบัติ Ammunition ระยะ 150 ถึง 600 ฟุต, Heavy และ Two-Handed ความชำนาญ Slow
+- **ปืนคาบศิลา (Musket)** ราคา 500 GP ดาเมจ 1d12 Piercing หนัก 10 ปอนด์ คุณสมบัติ Ammunition ระยะ 40 ถึง 120 ฟุต, Loading และ Two-Handed ความชำนาญ Slow
+- **ปืนพก (Pistol)** ราคา 250 GP ดาเมจ 1d10 Piercing หนัก 3 ปอนด์ คุณสมบัติ Ammunition ระยะ 30 ถึง 90 ฟุต และ Loading ความชำนาญ Vex
 
 ---
 
 ## เกราะ (Armor)
 
-### เกราะเบา (Light Armor) — บวก DEX เต็มจำนวน
+### เกราะเบา (Light Armor) บวก DEX เต็มจำนวน
 
-| เกราะ | ราคา | AC | Stealth | น้ำหนัก |
-|---|---|---|---|---|
-| **Padded** | 5 GP | **11 + DEX** | Disadvantage | 8 lb |
-| **Leather** | 10 GP | **11 + DEX** | ใช่ | 10 lb |
-| **Studded Leather** | 45 GP | **12 + DEX** | ใช่ | 13 lb |
+- **เกราะนวม (Padded)** ราคา 5 GP ให้ AC 11 บวก DEX หนัก 8 ปอนด์ ทำให้ทอย Stealth เสียเปรียบ
+- **เกราะหนัง (Leather)** ราคา 10 GP ให้ AC 11 บวก DEX หนัก 10 ปอนด์ ไม่กระทบ Stealth
+- **เกราะหนังหมุด (Studded Leather)** ราคา 45 GP ให้ AC 12 บวก DEX หนัก 13 ปอนด์ ไม่กระทบ Stealth
 
-### เกราะกลาง (Medium Armor) — บวก DEX สูงสุด +2
+### เกราะกลาง (Medium Armor) บวก DEX ได้สูงสุด +2
 
-| เกราะ | ราคา | AC | Stealth | น้ำหนัก | STR ขั้นต่ำ |
-|---|---|---|---|---|---|
-| **Hide** | 10 GP | **12 + DEX (สูงสุด 2)** | ใช่ | 12 lb | — |
-| **Chain Shirt** | 50 GP | **13 + DEX (สูงสุด 2)** | ใช่ | 20 lb | — |
-| **Scale Mail** | 50 GP | **14 + DEX (สูงสุด 2)** | Disadvantage | 45 lb | — |
-| **Breastplate** | 400 GP | **14 + DEX (สูงสุด 2)** | ใช่ | 20 lb | — |
-| **Half Plate** | 750 GP | **15 + DEX (สูงสุด 2)** | Disadvantage | 40 lb | — |
+- **เกราะหนังดิบ (Hide)** ราคา 10 GP ให้ AC 12 บวก DEX ไม่เกิน 2 หนัก 12 ปอนด์ ไม่กระทบ Stealth
+- **เสื้อโซ่ (Chain Shirt)** ราคา 50 GP ให้ AC 13 บวก DEX ไม่เกิน 2 หนัก 20 ปอนด์ ไม่กระทบ Stealth
+- **เกราะเกล็ด (Scale Mail)** ราคา 50 GP ให้ AC 14 บวก DEX ไม่เกิน 2 หนัก 45 ปอนด์ ทำให้ทอย Stealth เสียเปรียบ
+- **เกราะอก (Breastplate)** ราคา 400 GP ให้ AC 14 บวก DEX ไม่เกิน 2 หนัก 20 ปอนด์ ไม่กระทบ Stealth
+- **เกราะครึ่งท่อน (Half Plate)** ราคา 750 GP ให้ AC 15 บวก DEX ไม่เกิน 2 หนัก 40 ปอนด์ ทำให้ทอย Stealth เสียเปรียบ
 
-### เกราะหนัก (Heavy Armor) — ไม่บวก DEX
+### เกราะหนัก (Heavy Armor) ไม่บวก DEX เลย
 
-| เกราะ | ราคา | AC | Stealth | น้ำหนัก | STR ขั้นต่ำ |
-|---|---|---|---|---|---|
-| **Ring Mail** | 30 GP | **14** | Disadvantage | 40 lb | — |
-| **Chain Mail** | 75 GP | **16** | Disadvantage | 55 lb | **STR 13** |
-| **Splint** | 200 GP | **17** | Disadvantage | 60 lb | **STR 15** |
-| **Plate** | 1,500 GP | **18** | Disadvantage | 65 lb | **STR 15** |
+- **เกราะห่วง (Ring Mail)** ราคา 30 GP ให้ AC 14 คงที่ หนัก 40 ปอนด์ ทำให้ทอย Stealth เสียเปรียบ ไม่มีข้อกำหนด STR
+- **เกราะโซ่ (Chain Mail)** ราคา 75 GP ให้ AC 16 คงที่ หนัก 55 ปอนด์ ทำให้ทอย Stealth เสียเปรียบ ต้องมี STR อย่างน้อย 13
+- **เกราะแผ่นซ้อน (Splint)** ราคา 200 GP ให้ AC 17 คงที่ หนัก 60 ปอนด์ ทำให้ทอย Stealth เสียเปรียบ ต้องมี STR อย่างน้อย 15
+- **เกราะเต็มยศ (Plate)** ราคา 1,500 GP ให้ AC 18 คงที่ หนัก 65 ปอนด์ ทำให้ทอย Stealth เสียเปรียบ ต้องมี STR อย่างน้อย 15
 
 ### โล่ (Shield)
 
-| ของ | ราคา | ผล | น้ำหนัก |
-|---|---|---|---|
-| **Shield** | 10 GP | **+2 AC** (ต้องใช้ 1 มือถือ) | 6 lb |
+**โล่ (Shield)** ราคา 10 GP ให้ AC เพิ่ม 2 หนัก 6 ปอนด์ และต้องใช้มือถือ 1 ข้าง
 
-> **STR ขั้นต่ำ:** ถ้า STR ต่ำกว่าที่ระบุ **Speed ลด 10 ฟุต**
-> **ใส่เกราะที่ไม่มี Proficiency:** เสียเปรียบใน Ability Check, Saving Throw และ Attack Roll ทุกอย่างที่ใช้ STR หรือ DEX **และร่ายเวทไม่ได้**
-> **เวลาสวมใส่:** Light 1 นาที • Medium 5 นาที • Heavy 10 นาที (ถอด: ครึ่งเวลา)
+### กฎเกราะที่ต้องจำ
+
+- ถ้าค่า STR ต่ำกว่าที่เกราะกำหนด Speed จะลดลง 10 ฟุต
+- ถ้าใส่เกราะที่ไม่มี Proficiency จะเสียเปรียบในทุก Ability Check, Saving Throw และ Attack Roll ที่ใช้ STR หรือ DEX และร่ายเวทไม่ได้เลย
+- เวลาสวมใส่ เกราะเบาใช้ 1 นาที เกราะกลางใช้ 5 นาที และเกราะหนักใช้ 10 นาที ส่วนเวลาถอดใช้เวลาครึ่งเดียว
 
 ---
 
 ## ของใช้ผจญภัย (Adventuring Gear) ที่ควรมี
 
-| ของ | ราคา | ทำไมต้องมี |
-|---|---|---|
-| **Rope, Hempen (50 ft)** | 1 GP | [แนะนำ] ใช้บ่อยที่สุด — ปีน มัด ลาก |
-| **Torch** | 1 CP | แสง 20 ฟุต + สลัวอีก 20 ฟุต, ไหม้ 1 ชม. |
-| **Lantern, Hooded** | 5 GP | แสง 30 ฟุต ปรับหรี่ได้ ใช้น้ำมัน |
-| **Tinderbox** | 5 SP | จุดไฟ |
-| **Rations (1 day)** | 5 SP | เสบียง — ไม่มีจะได้ Exhaustion |
-| **Waterskin** | 2 SP | ถุงน้ำ |
-| **Bedroll** | 1 GP | ที่นอน สำหรับ Long Rest กลางป่า |
-| **Backpack** | 2 GP | จุ 30 lb |
-| **Crowbar** | 2 GP | [แนะนำ] งัดของ — ให้ Advantage ใน STR Check บางกรณี |
-| **Healer's Kit** | 5 GP | [แนะนำ] ใช้ 10 ครั้ง — ทำให้เพื่อนที่ 0 HP **Stable ได้โดยไม่ต้องทอย** |
-| **Thieves' Tools** | 25 GP | [แนะนำ] สะเดาะกุญแจ ปลดกับดัก (ต้องมี Proficiency) |
-| **Grappling Hook** | 2 GP | ตะขอเกี่ยว |
-| **Piton** (×10) | 5 CP | หมุดตอกกำแพงสำหรับปีน |
-| **ถุง 20 (Caltrops)** | 1 GP | โปรยกันศัตรูวิ่ง |
-| **ถุง 1000 (Ball Bearings)** | 1 GP | โปรยให้ศัตรูลื่นล้ม |
-| **Oil (flask)** | 1 SP | ขว้างแล้วจุดไฟ (1d5 fire damage) |
-| **Holy Water (flask)** | 25 GP | ขว้างใส่อันเดด/ปีศาจ 2d6 Radiant |
-| **Mirror, Steel** | 5 GP | มองมุมอับ ส่องสัญญาณ |
-| **Chalk** | 1 CP | ทำเครื่องหมายในดันเจี้ยน (กันหลง!) |
+- **เชือกป่าน 50 ฟุต (Rope, Hempen)** ราคา 1 GP [แนะนำ] เป็นของที่ใช้บ่อยที่สุด ทั้งปีน มัด และลาก
+- **คบไฟ (Torch)** ราคา 1 CP ให้แสงสว่าง 20 ฟุตและแสงสลัวอีก 20 ฟุต ไหม้ได้ 1 ชั่วโมง
+- **ตะเกียงมีฝา (Lantern, Hooded)** ราคา 5 GP ให้แสง 30 ฟุต ปรับหรี่ได้ ต้องใช้น้ำมัน
+- **กล่องจุดไฟ (Tinderbox)** ราคา 5 SP ใช้จุดไฟ
+- **เสบียง 1 วัน (Rations)** ราคา 5 SP ถ้าไม่มีจะเสี่ยงได้ Exhaustion
+- **ถุงน้ำ (Waterskin)** ราคา 2 SP
+- **ที่นอนม้วน (Bedroll)** ราคา 1 GP ใช้สำหรับ Long Rest กลางป่า
+- **เป้สะพายหลัง (Backpack)** ราคา 2 GP จุของได้ 30 ปอนด์
+- **ชะแลง (Crowbar)** ราคา 2 GP [แนะนำ] ใช้งัดของ และให้ Advantage ใน STR Check บางกรณี
+- **ชุดปฐมพยาบาล (Healer's Kit)** ราคา 5 GP [แนะนำ] ใช้ได้ 10 ครั้ง ทำให้เพื่อนที่ 0 HP กลับมา Stable ได้โดยไม่ต้องทอยเต๋า
+- **เครื่องมือโจร (Thieves' Tools)** ราคา 25 GP [แนะนำ] ใช้สะเดาะกุญแจและปลดกับดัก ต้องมี Proficiency จึงจะบวก Proficiency Bonus ได้
+- **ตะขอเกี่ยว (Grappling Hook)** ราคา 2 GP
+- **หมุดปีนเขา (Piton) 10 อัน** ราคา 5 CP ใช้ตอกกำแพงสำหรับปีน
+- **หนามเหล็ก (Caltrops) ถุงละ 20 อัน** ราคา 1 GP โปรยเพื่อกันศัตรูวิ่ง
+- **ลูกปืนกลม (Ball Bearings) ถุงละ 1,000 ลูก** ราคา 1 GP โปรยให้ศัตรูลื่นล้ม
+- **น้ำมันหนึ่งขวด (Oil, flask)** ราคา 1 SP ขว้างแล้วจุดไฟทำดาเมจ Fire ตัวเลขดาเมจให้เช็คกับหนังสือต้นฉบับ เพราะเอกสารฉบับก่อนหน้านี้เขียนไว้ผิด
+- **น้ำมนต์หนึ่งขวด (Holy Water, flask)** ราคา 25 GP ขว้างใส่อันเดดหรือปีศาจ ทำดาเมจ 2d6 Radiant
+- **กระจกเหล็ก (Mirror, Steel)** ราคา 5 GP ใช้มองมุมอับและส่องสัญญาณ
+- **ชอล์ก (Chalk)** ราคา 1 CP ใช้ทำเครื่องหมายในดันเจี้ยนกันหลงทาง
 
 ### ยา (Potions)
 
-| ยา | ราคา | ผล |
-|---|---|---|
-| **Potion of Healing** | 50 GP | ฟื้น **2d4 + 2** HP |
-| **Potion of Greater Healing** | 100+ GP | ฟื้น **4d4 + 4** HP |
-| **Potion of Superior Healing** | 500+ GP | ฟื้น **8d4 + 8** HP |
-| **Potion of Supreme Healing** | 1,300+ GP | ฟื้น **10d4 + 20** HP |
+- **ยาฟื้นพลัง (Potion of Healing)** ราคา 50 GP ฟื้น 2d4 บวก 2 HP
+- **ยาฟื้นพลังชั้นสูง (Potion of Greater Healing)** ราคาตั้งแต่ 100 GP ขึ้นไป ฟื้น 4d4 บวก 4 HP
+- **ยาฟื้นพลังชั้นเยี่ยม (Potion of Superior Healing)** ราคาตั้งแต่ 500 GP ขึ้นไป ฟื้น 8d4 บวก 8 HP
+- **ยาฟื้นพลังสูงสุด (Potion of Supreme Healing)** ราคาตั้งแต่ 1,300 GP ขึ้นไป ฟื้น 10d4 บวก 20 HP
 
-> **กฎ 2024:** ดื่มยาเองใช้ **Bonus Action** • กรอกให้คนอื่นใช้ **Action**
+กฎ 2024 ที่เปลี่ยนไป การดื่มยาเองใช้ Bonus Action ส่วนการกรอกให้คนอื่นใช้ Action
 
 ---
 
 ## ชุดอุปกรณ์สำเร็จ (Equipment Packs)
 
-ซื้อทีเดียวได้ครบ ประหยัดเวลา
+ซื้อทีเดียวได้ครบ ช่วยประหยัดเวลาตอนสร้างตัวละคร
 
-| ชุด | ราคา | เหมาะกับ |
-|---|---|---|
-| **Burglar's Pack** | 16 GP | Rogue |
-| **Diplomat's Pack** | 39 GP | Bard, ตัวละครสายพูด |
-| **Dungeoneer's Pack** | 12 GP | [แนะนำ] สายลุยดันเจี้ยน (มีเชือก คบไฟ เสบียง) |
-| **Entertainer's Pack** | 40 GP | Bard |
-| **Explorer's Pack** | 10 GP | [แนะนำ] สายเดินทาง (มีเชือก เสบียง ที่นอน) |
-| **Priest's Pack** | 33 GP | Cleric, Paladin |
-| **Scholar's Pack** | 40 GP | Wizard |
+- **ชุดโจร (Burglar's Pack)** ราคา 16 GP เหมาะกับ Rogue
+- **ชุดนักการทูต (Diplomat's Pack)** ราคา 39 GP เหมาะกับ Bard และตัวละครสายพูด
+- **ชุดนักลุยดันเจี้ยน (Dungeoneer's Pack)** ราคา 12 GP [แนะนำ] มีเชือก คบไฟ และเสบียงครบ
+- **ชุดนักแสดง (Entertainer's Pack)** ราคา 40 GP เหมาะกับ Bard
+- **ชุดนักสำรวจ (Explorer's Pack)** ราคา 10 GP [แนะนำ] มีเชือก เสบียง และที่นอน เหมาะกับสายเดินทาง
+- **ชุดนักบวช (Priest's Pack)** ราคา 33 GP เหมาะกับ Cleric และ Paladin
+- **ชุดนักปราชญ์ (Scholar's Pack)** ราคา 40 GP เหมาะกับ Wizard
 
 ---
 
 ## น้ำหนักที่แบกได้ (Carrying Capacity)
 
-```
-น้ำหนักสูงสุดที่แบกได้ = STR × 15 (ปอนด์)
-ลากหรือดันของหนักได้ถึง = STR × 30 (ปอนด์)
-```
+น้ำหนักสูงสุดที่แบกได้เป็นปอนด์ เท่ากับค่า STR คูณ 15
+ส่วนของที่ลากหรือดันได้ เท่ากับค่า STR คูณ 30
 
-- **Small size** (Halfling, Gnome) **ครึ่งหนึ่ง**
-- **Powerful Build** (Goliath) **สองเท่า**
+- ตัวละครขนาด Small เช่น Halfling และ Gnome แบกได้ครึ่งเดียว
+- ตัวละครที่มีความสามารถ **ร่างทรงพลัง (Powerful Build)** เช่น Goliath แบกได้สองเท่า
 
-> โต๊ะส่วนใหญ่ **ไม่ค่อยเช็คน้ำหนักละเอียด** — ถามDM ว่าเล่นแบบไหน
+โต๊ะส่วนใหญ่ไม่ค่อยเช็คน้ำหนักอย่างละเอียด ให้ถาม DM ว่าโต๊ะนี้เล่นแบบไหน
 
 ---
 
 ## เครื่องมือ (Tools)
 
-Proficiency ในเครื่องมือให้บวก Proficiency Bonus เมื่อใช้เครื่องมือนั้น
+การมี Proficiency ในเครื่องมือทำให้บวก Proficiency Bonus ได้เมื่อใช้เครื่องมือนั้น
 
 ### เครื่องมือช่าง (Artisan's Tools)
-Alchemist's Supplies, Brewer's Supplies, Calligrapher's Supplies, Carpenter's Tools, Cartographer's Tools, Cobbler's Tools, Cook's Utensils, Glassblower's Tools, Jeweler's Tools, Leatherworker's Tools, Mason's Tools, Painter's Supplies, Potter's Tools, Smith's Tools, Tinker's Tools, Weaver's Tools, Woodcarver's Tools
+
+มีทั้งหมด 17 ชนิด ได้แก่ Alchemist's Supplies, Brewer's Supplies, Calligrapher's Supplies, Carpenter's Tools, Cartographer's Tools, Cobbler's Tools, Cook's Utensils, Glassblower's Tools, Jeweler's Tools, Leatherworker's Tools, Mason's Tools, Painter's Supplies, Potter's Tools, Smith's Tools, Tinker's Tools, Weaver's Tools และ Woodcarver's Tools
 
 ### เครื่องมืออื่น ๆ
-| เครื่องมือ | ใช้ทำอะไร |
-|---|---|
-| **Thieves' Tools** | [แนะนำ] สะเดาะกุญแจ ปลดกับดัก |
-| **Herbalism Kit** | ทำ Potion of Healing, ยารักษา |
-| **Disguise Kit** | ปลอมตัว |
-| **Forgery Kit** | ปลอมเอกสาร |
-| **Poisoner's Kit** | ทำยาพิษ |
-| **Navigator's Tools** | นำทางในทะเล/ที่ไม่คุ้นเคย |
-| **Gaming Set** | เล่นพนัน (ไพ่, ลูกเต๋า, หมากรุก) |
-| **Musical Instrument** | เล่นดนตรี (Bard ใช้เป็น Focus) |
+
+- **เครื่องมือโจร (Thieves' Tools)** [แนะนำ] ใช้สะเดาะกุญแจและปลดกับดัก
+- **ชุดสมุนไพร (Herbalism Kit)** ใช้ทำยาฟื้นพลังและยารักษา
+- **ชุดปลอมตัว (Disguise Kit)** ใช้ปลอมตัว
+- **ชุดปลอมแปลง (Forgery Kit)** ใช้ปลอมเอกสาร
+- **ชุดปรุงยาพิษ (Poisoner's Kit)** ใช้ทำยาพิษ
+- **เครื่องมือนำทาง (Navigator's Tools)** ใช้นำทางในทะเลหรือในที่ไม่คุ้นเคย
+- **ชุดเล่นเกม (Gaming Set)** ใช้เล่นพนัน เช่นไพ่ ลูกเต๋า และหมากรุก
+- **เครื่องดนตรี (Musical Instrument)** ใช้เล่นดนตรี และ Bard ใช้เป็น Spellcasting Focus ได้
+
+---
+
+## สรุปอุปกรณ์ในหนึ่งบรรทัด
+
+เลือกอาวุธจาก Mastery ที่อยากได้ก่อนแล้วค่อยดูดาเมจ เลือกเกราะให้ตรงกับ Proficiency ที่คลาสให้ และอย่าลืมเชือก คบไฟ กับชุดปฐมพยาบาล
 
 ---
 
@@ -256,3 +233,4 @@ Alchemist's Supplies, Brewer's Supplies, Calligrapher's Supplies, Carpenter's To
 
 - [การต่อสู้](05-combat.md)
 - [การพักและเลื่อนเลเวล](09-rest-and-leveling.md)
+- [กลับสารบัญ](../README.md)

@@ -1,4 +1,4 @@
-# Elara — ผู้รับใช้แสงสว่าง (Cleric)
+# Elara ผู้รับใช้แสงสว่าง (Cleric)
 
 [กลับหน้ารวมตัวละครสำเร็จรูป](00-pregen-overview.md) | [สารบัญ](../README.md)
 
@@ -8,32 +8,32 @@
 
 **Elara Dawnmere** เกิดมาพร้อมดวงตาที่เรืองแสงอ่อน ๆ ในความมืด วิหารรับเธอไว้ตั้งแต่ยังเป็นทารกและเลี้ยงดูเธอในฐานะ "ผู้ถูกเลือก" เธอไม่เคยแน่ใจว่าเชื่อในสิ่งนั้นหรือไม่ แต่เธอเชื่อในคนที่เธอช่วยได้ และนั่นก็เพียงพอแล้วสำหรับตอนนี้
 
-> **แนะนำสำหรับคนที่อยากลองใช้เวทแต่กลัวเลือกผิด** — Cleric **เตรียมเวทใหม่ได้ทุกวัน** ถ้าเลือกไม่ดีวันนี้ พรุ่งนี้เปลี่ยนได้หมด
-> และเป็นตัวเดียวที่ทั้ง **รักษาเพื่อน** และ **ยืนแนวหน้าได้** (AC 17)
+**แนะนำสำหรับคนที่อยากลองใช้เวทแต่กลัวเลือกผิด** Cleric **เตรียมเวทใหม่ได้ทุกวัน** ถ้าเลือกไม่ดีวันนี้ พรุ่งนี้เปลี่ยนได้หมด
+และเป็นตัวเดียวที่ทั้ง **รักษาเพื่อน** และ **ยืนแนวหน้าได้** (AC 17)
 
 ---
 
 ## ค่าที่ใช้บ่อยที่สุด (จดไว้ข้างตัว)
 
-```
-Cleric เลเวล 1 | Aasimar | Acolyte
+- Cleric เลเวล 1, Aasimar, Acolyte
 
-HP 10 / 10 AC 17 Speed 30 ft
-Initiative +1 Proficiency Bonus +2 Passive Perception 13
+- HP 10 / 10 AC 17 Speed 30 ft
+- Initiative +1 Proficiency Bonus +2 Passive Perception 13
 
-Spell Save DC 13 Spell Attack +5
+- Spell Save DC 13 Spell Attack +5
 
-โจมตีด้วย Mace +2 ดาเมจ 1d6 Bludgeoning
-Sacred Flame (Cantrip) ศัตรูทอย DEX Save DC 13 — ล้มเหลว = 1d8 Radiant
-Toll the Dead (Cantrip) ศัตรูทอย WIS Save DC 13 — ล้มเหลว = 1d8 (1d12 ถ้า HP ไม่เต็ม)
+- โจมตีด้วย Mace +2 ดาเมจ 1d6 Bludgeoning
+- Sacred Flame (Cantrip) ศัตรูทอย DEX Save DC 13 ล้มเหลว = 1d8 Radiant
+- Toll the Dead (Cantrip) ศัตรูทอย WIS Save DC 13 ล้มเหลว = 1d8 (1d12 ถ้า HP ไม่เต็ม)
 
-Spell Slot ระดับ 1: [ ] [ ] (ฟื้นเมื่อ Long Rest)
-Healing Hands (Aasimar) ฟื้น 2d4 HP ใช้ได้ 1 ครั้งต่อวัน
-```
+- Spell Slot ระดับ 1: [ ] [ ] (ฟื้นเมื่อ Long Rest)
+- Healing Hands (Aasimar) ฟื้น 2d4 HP ใช้ได้ 1 ครั้งต่อวัน
 
 ---
 
 ## ค่าพลัง (Ability Scores)
+
+ตารางข้างล่างมี 4 คอลัมน์ คือ ค่า, คะแนน, Modifier และ Saving Throw
 
 | ค่า | คะแนน | Modifier | Saving Throw |
 |---|---|---|---|
@@ -50,6 +50,8 @@ Healing Hands (Aasimar) ฟื้น 2d4 HP ใช้ได้ 1 ครั้ง
 
 ## ทักษะ (Skills)
 
+ตารางข้างล่างมี 3 คอลัมน์ คือ ทักษะ, ค่า และ มาจาก
+
 | ทักษะ | ค่า | มาจาก |
 |---|---|---|
 | **Insight** | **+5** | Acolyte |
@@ -63,32 +65,28 @@ Healing Hands (Aasimar) ฟื้น 2d4 HP ใช้ได้ 1 ครั้ง
 
 ## เวทมนตร์ (Spellcasting)
 
-> **ค่าร่ายเวท: Wisdom** · **Spell Save DC 13** · **Spell Attack +5**
-> **Spellcasting Focus:** Holy Symbol (ติดบนโล่ได้ ไม่ต้องถือ)
+**ค่าร่ายเวท: Wisdom**, **Spell Save DC 13**, **Spell Attack +5**
+**Spellcasting Focus:** Holy Symbol (ติดบนโล่ได้ ไม่ต้องถือ)
 
-### Cantrip (ร่ายได้ไม่จำกัดครั้ง) — 5 อัน
+### Cantrip (ร่ายได้ไม่จำกัดครั้ง) 5 อัน
 
-| Cantrip | ทำอะไร |
-|---|---|
-| **Guidance** [แนะนำ] | สัมผัสเพื่อน แล้ว เขาได้ **+1d4 ใน Ability Check 1 ครั้ง** (ใช้บ่อยที่สุดนอกการต่อสู้) |
-| **Sacred Flame** | ศัตรูในระยะ 60 ฟุตทอย **DEX Save DC 13** — ล้มเหลว = **1d8 Radiant** • **ไม่สนที่กำบัง** |
-| **Spare the Dying** | **Bonus Action:** ทำให้เพื่อนที่ HP 0 **Stable ทันที** (ระยะ 15 ฟุต) |
-| **Toll the Dead** | ศัตรูทอย **WIS Save DC 13** — ล้มเหลว = **1d8 Necrotic** (**1d12** ถ้า HP ไม่เต็ม) — จาก Magic Initiate |
-| **Thaumaturgy** | สร้างปรากฏการณ์เหนือธรรมชาติเล็ก ๆ (เสียงดัง ไฟกระพริบ พื้นสั่น) — จาก Magic Initiate |
-| **Light** | วัตถุเปล่งแสง 20 ฟุต — จาก Aasimar |
+- **Guidance** [แนะนำ] สัมผัสเพื่อน แล้ว เขาได้ **+1d4 ใน Ability Check 1 ครั้ง** (ใช้บ่อยที่สุดนอกการต่อสู้)
+- **Sacred Flame** ศัตรูในระยะ 60 ฟุตทอย **DEX Save DC 13** ล้มเหลว = **1d8 Radiant** • **ไม่สนที่กำบัง**
+- **Spare the Dying** **Bonus Action:** ทำให้เพื่อนที่ HP 0 **Stable ทันที** (ระยะ 15 ฟุต)
+- **Toll the Dead** ศัตรูทอย **WIS Save DC 13** ล้มเหลว = **1d8 Necrotic** (**1d12** ถ้า HP ไม่เต็ม) จาก Magic Initiate
+- **Thaumaturgy** สร้างปรากฏการณ์เหนือธรรมชาติเล็ก ๆ (เสียงดัง ไฟกระพริบ พื้นสั่น) จาก Magic Initiate
+- **Light** วัตถุเปล่งแสง 20 ฟุต จาก Aasimar
 
-### สเปลระดับ 1 ที่เตรียมไว้ (4 อัน) — Spell Slot 2 ช่อง
+### สเปลระดับ 1 ที่เตรียมไว้ (4 อัน) Spell Slot 2 ช่อง
 
-| สเปล | ใช้ Action | ทำอะไร |
-|---|---|---|
-| **Healing Word** [แนะนำ] | **Bonus Action** | ระยะ 60 ฟุต ฟื้น **2d4 + 3** HP — **ช่วยเพื่อนที่ล้มลงได้จากไกล และยังตีได้ในเทิร์นเดียวกัน** |
-| **Bless** [แนะนำ] | Action (Concentration) | เพื่อน 3 คนได้ **+1d4 ในการทอยโจมตีและ Saving Throw** นาน 1 นาที |
-| **Guiding Bolt** | Action | Spell Attack +5 จะ **4d6 Radiant** + **คนต่อไปที่ตีมันได้ Advantage** |
-| **Cure Wounds** | Action | สัมผัส แล้ว ฟื้น **2d8 + 3** HP (รักษาเยอะกว่า Healing Word แต่ต้องเข้าไปติด) |
+- **Healing Word [แนะนำ]** ใช้ Action **Bonus Action**, ทำอะไร ระยะ 60 ฟุต ฟื้น **2d4 + 3** HP **ช่วยเพื่อนที่ล้มลงได้จากไกล และยังตีได้ในเทิร์นเดียวกัน**
+- **Bless [แนะนำ]** ใช้ Action Action (Concentration), ทำอะไร เพื่อน 3 คนได้ **+1d4 ในการทอยโจมตีและ Saving Throw** นาน 1 นาที
+- **Guiding Bolt** ใช้ Action Action, ทำอะไร Spell Attack +5 จะ **4d6 Radiant** + **คนต่อไปที่ตีมันได้ Advantage**
+- **Cure Wounds** ใช้ Action Action, ทำอะไร สัมผัส แล้ว ฟื้น **2d8 + 3** HP (รักษาเยอะกว่า Healing Word แต่ต้องเข้าไปติด)
 
-> **เตรียมเวทใหม่ได้ทุกครั้งที่จบ Long Rest** — เลือกจากรายการ Cleric ทั้งหมด ไม่จำกัดแค่ 4 อันนี้
+**เตรียมเวทใหม่ได้ทุกครั้งที่จบ Long Rest** เลือกจากรายการ Cleric ทั้งหมด ไม่จำกัดแค่ 4 อันนี้
 
-**สเปลฟรีจาก Magic Initiate:** ร่าย **`Healing Word`** ได้ฟรี 1 ครั้งต่อ Long Rest โดยไม่เสีย Spell Slot
+**สเปลฟรีจาก Magic Initiate:** ร่าย **Healing Word** ได้ฟรี 1 ครั้งต่อ Long Rest โดยไม่เสีย Spell Slot
 
 ---
 
@@ -96,37 +94,29 @@ Healing Hands (Aasimar) ฟื้น 2d4 HP ใช้ได้ 1 ครั้ง
 
 ### จากคลาส Cleric
 
-| ความสามารถ | ทำอะไร |
-|---|---|
-| **Divine Order: Protector** | ได้ Proficiency ใน **Martial Weapons และ Heavy Armor** (ทำให้ยืนแนวหน้าได้) |
+- **Divine Order: Protector** ได้ Proficiency ใน **Martial Weapons และ Heavy Armor** (ทำให้ยืนแนวหน้าได้)
 
 ### จากเผ่าพันธุ์ Aasimar
 
-| ความสามารถ | ทำอะไร |
-|---|---|
-| **Healing Hands** [แนะนำ] | **Action:** สัมผัสใครก็ได้ แล้ว ฟื้น **2d4** HP — ใช้ได้ **1 ครั้งต่อ Long Rest** (ฟรี ไม่เสีย Spell Slot) |
-| **Celestial Resistance** | **Resistance ต่อ Necrotic และ Radiant damage** (รับดาเมจครึ่งเดียว) |
-| **Darkvision 60 ฟุต** | มองเห็นในความมืด |
-| **Light Bearer** | ได้ Cantrip `Light` |
+- **Healing Hands** [แนะนำ] **Action:** สัมผัสใครก็ได้ แล้ว ฟื้น **2d4** HP ใช้ได้ **1 ครั้งต่อ Long Rest** (ฟรี ไม่เสีย Spell Slot)
+- **Celestial Resistance** **Resistance ต่อ Necrotic และ Radiant damage** (รับดาเมจครึ่งเดียว)
+- **Darkvision 60 ฟุต** มองเห็นในความมืด
+- **Light Bearer** ได้ Cantrip Light
 
 ### Feat ที่มี
 
-| Feat | ทำอะไร | มาจาก |
-|---|---|---|
-| **Magic Initiate (Cleric)** | ได้ Cantrip 2 อัน (`Toll the Dead`, `Thaumaturgy`) + ร่าย `Healing Word` ฟรี 1 ครั้งต่อวัน | Acolyte |
+- **Magic Initiate (Cleric)** ทำอะไร ได้ Cantrip 2 อัน (Toll the Dead, Thaumaturgy) + ร่าย Healing Word ฟรี 1 ครั้งต่อวัน, มาจาก Acolyte
 
 ---
 
 ## อุปกรณ์ (Equipment)
 
-| ของ | หมายเหตุ |
-|---|---|
-| **Scale Mail** | AC 14 + DEX (สูงสุด 2) — Stealth เสียเปรียบ |
-| **Shield** | +2 AC (ติด Holy Symbol ไว้บนนี้ได้) |
-| **Mace** | 1d6 Bludgeoning |
-| **Holy Symbol** | ใช้เป็น Spellcasting Focus |
-| **Priest's Pack** | เป้ ผ้าห่ม เทียน กล่องธูป เครื่องหอม จีวร เสบียง 2 วัน |
-| **เงิน** | **7 GP** |
+- **Scale Mail** AC 14 + DEX (สูงสุด 2) Stealth เสียเปรียบ
+- **Shield** +2 AC (ติด Holy Symbol ไว้บนนี้ได้)
+- **Mace** 1d6 Bludgeoning
+- **Holy Symbol** ใช้เป็น Spellcasting Focus
+- **Priest's Pack** เป้ ผ้าห่ม เทียน กล่องธูป เครื่องหอม จีวร เสบียง 2 วัน
+- **เงิน** **7 GP**
 
 **AC 17 = Scale Mail 14 + DEX 1 (จำกัดที่ 2) + Shield 2**
 
@@ -134,61 +124,55 @@ Healing Hands (Aasimar) ฟื้น 2d4 HP ใช้ได้ 1 ครั้ง
 
 ## ทำอะไรในเทิร์นของคุณ
 
-```
-เทิร์นแรกของการต่อสู้ใหญ่
-  Action: ร่าย Bless ใส่ตัวเอง + Bran + Thokk
-  ทุกคนได้ +1d4 ในการทอยโจมตีและ Save นาน 1 นาที
-  ระวัง: Bless ใช้ Concentration ถ้าโดนตีต้องทอย CON Save
+- เทิร์นแรกของการต่อสู้ใหญ่
+- Action: ร่าย Bless ใส่ตัวเอง + Bran + Thokk
+- ทุกคนได้ +1d4 ในการทอยโจมตีและ Save นาน 1 นาที
+- ระวัง: Bless ใช้ Concentration ถ้าโดนตีต้องทอย CON Save
 
-เทิร์นปกติ (ไม่มีใครบาดเจ็บ)
-  Action: Sacred Flame หรือ Toll the Dead
-  ทอยไม่ต้อง ศัตรูทอย Save DC 13 เอง
-  ถ้าศัตรู HP ไม่เต็ม ใช้ Toll the Dead ดีกว่า (1d12)
+- เทิร์นปกติ (ไม่มีใครบาดเจ็บ)
+- Action: Sacred Flame หรือ Toll the Dead
+- ทอยไม่ต้อง ศัตรูทอย Save DC 13 เอง
+- ถ้าศัตรู HP ไม่เต็ม ใช้ Toll the Dead ดีกว่า (1d12)
 
-เมื่อเพื่อนล้มลง (HP เหลือ 0) — สำคัญที่สุด
-  Bonus Action: Healing Word ระยะ 60 ฟุต ฟื้น 2d4 + 3
-  แล้วยัง Action ทำอย่างอื่นได้ในเทิร์นเดียวกัน
-  ถ้า Spell Slot หมด ใช้ Healing Hands (2d4) แทน
+- เมื่อเพื่อนล้มลง (HP เหลือ 0) สำคัญที่สุด
+- Bonus Action: Healing Word ระยะ 60 ฟุต ฟื้น 2d4 + 3
+- แล้วยัง Action ทำอย่างอื่นได้ในเทิร์นเดียวกัน
+- ถ้า Spell Slot หมด ใช้ Healing Hands (2d4) แทน
 
-เมื่อเจอศัตรูตัวสำคัญ
-  Action: Guiding Bolt ทอย d20 + 5 ถ้าโดน 4d6 Radiant
-  และคนต่อไปที่ตีมันได้ Advantage บอกเพื่อนด้วย
+- เมื่อเจอศัตรูตัวสำคัญ
+- Action: Guiding Bolt ทอย d20 + 5 ถ้าโดน 4d6 Radiant
+- และคนต่อไปที่ตีมันได้ Advantage บอกเพื่อนด้วย
 
-นอกการต่อสู้ (ใช้บ่อยมาก)
-  Guidance ใส่เพื่อนทุกครั้งที่เขาจะทอย Ability Check
-  +1d4 ฟรี ไม่จำกัดจำนวนครั้ง
-```
+- นอกการต่อสู้ (ใช้บ่อยมาก)
+- Guidance ใส่เพื่อนทุกครั้งที่เขาจะทอย Ability Check
+- +1d4 ฟรี ไม่จำกัดจำนวนครั้ง
 
 ### หน้าที่ในทีม
 
-- **อย่ารีบรักษาตอนเพื่อนยังไม่ล้ม** — รอให้ HP เหลือ 0 แล้วใช้ `Healing Word` คุ้มกว่ามาก
-- **ยืนกลางแนว** — AC 17 พอทน แต่ HP 10 ยังน้อย
-- **ใช้ `Guidance` ให้เป็นนิสัย** ทุกครั้งที่เพื่อนจะปีน งัด สืบ หรือเจรจา
+- **อย่ารีบรักษาตอนเพื่อนยังไม่ล้ม** รอให้ HP เหลือ 0 แล้วใช้ Healing Word คุ้มกว่ามาก
+- **ยืนกลางแนว** AC 17 พอทน แต่ HP 10 ยังน้อย
+- **ใช้ Guidance ให้เป็นนิสัย** ทุกครั้งที่เพื่อนจะปีน งัด สืบ หรือเจรจา
 
 ---
 
 ## เมื่อขึ้นเลเวล 2-3 ทำอะไรต่อ
 
-| เลเวล | ได้อะไร | ควรเลือก |
-|---|---|---|
-| **2** | **Channel Divinity** (2 ครั้ง) — **Divine Spark** (รักษาหรือทำดาเมจ 1d8) และ **Turn Undead** | ได้อัตโนมัติ — **Turn Undead ทรงพลังมากถ้าเจอ Zombie หรือ Skeleton** |
-| **3** | เลือก **Subclass** + ได้ Spell Slot ระดับ 2 | เลือก **Life Domain** (รักษาแรงที่สุด + ได้ `Aid` และ `Lesser Restoration` เตรียมไว้เสมอ) |
-| **4** | **ASI หรือ Feat** + Cantrip เพิ่ม 1 อัน | **เพิ่ม WIS +2** ให้เป็น 19 (เพิ่มทั้ง Spell Save DC และการรักษา) |
+- **2** ได้อะไร **Channel Divinity** (2 ครั้ง) **Divine Spark** (รักษาหรือทำดาเมจ 1d8) และ **Turn Undead**, ควรเลือก ได้อัตโนมัติ **Turn Undead ทรงพลังมากถ้าเจอ Zombie หรือ Skeleton**
+- **3** ได้อะไร เลือก **Subclass** + ได้ Spell Slot ระดับ 2, ควรเลือก เลือก **Life Domain** (รักษาแรงที่สุด + ได้ Aid และ Lesser Restoration เตรียมไว้เสมอ)
+- **4** ได้อะไร **ASI หรือ Feat** + Cantrip เพิ่ม 1 อัน, ควรเลือก **เพิ่ม WIS +2** ให้เป็น 19 (เพิ่มทั้ง Spell Save DC และการรักษา)
 
 **HP ที่เพิ่มต่อเลเวล:** +5 (ค่าคงที่) + CON 2 = **+7 ต่อเลเวล**
 
-**สเปลระดับ 2 ที่ควรเตรียมเมื่อถึงเลเวล 3:** `Spiritual Weapon` (ดาเมจฟรีทุกเทิร์น), `Aid` (HP สูงสุด +5 ให้ 3 คน), `Lesser Restoration`
+**สเปลระดับ 2 ที่ควรเตรียมเมื่อถึงเลเวล 3:** Spiritual Weapon (ดาเมจฟรีทุกเทิร์น), Aid (HP สูงสุด +5 ให้ 3 คน), Lesser Restoration
 
 ---
 
 ## บุคลิกสำหรับเล่นบทบาท
 
-| หัวข้อ | รายละเอียด |
-|---|---|
-| **นิสัยเด่น** | ฟังมากกว่าพูด และมักถามคำถามที่ทำให้คนอื่นต้องคิด |
-| **อุดมการณ์** | "ความเมตตาไม่ใช่สิ่งที่ต้องได้มาด้วยการพิสูจน์ตัวเอง" |
-| **สิ่งผูกพัน** | นักบวชแก่ที่เลี้ยงเธอมา ตอนนี้ป่วยหนักอยู่ที่วิหาร |
-| **จุดอ่อน** | ไม่กล้าปฏิเสธคนที่ขอความช่วยเหลือ แม้จะรู้ว่าเป็นกับดัก |
+- **นิสัยเด่น** ฟังมากกว่าพูด และมักถามคำถามที่ทำให้คนอื่นต้องคิด
+- **อุดมการณ์** "ความเมตตาไม่ใช่สิ่งที่ต้องได้มาด้วยการพิสูจน์ตัวเอง"
+- **สิ่งผูกพัน** นักบวชแก่ที่เลี้ยงเธอมา ตอนนี้ป่วยหนักอยู่ที่วิหาร
+- **จุดอ่อน** ไม่กล้าปฏิเสธคนที่ขอความช่วยเหลือ แม้จะรู้ว่าเป็นกับดัก
 
 **คำถามให้ตอบเอง:** คุณเชื่อจริง ๆ ไหมว่าตัวเองเป็น "ผู้ถูกเลือก" หรือแค่ทำตามที่คนอื่นคาดหวัง
 
@@ -196,7 +180,7 @@ Healing Hands (Aasimar) ฟื้น 2d4 HP ใช้ได้ 1 ครั้ง
 
 ## สรุป Elara ในหนึ่งบรรทัด
 
-> **รักษาเพื่อนจากระยะ 60 ฟุตด้วย Bonus Action ยืนแนวหน้าได้ด้วย AC 17 และเปลี่ยนสเปลใหม่ได้ทุกวัน — คลาสสายเวทที่ผิดพลาดได้**
+**รักษาเพื่อนจากระยะ 60 ฟุตด้วย Bonus Action ยืนแนวหน้าได้ด้วย AC 17 และเปลี่ยนสเปลใหม่ได้ทุกวัน คลาสสายเวทที่ผิดพลาดได้**
 
 ---
 

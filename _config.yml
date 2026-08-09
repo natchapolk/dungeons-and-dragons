@@ -9,7 +9,7 @@ url: https://natchapolk.github.io
 baseurl: /dungeons-and-dragons
 
 plugins:
-  - jekyll-optional-front-matter # ให้ไฟล์ .md ที่ไม่มี front matter ถูกแปลงเป็นหน้าเว็บ (ทั้ง 71 ไฟล์จึงไม่ต้องแก้)
+  - jekyll-optional-front-matter # ให้ไฟล์ .md ที่ไม่มี front matter ถูกแปลงเป็นหน้าเว็บ (ทุกไฟล์จึงไม่ต้องแก้)
   - jekyll-readme-index          # ใช้ README.md เป็นหน้าแรกของเว็บ
   - jekyll-relative-links        # แปลงลิงก์ .md ระหว่างไฟล์ให้เป็น URL ที่กดได้จริงบนเว็บ
   - jekyll-titles-from-headings  # ใช้หัวข้อ H1 ของแต่ละไฟล์เป็นชื่อหน้า (ชื่อแท็บเบราว์เซอร์)

@@ -6,28 +6,26 @@
 
 ## ภาพรวม
 
-**บาร์ด / นักดนตรีเวท (Bard)** คือนักแสดงที่ร่ายเวทผ่านดนตรีและถ้อยคำ พวกเขาเป็นคลาสที่ **เก่งรอบด้านที่สุดในเกม** — รักษาได้ ควบคุมได้ บัฟทีมได้ และเป็น **หน้ากลุ่มในการเจรจา**
+**บาร์ด / นักดนตรีเวท (Bard)** คือนักแสดงที่ร่ายเวทผ่านดนตรีและถ้อยคำ พวกเขาเป็นคลาสที่ **เก่งรอบด้านที่สุดในเกม** รักษาได้ ควบคุมได้ บัฟทีมได้ และเป็น **หน้ากลุ่มในการเจรจา**
 
-> **Bard คือคลาส "Support ที่ดีที่สุด"** — Bardic Inspiration เปลี่ยนผลการทอยของทั้งทีม และ Magical Secrets ให้เข้าถึงสเปลจากทุกคลาส
+**Bard คือคลาส "Support ที่ดีที่สุด"** Bardic Inspiration เปลี่ยนผลการทอยของทั้งทีม และ Magical Secrets ให้เข้าถึงสเปลจากทุกคลาส
 
 ---
 
 ## ข้อมูลพื้นฐาน (Class Table)
 
-| หัวข้อ | ค่า |
-|---|---|
-| **Primary Ability** | **Charisma (CHA)** |
-| **Hit Die** | **d8** |
-| **HP เลเวล 1** | **8 + CON modifier** |
-| **HP เลเวลถัดไป** | **1d8 + CON** (หรือค่าคงที่ **5 + CON**) |
-| **Saving Throw Proficiency** | **Dexterity, Charisma** |
-| **Armor Proficiency** | Light Armor |
-| **Weapon Proficiency** | Simple Weapons |
-| **Tool Proficiency** | **เครื่องดนตรี 3 ชนิด** |
-| **Skill Proficiency** | เลือก **3 อย่าง จากสกิลทั้งหมด 18 อย่าง** (อิสระที่สุดในเกม) |
-| **Spellcasting Ability** | **Charisma (CHA)** |
-| **Spellcasting Focus** | **เครื่องดนตรี (Musical Instrument)** |
-| **Subclass (Bard College)** | เลือกที่ **เลเวล 3** |
+- **Primary Ability** **Charisma (CHA)**
+- **Hit Die** **d8**
+- **HP เลเวล 1** **8 + CON modifier**
+- **HP เลเวลถัดไป** **1d8 + CON** (หรือค่าคงที่ **5 + CON**)
+- **Saving Throw Proficiency** **Dexterity, Charisma**
+- **Armor Proficiency** Light Armor
+- **Weapon Proficiency** Simple Weapons
+- **Tool Proficiency** **เครื่องดนตรี 3 ชนิด**
+- **Skill Proficiency** เลือก **3 อย่าง จากสกิลทั้งหมด 18 อย่าง** (อิสระที่สุดในเกม)
+- **Spellcasting Ability** **Charisma (CHA)**
+- **Spellcasting Focus** **เครื่องดนตรี (Musical Instrument)**
+- **Subclass (Bard College)** เลือกที่ **เลเวล 3**
 
 ### อุปกรณ์เริ่มต้น
 
@@ -38,28 +36,26 @@
 
 ## ตารางความก้าวหน้าเลเวล 1-20
 
-| เลเวล | Prof | Features | Bardic Die | Cantrips | เตรียม<br>สเปล | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **1** | +2 | **Bardic Inspiration** [แนะนำ], **Spellcasting** | **d6** | **2** | 4 | **2** | — | — | — | — | — | — | — | — |
-| **2** | +2 | **Expertise** [แนะนำ], **Jack of All Trades** | d6 | 2 | 5 | 3 | — | — | — | — | — | — | — | — |
-| **3** | +2 | **Bard College (Subclass)** [แนะนำ] | d6 | 2 | 6 | 4 | **2** | — | — | — | — | — | — | — |
-| **4** | +2 | **ASI** | d6 | **3** | 7 | 4 | 3 | — | — | — | — | — | — | — |
-| **5** | **+3** | **Font of Inspiration** [แนะนำมาก] | **d8** | 3 | 9 | 4 | 3 | **2** | — | — | — | — | — | — |
-| **6** | +3 | **Subclass Feature** | d8 | 3 | 10 | 4 | 3 | 3 | — | — | — | — | — | — |
-| **7** | +3 | **Countercharm** | d8 | 3 | 11 | 4 | 3 | 3 | **1** | — | — | — | — | — |
-| **8** | +3 | **ASI** | d8 | 3 | 12 | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| **9** | **+4** | **เพิ่ม 2 สกิล (Expertise)** | d8 | 3 | 14 | 4 | 3 | 3 | 3 | **1** | — | — | — | — |
-| **10** | +4 | **Magical Secrets** [แนะนำมาก] | **d10** | **4** | 15 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
-| **11** | +4 | — | d10 | 4 | 16 | 4 | 3 | 3 | 3 | 2 | **1** | — | — | — |
-| **12** | +4 | **ASI** | d10 | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| **13** | **+5** | — | d10 | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | **1** | — | — |
-| **14** | +5 | **Subclass Feature** | d10 | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| **15** | +5 | — | **d12** | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | **1** | — |
-| **16** | +5 | **ASI** | d12 | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| **17** | **+6** | — | d12 | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | **1** |
-| **18** | +6 | **Superior Inspiration** [แนะนำ] | d12 | 4 | 20 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-| **19** | +6 | **Epic Boon Feat** | d12 | 4 | 21 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-| **20** | +6 | **Words of Creation** | d12 | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+- **เลเวล 1** Proficiency Bonus +2, ได้ความสามารถ Bardic Inspiration [แนะนำ], Spellcasting, Bardic Die d6, รู้ Cantrip 2, เตรียมสเปลได้ 4, Spell Slot ระดับ 1 จำนวน 2 ช่อง
+- **เลเวล 2** Proficiency Bonus +2, ได้ความสามารถ Expertise [แนะนำ], Jack of All Trades, Bardic Die d6, รู้ Cantrip 2, เตรียมสเปลได้ 5, Spell Slot ระดับ 1 จำนวน 3 ช่อง
+- **เลเวล 3** Proficiency Bonus +2, ได้ความสามารถ Bard College (Subclass) [แนะนำ], Bardic Die d6, รู้ Cantrip 2, เตรียมสเปลได้ 6, Spell Slot ระดับ 1 จำนวน 4 ช่อง, Spell Slot ระดับ 2 จำนวน 2 ช่อง
+- **เลเวล 4** Proficiency Bonus +2, ได้ความสามารถ ASI, Bardic Die d6, รู้ Cantrip 3, เตรียมสเปลได้ 7, Spell Slot ระดับ 1 จำนวน 4 ช่อง, Spell Slot ระดับ 2 จำนวน 3 ช่อง
+- **เลเวล 5** Proficiency Bonus +3, ได้ความสามารถ Font of Inspiration [แนะนำมาก], Bardic Die d8, รู้ Cantrip 3, เตรียมสเปลได้ 9, Spell Slot ระดับ 1 จำนวน 4 ช่อง, Spell Slot ระดับ 2 จำนวน 3 ช่อง, Spell Slot ระดับ 3 จำนวน 2 ช่อง
+- **เลเวล 6** Proficiency Bonus +3, ได้ความสามารถ Subclass Feature, Bardic Die d8, รู้ Cantrip 3, เตรียมสเปลได้ 10, Spell Slot ระดับ 1 จำนวน 4 ช่อง, Spell Slot ระดับ 2 จำนวน 3 ช่อง, Spell Slot ระดับ 3 จำนวน 3 ช่อง
+- **เลเวล 7** Proficiency Bonus +3, ได้ความสามารถ Countercharm, Bardic Die d8, รู้ Cantrip 3, เตรียมสเปลได้ 11, Spell Slot ระดับ 1 จำนวน 4 ช่อง, Spell Slot ระดับ 2 จำนวน 3 ช่อง, Spell Slot ระดับ 3 จำนวน 3 ช่อง, Spell Slot ระดับ 4 จำนวน 1 ช่อง
+- **เลเวล 8** Proficiency Bonus +3, ได้ความสามารถ ASI, Bardic Die d8, รู้ Cantrip 3, เตรียมสเปลได้ 12, Spell Slot ระดับ 1 จำนวน 4 ช่อง, Spell Slot ระดับ 2 จำนวน 3 ช่อง, Spell Slot ระดับ 3 จำนวน 3 ช่อง, Spell Slot ระดับ 4 จำนวน 2 ช่อง
+- **เลเวล 9** Proficiency Bonus +4, ได้ความสามารถ เพิ่ม 2 สกิล (Expertise), Bardic Die d8, รู้ Cantrip 3, เตรียมสเปลได้ 14, Spell Slot ระดับ 1 จำนวน 4 ช่อง, Spell Slot ระดับ 2 จำนวน 3 ช่อง, Spell Slot ระดับ 3 จำนวน 3 ช่อง, Spell Slot ระดับ 4 จำนวน 3 ช่อง, Spell Slot ระดับ 5 จำนวน 1 ช่อง
+- **เลเวล 10** Proficiency Bonus +4, ได้ความสามารถ Magical Secrets [แนะนำมาก], Bardic Die d10, รู้ Cantrip 4, เตรียมสเปลได้ 15, Spell Slot ระดับ 1 จำนวน 4 ช่อง, Spell Slot ระดับ 2 จำนวน 3 ช่อง, Spell Slot ระดับ 3 จำนวน 3 ช่อง, Spell Slot ระดับ 4 จำนวน 3 ช่อง, Spell Slot ระดับ 5 จำนวน 2 ช่อง
+- **เลเวล 11** Proficiency Bonus +4, Bardic Die d10, รู้ Cantrip 4, เตรียมสเปลได้ 16, Spell Slot ระดับ 1 จำนวน 4 ช่อง, Spell Slot ระดับ 2 จำนวน 3 ช่อง, Spell Slot ระดับ 3 จำนวน 3 ช่อง, Spell Slot ระดับ 4 จำนวน 3 ช่อง, Spell Slot ระดับ 5 จำนวน 2 ช่อง, Spell Slot ระดับ 6 จำนวน 1 ช่อง
+- **เลเวล 12** Proficiency Bonus +4, ได้ความสามารถ ASI, Bardic Die d10, รู้ Cantrip 4, เตรียมสเปลได้ 16, Spell Slot ระดับ 1 จำนวน 4 ช่อง, Spell Slot ระดับ 2 จำนวน 3 ช่อง, Spell Slot ระดับ 3 จำนวน 3 ช่อง, Spell Slot ระดับ 4 จำนวน 3 ช่อง, Spell Slot ระดับ 5 จำนวน 2 ช่อง, Spell Slot ระดับ 6 จำนวน 1 ช่อง
+- **เลเวล 13** Proficiency Bonus +5, Bardic Die d10, รู้ Cantrip 4, เตรียมสเปลได้ 17, Spell Slot ระดับ 1 จำนวน 4 ช่อง, Spell Slot ระดับ 2 จำนวน 3 ช่อง, Spell Slot ระดับ 3 จำนวน 3 ช่อง, Spell Slot ระดับ 4 จำนวน 3 ช่อง, Spell Slot ระดับ 5 จำนวน 2 ช่อง, Spell Slot ระดับ 6 จำนวน 1 ช่อง, Spell Slot ระดับ 7 จำนวน 1 ช่อง
+- **เลเวล 14** Proficiency Bonus +5, ได้ความสามารถ Subclass Feature, Bardic Die d10, รู้ Cantrip 4, เตรียมสเปลได้ 17, Spell Slot ระดับ 1 จำนวน 4 ช่อง, Spell Slot ระดับ 2 จำนวน 3 ช่อง, Spell Slot ระดับ 3 จำนวน 3 ช่อง, Spell Slot ระดับ 4 จำนวน 3 ช่อง, Spell Slot ระดับ 5 จำนวน 2 ช่อง, Spell Slot ระดับ 6 จำนวน 1 ช่อง, Spell Slot ระดับ 7 จำนวน 1 ช่อง
+- **เลเวล 15** Proficiency Bonus +5, Bardic Die d12, รู้ Cantrip 4, เตรียมสเปลได้ 18, Spell Slot ระดับ 1 จำนวน 4 ช่อง, Spell Slot ระดับ 2 จำนวน 3 ช่อง, Spell Slot ระดับ 3 จำนวน 3 ช่อง, Spell Slot ระดับ 4 จำนวน 3 ช่อง, Spell Slot ระดับ 5 จำนวน 2 ช่อง, Spell Slot ระดับ 6 จำนวน 1 ช่อง, Spell Slot ระดับ 7 จำนวน 1 ช่อง, Spell Slot ระดับ 8 จำนวน 1 ช่อง
+- **เลเวล 16** Proficiency Bonus +5, ได้ความสามารถ ASI, Bardic Die d12, รู้ Cantrip 4, เตรียมสเปลได้ 18, Spell Slot ระดับ 1 จำนวน 4 ช่อง, Spell Slot ระดับ 2 จำนวน 3 ช่อง, Spell Slot ระดับ 3 จำนวน 3 ช่อง, Spell Slot ระดับ 4 จำนวน 3 ช่อง, Spell Slot ระดับ 5 จำนวน 2 ช่อง, Spell Slot ระดับ 6 จำนวน 1 ช่อง, Spell Slot ระดับ 7 จำนวน 1 ช่อง, Spell Slot ระดับ 8 จำนวน 1 ช่อง
+- **เลเวล 17** Proficiency Bonus +6, Bardic Die d12, รู้ Cantrip 4, เตรียมสเปลได้ 19, Spell Slot ระดับ 1 จำนวน 4 ช่อง, Spell Slot ระดับ 2 จำนวน 3 ช่อง, Spell Slot ระดับ 3 จำนวน 3 ช่อง, Spell Slot ระดับ 4 จำนวน 3 ช่อง, Spell Slot ระดับ 5 จำนวน 2 ช่อง, Spell Slot ระดับ 6 จำนวน 1 ช่อง, Spell Slot ระดับ 7 จำนวน 1 ช่อง, Spell Slot ระดับ 8 จำนวน 1 ช่อง, Spell Slot ระดับ 9 จำนวน 1 ช่อง
+- **เลเวล 18** Proficiency Bonus +6, ได้ความสามารถ Superior Inspiration [แนะนำ], Bardic Die d12, รู้ Cantrip 4, เตรียมสเปลได้ 20, Spell Slot ระดับ 1 จำนวน 4 ช่อง, Spell Slot ระดับ 2 จำนวน 3 ช่อง, Spell Slot ระดับ 3 จำนวน 3 ช่อง, Spell Slot ระดับ 4 จำนวน 3 ช่อง, Spell Slot ระดับ 5 จำนวน 3 ช่อง, Spell Slot ระดับ 6 จำนวน 1 ช่อง, Spell Slot ระดับ 7 จำนวน 1 ช่อง, Spell Slot ระดับ 8 จำนวน 1 ช่อง, Spell Slot ระดับ 9 จำนวน 1 ช่อง
+- **เลเวล 19** Proficiency Bonus +6, ได้ความสามารถ Epic Boon Feat, Bardic Die d12, รู้ Cantrip 4, เตรียมสเปลได้ 21, Spell Slot ระดับ 1 จำนวน 4 ช่อง, Spell Slot ระดับ 2 จำนวน 3 ช่อง, Spell Slot ระดับ 3 จำนวน 3 ช่อง, Spell Slot ระดับ 4 จำนวน 3 ช่อง, Spell Slot ระดับ 5 จำนวน 3 ช่อง, Spell Slot ระดับ 6 จำนวน 2 ช่อง, Spell Slot ระดับ 7 จำนวน 1 ช่อง, Spell Slot ระดับ 8 จำนวน 1 ช่อง, Spell Slot ระดับ 9 จำนวน 1 ช่อง
+- **เลเวล 20** Proficiency Bonus +6, ได้ความสามารถ Words of Creation, Bardic Die d12, รู้ Cantrip 4, เตรียมสเปลได้ 22, Spell Slot ระดับ 1 จำนวน 4 ช่อง, Spell Slot ระดับ 2 จำนวน 3 ช่อง, Spell Slot ระดับ 3 จำนวน 3 ช่อง, Spell Slot ระดับ 4 จำนวน 3 ช่อง, Spell Slot ระดับ 5 จำนวน 3 ช่อง, Spell Slot ระดับ 6 จำนวน 2 ช่อง, Spell Slot ระดับ 7 จำนวน 2 ช่อง, Spell Slot ระดับ 8 จำนวน 1 ช่อง, Spell Slot ระดับ 9 จำนวน 1 ช่อง
 
 ---
 
@@ -67,407 +63,244 @@
 
 ---
 
-### เลเวล 1 — แรงบันดาลใจของบาร์ด (Bardic Inspiration) ความสามารถหลักของคลาส
+### เลเวล 1 แรงบันดาลใจของบาร์ด (Bardic Inspiration) ความสามารถหลักของคลาส
 
-> **Bonus Action:** เลือกเพื่อนร่วมทีม 1 คนในระยะ **60 ฟุต** (ที่ไม่ใช่ตัวคุณ)
-> มอบ **Bardic Inspiration Die (d6)** ให้
->
-> **เพื่อนสามารถใช้ได้ภายใน 1 ชั่วโมง:**
-> - ทอยเต๋าแล้ว **บวกผลเข้ากับ d20 Test 1 ครั้ง** (Attack Roll, Ability Check, หรือ Saving Throw)
-> - **ใช้ได้แม้หลังทอย d20 แล้ว** [แนะนำ] แต่**ต้องใช้ก่อน DM บอกว่าสำเร็จหรือไม่**
->
-> **จำนวนครั้ง:** เท่ากับ **ขั้นต่ำ 1 (Charisma modifier)**
-> **ฟื้น:** **เลเวล 1-4 (Long Rest)** **Short Rest ด้วย** (เลเวล 5+)
+**Bonus Action:** เลือกเพื่อนร่วมทีม 1 คนในระยะ **60 ฟุต** (ที่ไม่ใช่ตัวคุณ)
+มอบ **Bardic Inspiration Die (d6)** ให้
+
+**เพื่อนสามารถใช้ได้ภายใน 1 ชั่วโมง:**
+- ทอยเต๋าแล้ว **บวกผลเข้ากับ d20 Test 1 ครั้ง** (Attack Roll, Ability Check, หรือ Saving Throw)
+- **ใช้ได้แม้หลังทอย d20 แล้ว** [แนะนำ] แต่**ต้องใช้ก่อน DM บอกว่าสำเร็จหรือไม่**
+
+**จำนวนครั้ง:** เท่ากับ **ขั้นต่ำ 1 (Charisma modifier)**
+**ฟื้น:** **เลเวล 1-4 (Long Rest)** **Short Rest ด้วย** (เลเวล 5+)
 
 **ขนาดเต๋าตามเลเวล:**
 
-| เลเวล | เต๋า |
-|---|---|
-| 1-4 | **d6** |
-| 5-9 | **d8** |
-| 10-14 | **d10** |
-| 15-20 | **d12** |
+- 1-4 **d6**
+- 5-9 **d8**
+- 10-14 **d10**
+- 15-20 **d12**
 
-> **เวลาที่ควรใช้ที่สุด:** ให้ Fighter/Barbarian ตอนโจมตีบอส • ให้เพื่อนที่ทอย Saving Throw สำคัญ • ให้ Rogue ตอน Stealth เข้าปราสาท
+**เวลาที่ควรใช้ที่สุด:** ให้ Fighter/Barbarian ตอนโจมตีบอส • ให้เพื่อนที่ทอย Saving Throw สำคัญ • ให้ Rogue ตอน Stealth เข้าปราสาท
 
 ---
 
-### เลเวล 1 — Spellcasting
+### เลเวล 1 Spellcasting
 
-> - ใช้ **Charisma** เป็นค่าร่ายเวท
-> - **Spell Save DC = 8 + CHA modifier + Proficiency Bonus**
-> - **Spell Attack = CHA modifier + Proficiency Bonus**
-> - **เปลี่ยนสเปลที่เตรียมไว้ได้ 1 อัน ทุกครั้งที่เลื่อนเลเวล** (ไม่ใช่ทุกวันเหมือน Cleric/Wizard)
-> - **Spellcasting Focus:** **เครื่องดนตรี**
-
----
-
-### เลเวล 2 — ความเชี่ยวชาญ (Expertise)
-
-> เลือก **Skill 2 อย่าง** ที่มี Proficiency **บวก Proficiency Bonus สองเท่า**
-> (ได้เพิ่มอีก 2 สกิลที่เลเวล 9)
-
-> **แนะนำ:** `Persuasion` [แนะนำมาก] + `Deception` (สายเจรจา) หรือ `Perception` + `Stealth` (สายสอดแนม)
+- ใช้ **Charisma** เป็นค่าร่ายเวท
+- **Spell Save DC = 8 + CHA modifier + Proficiency Bonus**
+- **Spell Attack = CHA modifier + Proficiency Bonus**
+- **เปลี่ยนสเปลที่เตรียมไว้ได้ 1 อัน ทุกครั้งที่เลื่อนเลเวล** (ไม่ใช่ทุกวันเหมือน Cleric/Wizard)
+- **Spellcasting Focus:** **เครื่องดนตรี**
 
 ---
 
-### เลเวล 2 — เป็ดที่ทำได้ทุกอย่าง (Jack of All Trades)
+### เลเวล 2 ความเชี่ยวชาญ (Expertise)
 
-> **บวก `ครึ่งหนึ่งของ Proficiency Bonus (ปัดลง)` ในการทอย Ability Check ทุกอย่างที่คุณ *ไม่มี* Proficiency**
+เลือก **Skill 2 อย่าง** ที่มี Proficiency **บวก Proficiency Bonus สองเท่า**
+(ได้เพิ่มอีก 2 สกิลที่เลเวล 9)
 
-| เลเวล | โบนัสเพิ่ม |
-|---|---|
-| 2-4 | **+1** |
-| 5-12 | **+1** |
-| 13-16 | **+2** |
-| 17-20 | **+3** |
-
-> **รวมถึงการทอย Initiative ด้วย!** — Bard ทำอะไรก็ไม่ค่อยห่วย
+**แนะนำ:** Persuasion [แนะนำมาก] + Deception (สายเจรจา) หรือ Perception + Stealth (สายสอดแนม)
 
 ---
 
-### เลเวล 5 — บ่อเกิดแรงบันดาลใจ (Font of Inspiration)
+### เลเวล 2 เป็ดที่ทำได้ทุกอย่าง (Jack of All Trades)
 
-> **Bardic Inspiration ฟื้นทั้งหมดเมื่อจบ Short Rest หรือ Long Rest**
-> **และคุณสามารถใช้ Spell Slot 1 ช่อง เพื่อฟื้น Bardic Inspiration 1 ครั้งได้ (ฟรี, ไม่ใช้ Action)** [แนะนำ]
+**บวก ครึ่งหนึ่งของ Proficiency Bonus (ปัดลง) ในการทอย Ability Check ทุกอย่างที่คุณ *ไม่มี* Proficiency**
+
+- 2-4 **+1**
+- 5-12 **+1**
+- 13-16 **+2**
+- 17-20 **+3**
+
+**รวมถึงการทอย Initiative ด้วย!** Bard ทำอะไรก็ไม่ค่อยห่วย
+
+---
+
+### เลเวล 5 บ่อเกิดแรงบันดาลใจ (Font of Inspiration)
+
+**Bardic Inspiration ฟื้นทั้งหมดเมื่อจบ Short Rest หรือ Long Rest**
+**และคุณสามารถใช้ Spell Slot 1 ช่อง เพื่อฟื้น Bardic Inspiration 1 ครั้งได้ (ฟรี, ไม่ใช้ Action)** [แนะนำ]
 
 **ทำไมนี่คือจุดเปลี่ยนของ Bard:** จากที่ต้องประหยัด กลายเป็น **แจก Bardic Inspiration ได้แทบทุกเทิร์น**
 
 ---
 
-### เลเวล 7 — ต้านมนตร์ (Countercharm)
+### เลเวล 7 ต้านมนตร์ (Countercharm)
 
-> **Reaction:** เมื่อคุณหรือเพื่อนในระยะ 30 ฟุต **ทอย Saving Throw ล้มเหลว** ต่อสภาวะ **Charmed หรือ Frightened**
-> **ให้ทอยใหม่ได้ พร้อมบวก Bardic Inspiration Die** (ต้องใช้ Bardic Inspiration 1 ครั้ง)
+**Reaction:** เมื่อคุณหรือเพื่อนในระยะ 30 ฟุต **ทอย Saving Throw ล้มเหลว** ต่อสภาวะ **Charmed หรือ Frightened**
+**ให้ทอยใหม่ได้ พร้อมบวก Bardic Inspiration Die** (ต้องใช้ Bardic Inspiration 1 ครั้ง)
 
 ---
 
-### เลเวล 10 — ความลับแห่งเวทมนตร์ (Magical Secrets)
+### เลเวล 10 ความลับแห่งเวทมนตร์ (Magical Secrets)
 
-> **ตั้งแต่เลเวล 10 เป็นต้นไป เมื่อคุณเตรียมสเปล**
-> **คุณสามารถเลือกจากรายการเวทของ Bard, Cleric, Druid, และ Wizard ได้ทั้งหมด!**
+**ตั้งแต่เลเวล 10 เป็นต้นไป เมื่อคุณเตรียมสเปล**
+**คุณสามารถเลือกจากรายการเวทของ Bard, Cleric, Druid, และ Wizard ได้ทั้งหมด!**
 
 **ทำไมนี่คือ Feature ที่ทำให้ Bard เป็นคลาสที่ทรงพลังที่สุด:**
 
-| สเปลที่ Bard เอาได้จากคลาสอื่น | จากคลาส |
-|---|---|
-| **`Counterspell`** [แนะนำอย่างยิ่ง] | Wizard |
-| **`Fireball`** [แนะนำมาก] | Wizard |
-| **`Spirit Guardians`** [แนะนำอย่างยิ่ง] | Cleric |
-| **`Revivify`** [แนะนำมาก] | Cleric |
-| **`Wall of Force`** [แนะนำอย่างยิ่ง] | Wizard |
-| **`Conjure Animals`** | Druid |
-| **`Healing Word` / `Mass Heal`** | Cleric |
-| **`Wish`** (เลเวล 17!) [แนะนำอย่างยิ่ง] | Wizard |
+- **Counterspell** [แนะนำอย่างยิ่ง] Wizard
+- **Fireball** [แนะนำมาก] Wizard
+- **Spirit Guardians** [แนะนำอย่างยิ่ง] Cleric
+- **Revivify** [แนะนำมาก] Cleric
+- **Wall of Force** [แนะนำอย่างยิ่ง] Wizard
+- **Conjure Animals** Druid
+- **Healing Word / Mass Heal** Cleric
+- **Wish** (เลเวล 17!) [แนะนำอย่างยิ่ง] Wizard
 
-> **กฎ 2024 เปลี่ยนจากกฎเก่าอย่างมาก** — เมื่อก่อนเลือกได้แค่ 2 สเปลถาวร แต่ตอนนี้ **เข้าถึงได้ทั้ง 4 รายการเวทเลย**
+**กฎ 2024 เปลี่ยนจากกฎเก่าอย่างมาก** เมื่อก่อนเลือกได้แค่ 2 สเปลถาวร แต่ตอนนี้ **เข้าถึงได้ทั้ง 4 รายการเวทเลย**
 
 ---
 
-### เลเวล 18 — แรงบันดาลใจเหนือชั้น (Superior Inspiration)
+### เลเวล 18 แรงบันดาลใจเหนือชั้น (Superior Inspiration)
 
-> **เมื่อคุณทอย Initiative ฟื้น Bardic Inspiration ให้เหลืออย่างน้อย 2 ครั้ง**
-
----
-
-### เลเวล 20 — วจนะแห่งการสร้าง (Words of Creation) — Capstone
-
-> - **`Power Word Heal` และ `Power Word Kill` เตรียมไว้เสมอ** (ไม่นับโควตา)
-> - **เมื่อร่ายสเปลทั้งสอง สามารถกำหนดเป้าหมายเพิ่มอีก 1 ตัว** [แนะนำ] ที่อยู่ในระยะ 10 ฟุตจากเป้าหมายแรก
+**เมื่อคุณทอย Initiative ฟื้น Bardic Inspiration ให้เหลืออย่างน้อย 2 ครั้ง**
 
 ---
 
-## Subclasses (Bard College) — เลือกที่เลเวล 3
+### เลเวล 20 วจนะแห่งการสร้าง (Words of Creation) Capstone
+
+- **Power Word Heal และ Power Word Kill เตรียมไว้เสมอ** (ไม่นับโควตา)
+- **เมื่อร่ายสเปลทั้งสอง สามารถกำหนดเป้าหมายเพิ่มอีก 1 ตัว** [แนะนำ] ที่อยู่ในระยะ 10 ฟุตจากเป้าหมายแรก
+
+---
+
+## Subclasses (Bard College) เลือกที่เลเวล 3
 
 Bard มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **เลเวล 3, 6, 14**
 
 ---
 
-### 1. College of Lore — วิทยาลัยแห่งตำนาน
+### 1. College of Lore วิทยาลัยแห่งตำนาน
 
-> **ธีม:** นักสะสมความรู้และความลับ — **สายเวทและซัพพอร์ตที่แข็งแรงที่สุด**
+**ธีม:** นักสะสมความรู้และความลับ **สายเวทและซัพพอร์ตที่แข็งแรงที่สุด**
 
-| เลเวล | Feature | ทำอะไร |
-|---|---|---|
-| **3** | **Bonus Proficiencies** | ได้ **Skill Proficiency เพิ่ม 3 อย่าง** ตามที่เลือก |
-| **3** | **Cutting Words** | **Reaction:** [แนะนำมาก] เมื่อศัตรูในระยะ 60 ฟุตทอย **Attack Roll, Ability Check, หรือ Damage Roll** **ลบ Bardic Inspiration Die ออกจากผลนั้น** (ใช้หลังทอย ก่อนรู้ผล) |
-| **6** | **Magical Discoveries** | [แนะนำ] เรียนรู้สเปล **2 อัน** จากรายการ **Cleric, Druid, หรือ Wizard** (ระดับที่ร่ายได้) — **เตรียมไว้เสมอ ไม่นับโควตา** |
-| **14** | **Peerless Skill** | **เมื่อคุณทอย Ability Check หรือ Attack Roll ล้มเหลว บวก Bardic Inspiration Die เข้าไป** [แนะนำ] (ถ้ายังล้มเหลว **ไม่เสีย Bardic Inspiration**) |
+**เลเวล 3 Bonus Proficiencies**
 
-> **แนะนำที่สุดโดยรวม** — `Cutting Words` ทำให้บอสตีพลาดหรือทำดาเมจน้อยลงได้ตลอด
+ได้ **Skill Proficiency เพิ่ม 3 อย่าง** ตามที่เลือก
 
----
+**เลเวล 3 Cutting Words**
 
-### 2. College of Valor — วิทยาลัยแห่งวีรกรรม
+**Reaction:** [แนะนำมาก] เมื่อศัตรูในระยะ 60 ฟุตทอย **Attack Roll, Ability Check, หรือ Damage Roll** **ลบ Bardic Inspiration Die ออกจากผลนั้น** (ใช้หลังทอย ก่อนรู้ผล)
 
-> **ธีม:** Bard นักรบ — ร้องเพลงสงครามและลุยเอง
+**เลเวล 6 Magical Discoveries**
 
-| เลเวล | Feature | ทำอะไร |
-|---|---|---|
-| **3** | **Combat Inspiration** | [แนะนำ] ผู้ที่มี Bardic Inspiration สามารถใช้เพื่อ:<br>• **เพิ่มดาเมจ** ของการโจมตี (ใช้หลังทอยดาเมจ)<br>• **หรือเพิ่ม AC** เมื่อถูกโจมตี (**Reaction**, ใช้ก่อนรู้ผล) |
-| **3** | **Martial Training** | [แนะนำ] ได้ Proficiency ใน **Martial Weapons** และ **Medium Armor + Shield** • และใช้ **เครื่องดนตรีเป็น Spellcasting Focus ขณะถืออาวุธได้** |
-| **6** | **Extra Attack** | **โจมตีได้ 2 ครั้ง** [แนะนำมาก] • และสามารถ**แทนการโจมตี 1 ครั้ง ด้วยการร่าย Cantrip** ที่มี Casting Time เป็น Action |
-| **14** | **Battle Magic** | **หลังจากร่ายสเปลระดับ 1 ขึ้นไปด้วย Action ใช้ Bonus Action โจมตีด้วยอาวุธ 1 ครั้ง** [แนะนำ] |
+[แนะนำ] เรียนรู้สเปล **2 อัน** จากรายการ **Cleric, Druid, หรือ Wizard** (ระดับที่ร่ายได้) **เตรียมไว้เสมอ ไม่นับโควตา**
 
-> **สายที่ยืนแนวหน้าได้** — AC 17-18 (Half Plate + Shield) + โจมตี 2 ครั้ง
+**เลเวล 14 Peerless Skill**
+
+**เมื่อคุณทอย Ability Check หรือ Attack Roll ล้มเหลว บวก Bardic Inspiration Die เข้าไป** [แนะนำ] (ถ้ายังล้มเหลว **ไม่เสีย Bardic Inspiration**)
+
+**แนะนำที่สุดโดยรวม** Cutting Words ทำให้บอสตีพลาดหรือทำดาเมจน้อยลงได้ตลอด
 
 ---
 
-### 3. College of Dance — วิทยาลัยแห่งการเต้นรำ
+### 2. College of Valor วิทยาลัยแห่งวีรกรรม
 
-> **ธีม:** ผู้เคลื่อนไหวอย่างสง่างาม — **คล่องแคล่วและป้องกันตัวเก่ง**
+**ธีม:** Bard นักรบ ร้องเพลงสงครามและลุยเอง
 
-| เลเวล | Feature | ทำอะไร |
-|---|---|---|
-| **3** | **Dazzling Footwork** | [แนะนำ] ตราบที่**ไม่ใส่เกราะและไม่ถือโล่**:<br>• **AC = 10 + DEX + CHA** [แนะนำ]<br>• **Unarmed Strike ใช้ DEX และทำดาเมจ = Bardic Inspiration Die + DEX** (เป็น Bludgeoning)<br>• **1 ครั้ง/เทิร์น: เมื่อตีโดนด้วย Unarmed Strike เพิ่มดาเมจ Bardic Inspiration Die** |
-| **6** | **Inspiring Movement** | **Reaction:** เมื่อศัตรูเข้ามาใกล้เพื่อนในระยะ 5 ฟุต **คุณเคลื่อนที่ครึ่ง Speed และเพื่อนเคลื่อนที่ครึ่ง Speed ด้วย** (ไม่โดน Opportunity Attack) |
-| **6** | **Tandem Footwork** | [แนะนำ] เมื่อทอย Initiative **คุณและเพื่อนในระยะ 30 ฟุต บวก Bardic Inspiration Die ในการทอย Initiative** (ใช้ Bardic Inspiration 1 ครั้ง) |
-| **14** | **Leading Evasion** | [แนะนำมาก] เมื่อทอย **DEX Save** เพื่อลดดาเมจครึ่ง **สำเร็จ = 0, ล้มเหลว = ครึ่ง** • **และเพื่อนในระยะ 5 ฟุตได้ผลนี้ด้วย!** |
+**เลเวล 3 Combat Inspiration**
 
-> **สายที่มี AC สูงที่สุดของ Bard** — DEX 20 + CHA 20 = **AC 20** โดยไม่ใส่เกราะ
+[แนะนำ] ผู้ที่มี Bardic Inspiration สามารถใช้เพื่อ:
+- **เพิ่มดาเมจ** ของการโจมตี (ใช้หลังทอยดาเมจ)
+- **หรือเพิ่ม AC** เมื่อถูกโจมตี (**Reaction**, ใช้ก่อนรู้ผล)
+
+**เลเวล 3 Martial Training**
+
+[แนะนำ] ได้ Proficiency ใน **Martial Weapons** และ **Medium Armor + Shield** • และใช้ **เครื่องดนตรีเป็น Spellcasting Focus ขณะถืออาวุธได้**
+
+**เลเวล 6 Extra Attack**
+
+**โจมตีได้ 2 ครั้ง** [แนะนำมาก] • และสามารถ**แทนการโจมตี 1 ครั้ง ด้วยการร่าย Cantrip** ที่มี Casting Time เป็น Action
+
+**เลเวล 14 Battle Magic**
+
+**หลังจากร่ายสเปลระดับ 1 ขึ้นไปด้วย Action ใช้ Bonus Action โจมตีด้วยอาวุธ 1 ครั้ง** [แนะนำ]
+
+**สายที่ยืนแนวหน้าได้** AC 17-18 (Half Plate + Shield) + โจมตี 2 ครั้ง
 
 ---
 
-### 4. College of Glamour — วิทยาลัยแห่งมนตร์เสน่ห์
+### 3. College of Dance วิทยาลัยแห่งการเต้นรำ
 
-> **ธีม:** Bard ผู้ได้รับพลังจาก Feywild — **ควบคุมและป้องกันทีมได้ดีที่สุด**
+**ธีม:** ผู้เคลื่อนไหวอย่างสง่างาม **คล่องแคล่วและป้องกันตัวเก่ง**
 
-| เลเวล | Feature | ทำอะไร |
-|---|---|---|
-| **3** | **Beguiling Magic** | [แนะนำ] • ได้สเปล **`Charm Person`** และ **`Mirror Image`** เตรียมไว้เสมอ<br>• **หลังร่ายสเปล Enchantment หรือ Illusion:** ทำให้สิ่งมีชีวิตในระยะ 60 ฟุตทอย **WIS Save** — ล้มเหลว = **Charmed หรือ Frightened 1 นาที** (ใช้ได้ Prof Bonus ครั้ง/Long Rest) |
-| **3** | **Mantle of Inspiration** | **Bonus Action + Bardic Inspiration 1 ครั้ง:** [แนะนำมาก] ให้เพื่อนได้ถึง **CHA modifier คน** ในระยะ 60 ฟุต:<br>• **Temp HP = `2 × Bardic Inspiration Die`**<br>• **และเคลื่อนที่ได้ทันทีเท่ากับ Speed โดยไม่โดน Opportunity Attack** |
-| **6** | **Mantle of Majesty** | **Bonus Action:** [แนะนำ] ร่าย **`Command` ฟรี** (ไม่เสีย Slot) และ **ร่ายซ้ำได้ทุกเทิร์นด้วย Bonus Action** เป็นเวลา 1 นาที — ใช้ได้ 1 ครั้ง/Long Rest (หรือใช้ Spell Slot ระดับ 3) |
-| **14** | **Unbreakable Majesty** | **Bonus Action:** [แนะนำมาก] เข้าสู่สภาวะสง่างาม **1 นาที**:<br>• **ศัตรูที่จะโจมตีคุณต้องทอย CHA Save — ล้มเหลว = ต้องเปลี่ยนเป้าหมายและเสีย Action นั้น**<br>• **ถ้าสำเร็จ = มันเสียเปรียบในการโจมตีคุณทั้งเทิร์น**<br>ใช้ได้ 1 ครั้ง/Short Rest |
+**เลเวล 3 Dazzling Footwork**
 
-> **สายป้องกันตัวและควบคุมที่ดีที่สุด** — Unbreakable Majesty ทำให้ศัตรูตีคุณไม่ได้เลย
+[แนะนำ] ตราบที่**ไม่ใส่เกราะและไม่ถือโล่**:
+- **AC = 10 + DEX + CHA** [แนะนำ]
+- **Unarmed Strike ใช้ DEX และทำดาเมจ = Bardic Inspiration Die + DEX** (เป็น Bludgeoning)
+- **1 ครั้ง/เทิร์น: เมื่อตีโดนด้วย Unarmed Strike เพิ่มดาเมจ Bardic Inspiration Die**
+
+**เลเวล 6 Inspiring Movement**
+
+**Reaction:** เมื่อศัตรูเข้ามาใกล้เพื่อนในระยะ 5 ฟุต **คุณเคลื่อนที่ครึ่ง Speed และเพื่อนเคลื่อนที่ครึ่ง Speed ด้วย** (ไม่โดน Opportunity Attack)
+
+**เลเวล 6 Tandem Footwork**
+
+[แนะนำ] เมื่อทอย Initiative **คุณและเพื่อนในระยะ 30 ฟุต บวก Bardic Inspiration Die ในการทอย Initiative** (ใช้ Bardic Inspiration 1 ครั้ง)
+
+**เลเวล 14 Leading Evasion**
+
+[แนะนำมาก] เมื่อทอย **DEX Save** เพื่อลดดาเมจครึ่ง **สำเร็จ = 0, ล้มเหลว = ครึ่ง** • **และเพื่อนในระยะ 5 ฟุตได้ผลนี้ด้วย!**
+
+**สายที่มี AC สูงที่สุดของ Bard** DEX 20 + CHA 20 = **AC 20** โดยไม่ใส่เกราะ
+
+---
+
+### 4. College of Glamour วิทยาลัยแห่งมนตร์เสน่ห์
+
+**ธีม:** Bard ผู้ได้รับพลังจาก Feywild **ควบคุมและป้องกันทีมได้ดีที่สุด**
+
+**เลเวล 3 Beguiling Magic**
+
+[แนะนำ] • ได้สเปล **Charm Person** และ **Mirror Image** เตรียมไว้เสมอ
+- **หลังร่ายสเปล Enchantment หรือ Illusion:** ทำให้สิ่งมีชีวิตในระยะ 60 ฟุตทอย **WIS Save** ล้มเหลว = **Charmed หรือ Frightened 1 นาที** (ใช้ได้ Prof Bonus ครั้ง/Long Rest)
+
+**เลเวล 3 Mantle of Inspiration**
+
+**Bonus Action + Bardic Inspiration 1 ครั้ง:** [แนะนำมาก] ให้เพื่อนได้ถึง **CHA modifier คน** ในระยะ 60 ฟุต:
+- **Temp HP = 2 คูณ Bardic Inspiration Die**
+- **และเคลื่อนที่ได้ทันทีเท่ากับ Speed โดยไม่โดน Opportunity Attack**
+
+**เลเวล 6 Mantle of Majesty**
+
+**Bonus Action:** [แนะนำ] ร่าย **Command ฟรี** (ไม่เสีย Slot) และ **ร่ายซ้ำได้ทุกเทิร์นด้วย Bonus Action** เป็นเวลา 1 นาที ใช้ได้ 1 ครั้ง/Long Rest (หรือใช้ Spell Slot ระดับ 3)
+
+**เลเวล 14 Unbreakable Majesty**
+
+**Bonus Action:** [แนะนำมาก] เข้าสู่สภาวะสง่างาม **1 นาที**:
+- **ศัตรูที่จะโจมตีคุณต้องทอย CHA Save ล้มเหลว = ต้องเปลี่ยนเป้าหมายและเสีย Action นั้น**
+- **ถ้าสำเร็จ = มันเสียเปรียบในการโจมตีคุณทั้งเทิร์น**
+- ใช้ได้ 1 ครั้ง/Short Rest
+
+**สายป้องกันตัวและควบคุมที่ดีที่สุด** Unbreakable Majesty ทำให้ศัตรูตีคุณไม่ได้เลย
 
 ---
 
 ## เปรียบเทียบ 4 Subclass
 
-| | **Lore** | **Valor** | **Dance** | **Glamour** |
-|---|---|---|---|---|
-| **จุดเด่น** | **ซัพพอร์ต+เวทดีสุด** | ยืนแนวหน้าได้ | AC สูง + คล่อง | **ควบคุม+ป้องกัน** |
-| **ความยาก** | ง่าย | ง่าย | กลาง | กลาง |
-| **ช่วยทีม** | **สูงสุด** | กลาง | สูง | **สูงสุด** |
-| **แนะนำมือใหม่** | **ใช่** | **ใช่** | ใช่ | ใช่ |
+- **จุดเด่น** **ซัพพอร์ต+เวทดีสุด** ยืนแนวหน้าได้ AC สูง + คล่อง **ควบคุม+ป้องกัน**
+- **ความยาก** ง่าย ง่าย กลาง กลาง
+- **ช่วยทีม** **สูงสุด** กลาง สูง **สูงสุด**
+- **แนะนำมือใหม่** **ใช่** **ใช่** ใช่ ใช่
 
 ---
 ---
 
-# รายการเวทของ Bard (Bard Spell List)
+## เวทของ Bard
 
-> **[C] = Concentration** | **[R] = Ritual** | [แนะนำ] = แนะนำ
-> **ตั้งแต่เลเวล 10** คุณเลือกจากรายการ **Cleric, Druid, และ Wizard** ได้ด้วย (Magical Secrets)
+Bard ใช้ค่า CHA ในการร่ายเวท
 
----
+Spell Save DC เท่ากับ 8 บวก Proficiency Bonus บวก CHA modifier ส่วน Spell Attack Bonus เท่ากับ Proficiency Bonus บวก CHA modifier
 
-## Cantrips
+รายการเวททั้งหมดของคลาสนี้ พร้อมรายละเอียดว่าร่ายด้วยอะไร ระยะเท่าไหร่ และให้ผลยังไง ย้ายไปอยู่ที่ [เวทของนักดนตรีเวท (Bard)](../10-spells/class-lists/bard.md) แล้ว
 
-| Cantrip | ทำอะไร |
-|---|---|
-| **เยาะเย้ยเจ็บแสบ (Vicious Mockery)** [แนะนำมาก] | WIS Save — **1d6 Psychic** + **การโจมตีครั้งถัดไปของเป้าหมายเสียเปรียบ** (Cantrip เอกลักษณ์ของ Bard) |
-| **ภาพลวงตาเล็ก (Minor Illusion)** [แนะนำ] | สร้างภาพหรือเสียงลวง |
-| **มายากลจิ๊บจ๊อย (Prestidigitation)** [แนะนำ] | เอฟเฟกต์เวทเล็ก ๆ |
-| **มือเวท (Mage Hand)** [แนะนำ] | มือลอยระยะ 30 ฟุต |
-| **แสงเริงระบำ (Dancing Lights)** | แสงลอย 4 ดวง |
-| **มิตรภาพ (Friends)** | Advantage ใน CHA Check ต่อ 1 ตัว |
-| **แสง (Light)** | วัตถุเปล่งแสง |
-| **ซ่อมแซม (Mending)** | ซ่อมของ |
-| **สาร (Message)** | กระซิบระยะ 120 ฟุต |
-| **แสงดารา (Starry Wisp)** | Spell Attack — **1d8 Radiant** + เป้าหมายเปล่งแสง (ซ่อนตัวไม่ได้) |
-| **เสียงกัมปนาท (Thunderclap)** | CON Save — 1d6 Thunder รอบตัว 5 ฟุต |
-| **โจมตีแม่นยำ (True Strike)** | โจมตีด้วยอาวุธโดยใช้ CHA แทน + ดาเมจ Radiant เพิ่ม |
-| **ปัดใบมีด (Blade Ward)** | Resistance กายภาพจนจบเทิร์นหน้า |
+ในไฟล์นั้นมีหัวข้อ "สเปลที่แนะนำสำหรับมือใหม่" อยู่ท้ายไฟล์ ซึ่งบอกว่าแต่ละระดับควรเอาอันไหนก่อน
 
-> **แนะนำ 2 อันแรก:** `Vicious Mockery` [แนะนำมาก] + `Minor Illusion` หรือ `Prestidigitation`
-
----
-
-## สเปลระดับ 1
-
-| สเปล | ทำอะไร |
-|---|---|
-| **วจนะรักษา (Healing Word)** [แนะนำมาก] | **Bonus Action ระยะ 60 ฟุต:** ฟื้น **2d4 + CHA** — ช่วยเพื่อนที่ล้มลงได้จากไกล |
-| **ไฟภูตพราย (Faerie Fire)** [แนะนำมาก] [C] | ลูกบาศก์ 20 ฟุต — DEX Save ล้มเหลว = **เป้าหมายเปล่งแสง และทุกคนโจมตีมันได้ Advantage** |
-| **หัวเราะน่าเกลียด (Tasha's Hideous Laughter)** [แนะนำ] [C] | WIS Save — ล้มเหลว = **Prone + Incapacitated** |
-| **เสียงกระซิบขัดหู (Dissonant Whispers)** [แนะนำ] | WIS Save — **3d6 Psychic** + **ล้มเหลว = ต้องวิ่งหนีจากคุณ** (โดน Opportunity Attack!) |
-| **เสน่ห์ (Charm Person)** | Humanoid ทอย WIS Save — ล้มเหลว = Charmed 1 ชั่วโมง |
-| **รักษาบาดแผล (Cure Wounds)** | สัมผัส ฟื้น 2d8 + CHA |
-| **คำสาปแช่ง (Bane)** [C] | ศัตรู 3 ตัว **−1d4 ในการทอยโจมตีและ Save** |
-| **ประทานพร (Bless)** [แนะนำ] [C] | เพื่อน 3 คน **+1d4 ในการทอยโจมตีและ Save** |
-| **บัญชา (Command)** [แนะนำ] | WIS Save — ล้มเหลว = ทำตามคำสั่ง 1 คำ |
-| **หลับใหล (Sleep)** | CON Save — ล้มเหลว = Incapacitated |
-| **คลื่นกัมปนาท (Thunderwave)** | ลูกบาศก์ 15 ฟุต — 2d8 Thunder + ผลัก 10 ฟุต |
-| **สาดสีสัน (Color Spray)** | กรวย 15 ฟุต — CON Save ล้มเหลว = Blinded |
-| **วีรกรรม (Heroism)** [C] | ภูมิคุ้มกัน Frightened + Temp HP ทุกเทิร์น |
-| **ปลอมตัว (Disguise Self)** | เปลี่ยนรูปลักษณ์ 1 ชั่วโมง |
-| **อักษรลวงตา (Illusory Script)** [R] | เขียนข้อความที่คนอื่นอ่านไม่ออก |
-| **ภาพเงียบ (Silent Image)** [C] | ภาพลวงตา 15 ฟุต |
-| **ก้าวยาว (Longstrider)** | Speed +10 ฟุต |
-| **ขนนกร่วง (Feather Fall)** [แนะนำ] | **Reaction:** 5 คนตกช้าลง ไม่รับดาเมจ |
-| **ตรวจจับเวท (Detect Magic)** [C][R] | รับรู้เวทมนตร์ในระยะ 30 ฟุต |
-| **จำแนก (Identify)** [R] | รู้คุณสมบัติของของวิเศษ |
-| **เข้าใจภาษา (Comprehend Languages)** [R] | อ่านและเข้าใจทุกภาษา |
-| **ผูกมิตรสัตว์ (Animal Friendship)** | สัตว์ทอย WIS Save — ล้มเหลว = Charmed |
-| **พูดกับสัตว์ (Speak with Animals)** [R] | สื่อสารกับสัตว์ |
-| **คนรับใช้ล่องหน (Unseen Servant)** [R] | สร้างพลังล่องหนที่ทำงานให้ |
-
-> **แนะนำ 4 อันแรก:** `Healing Word` [แนะนำมาก] + `Faerie Fire` [แนะนำมาก] + `Dissonant Whispers` [แนะนำ] + `Tasha's Hideous Laughter`
-
----
-
-## สเปลระดับ 2 — ได้ที่เลเวล 3
-
-| สเปล | ทำอะไร |
-|---|---|
-| **ตรึงมนุษย์ (Hold Person)** [แนะนำมาก] [C] | WIS Save — ล้มเหลว = **ทีมตีคริติคอลทุกครั้ง (Paralyzed)** |
-| **ชักจูง (Suggestion)** [แนะนำมาก] [C] | WIS Save — ล้มเหลว = ทำตามคำแนะนำ 8 ชั่วโมง |
-| **ล่องหน (Invisibility)** [แนะนำ] [C] | เป้าหมาย Invisible 1 ชั่วโมง |
-| **แตกสลาย (Shatter)** [แนะนำ] | ทรงกลม 10 ฟุต — 3d8 Thunder |
-| **โลหะร้อน (Heat Metal)** [แนะนำ] [C] | **2d8 Fire** ทุกเทิร์น (Bonus Action) + เป้าหมายต้องทิ้งของหรือเสียเปรียบทุกอย่าง |
-| **เสริมความสามารถ (Enhance Ability)** [C] | Advantage ใน Ability Check ของค่าที่เลือก |
-| **ฟื้นฟูขั้นต้น (Lesser Restoration)** [แนะนำ] | ลบ Blinded, Deafened, Paralyzed, หรือ Poisoned |
-| **สงบอารมณ์ (Calm Emotions)** [C] | ลบ Charmed/Frightened หรือทำให้ศัตรูเป็นกลาง |
-| **อ่านใจ (Detect Thoughts)** [C] | อ่านความคิดผิวเผิน |
-| **ตาบอด/หูหนวก (Blindness/Deafness)** | CON Save — ล้มเหลว = Blinded หรือ Deafened |
-| **เมฆมีดสั้น (Cloud of Daggers)** [C] | ลูกบาศก์ 5 ฟุต — 4d4 Slashing |
-| **มงกุฎบ้าคลั่ง (Crown of Madness)** [C] | ควบคุมให้เป้าหมายโจมตีพวกเดียวกัน |
-| **สะกดใจ (Enthrall)** | ศัตรูเสียเปรียบใน Perception Check ที่ไม่ใช่มองคุณ |
-| **เปิดกุญแจ (Knock)** | เปิดกุญแจหรือประตูที่ล็อก |
-| **ปากเวท (Magic Mouth)** [R] | ฝากข้อความไว้ในวัตถุ |
-| **ภาพสะท้อน (Mirror Image)** [แนะนำ] | สร้างภาพลวงตา 3 ตัว |
-| **มายาบังคับ (Phantasmal Force)** [C] | ภาพลวงตาในใจเป้าหมาย + ดาเมจ Psychic |
-| **เห็นสิ่งล่องหน (See Invisibility)** | เห็นสิ่งที่ Invisible |
-| **ความเงียบ (Silence)** [C][R] | ทรงกลม 20 ฟุตไม่มีเสียง |
-| **เขตความจริง (Zone of Truth)** [แนะนำ] | ในรัศมี 15 ฟุต โกหกไม่ได้ |
-| **ส่งสารด้วยสัตว์ (Animal Messenger)** [R] | ส่งข้อความผ่านสัตว์เล็ก |
-| **ค้นหาสัตว์/พืช (Locate Animals or Plants)** [R] | รู้ตำแหน่งสัตว์หรือพืชที่ระบุ |
-| **ค้นหาวัตถุ (Locate Object)** [C] | รู้ตำแหน่งวัตถุที่คุ้นเคย |
-| **ช่วยเหลือ (Aid)** [แนะนำ] | เพื่อน 3 คน HP สูงสุด +5 และฟื้น 5 HP |
-
-> **แนะนำ:** `Hold Person` [แนะนำมาก] + `Suggestion` [แนะนำมาก] + `Heat Metal` [แนะนำ]
-
----
-
-## สเปลระดับ 3 — ได้ที่เลเวล 5
-
-| สเปล | ทำอะไร |
-|---|---|
-| **ลวดลายสะกดจิต (Hypnotic Pattern)** [แนะนำอย่างยิ่ง] [C] | ลูกบาศก์ 30 ฟุต — WIS Save ล้มเหลว = **Charmed + Incapacitated** — **สเปลควบคุมที่ดีที่สุด** |
-| **ความกลัว (Fear)** [แนะนำมาก] [C] | กรวย 30 ฟุต — Frightened + ทิ้งของ + ต้องวิ่งหนี |
-| **สลายเวท (Dispel Magic)** [แนะนำมาก] | ยกเลิกสเปลระดับ 3 หรือต่ำกว่า |
-| **ภาพใหญ่ (Major Image)** [แนะนำ] [C] | ภาพลวงตา 20 ฟุต พร้อมเสียง กลิ่น อุณหภูมิ |
-| **วจนะรักษาหมู่ (Mass Healing Word)** [แนะนำ] | **Bonus Action:** เพื่อน 6 คนฟื้น 2d4 + CHA |
-| **สาป (Bestow Curse)** [C] | เป้าหมายติดคำสาป |
-| **ตาทิพย์ (Clairvoyance)** [C] | มองหรือฟังจากจุดไกล |
-| **อักขระป้องกัน (Glyph of Warding)** | ตั้งกับดักเวท |
-| **กระโจมจิ๋ว (Leomund's Tiny Hut)** [แนะนำ] [R] | โดม 8 ชั่วโมง — พัก Long Rest ปลอดภัย |
-| **ป้องกันการตรวจจับ (Nondetection)** | ป้องกันการถูกตรวจจับด้วยเวท |
-| **เร่งการเติบโตพืช (Plant Growth)** | พื้นที่ 100 ฟุตเป็น Difficult Terrain |
-| **ส่งสาร (Sending)** | ส่งข้อความ 25 คำถึงใครก็ได้ |
-| **หน่วง (Slow)** [แนะนำ] | 6 ตัว — Speed ครึ่ง, −2 AC, Action ได้อย่างเดียว |
-| **พูดกับคนตาย (Speak with Dead)** [R] | ถามศพ 5 คำถาม |
-| **เมฆเหม็น (Stinking Cloud)** [C] | ทรงกลม 20 ฟุต — เสีย Action ทั้งเทิร์น |
-| **ภาษา (Tongues)** | เข้าใจและพูดทุกภาษา |
-| **แกล้งตาย (Feign Death)** [R] | ทำให้เป้าหมายดูเหมือนตาย |
-| **ขัดขวางเวท (Counterspell)** [แนะนำอย่างยิ่ง] | **Reaction:** ยกเลิกสเปลที่ศัตรูกำลังร่าย |
-
-> **แนะนำ:** `Hypnotic Pattern` [แนะนำอย่างยิ่ง] + `Counterspell` [แนะนำอย่างยิ่ง] + `Fear` [แนะนำมาก]
-
----
-
-## สเปลระดับ 4 — ได้ที่เลเวล 7
-
-| สเปล | ทำอะไร |
-|---|---|
-| **แปลงร่าง (Polymorph)** [แนะนำอย่างยิ่ง] [C] | แปลงสิ่งมีชีวิตเป็นสัตว์ — ทำให้ศัตรูไร้พิษภัย หรือแปลงเพื่อนเป็น T-Rex |
-| **ล่องหนขั้นสูง (Greater Invisibility)** [แนะนำมาก] | Invisible แม้จะโจมตีหรือร่ายเวท |
-| **ประตูมิติ (Dimension Door)** [แนะนำมาก] | วาร์ป 500 ฟุต พร้อมเพื่อน 1 คน |
-| **สับสน (Confusion)** [แนะนำ] [C] | ศัตรูทำอะไรสุ่ม ๆ (อาจตีพวกเดียวกัน) |
-| **เสน่ห์อสูร (Charm Monster)** | สิ่งมีชีวิตใดก็ได้ — Charmed 1 ชั่วโมง |
-| **บังคับ (Compulsion)** [C] | ควบคุมทิศทางการเคลื่อนที่ของศัตรู |
-| **อิสระในการเคลื่อนที่ (Freedom of Movement)** [แนะนำ] | ไม่ติด Grappled, Restrained, Paralyzed |
-| **ภูมิประเทศลวง (Hallucinatory Terrain)** | เปลี่ยนภาพภูมิประเทศ 150 ฟุต |
-| **ค้นหาสิ่งมีชีวิต (Locate Creature)** [C] | รู้ตำแหน่งสิ่งมีชีวิตที่คุ้นเคย |
-| **มัจจุราชมายา (Phantasmal Killer)** [C] | 4d10 Psychic ทุกเทิร์น + Frightened |
-
----
-
-## สเปลระดับ 5 — ได้ที่เลเวล 9
-
-| สเปล | ทำอะไร |
-|---|---|
-| **ไฟฟ้าลัดวงจรสมอง (Synaptic Static)** [แนะนำมาก] | ทรงกลม 20 ฟุต — **8d6 Psychic** + **−1d6 ในการทอยโจมตีและ Check** |
-| **ครอบงำมนุษย์ (Dominate Person)** [แนะนำมาก] [C] | ควบคุม Humanoid ได้ทั้งหมด |
-| **ตรึงอสูร (Hold Monster)** [แนะนำมาก] [C] | สิ่งมีชีวิตใดก็ได้ — Paralyzed |
-| **รักษาหมู่ (Mass Cure Wounds)** [แนะนำ] | เพื่อน 6 คนฟื้น 5d8 + CHA |
-| **ฟื้นฟูขั้นสูง (Greater Restoration)** [แนะนำ] | ลบ Exhaustion / คำสาป / Charmed / Petrified |
-| **ปลุกวัตถุ (Animate Objects)** [แนะนำ] [C] | ปลุกวัตถุ 10 ชิ้นให้โจมตี |
-| **หลอกล่อ (Mislead)** [C] | Invisible + ภาพลวงตาที่ควบคุมได้ |
-| **แก้ไขความทรงจำ (Modify Memory)** [C] | เปลี่ยนความทรงจำของเป้าหมาย |
-| **รูปลักษณ์ (Seeming)** | เปลี่ยนรูปลักษณ์ของกลุ่มทั้งกลุ่ม |
-| **ปลุกจิตสำนึก (Awaken)** | ให้สติปัญญาและการพูดแก่สัตว์หรือพืช |
-| **ความฝัน (Dream)** | ปรากฏตัวในฝันของคนที่รู้จัก |
-| **คำสั่งผูกมัด (Geas)** | บังคับเป้าหมายทำตามคำสั่ง 30 วัน |
-| **ตำนาน (Legend Lore)** | รู้ข้อมูลเกี่ยวกับคน/สถานที่/วัตถุที่มีชื่อเสียง |
-| **ผูกมัดข้ามมิติ (Planar Binding)** | บังคับสิ่งมีชีวิตนอกมิติให้รับใช้ |
-| **ปลุกคนตาย (Raise Dead)** [แนะนำ] | ชุบชีวิตผู้ที่ตายไม่เกิน 10 วัน |
-| **สอดส่อง (Scrying)** [C] | มองเห็นเป้าหมายที่อยู่ไกล |
-| **วงวาร์ป (Teleportation Circle)** | สร้างประตูวาร์ป |
-
----
-
-## สเปลระดับ 6-9
-
-### ระดับ 6 (เลเวล 11)
-| สเปล | ทำอะไร |
-|---|---|
-| **Otto's Irresistible Dance** [แนะนำมาก] [C] | เป้าหมาย **เต้นรำ** — Speed 0, เสียเปรียบทุกอย่าง, ศัตรูตีมันได้ Advantage |
-| **Mass Suggestion** [แนะนำ] | ชักจูงคน 12 คนพร้อมกัน (24 ชั่วโมง) |
-| **Eyebite** [C] | ทำให้เป้าหมาย Asleep / Panicked / Sickened |
-| **True Seeing** | เห็นทะลุภาพลวงตา เห็นสิ่งล่องหน |
-| **Find the Path** [C] | รู้เส้นทางที่สั้นที่สุดไปยังจุดหมาย |
-| **Guards and Wards** | ป้องกันอาคารทั้งหลัง |
-| **Heroes' Feast** [แนะนำ] | 12 คน — HP สูงสุด +2d10, ฟื้นเต็ม, ภูมิคุ้มกันพิษ+ความกลัว 24 ชั่วโมง |
-| **Programmed Illusion** | ตั้งภาพลวงตาให้ทำงานตามเงื่อนไข |
-
-### ระดับ 7 (เลเวล 13)
-| สเปล | ทำอะไร |
-|---|---|
-| **Forcecage** [แนะนำอย่างยิ่ง] | **กรงพลังที่หนีไม่ได้** — สเปลควบคุมที่ดีที่สุดในเกม |
-| **Teleport** [แนะนำมาก] | วาร์ปทีมทั้งกลุ่มไปที่ไหนก็ได้ |
-| **Etherealness** | เข้าสู่มิติ Ethereal |
-| **Mirage Arcane** | เปลี่ยนภูมิประเทศ 1 ตารางไมล์ |
-| **Mordenkainen's Magnificent Mansion** | สร้างคฤหาสน์มิติซ่อนเร้น |
-| **Mordenkainen's Sword** [C] | ดาบพลังลอย — 4d12 Force |
-| **Project Image** [C] | ภาพลวงตาของตัวเองระยะ 500 ไมล์ |
-| **Regenerate** [แนะนำ] | ฟื้น 4d8+15 + 1 HP ทุกเทิร์น 1 ชั่วโมง + งอกอวัยวะ |
-| **Resurrection** [แนะนำ] | ชุบชีวิตผู้ที่ตายไม่เกิน 100 ปี |
-| **Symbol** | อักขระเวทที่ทำงานเมื่อกระตุ้น |
-
-### ระดับ 8 (เลเวล 15)
-| สเปล | ทำอะไร |
-|---|---|
-| **Dominate Monster** [แนะนำมาก] [C] | ควบคุมสิ่งมีชีวิตใดก็ได้ |
-| **Power Word Stun** [แนะนำ] | เป้าหมายที่ HP ≤ 150 **Stunned ทันที** ไม่ต้องทอย |
-| **Mind Blank** [แนะนำ] | ภูมิคุ้มกัน Psychic, การอ่านใจ, การทำนาย, Charmed 24 ชั่วโมง |
-| **Glibness** [แนะนำ] | ทุกการทอย CHA Check **นับเป็นอย่างน้อย 15** |
-| **Antipathy/Sympathy** | ทำให้สิ่งมีชีวิตหนีหรือถูกดึงดูดเข้าหา |
-| **Feeblemind** | INT และ CHA ของเป้าหมายกลายเป็น 1 |
-| **Control Weather** [C] | เปลี่ยนสภาพอากาศในรัศมี 5 ไมล์ |
-
-### ระดับ 9 (เลเวล 17)
-| สเปล | ทำอะไร |
-|---|---|
-| **Power Word Kill** [แนะนำมาก] | เป้าหมายที่ **HP ≤ 100 ตายทันที** |
-| **Power Word Heal** [แนะนำมาก] | **ฟื้น HP เต็ม** + ลบสภาวะทั้งหมด |
-| **Foresight** [แนะนำมาก] | เป้าหมาย **Advantage ในทุก d20 Test** + ศัตรูโจมตีมันเสียเปรียบ **8 ชั่วโมง** |
-| **True Polymorph** [แนะนำมาก] | แปลงสิ่งมีชีวิตหรือวัตถุเป็นอะไรก็ได้ (ถาวรได้) |
-| **Mass Heal** [แนะนำ] | แจก HP รวม 700 |
-| **Prismatic Wall** | กำแพง 7 ชั้นที่แต่ละชั้นมีผลต่างกัน |
-| **Time Stop** [แนะนำมาก] | **หยุดเวลา 1d4+1 เทิร์น** (เข้าถึงผ่าน Magical Secrets) |
-| **Wish** [แนะนำอย่างยิ่ง] | สเปลที่ทรงพลังที่สุดในเกม (เข้าถึงผ่าน Magical Secrets) |
+ถ้าอยากดูสเปลเรียงตามระดับแทนที่จะเรียงตามคลาส ให้ดูที่ [รายละเอียดสเปล](../10-spells/00-spells-overview.md)
 
 ---
 
@@ -475,54 +308,48 @@ Bard มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **�
 
 ### ค่าพลังที่ควรจัด
 
-```
-CHA สูงสุดเสมอ (17 20)
-DEX สูงรอง (14-16) AC (Light Armor) และ Initiative
-CON ปานกลาง (14) HP และ Concentration
-WIS ถ้าเหลือ
-INT / STR ต่ำได้ (Jack of All Trades ช่วยชดเชย)
-```
+- CHA สูงสุดเสมอ (17 20)
+- DEX สูงรอง (14-16) AC (Light Armor) และ Initiative
+- CON ปานกลาง (14) HP และ Concentration
+- WIS ถ้าเหลือ
+- INT / STR ต่ำได้ (Jack of All Trades ช่วยชดเชย)
 
 ### Species ที่แนะนำ
-| Species | เหตุผล |
-|---|---|
-| **Human** [แนะนำ] | Feat ฟรี |
-| **Halfling** [แนะนำ] | Luck (ทอย 1 ใหม่) — Bard ทอยเยอะมาก |
-| **Tiefling** [แนะนำ] | สเปลฟรีเข้าธีม + CHA |
-| **Aasimar** | Healing Hands + Necrotic Shroud (ใช้ CHA) |
-| **Gnome** | Advantage ใน INT/WIS/CHA Save |
-| **Elf (High)** | Cantrip + `Misty Step` ฟรี |
+
+- **Human** [แนะนำ] Feat ฟรี
+- **Halfling** [แนะนำ] Luck (ทอย 1 ใหม่) Bard ทอยเยอะมาก
+- **Tiefling** [แนะนำ] สเปลฟรีเข้าธีม + CHA
+- **Aasimar** Healing Hands + Necrotic Shroud (ใช้ CHA)
+- **Gnome** Advantage ใน INT/WIS/CHA Save
+- **Elf (High)** Cantrip + Misty Step ฟรี
 
 ### Background ที่แนะนำ
-**Charlatan** (DEX/CON/CHA) [แนะนำมาก] — ตรงเป๊ะทั้ง 3 ค่า • **STR/DEX/CHA — ได้ `Musician` (Entertainer)** [แนะนำ] เข้าธีม • **Noble** (STR/INT/CHA) • **Wayfarer** (DEX/WIS/CHA)
+**Charlatan** (DEX/CON/CHA) [แนะนำมาก] ตรงเป๊ะทั้ง 3 ค่า • **STR/DEX/CHA ได้ Musician (Entertainer)** [แนะนำ] เข้าธีม • **Noble** (STR/INT/CHA) • **Wayfarer** (DEX/WIS/CHA)
 
 ### Feat ที่แนะนำ (เลเวล 4+)
-| Feat | ทำไม |
-|---|---|
-| **Ability Score Improvement (CHA)** [แนะนำมาก] | ดัน CHA ถึง 20 — กระทบทั้ง Spell DC และจำนวน Bardic Inspiration |
-| **War Caster** [แนะนำ] | Advantage ในการรักษา Concentration |
-| **Resilient (Constitution)** [แนะนำ] | Proficiency ใน CON Save |
-| **Fey Touched** [แนะนำ] | +1 CHA + `Misty Step` + สเปลระดับ 1 |
-| **Inspiring Leader** [แนะนำ] | ให้ Temp HP ทั้งทีม (ใช้ CHA) |
-| **Lucky** | ช่วยชีวิต |
-| **Skulker** | ถ้าเล่นสายสอดแนม |
+
+- **Ability Score Improvement (CHA)** [แนะนำมาก] ดัน CHA ถึง 20 กระทบทั้ง Spell DC และจำนวน Bardic Inspiration
+- **War Caster** [แนะนำ] Advantage ในการรักษา Concentration
+- **Resilient (Constitution)** [แนะนำ] Proficiency ใน CON Save
+- **Fey Touched** [แนะนำ] +1 CHA + Misty Step + สเปลระดับ 1
+- **Inspiring Leader** [แนะนำ] ให้ Temp HP ทั้งทีม (ใช้ CHA)
+- **Lucky** ช่วยชีวิต
+- **Skulker** ถ้าเล่นสายสอดแนม
 
 ### ข้อผิดพลาดที่มือใหม่ทำบ่อย
 
-| ผิด | ถูก |
-|---|---|
-| เก็บ Bardic Inspiration ไว้ไม่ใช้ | **แจกให้หมด** — เลเวล 5+ ฟื้นทุก Short Rest แล้ว |
-| ให้ Bardic Inspiration ก่อนเพื่อนทอย | **ให้ล่วงหน้าได้** แต่เพื่อนสามารถ**ใช้หลังทอย d20 แล้ว** — บอกเพื่อนให้รอดูก่อน |
-| พยายามตีด้วยอาวุธ | Bard มี Proficiency แค่ Simple Weapon — **ใช้ Cantrip `Vicious Mockery` ดีกว่า** (ยกเว้น College of Valor/Dance) |
-| ไม่เลือก Expertise ใน Persuasion | **Bard คือหน้ากลุ่ม** — Persuasion + Deception ควรมี Expertise |
-| ลืมว่ามี Magical Secrets ที่เลเวล 10 | **วางแผนล่วงหน้า** — จะเอา `Counterspell` หรือ `Spirit Guardians` ดี |
-| ยืนแนวหน้า | HP d8 + Light Armor — **ยืนกลางแนว** |
+- เก็บ Bardic Inspiration ไว้ไม่ใช้ **แจกให้หมด** เลเวล 5+ ฟื้นทุก Short Rest แล้ว
+- ให้ Bardic Inspiration ก่อนเพื่อนทอย **ให้ล่วงหน้าได้** แต่เพื่อนสามารถ**ใช้หลังทอย d20 แล้ว** บอกเพื่อนให้รอดูก่อน
+- พยายามตีด้วยอาวุธ Bard มี Proficiency แค่ Simple Weapon **ใช้ Cantrip Vicious Mockery ดีกว่า** (ยกเว้น College of Valor/Dance)
+- ไม่เลือก Expertise ใน Persuasion **Bard คือหน้ากลุ่ม** Persuasion + Deception ควรมี Expertise
+- ลืมว่ามี Magical Secrets ที่เลเวล 10 **วางแผนล่วงหน้า** จะเอา Counterspell หรือ Spirit Guardians ดี
+- ยืนแนวหน้า HP d8 + Light Armor **ยืนกลางแนว**
 
 ---
 
 ## สรุป Bard ในหนึ่งบรรทัด
 
-> **Bardic Inspiration เปลี่ยนผลการทอยของทั้งทีม + Jack of All Trades ทำให้ทำอะไรก็ไม่ห่วย + Magical Secrets เข้าถึงสเปลจาก 4 คลาส = คลาสที่เก่งรอบด้านที่สุดในเกม**
+**Bardic Inspiration เปลี่ยนผลการทอยของทั้งทีม + Jack of All Trades ทำให้ทำอะไรก็ไม่ห่วย + Magical Secrets เข้าถึงสเปลจาก 4 คลาส = คลาสที่เก่งรอบด้านที่สุดในเกม**
 
 ---
 

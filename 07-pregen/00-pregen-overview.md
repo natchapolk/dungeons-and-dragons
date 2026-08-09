@@ -13,63 +13,55 @@
 - **การเล่นวันช็อต (One-shot)** ที่มีเวลาจำกัด
 - **คนที่อยากลองหลายคลาส** ก่อนตัดสินใจสร้างตัวจริง
 
-> **ทุกตัวใช้ Standard Array (15, 14, 13, 12, 10, 8)** และกฎ D&D 2024
-> ทุกไฟล์มีหัวข้อ "ทำอะไรในเทิร์นของคุณ" กับ "เมื่อขึ้นเลเวล 2-3 ทำอะไรต่อ" ให้ครบ
+**ทุกตัวใช้ Standard Array (15, 14, 13, 12, 10, 8)** และกฎ D&D 2024
+ทุกไฟล์มีหัวข้อ "ทำอะไรในเทิร์นของคุณ" กับ "เมื่อขึ้นเลเวล 2-3 ทำอะไรต่อ" ให้ครบ
 
 ---
 
 ## ตารางเปรียบเทียบทั้ง 8 ตัว
 
-| ตัวละคร | คลาส | เผ่าพันธุ์ | HP | AC | บทบาทในทีม | ความยาก |
-|---|---|---|---|---|---|---|
-| **[Bran](01-fighter-bran.md)** | Fighter | Human | 12 | **19** | แนวหน้า ตีสม่ำเสมอ | ง่ายที่สุด |
-| **[Thokk](02-barbarian-thokk.md)** | Barbarian | Goliath | **16** | 13 | แนวหน้า ตีแรง ทนที่สุด | ง่ายที่สุด |
-| **[Pip](03-rogue-pip.md)** | Rogue | Halfling | 10 | 14 | ดาเมจสูง สายสกิล สอดแนม | ง่าย |
-| **[Elara](04-cleric-elara.md)** | Cleric | Aasimar | 10 | 17 | ผู้รักษา ยืนแนวหน้าได้ | ปานกลาง |
-| **[Kaelen](05-paladin-kaelen.md)** | Paladin | Dragonborn | 12 | **18** | แนวหน้า รักษา บัฟทีม | ปานกลาง |
-| **[Lyra](06-ranger-lyra.md)** | Ranger | Wood Elf | 12 | 15 | ยิงธนู สอดแนม เดินป่า | ปานกลาง |
-| **[Seraphine](07-bard-seraphine.md)** | Bard | Tiefling | 9 | 13 | ซัพพอร์ต หน้ากลุ่ม เจรจา | ปานกลาง |
-| **[Fizzwick](08-wizard-fizzwick.md)** | Wizard | Gnome | 8 | 12 | ดาเมจพื้นที่ ควบคุมสนามรบ | ยาก |
+- **[Bran](01-fighter-bran.md)** คลาส Fighter, เผ่าพันธุ์ Human, HP 12, AC **19**, บทบาทในทีม แนวหน้า ตีสม่ำเสมอ, ความยาก ง่ายที่สุด
+- **[Thokk](02-barbarian-thokk.md)** คลาส Barbarian, เผ่าพันธุ์ Goliath, HP **16**, AC 13, บทบาทในทีม แนวหน้า ตีแรง ทนที่สุด, ความยาก ง่ายที่สุด
+- **[Pip](03-rogue-pip.md)** คลาส Rogue, เผ่าพันธุ์ Halfling, HP 10, AC 14, บทบาทในทีม ดาเมจสูง สายสกิล สอดแนม, ความยาก ง่าย
+- **[Elara](04-cleric-elara.md)** คลาส Cleric, เผ่าพันธุ์ Aasimar, HP 10, AC 17, บทบาทในทีม ผู้รักษา ยืนแนวหน้าได้, ความยาก ปานกลาง
+- **[Kaelen](05-paladin-kaelen.md)** คลาส Paladin, เผ่าพันธุ์ Dragonborn, HP 12, AC **18**, บทบาทในทีม แนวหน้า รักษา บัฟทีม, ความยาก ปานกลาง
+- **[Lyra](06-ranger-lyra.md)** คลาส Ranger, เผ่าพันธุ์ Wood Elf, HP 12, AC 15, บทบาทในทีม ยิงธนู สอดแนม เดินป่า, ความยาก ปานกลาง
+- **[Seraphine](07-bard-seraphine.md)** คลาส Bard, เผ่าพันธุ์ Tiefling, HP 9, AC 13, บทบาทในทีม ซัพพอร์ต หน้ากลุ่ม เจรจา, ความยาก ปานกลาง
+- **[Fizzwick](08-wizard-fizzwick.md)** คลาส Wizard, เผ่าพันธุ์ Gnome, HP 8, AC 12, บทบาทในทีม ดาเมจพื้นที่ ควบคุมสนามรบ, ความยาก ยาก
 
 ---
 
 ## เลือกตัวไหนดี
 
-| ถ้าคุณ... | เลือก |
-|---|---|
-| **เล่นครั้งแรกในชีวิต ไม่อยากคิดเยอะ** | **Bran (Fighter)** หรือ **Thokk (Barbarian)** |
-| **อยากตีแรงและทำอะไรได้หลากหลาย** | **Pip (Rogue)** |
-| **อยากลองใช้เวท แต่กลัวเลือกผิด** | **Elara (Cleric)** — เตรียมเวทใหม่ได้ทุกวัน แก้ผิดง่าย |
-| **อยากทั้งตีและช่วยเพื่อน** | **Kaelen (Paladin)** |
-| **อยากยิงระยะไกลและอยู่ห่างอันตราย** | **Lyra (Ranger)** |
-| **อยากเป็นคนพูดคุยเจรจาแทนกลุ่ม** | **Seraphine (Bard)** |
-| **อยากใช้เวทเยอะที่สุดและชอบวางแผน** | **Fizzwick (Wizard)** |
+- **เล่นครั้งแรกในชีวิต ไม่อยากคิดเยอะ** **Bran (Fighter)** หรือ **Thokk (Barbarian)**
+- **อยากตีแรงและทำอะไรได้หลากหลาย** **Pip (Rogue)**
+- **อยากลองใช้เวท แต่กลัวเลือกผิด** **Elara (Cleric)** เตรียมเวทใหม่ได้ทุกวัน แก้ผิดง่าย
+- **อยากทั้งตีและช่วยเพื่อน** **Kaelen (Paladin)**
+- **อยากยิงระยะไกลและอยู่ห่างอันตราย** **Lyra (Ranger)**
+- **อยากเป็นคนพูดคุยเจรจาแทนกลุ่ม** **Seraphine (Bard)**
+- **อยากใช้เวทเยอะที่สุดและชอบวางแผน** **Fizzwick (Wizard)**
 
 ---
 
 ## ทีมที่แนะนำตามจำนวนผู้เล่น
 
-| จำนวนผู้เล่น | ทีมที่แนะนำ |
-|---|---|
-| **3 คน** | Bran + Elara + Pip |
-| **4 คน** | Bran + Elara + Pip + Fizzwick |
-| **5 คน** | Bran + Elara + Pip + Fizzwick + Lyra |
-| **6 คน** | เพิ่ม Seraphine หรือ Kaelen |
+- **3 คน** Bran + Elara + Pip
+- **4 คน** Bran + Elara + Pip + Fizzwick
+- **5 คน** Bran + Elara + Pip + Fizzwick + Lyra
+- **6 คน** เพิ่ม Seraphine หรือ Kaelen
 
-> **ทีมควรมีอย่างน้อย 1 คนที่รักษาได้** — Elara (Cleric), Kaelen (Paladin), หรือ Seraphine (Bard)
-> **และอย่างน้อย 1 คนที่ยืนแนวหน้าได้** — Bran, Thokk, หรือ Kaelen
+**ทีมควรมีอย่างน้อย 1 คนที่รักษาได้** Elara (Cleric), Kaelen (Paladin), หรือ Seraphine (Bard)
+**และอย่างน้อย 1 คนที่ยืนแนวหน้าได้** Bran, Thokk, หรือ Kaelen
 
 ---
 
 ## วิธีใช้ไฟล์เหล่านี้
 
-```
 1. เลือกตัวละคร แล้วเปิดไฟล์นั้น
 2. อ่านหัวข้อ "ตัวละครนี้คือใคร" เพื่อเข้าใจบุคลิก
 3. จดหรือพิมพ์ส่วน "ค่าที่ใช้บ่อยที่สุด" ไว้ข้างตัว
 4. อ่าน "ทำอะไรในเทิร์นของคุณ" ก่อนเริ่มเล่น
 5. เปลี่ยนชื่อและรูปลักษณ์ได้ตามใจ ไม่กระทบตัวเลข
-```
 
 ### สิ่งที่แก้ได้โดยไม่กระทบสมดุล
 
@@ -82,44 +74,38 @@
 
 ## สิ่งที่ทุกตัวละครมีเหมือนกัน
 
-| ค่า | เลเวล 1 |
-|---|---|
-| **Proficiency Bonus** | **+2** |
-| **จำนวน Hit Dice** | 1 ลูก (ชนิดตามคลาส) |
-| **ภาษา** | Common + อีก 2 ภาษาที่เลือก |
-| **Inspiration** | เริ่มเกมไม่มี DM จะแจกเมื่อเล่นบทบาทได้ดี |
+- **Proficiency Bonus** **+2**
+- **จำนวน Hit Dice** 1 ลูก (ชนิดตามคลาส)
+- **ภาษา** Common + อีก 2 ภาษาที่เลือก
+- **Inspiration** เริ่มเกมไม่มี DM จะแจกเมื่อเล่นบทบาทได้ดี
 
 ### สิ่งที่ทุกคนทำได้ในการต่อสู้
 
-| Action | ทำอะไร |
-|---|---|
-| **Attack** | โจมตี 1 ครั้ง |
-| **Dash** | เพิ่มระยะเคลื่อนที่อีกเท่าตัว |
-| **Disengage** | เคลื่อนที่ออกโดยไม่โดนตีสวน |
-| **Dodge** | ศัตรูโจมตีเราเสียเปรียบ (ใช้เมื่อ HP เหลือน้อย) |
-| **Help** | ให้เพื่อนได้ Advantage 1 ครั้ง |
-| **Hide** | ซ่อนตัว (ทอย Stealth DC 15) |
+- **Attack** โจมตี 1 ครั้ง
+- **Dash** เพิ่มระยะเคลื่อนที่อีกเท่าตัว
+- **Disengage** เคลื่อนที่ออกโดยไม่โดนตีสวน
+- **Dodge** ศัตรูโจมตีเราเสียเปรียบ (ใช้เมื่อ HP เหลือน้อย)
+- **Help** ให้เพื่อนได้ Advantage 1 ครั้ง
+- **Hide** ซ่อนตัว (ทอย Stealth DC 15)
 
 ---
 
 ## อ่านต่อ
 
-| ไฟล์ | ตัวละคร |
-|---|---|
-| [01-fighter-bran.md](01-fighter-bran.md) | **Bran** นักรบผ่านศึก (Fighter / Human / Soldier) |
-| [02-barbarian-thokk.md](02-barbarian-thokk.md) | **Thokk** ลูกหลานยักษ์ผู้เกรี้ยวกราด (Barbarian / Goliath / Farmer) |
-| [03-rogue-pip.md](03-rogue-pip.md) | **Pip** หัวขโมยจอมโชคดี (Rogue / Halfling / Criminal) |
-| [04-cleric-elara.md](04-cleric-elara.md) | **Elara** ผู้รับใช้แสงสว่าง (Cleric / Aasimar / Acolyte) |
-| [05-paladin-kaelen.md](05-paladin-kaelen.md) | **Kaelen** อัศวินสายเลือดมังกร (Paladin / Dragonborn / Noble) |
-| [06-ranger-lyra.md](06-ranger-lyra.md) | **Lyra** พรานแห่งพงไพร (Ranger / Wood Elf / Guide) |
-| [07-bard-seraphine.md](07-bard-seraphine.md) | **Seraphine** นักร้องลิ้นทอง (Bard / Tiefling / Charlatan) |
-| [08-wizard-fizzwick.md](08-wizard-fizzwick.md) | **Fizzwick** นักประดิษฐ์จอมเวท (Wizard / Gnome / Sage) |
+- [01-fighter-bran.md](01-fighter-bran.md) **Bran** นักรบผ่านศึก (Fighter / Human / Soldier)
+- [02-barbarian-thokk.md](02-barbarian-thokk.md) **Thokk** ลูกหลานยักษ์ผู้เกรี้ยวกราด (Barbarian / Goliath / Farmer)
+- [03-rogue-pip.md](03-rogue-pip.md) **Pip** หัวขโมยจอมโชคดี (Rogue / Halfling / Criminal)
+- [04-cleric-elara.md](04-cleric-elara.md) **Elara** ผู้รับใช้แสงสว่าง (Cleric / Aasimar / Acolyte)
+- [05-paladin-kaelen.md](05-paladin-kaelen.md) **Kaelen** อัศวินสายเลือดมังกร (Paladin / Dragonborn / Noble)
+- [06-ranger-lyra.md](06-ranger-lyra.md) **Lyra** พรานแห่งพงไพร (Ranger / Wood Elf / Guide)
+- [07-bard-seraphine.md](07-bard-seraphine.md) **Seraphine** นักร้องลิ้นทอง (Bard / Tiefling / Charlatan)
+- [08-wizard-fizzwick.md](08-wizard-fizzwick.md) **Fizzwick** นักประดิษฐ์จอมเวท (Wizard / Gnome / Sage)
 
 ---
 
 ## สรุปตัวละครสำเร็จรูปในหนึ่งบรรทัด
 
-> **8 ตัวละครเลเวล 1 ที่คำนวณเสร็จแล้ว หยิบไปเล่นได้ทันที ครอบคลุมทุกบทบาทในทีม พร้อมคำแนะนำว่าทำอะไรในเทิร์นของคุณ**
+**8 ตัวละครเลเวล 1 ที่คำนวณเสร็จแล้ว หยิบไปเล่นได้ทันที ครอบคลุมทุกบทบาทในทีม พร้อมคำแนะนำว่าทำอะไรในเทิร์นของคุณ**
 
 ---
 

@@ -1,6 +1,6 @@
 # การเล่นหลายคลาส (Multiclassing)
 
-[สารบัญ](../README.md)
+[กลับสารบัญ](../README.md)
 
 ---
 
@@ -8,32 +8,30 @@
 
 **การเล่นหลายคลาส (Multiclassing)** คือการเอาเลเวลของคลาสมากกว่า 1 คลาสมารวมกันในตัวละครเดียว
 
-> **เป็นกฎเสริม (Optional Rule)** — ต้องได้รับอนุญาตจาก DM ก่อน โต๊ะจำนวนมากไม่อนุญาต
+เป็นกฎเสริมที่ต้องได้รับอนุญาตจาก DM ก่อน โต๊ะจำนวนมากไม่อนุญาต
 
-> **ไม่แนะนำสำหรับผู้เล่นครั้งแรก** — Multiclass ทำให้ตัวละครอ่อนลงได้ง่ายกว่าที่คิด เพราะเสียความสามารถสำคัญที่ได้ตอนเลเวลสูงของคลาสเดียว
+ไม่แนะนำสำหรับผู้เล่นครั้งแรก เพราะ Multiclass ทำให้ตัวละครอ่อนลงได้ง่ายกว่าที่คิด เนื่องจากเสียความสามารถสำคัญที่ได้ตอนเลเวลสูงของคลาสเดียว
 
 ---
 
 ## เงื่อนไขค่าพลังขั้นต่ำ
 
-**ต้องมีค่าพลังถึงเกณฑ์ของ ทั้งคลาสเดิม และ คลาสใหม่**
+ต้องมีค่าพลังถึงเกณฑ์ทั้งของคลาสเดิมและคลาสใหม่ โดยเกณฑ์คือค่าพลังนั้นต้องมีอย่างน้อย 13
 
-| คลาส | ค่าที่ต้องมีอย่างน้อย 13 |
-|---|---|
-| **Barbarian** | STR |
-| **Bard** | CHA |
-| **Cleric** | WIS |
-| **Druid** | WIS |
-| **Fighter** | STR **หรือ** DEX |
-| **Monk** | DEX **และ** WIS |
-| **Paladin** | STR **และ** CHA |
-| **Ranger** | DEX **และ** WIS |
-| **Rogue** | DEX |
-| **Sorcerer** | CHA |
-| **Warlock** | CHA |
-| **Wizard** | INT |
+- Barbarian ต้องมี STR
+- Bard ต้องมี CHA
+- Cleric ต้องมี WIS
+- Druid ต้องมี WIS
+- Fighter ต้องมี STR หรือ DEX อย่างใดอย่างหนึ่ง
+- Monk ต้องมี DEX และ WIS ทั้งคู่
+- Paladin ต้องมี STR และ CHA ทั้งคู่
+- Ranger ต้องมี DEX และ WIS ทั้งคู่
+- Rogue ต้องมี DEX
+- Sorcerer ต้องมี CHA
+- Warlock ต้องมี CHA
+- Wizard ต้องมี INT
 
-> **ตัวอย่าง:** อยากเล่น Fighter แล้วเพิ่ม Wizard ต้องมี **(STR หรือ DEX) 13 ขึ้นไป และ INT 13 ขึ้นไป**
+ตัวอย่าง อยากเล่น Fighter แล้วเพิ่ม Wizard ต้องมี STR หรือ DEX ถึง 13 และต้องมี INT ถึง 13 ด้วย
 
 ---
 
@@ -41,129 +39,124 @@
 
 ### สิ่งที่ได้
 
-| ได้ | รายละเอียด |
-|---|---|
-| **Hit Dice** | เพิ่ม Hit Die ของคลาสใหม่ตามเลเวลที่ลง |
-| **HP** | ทอย Hit Die ของคลาสใหม่ + CON modifier (ไม่ได้ค่าสูงสุดเหมือนเลเวล 1) |
-| **Class Features** | ได้ Feature ของคลาสใหม่ตามเลเวลของคลาสนั้น (เริ่มจากเลเวล 1) |
-| **Proficiency บางส่วน** | ดูตารางด้านล่าง — **ได้ไม่ครบเหมือนตอนเริ่มคลาสแรก** |
+- **Hit Dice** เพิ่ม Hit Die ของคลาสใหม่ตามจำนวนเลเวลที่ลงในคลาสนั้น
+- **HP** ได้จากการทอย Hit Die ของคลาสใหม่บวก CON modifier ไม่ได้ค่าสูงสุดเหมือนตอนเลเวล 1
+- **Class Features** ได้ Feature ของคลาสใหม่ตามเลเวลของคลาสนั้น โดยเริ่มนับจากเลเวล 1 ของคลาสใหม่
+- **Proficiency บางส่วน** ได้ไม่ครบเหมือนตอนเริ่มคลาสแรก ดูรายละเอียดในหัวข้อถัดไป
 
 ### สิ่งที่ไม่ได้
 
-| ไม่ได้ | เหตุผล |
-|---|---|
-| **HP สูงสุดของ Hit Die** | ค่าสูงสุดได้เฉพาะเลเวล 1 ของตัวละครเท่านั้น |
-| **Saving Throw Proficiency** | ได้เฉพาะจากคลาสแรกเท่านั้น |
-| **จำนวน Skill เต็ม** | ได้แค่ตามตารางด้านล่าง |
-| **อุปกรณ์เริ่มต้น** | ไม่ได้เลย ต้องซื้อเอง |
+- **ค่า HP สูงสุดของ Hit Die** เพราะค่าสูงสุดได้เฉพาะตอนเลเวล 1 ของตัวละครเท่านั้น
+- **Saving Throw Proficiency** เพราะได้จากคลาสแรกเท่านั้น
+- **จำนวน Skill เต็มจำนวน** ได้แค่ตามที่ระบุในหัวข้อถัดไป
+- **อุปกรณ์เริ่มต้น** ไม่ได้เลย ต้องซื้อเอง
 
 ---
 
-## Proficiency ที่ได้เมื่อเพิ่มคลาส (ไม่ครบเหมือนคลาสแรก)
+## Proficiency ที่ได้เมื่อเพิ่มคลาส
 
-| คลาสที่เพิ่ม | Proficiency ที่ได้ |
-|---|---|
-| **Barbarian** | Shield, Simple Weapons, Martial Weapons |
-| **Bard** | Light Armor, **Skill 1 อย่าง** (เลือกอิสระ), เครื่องดนตรี 1 ชนิด |
-| **Cleric** | Light Armor, Medium Armor, Shield |
-| **Druid** | Light Armor, Shield |
-| **Fighter** | Light Armor, Medium Armor, Shield, Simple Weapons, Martial Weapons |
-| **Monk** | Simple Weapons, Martial Weapons ที่มีคุณสมบัติ Light |
-| **Paladin** | Light Armor, Medium Armor, Shield, Simple Weapons, Martial Weapons |
-| **Ranger** | Light Armor, Medium Armor, Shield, Simple Weapons, Martial Weapons, **Skill 1 อย่าง** จากรายการ Ranger |
-| **Rogue** | Light Armor, Thieves' Tools, **Skill 1 อย่าง** จากรายการ Rogue |
-| **Sorcerer** | ไม่ได้อะไรเลย |
-| **Warlock** | Light Armor, Simple Weapons |
-| **Wizard** | ไม่ได้อะไรเลย |
+รายการนี้ให้ไม่ครบเหมือนตอนเริ่มคลาสแรก
 
-> **ระวังเรื่อง Heavy Armor** — ไม่มีคลาสไหนให้ Heavy Armor Proficiency ตอน Multiclass
-> ถ้าอยากใส่ Plate ต้องเริ่มด้วย Fighter หรือ Paladin เป็นคลาสแรก หรือเอา Feat `Heavily Armored`
+- **Barbarian** ได้โล่ อาวุธ Simple และอาวุธ Martial
+- **Bard** ได้เกราะเบา สกิล 1 อย่างที่เลือกได้อิสระ และเครื่องดนตรี 1 ชนิด
+- **Cleric** ได้เกราะเบา เกราะกลาง และโล่
+- **Druid** ได้เกราะเบาและโล่
+- **Fighter** ได้เกราะเบา เกราะกลาง โล่ อาวุธ Simple และอาวุธ Martial
+- **Monk** ได้อาวุธ Simple และอาวุธ Martial ที่มีคุณสมบัติ Light
+- **Paladin** ได้เกราะเบา เกราะกลาง โล่ อาวุธ Simple และอาวุธ Martial
+- **Ranger** ได้เกราะเบา เกราะกลาง โล่ อาวุธ Simple อาวุธ Martial และสกิล 1 อย่างจากรายการของ Ranger
+- **Rogue** ได้เกราะเบา เครื่องมือโจร และสกิล 1 อย่างจากรายการของ Rogue
+- **Sorcerer** ไม่ได้อะไรเลย
+- **Warlock** ได้เกราะเบาและอาวุธ Simple
+- **Wizard** ไม่ได้อะไรเลย
 
----
-
-## กฎที่ใช้เลเวลตัวละครรวม กับกฎที่ใช้เลเวลคลาส
-
-**นี่คือจุดที่สับสนที่สุดของ Multiclass**
-
-| ใช้ **เลเวลตัวละครรวม** | ใช้ **เลเวลของคลาสนั้น ๆ** |
-|---|---|
-| **Proficiency Bonus** | Feature ทุกอย่างของคลาส (Rage, Sneak Attack, Channel Divinity) |
-| **ASI / Feat** (เลเวล 4, 8, 12, 16, 19 ของ**คลาสนั้น** ไม่ใช่รวม) | ระดับ Cantrip ที่แรงขึ้น (ใช้เลเวลตัวละครรวม) |
-| **ค่า XP ที่ต้องใช้เลื่อนเลเวล** | จำนวนสเปลที่เตรียมได้ |
-| **ระดับ Cantrip** (แรงขึ้นที่เลเวล 5, 11, 17) | ระดับ Subclass ที่ปลดล็อก |
-
-> **จุดที่พลาดบ่อย:** ASI ได้ตาม **เลเวลของคลาสนั้น** ไม่ใช่เลเวลรวม
-> Fighter 4 / Wizard 4 = **ได้ ASI 2 ครั้ง** (Fighter เลเวล 4 ครั้งหนึ่ง, Wizard เลเวล 4 อีกครั้งหนึ่ง)
-> แต่ Fighter 2 / Wizard 2 / Rogue 4 = **ได้ ASI 1 ครั้ง** (จาก Rogue เลเวล 4 เท่านั้น)
+ข้อควรระวังเรื่องเกราะหนัก ไม่มีคลาสไหนให้ Heavy Armor Proficiency ตอน Multiclass
+ถ้าอยากใส่เกราะเต็มยศ ต้องเริ่มด้วย Fighter หรือ Paladin เป็นคลาสแรก หรือไม่ก็ต้องเอา Feat ชื่อ Heavily Armored
 
 ---
 
-## Spell Slot ของ Multiclass (ส่วนที่ซับซ้อนที่สุด)
+## กฎที่ใช้เลเวลตัวละครรวม กับกฎที่ใช้เลเวลของคลาส
+
+นี่คือจุดที่สับสนที่สุดของ Multiclass
+
+สิ่งที่ใช้เลเวลตัวละครรวม
+
+- Proficiency Bonus
+- ค่า XP ที่ต้องใช้เลื่อนเลเวล
+- ความแรงของ Cantrip ที่เพิ่มขึ้นที่เลเวล 5, 11 และ 17
+
+สิ่งที่ใช้เลเวลของคลาสนั้น ๆ
+
+- Feature ทุกอย่างของคลาส เช่น **โหมดคลั่ง (Rage)**, **การโจมตีลับ (Sneak Attack)** และ **พลังศักดิ์สิทธิ์ (Channel Divinity)**
+- การได้ ASI หรือ Feat ซึ่งนับจากเลเวล 4, 8, 12, 16 และ 19 ของคลาสนั้น ไม่ใช่เลเวลรวม
+- จำนวนสเปลที่เตรียมได้
+- เลเวลที่ปลดล็อก Subclass
+
+จุดที่พลาดบ่อยที่สุดคือเรื่อง ASI เพราะได้ตามเลเวลของคลาสนั้น ไม่ใช่เลเวลรวม
+
+- ตัวละคร Fighter 4 กับ Wizard 4 จะได้ ASI 2 ครั้ง ครั้งหนึ่งจาก Fighter เลเวล 4 และอีกครั้งจาก Wizard เลเวล 4
+- แต่ตัวละคร Fighter 2 กับ Wizard 2 กับ Rogue 4 จะได้ ASI แค่ 1 ครั้ง คือจาก Rogue เลเวล 4 เท่านั้น
+
+---
+
+## Spell Slot ของ Multiclass ซึ่งเป็นส่วนที่ซับซ้อนที่สุด
 
 ### ขั้นตอนคำนวณ
 
-```
-1. นับ "เลเวลผู้ร่ายเวท" (Spellcaster Level) จากทุกคลาสที่ใช้เวท
-2. เอาผลรวมไปดูตาราง Spell Slot ของ Full Caster
-3. Warlock คิดแยกต่างหาก (ไม่รวมในนี้)
-```
+1. นับ **เลเวลผู้ร่ายเวท (Spellcaster Level)** จากทุกคลาสที่ใช้เวท
+2. เอาผลรวมไปดูตาราง Spell Slot ของ Full Caster ใน [กฎการร่ายเวท](07-spellcasting-rules.md)
+3. Warlock คิดแยกต่างหาก ไม่รวมอยู่ในผลรวมนี้
 
 ### วิธีนับเลเวลผู้ร่ายเวท
 
-| ประเภท | คลาส | นับเท่าไหร่ |
-|---|---|---|
-| **Full Caster** | Bard, Cleric, Druid, Sorcerer, Wizard | **เลเวลเต็ม** |
-| **Half Caster** | Paladin, Ranger | **ครึ่งหนึ่ง (ปัดขึ้น)** |
-| **Third Caster** | Eldritch Knight (Fighter), Arcane Trickster (Rogue) | **หนึ่งในสาม (ปัดขึ้น)** |
-| **ไม่นับ** | Warlock | คิดแยกด้วยระบบ Pact Magic |
+- **Full Caster** ได้แก่ Bard, Cleric, Druid, Sorcerer และ Wizard นับเลเวลเต็มจำนวน
+- **Half Caster** ได้แก่ Paladin และ Ranger นับครึ่งหนึ่งแล้วปัดขึ้น
+- **Third Caster** ได้แก่ Eldritch Knight ของ Fighter และ Arcane Trickster ของ Rogue นับหนึ่งในสามแล้วปัดขึ้น
+- **Warlock** ไม่นับรวม เพราะคิดแยกด้วยระบบ Pact Magic
 
-> **ข้อควรตรวจสอบ:** กฎ 2024 ให้ Paladin และ Ranger มีสเปลตั้งแต่เลเวล 1 (ต่างจากกฎ 2014 ที่เริ่มเลเวล 2)
-> การปัดขึ้นหรือปัดลงในตารางนี้เป็นจุดที่ควร**ยืนยันกับหนังสือต้นฉบับหรือ DM** ก่อนใช้จริง
+ข้อควรตรวจสอบ กฎ 2024 ให้ Paladin และ Ranger มีสเปลตั้งแต่เลเวล 1 ซึ่งต่างจากกฎ 2014 ที่เริ่มมีตอนเลเวล 2
+ส่วนเรื่องการปัดขึ้นหรือปัดลงในการนับเลเวลผู้ร่ายเวท เป็นจุดที่ควรยืนยันกับหนังสือต้นฉบับหรือกับ DM ก่อนใช้จริง
 
 ### ตัวอย่างการนับ
 
-```
-ตัวอย่างที่ 1: Wizard 5 / Cleric 3
-  Wizard 5 (เต็ม) + Cleric 3 (เต็ม) = เลเวลผู้ร่ายเวท 8
-  ได้ Spell Slot เท่ากับ Full Caster เลเวล 8
+ตัวอย่างที่ 1 ตัวละคร Wizard 5 กับ Cleric 3
+Wizard 5 นับเต็มได้ 5 บวก Cleric 3 นับเต็มได้ 3 รวมเป็นเลเวลผู้ร่ายเวท 8
+จึงได้ Spell Slot เท่ากับ Full Caster เลเวล 8
 
-ตัวอย่างที่ 2: Paladin 6 / Sorcerer 2
-  Paladin 6 หารสอง = 3 + Sorcerer 2 (เต็ม) = เลเวลผู้ร่ายเวท 5
-  ได้ Spell Slot เท่ากับ Full Caster เลเวล 5 (มี Slot ระดับ 3)
+ตัวอย่างที่ 2 ตัวละคร Paladin 6 กับ Sorcerer 2
+Paladin 6 หารสองได้ 3 บวก Sorcerer 2 นับเต็มได้ 2 รวมเป็นเลเวลผู้ร่ายเวท 5
+จึงได้ Spell Slot เท่ากับ Full Caster เลเวล 5 ซึ่งมี Slot ถึงระดับ 3
 
-ตัวอย่างที่ 3: Fighter (Eldritch Knight) 6 / Wizard 4
-  Fighter 6 หารสาม = 2 + Wizard 4 (เต็ม) = เลเวลผู้ร่ายเวท 6
-  ได้ Spell Slot เท่ากับ Full Caster เลเวล 6
-```
+ตัวอย่างที่ 3 ตัวละคร Fighter สาย Eldritch Knight 6 กับ Wizard 4
+Fighter 6 หารสามได้ 2 บวก Wizard 4 นับเต็มได้ 4 รวมเป็นเลเวลผู้ร่ายเวท 6
+จึงได้ Spell Slot เท่ากับ Full Caster เลเวล 6
 
 ### สิ่งสำคัญที่ต้องเข้าใจ
 
-| ประเด็น | รายละเอียด |
-|---|---|
-| **Slot เป็นของกลาง แต่สเปลไม่ใช่** | คุณใช้ Slot ระดับ 5 ร่ายสเปล Cleric ก็ได้ ร่ายสเปล Wizard ก็ได้ |
-| **จำนวนสเปลที่เตรียมได้คิดแยกคลาส** | Wizard 5 เตรียมได้ตามตาราง Wizard เลเวล 5 · Cleric 3 เตรียมได้ตามตาราง Cleric เลเวล 3 |
-| **ค่าร่ายเวทแยกกัน** | สเปล Wizard ใช้ INT · สเปล Cleric ใช้ WIS — **Spell Save DC ต่างกัน** |
-| **Slot อาจสูงกว่าสเปลที่มี** | Paladin 6 / Sorcerer 2 มี Slot ระดับ 3 แต่รู้สเปลแค่ระดับ 1 — ใช้ Slot ระดับ 3 ร่ายสเปลระดับ 1 ได้ (แรงขึ้น) |
+- **Slot เป็นของกลาง แต่สเปลไม่ใช่** คุณเอา Slot ระดับ 5 ไปร่ายสเปลของ Cleric ก็ได้ ของ Wizard ก็ได้
+- **จำนวนสเปลที่เตรียมได้คิดแยกตามคลาส** ตัวละคร Wizard 5 เตรียมได้ตามตารางของ Wizard เลเวล 5 ส่วน Cleric 3 เตรียมได้ตามตารางของ Cleric เลเวล 3
+- **ค่าร่ายเวทแยกกัน** สเปลของ Wizard ใช้ INT ส่วนสเปลของ Cleric ใช้ WIS ทำให้ Spell Save DC ของสองคลาสไม่เท่ากัน
+- **Slot อาจสูงกว่าระดับสเปลที่มี** เช่นตัวละคร Paladin 6 กับ Sorcerer 2 มี Slot ถึงระดับ 3 แต่รู้สเปลแค่ระดับ 1 กรณีนี้ใช้ Slot ระดับ 3 ร่ายสเปลระดับ 1 ได้ และสเปลจะแรงขึ้นด้วย
 
 ### Warlock คิดแยกต่างหาก
 
-> **Pact Magic Slot ของ Warlock เป็นคนละกองกับ Spell Slot ปกติ**
-> ถ้าเล่น Warlock 3 / Sorcerer 5 คุณจะมี:
-> - **Pact Magic Slot 2 ช่อง ระดับ 2** (ฟื้นทุก Short Rest)
-> - **Spell Slot ปกติเท่ากับ Full Caster เลเวล 5** (ฟื้นเมื่อ Long Rest)
-> - **ใช้ Slot ทั้งสองกองร่ายสเปลของทั้งสองคลาสได้**
+Pact Magic Slot ของ Warlock เป็นคนละกองกับ Spell Slot ปกติ
+
+ตัวอย่าง ถ้าเล่น Warlock 3 กับ Sorcerer 5 คุณจะมี
+
+- Pact Magic Slot 2 ช่อง ระดับ 2 ซึ่งฟื้นทุก Short Rest
+- Spell Slot ปกติเท่ากับ Full Caster เลเวล 5 ซึ่งฟื้นเมื่อ Long Rest
+- และใช้ Slot ทั้งสองกองร่ายสเปลของทั้งสองคลาสได้
 
 ---
 
 ## Feature ที่ไม่สะสมกัน
 
-| Feature | กฎ |
-|---|---|
-| **Extra Attack** | **ไม่สะสม** — Fighter 5 / Ranger 5 ก็ยังโจมตี 2 ครั้ง ไม่ใช่ 3 |
-| **Unarmored Defense** | **เลือกได้แค่แบบเดียว** — Barbarian (10+DEX+CON) หรือ Monk (10+DEX+WIS) |
-| **Channel Divinity** | จำนวนครั้งของ Cleric และ Paladin **คิดแยกกัน** แต่ใช้ตัวเลือกร่วมกันได้ |
-| **Sneak Attack** | ใช้เลเวล Rogue เท่านั้น |
-| **Rage** | ใช้เลเวล Barbarian เท่านั้น |
+- **Extra Attack** ไม่สะสม ตัวละคร Fighter 5 กับ Ranger 5 ก็ยังโจมตี 2 ครั้ง ไม่ใช่ 3 ครั้ง
+- **การป้องกันแบบไร้เกราะ (Unarmored Defense)** เลือกใช้ได้แค่แบบเดียว จะเอาแบบ Barbarian ที่คิด 10 บวก DEX บวก CON หรือแบบ Monk ที่คิด 10 บวก DEX บวก WIS
+- **พลังศักดิ์สิทธิ์ (Channel Divinity)** จำนวนครั้งของ Cleric และ Paladin คิดแยกกัน แต่ใช้ตัวเลือกร่วมกันได้
+- **การโจมตีลับ (Sneak Attack)** ใช้เลเวล Rogue อย่างเดียว
+- **โหมดคลั่ง (Rage)** ใช้เลเวล Barbarian อย่างเดียว
 
 ---
 
@@ -171,137 +164,135 @@
 
 ### ผสมที่ได้ผลจริง
 
-| ผสม | ทำไมดี | เลเวลที่แนะนำ |
-|---|---|---|
-| **Paladin + Warlock** [แนะนำ] | ทั้งคู่ใช้ CHA · Warlock Slot ฟื้นทุก Short Rest เอาไป Divine Smite ได้ | Paladin 6 / Warlock 2+ |
-| **Paladin + Sorcerer** | ทั้งคู่ใช้ CHA · Sorcerer แปลง Sorcery Point เป็น Slot ไป Smite | Paladin 6 / Sorcerer 6+ |
-| **Fighter + Rogue** | Action Surge + Sneak Attack · ทั้งคู่ใช้ DEX | Fighter 2-3 / Rogue ที่เหลือ |
-| **Fighter + Barbarian** | Action Surge + Rage · ทั้งคู่ใช้ STR/CON | Barbarian 5+ / Fighter 2 |
-| **Cleric + Wizard** | เข้าถึงรายการเวทสองรายการ | Cleric 1-2 (ได้เกราะและ Shield) / Wizard ที่เหลือ |
-| **Warlock + Wizard** | Warlock Slot ฟื้นเร็ว + สเปลหลากหลายของ Wizard | Warlock 2 / Wizard ที่เหลือ |
-| **Rogue + Ranger** | ทั้งคู่ใช้ DEX/WIS · Sneak Attack + Hunter's Mark | Rogue ที่เหลือ / Ranger 3-5 |
-| **Sorcerer + Warlock** | ทั้งคู่ใช้ CHA · เติม Sorcery Point จาก Pact Slot | Sorcerer ที่เหลือ / Warlock 2-3 |
+- **Paladin กับ Warlock** [แนะนำ] เพราะทั้งคู่ใช้ CHA และ Slot ของ Warlock ฟื้นทุก Short Rest เอาไปใช้ **ฟาดศักดิ์สิทธิ์ (Divine Smite)** ได้ แนะนำลง Paladin 6 แล้ว Warlock ตั้งแต่ 2 ขึ้นไป
+- **Paladin กับ Sorcerer** เพราะทั้งคู่ใช้ CHA และ Sorcerer แปลง Sorcery Point เป็น Slot เอาไป Smite ได้ แนะนำลง Paladin 6 แล้ว Sorcerer ตั้งแต่ 6 ขึ้นไป
+- **Fighter กับ Rogue** เพราะได้ทั้ง Action Surge และ Sneak Attack และทั้งคู่ใช้ DEX แนะนำลง Fighter 2 ถึง 3 ที่เหลือลง Rogue
+- **Fighter กับ Barbarian** เพราะได้ทั้ง Action Surge และ Rage และทั้งคู่ใช้ STR กับ CON แนะนำลง Barbarian ตั้งแต่ 5 ขึ้นไป แล้ว Fighter 2
+- **Cleric กับ Wizard** เพราะเข้าถึงรายการเวทสองรายการ แนะนำลง Cleric 1 ถึง 2 เพื่อเอาเกราะและโล่ ที่เหลือลง Wizard
+- **Warlock กับ Wizard** เพราะ Slot ของ Warlock ฟื้นเร็ว รวมกับความหลากหลายของสเปล Wizard แนะนำลง Warlock 2 ที่เหลือลง Wizard
+- **Rogue กับ Ranger** เพราะทั้งคู่ใช้ DEX และ WIS และได้ทั้ง Sneak Attack กับ **รอยพราน (Hunter's Mark)** แนะนำลง Ranger 3 ถึง 5 ที่เหลือลง Rogue
+- **Sorcerer กับ Warlock** เพราะทั้งคู่ใช้ CHA และเติม Sorcery Point จาก Pact Slot ได้ แนะนำลง Warlock 2 ถึง 3 ที่เหลือลง Sorcerer
 
-### การ "แวะ" (Dip) — เอาแค่ 1-2 เลเวล
+### การแวะ (Dip) คือเอาแค่ 1 ถึง 2 เลเวล
 
-| แวะ | ได้อะไร | เหมาะกับ |
-|---|---|---|
-| **Fighter 1** | Fighting Style + Second Wind + Heavy Armor + Martial Weapons | สายเวทที่อยากใส่เกราะ |
-| **Fighter 2** | + **Action Surge** (โจมตี 2 เท่าใน 1 เทิร์น) | ทุกคลาสที่ตี |
-| **Cleric 1** | Light/Medium Armor + Shield + สเปล Cleric + Divine Order | Wizard, Sorcerer ที่อยากทน |
-| **Warlock 2** | Pact Magic (ฟื้นทุก Short Rest) + Invocation 3 อัน | Paladin, Sorcerer |
-| **Rogue 1** | Expertise 2 สกิล + Sneak Attack 1d6 | สาย DEX ทุกคลาส |
-| **Rogue 2** | + **Cunning Action** (Dash/Disengage/Hide เป็น Bonus Action) | ทุกคลาสที่อยากคล่อง |
-| **Barbarian 1-2** | Rage (Resistance กายภาพ) + Reckless Attack | Fighter สาย STR |
-| **Sorcerer 1** | Innate Sorcery + Cantrip 4 อัน | Warlock, Bard |
+- **แวะ Fighter 1** ได้ Fighting Style, Second Wind, เกราะหนัก และอาวุธ Martial เหมาะกับสายเวทที่อยากใส่เกราะ
+- **แวะ Fighter 2** ได้ทุกอย่างข้างบนบวก **พลังโหมโรม (Action Surge)** ซึ่งทำให้โจมตีได้สองเท่าในเทิร์นเดียว เหมาะกับทุกคลาสที่ใช้อาวุธ
+- **แวะ Cleric 1** ได้เกราะเบา เกราะกลาง โล่ สเปลของ Cleric และ **คำสั่งศักดิ์สิทธิ์ (Divine Order)** เหมาะกับ Wizard และ Sorcerer ที่อยากทนขึ้น
+- **แวะ Warlock 2** ได้ Pact Magic ที่ฟื้นทุก Short Rest และ Invocation 3 อัน เหมาะกับ Paladin และ Sorcerer
+- **แวะ Rogue 1** ได้ Expertise 2 สกิล และ Sneak Attack 1d6 เหมาะกับสาย DEX ทุกคลาส
+- **แวะ Rogue 2** ได้ทุกอย่างข้างบนบวก **แอ็กชันเจ้าเล่ห์ (Cunning Action)** ซึ่งใช้ Dash, Disengage และ Hide เป็น Bonus Action เหมาะกับทุกคลาสที่อยากคล่องตัว
+- **แวะ Barbarian 1 ถึง 2** ได้ Rage ซึ่งให้ Resistance ต่อดาเมจกายภาพ และได้ **โจมตีบ้าระห่ำ (Reckless Attack)** เหมาะกับ Fighter สาย STR
+- **แวะ Sorcerer 1** ได้ **เวทโดยกำเนิด (Innate Sorcery)** และ Cantrip 4 อัน เหมาะกับ Warlock และ Bard
 
-> **การแวะ 1-2 เลเวลมักคุ้มกว่าการแบ่งครึ่ง** เพราะเลเวล 1-2 ของทุกคลาสให้ของเยอะที่สุด
+การแวะ 1 ถึง 2 เลเวลมักคุ้มกว่าการแบ่งครึ่ง เพราะเลเวล 1 และ 2 ของทุกคลาสให้ของเยอะที่สุด
 
 ---
 
 ## ราคาที่ต้องจ่ายเมื่อ Multiclass
 
-| เสียอะไร | ตัวอย่าง |
-|---|---|
-| **ความสามารถระดับสูงของคลาสหลัก** | Wizard 20 ได้ `Wish` และ Signature Spells · Wizard 17/Fighter 3 ไม่ได้ |
-| **สเปลระดับ 6-9 ช้าลงมาก** | Cleric 10 / Wizard 10 มี Slot ระดับ 6 แค่ 1 ช่อง แทนที่จะมีถึงระดับ 9 |
-| **Extra Attack ครั้งที่ 2 และ 3** | Fighter 11 ตี 3 ครั้ง · Fighter 5 / Rogue 6 ตีแค่ 2 ครั้ง |
-| **ค่าพลังหลักโตช้า** | ต้องแบ่ง ASI ไปดันหลายค่า |
-| **Capstone เลเวล 20** | ไม่มีทางได้เลยถ้า Multiclass |
+- **เสียความสามารถระดับสูงของคลาสหลัก** เช่น Wizard 20 ได้สเปล **พร (Wish)** และ **เวทประจำตัว (Signature Spells)** แต่ Wizard 17 กับ Fighter 3 จะไม่ได้เลย
+- **สเปลระดับ 6 ถึง 9 มาช้าลงมาก** เช่น Cleric 10 กับ Wizard 10 มี Slot ระดับ 6 แค่ 1 ช่อง แทนที่จะได้ถึงระดับ 9
+- **เสีย Extra Attack ครั้งที่ 2 และ 3** เช่น Fighter 11 ตี 3 ครั้ง แต่ Fighter 5 กับ Rogue 6 ตีแค่ 2 ครั้ง
+- **ค่าพลังหลักโตช้า** เพราะต้องแบ่ง ASI ไปดันหลายค่า
+- **ไม่ได้ Capstone ที่เลเวล 20** ซึ่งไม่มีทางได้เลยถ้า Multiclass
 
-> **หลักตัดสินง่าย ๆ:** ถ้าไม่แน่ใจว่าคุ้มไหม แปลว่า**ไม่คุ้ม** — เล่นคลาสเดียวให้ถึงเลเวล 20 จะแรงกว่าเกือบทุกกรณี
+หลักตัดสินง่าย ๆ คือ ถ้าไม่แน่ใจว่าคุ้มไหม แปลว่าไม่คุ้ม เพราะเล่นคลาสเดียวให้ถึงเลเวล 20 จะแรงกว่าในเกือบทุกกรณี
 
 ---
 
 ## ตัวอย่างตัวละคร Multiclass ที่สมบูรณ์
 
-### Paladin 6 / Warlock 4 (เลเวลตัวละคร 10)
+### ตัวอย่างที่ 1 Paladin 6 กับ Warlock 4 รวมเป็นเลเวลตัวละคร 10
 
-```
-ชื่อ: Kael ผู้สาบานต่อเงามืด
-Species: Aasimar Background: Noble
+ชื่อ Kael ผู้สาบานต่อเงามืด เผ่า Aasimar ภูมิหลัง **ขุนนาง (Noble)**
 
-ค่าพลัง
-  STR 18 (+4) DEX 10 (0) CON 14 (+2) INT 8 (-1) WIS 12 (+1) CHA 18 (+4)
+ค่าพลังคือ STR 18 ให้ modifier +4, DEX 10 ให้ 0, CON 14 ให้ +2, INT 8 ให้ ลบ 1, WIS 12 ให้ +1 และ CHA 18 ให้ +4
 
-HP 84 AC 20 (Plate + Shield) Speed 30 ft
-Proficiency Bonus +4 (จากเลเวลตัวละครรวม 10)
+ค่าที่คำนวณได้
 
-Saving Throw Proficiency: WIS, CHA (จากคลาสแรก Paladin เท่านั้น)
+- HP 84
+- AC 20 มาจากเกราะเต็มยศบวกโล่
+- Speed 30 ฟุต
+- Proficiency Bonus +4 ซึ่งคิดจากเลเวลตัวละครรวม 10
+- Saving Throw ที่ถนัดคือ WIS และ CHA ซึ่งได้จากคลาสแรกคือ Paladin เท่านั้น
 
 ความสามารถจาก Paladin 6
-  Lay On Hands (คลัง 30 HP)
-  Divine Smite (สเปลระดับ 1 เตรียมไว้เสมอ)
-  Extra Attack
-  Aura of Protection (+4 Save ให้ทุกคนในระยะ 10 ฟุต)
-  Fighting Style: Defense
+
+- **มือรักษา (Lay On Hands)** มีคลัง 30 HP
+- **ฟาดศักดิ์สิทธิ์ (Divine Smite)** เป็นสเปลระดับ 1 ที่เตรียมไว้เสมอ
+- Extra Attack
+- **ออร่าปกป้อง (Aura of Protection)** ให้ +4 กับ Saving Throw ของทุกคนในระยะ 10 ฟุต
+- Fighting Style สาย Defense
 
 ความสามารถจาก Warlock 4
-  Pact Magic: Slot ระดับ 2 จำนวน 2 ช่อง (ฟื้นทุก Short Rest)
-  Eldritch Invocations 3 อย่าง
-  Subclass: Fiend Patron (Dark One's Blessing)
 
-Spell Slot
-  Pact Magic: ระดับ 2 × 2 ช่อง (ฟื้นทุก Short Rest)
-  ปกติ: เลเวลผู้ร่ายเวท = Paladin 6 หารสอง = 3
-               ได้ Slot ระดับ 1 × 4, ระดับ 2 × 2
+- Pact Magic มี Slot ระดับ 2 จำนวน 2 ช่อง ฟื้นทุก Short Rest
+- **คำอัญเชิญลึกลับ (Eldritch Invocations)** 3 อย่าง
+- Subclass สาย Fiend Patron ซึ่งให้ Dark One's Blessing
 
-วิธีเล่น
-  ใช้ Pact Slot ระดับ 2 ไป Divine Smite (3d8 ต่อครั้ง) แล้วพัก Short Rest เติม
-  ทำให้ Smite ได้บ่อยกว่า Paladin ปกติมาก
-```
+Spell Slot ที่มีจริง แบ่งเป็นสองกอง
 
-### Rogue 3 / Fighter 2 (เลเวลตัวละคร 5)
+- กอง Pact Magic มีระดับ 2 จำนวน 2 ช่อง ฟื้นทุก Short Rest
+- กองปกติ คิดจากเลเวลผู้ร่ายเวทซึ่งเท่ากับ Paladin 6 หารสองได้ 3 จึงได้ Slot ระดับ 1 จำนวน 4 ช่อง และระดับ 2 จำนวน 2 ช่อง
 
-```
-ชื่อ: Vex นักลอบสังหารผู้ผ่านศึก
-Species: Wood Elf Background: Criminal
+วิธีเล่น ใช้ Pact Slot ระดับ 2 ไป Divine Smite ซึ่งทำดาเมจ 3d8 ต่อครั้ง แล้วพัก Short Rest เพื่อเติม Slot ใหม่
+ทำให้ Smite ได้บ่อยกว่า Paladin ปกติมาก
 
-ค่าพลัง
-  STR 10 (0) DEX 18 (+4) CON 14 (+2) INT 12 (+1) WIS 13 (+1) CHA 8 (-1)
+### ตัวอย่างที่ 2 Rogue 3 กับ Fighter 2 รวมเป็นเลเวลตัวละคร 5
 
-HP 38 AC 16 (Studded Leather + DEX) Speed 35 ft
-Proficiency Bonus +3
+ชื่อ Vex นักลอบสังหารผู้ผ่านศึก เผ่า Wood Elf ภูมิหลัง **อาชญากร (Criminal)**
 
-Saving Throw Proficiency: DEX, INT (จากคลาสแรก Rogue)
+ค่าพลังคือ STR 10 ให้ modifier 0, DEX 18 ให้ +4, CON 14 ให้ +2, INT 12 ให้ +1, WIS 13 ให้ +1 และ CHA 8 ให้ ลบ 1
+
+ค่าที่คำนวณได้
+
+- HP 38
+- AC 16 มาจากเกราะหนังหมุดบวก DEX
+- Speed 35 ฟุต
+- Proficiency Bonus +3
+- Saving Throw ที่ถนัดคือ DEX และ INT ซึ่งได้จากคลาสแรกคือ Rogue
 
 ความสามารถจาก Rogue 3
-  Sneak Attack 2d6
-  Expertise: Stealth, Thieves' Tools
-  Cunning Action (Bonus Action: Dash / Disengage / Hide)
-  Subclass: Thief (Fast Hands, Second-Story Work)
+
+- **การโจมตีลับ (Sneak Attack)** ทำดาเมจเพิ่ม 2d6
+- **ความเชี่ยวชาญ (Expertise)** ใน Stealth และเครื่องมือโจร
+- **แอ็กชันเจ้าเล่ห์ (Cunning Action)** ใช้ Dash, Disengage หรือ Hide เป็น Bonus Action
+- Subclass สาย Thief ซึ่งให้ Fast Hands และ Second-Story Work
 
 ความสามารถจาก Fighter 2
-  Fighting Style: Archery (+2 โจมตีระยะไกล)
-  Second Wind (ฟื้น 1d10+2)
-  Action Surge (Action เพิ่ม 1 ครั้ง)
-  Weapon Mastery 3 ชนิด
 
-วิธีเล่น
-  Action Surge ทำให้โจมตี 2 ครั้งใน 1 เทิร์น
-  แต่ Sneak Attack ยังได้แค่ 1 ครั้งต่อเทิร์น จึงเพิ่มโอกาสว่าจะตีโดนอย่างน้อย 1 ครั้ง
-```
+- Fighting Style สาย Archery ให้ +2 กับการโจมตีระยะไกล
+- **ลมหายใจที่สอง (Second Wind)** ฟื้น 1d10 บวก 2
+- **พลังโหมโรม (Action Surge)** ให้ Action เพิ่มอีก 1 ครั้ง
+- **ความเชี่ยวชาญอาวุธ (Weapon Mastery)** 3 ชนิด
+
+วิธีเล่น ใช้ Action Surge เพื่อโจมตี 2 ครั้งในเทิร์นเดียว
+แม้ Sneak Attack จะยังใช้ได้แค่ 1 ครั้งต่อเทิร์น แต่การตีสองครั้งเพิ่มโอกาสที่จะตีโดนอย่างน้อยหนึ่งครั้ง
 
 ---
 
 ## รายการตรวจก่อน Multiclass
 
-```
-[ ] DM อนุญาตให้ Multiclass แล้ว
-[ ] ค่าพลังถึงเกณฑ์ 13 ของทั้งสองคลาส
-[ ] รู้ว่าจะเสียอะไรจากคลาสหลัก (Extra Attack, สเปลระดับสูง, Capstone)
-[ ] คำนวณ Spell Slot ใหม่แล้ว (ถ้าเป็นสายเวท)
-[ ] รู้ว่าจะไม่ได้ Saving Throw Proficiency จากคลาสใหม่
-[ ] รู้ว่าจะไม่ได้ Heavy Armor Proficiency ถ้าคลาสแรกไม่ได้ให้
-[ ] มีแผนชัดว่าจะลงเลเวลไหนที่คลาสไหน จนถึงเลเวล 12 เป็นอย่างน้อย
-```
+ตรวจให้ครบทุกข้อก่อนตัดสินใจ
+
+- DM อนุญาตให้ Multiclass แล้ว
+- ค่าพลังถึงเกณฑ์ 13 ของทั้งสองคลาสแล้ว
+- รู้แล้วว่าจะเสียอะไรจากคลาสหลัก ทั้ง Extra Attack สเปลระดับสูง และ Capstone
+- คำนวณ Spell Slot ใหม่แล้ว ถ้าเป็นสายเวท
+- รู้แล้วว่าจะไม่ได้ Saving Throw Proficiency จากคลาสใหม่
+- รู้แล้วว่าจะไม่ได้ Heavy Armor Proficiency ถ้าคลาสแรกไม่ได้ให้มา
+- มีแผนชัดเจนแล้วว่าจะลงเลเวลไหนที่คลาสไหน อย่างน้อยจนถึงเลเวล 12
 
 ---
 
 ## สรุป Multiclassing ในหนึ่งบรรทัด
 
-> **ต้องมีค่าพลัง 13 ทั้งสองคลาส · Proficiency Bonus ใช้เลเวลรวม แต่ Feature ใช้เลเวลคลาส · การแวะ 1-2 เลเวลมักคุ้มกว่าแบ่งครึ่ง · และถ้าไม่แน่ใจว่าคุ้มไหม แปลว่าไม่คุ้ม**
+ต้องมีค่าพลัง 13 ทั้งสองคลาส Proficiency Bonus ใช้เลเวลรวมแต่ Feature ใช้เลเวลคลาส การแวะ 1 ถึง 2 เลเวลมักคุ้มกว่าแบ่งครึ่ง และถ้าไม่แน่ใจว่าคุ้มไหม แปลว่าไม่คุ้ม
 
 ---
 
-[สารบัญ](../README.md)
+## อ่านต่อ
+
+- [กฎการร่ายเวท](07-spellcasting-rules.md)
+- [ภาพรวมคลาสทั้ง 12](../04-classes/00-classes-overview.md)
+- [กลับสารบัญ](../README.md)

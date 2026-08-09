@@ -6,299 +6,295 @@
 
 ## ภาพรวม 8 ขั้นตอน
 
-```
-1. เลือก Class (คลาส/อาชีพ) ตัดสินว่าเล่นยังไง
-2. เลือก Background (ภูมิหลัง) ให้ค่าพลัง + Feat + สกิล
-3. เลือก Species (เผ่าพันธุ์) ให้ความสามารถพิเศษ
-4. กำหนด Ability Scores (ค่าพลัง)
-5. เลือก Alignment + บุคลิก บทบาทและนิสัย
-6. คำนวณค่าต่าง ๆ (HP, AC, Initiative)
+1. เลือก **คลาสหรืออาชีพ (Class)** ซึ่งตัดสินว่าคุณจะเล่นยังไง
+2. เลือก **ภูมิหลัง (Background)** ซึ่งให้ค่าพลัง Feat และสกิล
+3. เลือก **เผ่าพันธุ์ (Species)** ซึ่งให้ความสามารถพิเศษ
+4. กำหนด **ค่าพลัง (Ability Scores)**
+5. เลือก **แนวทางศีลธรรม (Alignment)** และบุคลิกของตัวละคร
+6. คำนวณค่าต่าง ๆ ได้แก่ HP, AC และ Initiative
 7. เลือกอุปกรณ์เริ่มต้น
 8. เชื่อมโยงตัวละครเข้ากับกลุ่ม
-```
 
-> **เวลาที่ใช้:** มือใหม่ประมาณ 30-60 นาที (ใช้เว็บ D&D Beyond จะเร็วกว่ามาก)
+เวลาที่ใช้ มือใหม่ประมาณ 30 ถึง 60 นาที ถ้าใช้เว็บ D&D Beyond จะเร็วกว่ามาก
 
 ---
 
-## ขั้นที่ 1⃣ — เลือก คลาส/อาชีพ (Class)
+## ขั้นที่ 1 เลือกคลาสหรืออาชีพ (Class)
 
-**Class คือสิ่งที่กำหนดว่าคุณจะ "เล่น" ยังไงในเกม** เป็นการตัดสินใจที่สำคัญที่สุด
+Class คือสิ่งที่กำหนดว่าคุณจะเล่นยังไงในเกม เป็นการตัดสินใจที่สำคัญที่สุด
 
- **อ่านรายละเอียด:** [ภาพรวมคลาสทั้ง 12](../04-classes/00-classes-overview.md)
+อ่านรายละเอียดได้ที่ [ภาพรวมคลาสทั้ง 12](../04-classes/00-classes-overview.md)
 
 ### เลือกจากสไตล์ที่ชอบ
 
-| ถ้าคุณอยาก... | ลองคลาสนี้ |
-|---|---|
-| ตีแรง ยืนหน้า ไม่ต้องคิดเยอะ | **Barbarian**, **Fighter** |
-| เก่งรอบด้าน มีของเล่นเยอะ | **Bard**, **Wizard** |
-| รักษาเพื่อน + สู้ได้ | **Cleric**, **Paladin** |
-| ลอบเร้น ตีคริติคอลหนัก | **Rogue** |
-| ปล่อยเวทระเบิดใส่ศัตรู | **Wizard**, **Sorcerer** |
-| อยู่กับธรรมชาติ แปลงร่างเป็นสัตว์ | **Druid**, **Ranger** |
-| ต่อยเตะ ว่องไว | **Monk** |
-| ทำสัญญากับสิ่งลึกลับ | **Warlock** |
+- อยากตีแรง ยืนหน้า ไม่ต้องคิดเยอะ ให้ลอง **Barbarian** หรือ **Fighter**
+- อยากเก่งรอบด้าน มีของเล่นเยอะ ให้ลอง **Bard** หรือ **Wizard**
+- อยากรักษาเพื่อนไปด้วยและสู้ได้ด้วย ให้ลอง **Cleric** หรือ **Paladin**
+- อยากลอบเร้นและตีคริติคอลหนัก ให้ลอง **Rogue**
+- อยากปล่อยเวทระเบิดใส่ศัตรู ให้ลอง **Wizard** หรือ **Sorcerer**
+- อยากอยู่กับธรรมชาติและแปลงร่างเป็นสัตว์ ให้ลอง **Druid** หรือ **Ranger**
+- อยากต่อยเตะและว่องไว ให้ลอง **Monk**
+- อยากทำสัญญากับสิ่งลึกลับ ให้ลอง **Warlock**
 
 ### คลาสที่แนะนำสำหรับผู้เล่นครั้งแรก
 
-| อันดับ | คลาส | เหตุผล |
-|---|---|---|
-| 1 | **Fighter** | กฎน้อยที่สุด ตัวแข็ง ทำอะไรก็ไม่พลาด |
-| 2 | **Barbarian** | จำแค่ "กด Rage แล้วตี" ทนมาก |
-| 3 | **Rogue** | ทำอะไรได้หลากหลาย ตีแรงด้วย Sneak Attack ไม่มีเวทให้จำ |
-| 4 | **Cleric** | มีเวทแต่เตรียมใหม่ได้ทุกวัน แก้ผิดง่าย ทีมต้องการเสมอ |
-| | **Wizard, Druid** | ทรงพลังมาก แต่ต้องจำสเปลเยอะ อาจงงตอนเริ่มต้น |
+1. **Fighter** เพราะกฎน้อยที่สุด ตัวแข็ง และทำอะไรก็ไม่ค่อยพลาด
+2. **Barbarian** เพราะจำแค่ว่ากด **โหมดคลั่ง (Rage)** แล้วตี และทนมาก
+3. **Rogue** เพราะทำอะไรได้หลากหลาย ตีแรงด้วย **การโจมตีลับ (Sneak Attack)** และไม่มีเวทให้ต้องจำ
+4. **Cleric** เพราะมีเวทแต่เตรียมใหม่ได้ทุกวัน แก้ที่เลือกผิดได้ง่าย และทีมต้องการเสมอ
+
+ส่วน **Wizard** และ **Druid** ทรงพลังมาก แต่ต้องจำสเปลเยอะ มือใหม่อาจงงตอนเริ่มต้น
 
 ---
 
-## ขั้นที่ 2⃣ — เลือก ภูมิหลัง (Background)
+## ขั้นที่ 2 เลือกภูมิหลัง (Background)
 
- **อ่านรายละเอียด:** [Background ทั้ง 16 แบบ](../03-backgrounds/00-backgrounds-overview.md)
+อ่านรายละเอียดได้ที่ [Background ทั้ง 16 แบบ](../03-backgrounds/00-backgrounds-overview.md)
 
-**Background ในกฎ 2024 สำคัญกว่าเดิมมาก** เพราะให้ครบ 5 อย่าง:
+Background ในกฎ 2024 สำคัญกว่าเดิมมาก เพราะให้ครบ 5 อย่าง
 
-| ได้อะไร | รายละเอียด |
-|---|---|
-| **Ability Score เพิ่ม** | เลือก **+2/+1** หรือ **+1/+1/+1** จาก 3 ค่าที่กำหนด |
-| **Origin Feat** | Feat ฟรี 1 อย่างตั้งแต่เลเวล 1 |
-| **Skill Proficiency** | 2 สกิล |
-| **Tool Proficiency** | 1 เครื่องมือ |
-| **Equipment** | ชุดอุปกรณ์ หรือรับเป็น **50 GP** แทน |
+- **ค่า Ability Score เพิ่ม** เลือกได้ระหว่างแบบ +2 กับ +1 หรือแบบ +1 ทั้งสามตัว จาก 3 ค่าที่ Background นั้นกำหนด
+- **Origin Feat** ได้ Feat ฟรี 1 อย่างตั้งแต่เลเวล 1
+- **Skill Proficiency** ได้ 2 สกิล
+- **Tool Proficiency** ได้ 1 เครื่องมือ
+- **อุปกรณ์** ได้ชุดอุปกรณ์ หรือเลือกรับเป็นเงิน 50 GP แทนก็ได้
 
-> **เลือก Background ที่ให้ค่าพลังตรงกับคลาสของคุณ** เช่น Wizard ควรเลือก Background ที่มี INT อยู่ในตัวเลือก (เช่น `Sage`, `Scribe`, `Artisan`)
+คำแนะนำ ให้เลือก Background ที่ให้ค่าพลังตรงกับคลาสของคุณ เช่น Wizard ควรเลือก Background ที่มี INT อยู่ในตัวเลือก ได้แก่ **นักปราชญ์ (Sage)**, **อาลักษณ์ (Scribe)** หรือ **ช่างฝีมือ (Artisan)**
 
-> **สร้าง Background เองได้** ถ้า DM อนุญาต: เลือกค่าพลัง 3 ตัว + Origin Feat 1 + สกิล 2 + Tool 1 ตามที่อยากได้
+ถ้า DM อนุญาต คุณสร้าง Background ของตัวเองได้ โดยเลือกค่าพลัง 3 ตัว Origin Feat 1 อย่าง สกิล 2 อย่าง และ Tool 1 อย่างตามที่อยากได้
 
 ---
 
-## ขั้นที่ 3⃣ — เลือก เผ่าพันธุ์ (Species)
+## ขั้นที่ 3 เลือกเผ่าพันธุ์ (Species)
 
- **อ่านรายละเอียด:** [Species ทั้ง 10 เผ่า](../02-species/00-species-overview.md)
+อ่านรายละเอียดได้ที่ [Species ทั้ง 10 เผ่า](../02-species/00-species-overview.md)
 
-> **กฎ 2024: Species ไม่ให้ค่า Ability Score แล้ว** เลือกตามความสามารถพิเศษและความชอบได้เลย ไม่ต้องกังวลว่าจะ "เลือกผิด"
+กฎ 2024 ที่เปลี่ยนไป Species ไม่ให้ค่า Ability Score แล้ว คุณจึงเลือกตามความสามารถพิเศษและความชอบได้เลย ไม่ต้องกังวลว่าจะเลือกผิด
 
-Species จะกำหนด:
-- **ขนาด (Size)** — Small หรือ Medium
-- **ความเร็ว (Speed)** — โดยทั่วไป 30 ฟุต (Goliath ได้ 35)
-- **ความสามารถพิเศษ (Special Traits)** — เช่น Darkvision, ต้านทานธาตุ, สเปลฟรี
+Species เป็นตัวกำหนด 3 อย่าง
+
+- **ขนาด (Size)** เป็น Small หรือ Medium
+- **ความเร็ว (Speed)** โดยทั่วไป 30 ฟุต ส่วน Goliath ได้ 35 ฟุต
+- **ความสามารถพิเศษ (Special Traits)** เช่น Darkvision การต้านทานธาตุ หรือสเปลฟรี
 
 ---
 
-## ขั้นที่ 4⃣ — กำหนด Ability Scores
+## ขั้นที่ 4 กำหนดค่าพลัง (Ability Scores)
 
- **อ่านรายละเอียด:** [Ability Scores](03-ability-scores.md)
+อ่านรายละเอียดได้ที่ [ค่าพลัง 6 ค่า](03-ability-scores.md)
 
 ### ลำดับการทำ
 
-```
-1. ได้ค่าดิบ 6 ค่า (Standard Array / Point Buy / ทอยเต๋า)
-2. จัดค่าใส่ช่อง — ค่าสูงสุดใส่ค่าหลักของคลาส
+1. หาค่าดิบ 6 ค่า ด้วยวิธี Standard Array, Point Buy หรือทอยเต๋า
+2. จัดค่าใส่ช่อง โดยเอาค่าสูงสุดใส่ค่าหลักของคลาส
 3. บวกค่าเพิ่มจาก Background
 4. แปลงเป็น Modifier
-```
 
-### ตัวอย่างเต็ม: สร้าง Wizard
+### ตัวอย่างเต็ม การสร้าง Wizard
 
-```
-Class: Wizard (ค่าหลัก = INT)
-Background: Sage (เลือกได้จาก CON, INT, WIS)
+เลือก Class เป็น Wizard ซึ่งมีค่าหลักคือ INT และเลือก Background เป็น **นักปราชญ์ (Sage)** ซึ่งให้เลือกบวกจาก CON, INT และ WIS
 
-ขั้น 1-2: ใส่ Standard Array
-  STR 8 DEX 14 CON 13 INT 15 WIS 12 CHA 10
+ขั้นที่ 1 และ 2 ใส่ค่าจาก Standard Array ได้เป็น STR 8, DEX 14, CON 13, INT 15, WIS 12 และ CHA 10
 
-ขั้น 3: บวกจาก Sage แบบ A (INT +2, CON +1)
-  STR 8 DEX 14 CON 14 INT 17 WIS 12 CHA 10
+ขั้นที่ 3 บวกจาก Sage แบบ A คือ INT +2 และ CON +1 ได้เป็น STR 8, DEX 14, CON 14, INT 17, WIS 12 และ CHA 10
 
-ขั้น 4: แปลงเป็น Modifier
-  STR −1 DEX +2 CON +2 INT +3 WIS +1 CHA 0
-```
+ขั้นที่ 4 แปลงเป็น Modifier ได้เป็น STR ลบ 1, DEX +2, CON +2, INT +3, WIS +1 และ CHA 0
 
 ---
 
-## ขั้นที่ 5⃣ — Alignment และบุคลิก
+## ขั้นที่ 5 แนวทางศีลธรรมและบุคลิก
 
 ### แนวทางศีลธรรม (Alignment)
 
-ตารางแนวทาง 9 ช่อง เกิดจาก 2 แกน: **ศีลธรรม (GoodEvil)** และ **ระเบียบ (LawfulChaotic)**
+Alignment เกิดจากการผสม 2 แกน แกนแรกคือศีลธรรม มี 3 ระดับคือดี กลาง และชั่ว แกนที่สองคือระเบียบ มี 3 ระดับคือยึดกฎ กลาง และเสรี ผสมกันได้ 9 แบบ
 
-| | **ยึดกฎ (Lawful)** | **กลาง (Neutral)** | **เสรี (Chaotic)** |
-|---|---|---|---|
-| **Good**<br>(ดี) | **Lawful Good (LG)**<br>อัศวินผู้ยึดมั่นเกียรติ | **Neutral Good (NG)**<br>ผู้ทำดีโดยไม่สนกฎ | **Chaotic Good (CG)**<br>โรบินฮู้ด |
-| **Neutral**<br>(กลาง) | **Lawful Neutral (LN)**<br>ผู้พิพากษาที่ยึดกฎเหนือทุกสิ่ง | **True Neutral (N)**<br>รักษาสมดุล ไม่ฝักใฝ่ | **Chaotic Neutral (CN)**<br>เสรีชนเอาแต่ใจ |
-| **Evil**<br>(ชั่ว) | **Lawful Evil (LE)**<br>จอมเผด็จการมีระเบียบ | **Neutral Evil (NE)**<br>เห็นแก่ตัวสุดขั้ว | **Chaotic Evil (CE)**<br>ตัวป่วนบ้าคลั่ง |
+- **ยึดกฎและดี (Lawful Good)** ตัวย่อ LG เช่น อัศวินผู้ยึดมั่นเกียรติ
+- **กลางและดี (Neutral Good)** ตัวย่อ NG เช่น ผู้ทำดีโดยไม่สนกฎ
+- **เสรีและดี (Chaotic Good)** ตัวย่อ CG เช่น โรบินฮู้ด
+- **ยึดกฎและกลาง (Lawful Neutral)** ตัวย่อ LN เช่น ผู้พิพากษาที่ยึดกฎเหนือทุกสิ่ง
+- **กลางทุกด้าน (True Neutral)** ตัวย่อ N เช่น ผู้รักษาสมดุลที่ไม่ฝักใฝ่ฝ่ายใด
+- **เสรีและกลาง (Chaotic Neutral)** ตัวย่อ CN เช่น เสรีชนเอาแต่ใจ
+- **ยึดกฎและชั่ว (Lawful Evil)** ตัวย่อ LE เช่น จอมเผด็จการที่มีระเบียบ
+- **กลางและชั่ว (Neutral Evil)** ตัวย่อ NE เช่น คนเห็นแก่ตัวสุดขั้ว
+- **เสรีและชั่ว (Chaotic Evil)** ตัวย่อ CE เช่น ตัวป่วนบ้าคลั่ง
 
-> **โต๊ะส่วนใหญ่ไม่แนะนำให้เล่น Evil** เพราะมักทำให้กลุ่มแตกคอ ถ้าอยากเล่นให้คุยกับ DM และเพื่อนก่อน
-> Alignment เป็นแค่ **แนวทาง ไม่ใช่กฎบังคับ** ตัวละครเปลี่ยนแปลงได้ตามเรื่องราว
+ข้อควรระวัง โต๊ะส่วนใหญ่ไม่แนะนำให้เล่นสาย Evil เพราะมักทำให้กลุ่มแตกคอ ถ้าอยากเล่นให้คุยกับ DM และเพื่อนก่อน
+
+Alignment เป็นแค่แนวทาง ไม่ใช่กฎบังคับ ตัวละครเปลี่ยนแปลงได้ตามเรื่องราว
 
 ### บุคลิก 4 ด้าน (Personal Characteristics)
 
-จดสั้น ๆ 1-2 บรรทัดต่อข้อ ช่วยให้เล่นบทบาทง่ายขึ้นมาก:
+จดสั้น ๆ หนึ่งถึงสองบรรทัดต่อข้อ จะช่วยให้เล่นบทบาทง่ายขึ้นมาก
 
-| หัวข้อ | ตัวอย่าง |
-|---|---|
-| **นิสัยเด่น (Personality Trait)** | "ฉันพูดมากเวลาประหม่า" |
-| **อุดมการณ์ (Ideal)** | "อิสรภาพสำคัญกว่าทุกสิ่ง" |
-| **สิ่งผูกพัน (Bond)** | "ฉันต้องหาน้องสาวที่หายไปให้เจอ" |
-| **จุดอ่อน (Flaw)** | "ฉันไม่เคยปฏิเสธการพนัน" |
+- **นิสัยเด่น (Personality Trait)** ตัวอย่างเช่น "ฉันพูดมากเวลาประหม่า"
+- **อุดมการณ์ (Ideal)** ตัวอย่างเช่น "อิสรภาพสำคัญกว่าทุกสิ่ง"
+- **สิ่งผูกพัน (Bond)** ตัวอย่างเช่น "ฉันต้องหาน้องสาวที่หายไปให้เจอ"
+- **จุดอ่อน (Flaw)** ตัวอย่างเช่น "ฉันไม่เคยปฏิเสธการพนัน"
 
-> **Flaw คือของขวัญให้ DM** — ยิ่งจุดอ่อนชัด DM ยิ่งเขียนเนื้อเรื่องให้ตัวละครคุณได้ง่าย
+จุดอ่อนคือของขวัญที่คุณให้ DM ยิ่งจุดอ่อนชัด DM ยิ่งเขียนเนื้อเรื่องให้ตัวละครคุณได้ง่าย
 
 ---
 
-## ขั้นที่ 6⃣ — คำนวณค่าต่าง ๆ
+## ขั้นที่ 6 คำนวณค่าต่าง ๆ
 
-| ค่า | สูตร |
-|---|---|
-| **พลังชีวิต (Hit Points (HP))** | **เลเวล 1:** ค่าสูงสุดของ Hit Die + CON modifier |
-| **ค่าป้องกัน (Armor Class (AC))** | ขึ้นกับเกราะที่ใส่ (ดูตารางล่าง) |
-| **ลำดับการเล่น (Initiative)** | **+ DEX modifier** |
-| **ความเร็ว (Speed)** | จาก Species (ปกติ 30 ฟุต) |
-| **โบนัสความชำนาญ (Proficiency Bonus)** | เลเวล 1-4 = **+2** |
-| **การรับรู้เฉื่อย (Passive Perception)** | **10 + Perception modifier** |
-| **ค่าความยากต้านเวทของเรา (Spell Save DC)** | **8 + Proficiency + ค่าร่ายเวท modifier** |
-| **โบนัสโจมตีด้วยเวท (Spell Attack Bonus)** | **Proficiency + ค่าร่ายเวท modifier** |
+- **พลังชีวิต (Hit Points)** ที่เลเวล 1 คือ ค่าสูงสุดของ Hit Die บวกกับ CON modifier
+- **ค่าป้องกัน (Armor Class)** ขึ้นกับเกราะที่ใส่ ดูสูตรในหัวข้อถัดไป
+- **ลำดับการเล่น (Initiative)** คือ DEX modifier
+- **ความเร็ว (Speed)** มาจาก Species โดยปกติคือ 30 ฟุต
+- **โบนัสความชำนาญ (Proficiency Bonus)** ที่เลเวล 1 ถึง 4 คือ +2
+- **การรับรู้แบบเฉื่อย (Passive Perception)** คือ 10 บวกกับ Perception modifier
+- **ค่าความยากต้านเวทของเรา (Spell Save DC)** คือ 8 บวก Proficiency Bonus บวกค่าร่ายเวท modifier
+- **โบนัสโจมตีด้วยเวท (Spell Attack Bonus)** คือ Proficiency Bonus บวกค่าร่ายเวท modifier
 
-### HP เลเวล 1 ตามคลาส
+### HP ที่เลเวล 1 แยกตามคลาส
 
-| Hit Die | คลาส | HP เลเวล 1 |
-|---|---|---|
-| **d12** | Barbarian | **12 + CON** |
-| **d10** | Fighter, Paladin, Ranger | **10 + CON** |
-| **d8** | Bard, Cleric, Druid, Monk, Rogue, Warlock | **8 + CON** |
-| **d6** | Sorcerer, Wizard | **6 + CON** |
+- Hit Die เป็น d12 ได้แก่ Barbarian มี HP เท่ากับ 12 บวก CON modifier
+- Hit Die เป็น d10 ได้แก่ Fighter, Paladin และ Ranger มี HP เท่ากับ 10 บวก CON modifier
+- Hit Die เป็น d8 ได้แก่ Bard, Cleric, Druid, Monk, Rogue และ Warlock มี HP เท่ากับ 8 บวก CON modifier
+- Hit Die เป็น d6 ได้แก่ Sorcerer และ Wizard มี HP เท่ากับ 6 บวก CON modifier
 
-### AC ตามเกราะ
+### AC แยกตามเกราะ
 
-| เกราะ | สูตร AC |
-|---|---|
-| ไม่ใส่เกราะ | **10 + DEX** |
-| **เกราะเบา (Light Armor)** | **ค่าเกราะ + DEX เต็ม** |
-| **เกราะกลาง (Medium Armor)** | **ค่าเกราะ + DEX (สูงสุด +2)** |
-| **เกราะหนัก (Heavy Armor)** | **ค่าเกราะคงที่ (ไม่บวก DEX)** |
-| **+ Shield** (โล่) | **+2** |
-| **Unarmored Defense** (Barbarian) | **10 + DEX + CON** |
-| **Unarmored Defense** (Monk) | **10 + DEX + WIS** |
+- ไม่ใส่เกราะ AC เท่ากับ 10 บวก DEX modifier
+- **เกราะเบา (Light Armor)** AC เท่ากับ ค่าเกราะ บวก DEX modifier เต็มจำนวน
+- **เกราะกลาง (Medium Armor)** AC เท่ากับ ค่าเกราะ บวก DEX modifier แต่บวกได้ไม่เกิน +2
+- **เกราะหนัก (Heavy Armor)** AC เท่ากับ ค่าเกราะคงที่ ไม่บวก DEX เลย
+- ถ้าถือ **โล่ (Shield)** ด้วย ให้บวกเพิ่มอีก 2 ทุกกรณี
+- **การป้องกันแบบไร้เกราะ (Unarmored Defense)** ของ Barbarian AC เท่ากับ 10 บวก DEX บวก CON
+- **การป้องกันแบบไร้เกราะ (Unarmored Defense)** ของ Monk AC เท่ากับ 10 บวก DEX บวก WIS
 
 ---
 
-## ขั้นที่ 7⃣ — เลือกอุปกรณ์เริ่มต้น
+## ขั้นที่ 7 เลือกอุปกรณ์เริ่มต้น
 
- **อ่านรายละเอียด:** [อุปกรณ์และอาวุธ](08-equipment.md)
+อ่านรายละเอียดได้ที่ [อุปกรณ์และอาวุธ](08-equipment.md)
 
-มี 2 ทางเลือก:
+มี 2 ทางเลือก
 
-| ทาง | วิธี | เหมาะกับ |
-|---|---|---|
-| **A** | เอาชุดสำเร็จรูปจาก **Class + Background** | มือใหม่ — เร็วและได้ของที่ใช้ได้จริง |
-| **B** | รับเป็นเงิน (จำนวนตามคลาส) แล้วไปซื้อเอง | ผู้เล่นที่รู้ว่าตัวเองอยากได้อะไร |
+- **ทาง A** เอาชุดสำเร็จรูปจาก Class และ Background เหมาะกับมือใหม่ เพราะเร็วและได้ของที่ใช้ได้จริง
+- **ทาง B** รับเป็นเงินตามจำนวนที่คลาสกำหนด แล้วไปซื้อเอง เหมาะกับผู้เล่นที่รู้อยู่แล้วว่าตัวเองอยากได้อะไร
 
-> **อย่าลืมของสำคัญที่มือใหม่ชอบลืม:**
-> - **Rope (เชือก) 50 ฟุต** — ใช้บ่อยมาก
-> - **Torch (คบไฟ) / Lantern (ตะเกียง)** — ถ้าไม่มี Darkvision
-> - **ยาฟื้นพลัง (Healing Potion)** — 50 GP ช่วยชีวิตได้จริง
-> - **เสบียง (Rations)** — สำหรับการเดินทาง
+ของสำคัญที่มือใหม่ชอบลืม
 
----
-
-## ขั้นที่ 8⃣ — เชื่อมตัวละครเข้ากับกลุ่ม
-
-**ขั้นตอนที่มือใหม่ข้ามบ่อยที่สุด แต่สำคัญที่สุดต่อความสนุก**
-
-ตอบคำถามพวกนี้ร่วมกับเพื่อนใน Session Zero:
-
-- **ทำไมตัวละครฉันถึงออกผจญภัย?** (หาเงิน / ล้างแค้น / หนีอะไรบางอย่าง / อยากรู้อยากเห็น)
-- **ฉันรู้จักใครในกลุ่มมาก่อนไหม?** (เพื่อนสมัยเด็ก / เคยช่วยชีวิตกัน / เพิ่งเจอในโรงเตี๊ยม)
-- **ทำไมฉันถึงยอมเสี่ยงตายเพื่อคนกลุ่มนี้?**
-
-> **หลีกเลี่ยง "ตัวละครหมาป่าเดียวดาย"** — ตัวละครที่ไม่สนใจใครเลย เล่นไปจะทำให้ทั้งโต๊ะอึดอัดและ DM เขียนเนื้อเรื่องให้ยาก
+- **เชือก (Rope)** ยาว 50 ฟุต ใช้บ่อยมาก
+- **คบไฟ (Torch)** หรือ **ตะเกียง (Lantern)** จำเป็นถ้าตัวละครไม่มี Darkvision
+- **ยาฟื้นพลัง (Healing Potion)** ราคา 50 GP ช่วยชีวิตได้จริง
+- **เสบียง (Rations)** สำหรับการเดินทาง
 
 ---
 
-## Checklist ตรวจก่อนเริ่มเล่น
+## ขั้นที่ 8 เชื่อมตัวละครเข้ากับกลุ่ม
 
-```
-[ ] Ability Scores 6 ค่า + Modifier ครบ
-[ ] HP เลเวล 1 คำนวณแล้ว
-[ ] AC คำนวณแล้ว (รวมโล่ถ้ามี)
-[ ] Initiative = DEX modifier
-[ ] Speed
-[ ] Proficiency Bonus = +2
-[ ] Saving Throw ที่ถนัด 2 อย่าง (จากคลาส) ทำเครื่องหมายแล้ว
-[ ] Skill Proficiency ทั้งหมด (จากคลาส + Background + Species) ทำเครื่องหมายแล้ว
-[ ] Weapon / Armor / Tool Proficiency
-[ ] Class Feature ของเลเวล 1 จดครบ
-[ ] Species Traits จดครบ
-[ ] Origin Feat จากBackground จดแล้ว
-[ ] (ถ้าใช้เวท) Cantrip + Spell + Spell Slot + Spell Save DC + Spell Attack Bonus
-[ ] (ถ้ามี Weapon Mastery) เลือกอาวุธที่จะใช้ Mastery แล้ว
-[ ] อุปกรณ์ทั้งหมด + เงินที่เหลือ
-[ ] Passive Perception
-[ ] ชื่อตัวละคร + บุคลิก 4 ด้าน + Alignment
-[ ] เหตุผลที่อยู่กับกลุ่มนี้
-```
+นี่คือขั้นตอนที่มือใหม่ข้ามบ่อยที่สุด แต่สำคัญที่สุดต่อความสนุก
+
+ตอบคำถามพวกนี้ร่วมกับเพื่อนในเซสชันศูนย์
+
+- ทำไมตัวละครฉันถึงออกผจญภัย เพื่อหาเงิน ล้างแค้น หนีอะไรบางอย่าง หรือเพราะอยากรู้อยากเห็น
+- ฉันรู้จักใครในกลุ่มมาก่อนไหม เป็นเพื่อนสมัยเด็ก เคยช่วยชีวิตกัน หรือเพิ่งเจอกันในโรงเตี๊ยม
+- ทำไมฉันถึงยอมเสี่ยงตายเพื่อคนกลุ่มนี้
+
+ข้อควรระวัง หลีกเลี่ยงการเล่นตัวละครหมาป่าเดียวดายที่ไม่สนใจใครเลย เพราะเล่นไปจะทำให้ทั้งโต๊ะอึดอัด และ DM เขียนเนื้อเรื่องให้ยาก
 
 ---
 
-## ตัวอย่างตัวละครสำเร็จรูป (คัดลอกใช้ได้เลย)
+## รายการตรวจก่อนเริ่มเล่น
 
-### Fighter — "Bran ทหารผ่านศึก"
+ตรวจให้ครบทุกข้อก่อนนัดเล่นจริง
 
-```
-Class: Fighter (Level 1) | Species: Human | Background: Soldier
+- ค่า Ability Scores ทั้ง 6 ค่า และ Modifier ครบแล้ว
+- HP ที่เลเวล 1 คำนวณแล้ว
+- AC คำนวณแล้ว รวมโล่ถ้ามี
+- Initiative ซึ่งเท่ากับ DEX modifier
+- Speed
+- Proficiency Bonus ซึ่งเลเวล 1 คือ +2
+- Saving Throw ที่ถนัด 2 อย่างจากคลาส ทำเครื่องหมายแล้ว
+- Skill Proficiency ทั้งหมดจากคลาส Background และ Species ทำเครื่องหมายแล้ว
+- ความชำนาญอาวุธ เกราะ และเครื่องมือ
+- Class Feature ของเลเวล 1 จดครบ
+- Species Traits จดครบ
+- Origin Feat จาก Background จดแล้ว
+- ถ้าใช้เวท ต้องมี Cantrip, สเปลที่เตรียม, Spell Slot, Spell Save DC และ Spell Attack Bonus
+- ถ้ามี Weapon Mastery ต้องเลือกแล้วว่าจะใช้กับอาวุธไหน
+- อุปกรณ์ทั้งหมดและเงินที่เหลือ
+- Passive Perception
+- ชื่อตัวละคร บุคลิก 4 ด้าน และ Alignment
+- เหตุผลที่ตัวละครอยู่กับกลุ่มนี้
 
-Ability Scores (Standard Array + Soldier แบบ A: STR+2, CON+1)
-  STR 17 (+3) DEX 14 (+2) CON 15 (+2) INT 10 (0) WIS 12 (+1) CHA 8 (−1)
+---
 
-HP 12 (10 + CON 2) AC 18 (Chain Mail 16 + Shield 2) Speed 30 ft
-Initiative +2 Proficiency Bonus +2 Passive Perception 11
+## ตัวอย่างตัวละครสำเร็จรูป คัดลอกไปใช้ได้เลย
 
-Saving Throws: STR +5, CON +4
-Skills: Athletics +5, Intimidation +1 (จาก Fighter)
-        Athletics, Intimidation (จาก Soldier — ทับกัน เลือกสกิลอื่นแทนได้)
-        จึงเลือก Perception +3, Survival +3 แทน
-Tool: Gaming Set (จาก Soldier)
+### Fighter ชื่อ Bran ทหารผ่านศึก
 
-Class Features:
-  • Fighting Style: Defense (+1 AC ตอนใส่เกราะ) ทำให้ AC เป็น 19
-  • Second Wind (ฟื้น 1d10+1 HP, ใช้ได้ 2 ครั้ง)
-  • Weapon Mastery 3 อย่าง: Longsword (Sap), Handaxe (Vex), Greatsword (Graze)
+เป็น Fighter เลเวล 1 เผ่า Human ภูมิหลัง **ทหาร (Soldier)**
 
-Species Traits (Human): Resourceful, Skillful, Versatile (เลือก Feat: Savage Attacker)
-Origin Feat (จาก Soldier): Savage Attacker
+ค่าพลังใช้ Standard Array บวกกับ Soldier แบบ A ซึ่งให้ STR +2 และ CON +1 ได้เป็น
+STR 17 ให้ Modifier +3, DEX 14 ให้ +2, CON 15 ให้ +2, INT 10 ให้ 0, WIS 12 ให้ +1 และ CHA 8 ให้ ลบ 1
 
-Equipment: Chain Mail, Shield, Longsword, Handaxe, Light Crossbow + 20 bolts,
-           Dungeoneer's Pack, Gaming Set, 4 GP
-```
+ค่าที่คำนวณได้
 
-### Cleric — "Elara ผู้รับใช้แสงสว่าง"
+- HP 12 มาจาก 10 บวก CON 2
+- AC 18 มาจาก Chain Mail 16 บวกโล่ 2
+- Speed 30 ฟุต
+- Initiative +2
+- Proficiency Bonus +2
+- Passive Perception 11
 
-```
-Class: Cleric (Level 1) | Species: Aasimar | Background: Acolyte
+Saving Throw ที่ถนัดคือ STR +5 และ CON +4
 
-Ability Scores (Standard Array + Acolyte แบบ A: WIS+2, CON+1)
-  STR 12 (+1) DEX 10 (0) CON 15 (+2) INT 8 (−1) WIS 17 (+3) CHA 14 (+2)
+สกิล Fighter ให้ Athletics และ Intimidation ส่วน Soldier ก็ให้สองอย่างเดียวกัน เมื่อทับกันจึงเลือกสกิลอื่นแทนได้
+ตัวละครนี้จึงจบที่ Athletics +5, Intimidation +1, Perception +3 และ Survival +3
+เครื่องมือที่ถนัดคือ Gaming Set ซึ่งได้จาก Soldier
 
-HP 10 (8 + CON 2) AC 18 (Chain Mail 16 + Shield 2) Speed 30 ft
-Initiative +0 Proficiency Bonus +2 Passive Perception 13
+Class Features ที่มี
 
-Saving Throws: WIS +5, CHA +4
-Skills: Insight +5, Religion +1, Medicine +5, Persuasion +4
-Tool: Calligrapher's Supplies
+- **รูปแบบการต่อสู้ (Fighting Style)** เลือก Defense ซึ่งให้ +1 AC ตอนใส่เกราะ ทำให้ AC จริงเป็น 19
+- **ลมหายใจที่สอง (Second Wind)** ฟื้น 1d10 บวก 1 HP ใช้ได้ 2 ครั้ง
+- **ความเชี่ยวชาญอาวุธ (Weapon Mastery)** 3 อย่าง คือ Longsword ใช้ Sap, Handaxe ใช้ Vex และ Greatsword ใช้ Graze
 
-Spellcasting: WIS | Spell Save DC 13 | Spell Attack +5
-  Cantrips (3): Guidance, Sacred Flame, Toll the Dead
-  Prepared Spells (4): Cure Wounds, Bless, Guiding Bolt, Shield of Faith
-  Spell Slots: Level 1 ×2
+Species Traits ของ Human ได้แก่ Resourceful, Skillful และ Versatile โดย Versatile เลือก Feat เป็น Savage Attacker
+Origin Feat จาก Soldier คือ Savage Attacker
 
-Class Features:
-  • Divine Order: Protector (ได้ Martial Weapon + Heavy Armor Proficiency)
+อุปกรณ์ ได้แก่ Chain Mail, โล่, Longsword, Handaxe, Light Crossbow พร้อมลูกดอก 20 อัน, Dungeoneer's Pack, Gaming Set และเงิน 4 GP
 
-Species Traits (Aasimar): Celestial Resistance, Darkvision 60, Healing Hands, Light Bearer
-Origin Feat (จาก Acolyte): Magic Initiate (Cleric)
+### Cleric ชื่อ Elara ผู้รับใช้แสงสว่าง
 
-Equipment: Chain Mail, Shield, Mace, Holy Symbol, Priest's Pack, 7 GP
-```
+เป็น Cleric เลเวล 1 เผ่า Aasimar ภูมิหลัง **นักบวชฝึกหัด (Acolyte)**
+
+ค่าพลังใช้ Standard Array บวกกับ Acolyte แบบ A ซึ่งให้ WIS +2 และ CON +1 ได้เป็น
+STR 12 ให้ Modifier +1, DEX 10 ให้ 0, CON 15 ให้ +2, INT 8 ให้ ลบ 1, WIS 17 ให้ +3 และ CHA 14 ให้ +2
+
+ค่าที่คำนวณได้
+
+- HP 10 มาจาก 8 บวก CON 2
+- AC 18 มาจาก Chain Mail 16 บวกโล่ 2
+- Speed 30 ฟุต
+- Initiative 0
+- Proficiency Bonus +2
+- Passive Perception 13
+
+Saving Throw ที่ถนัดคือ WIS +5 และ CHA +4
+สกิลที่มีคือ Insight +5, Religion +1, Medicine +5 และ Persuasion +4
+เครื่องมือที่ถนัดคือ Calligrapher's Supplies
+
+การร่ายเวทใช้ WIS มี Spell Save DC 13 และ Spell Attack +5
+
+- Cantrip 3 อัน ได้แก่ **การชี้นำ (Guidance)**, **เปลวเพลิงศักดิ์สิทธิ์ (Sacred Flame)** และ **ระฆังมรณะ (Toll the Dead)**
+- สเปลที่เตรียมไว้ 4 อัน ได้แก่ **รักษาบาดแผล (Cure Wounds)**, **พร (Bless)**, **ลำแสงนำทาง (Guiding Bolt)** และ **โล่แห่งศรัทธา (Shield of Faith)**
+- Spell Slot ระดับ 1 จำนวน 2 ช่อง
+
+Class Feature ที่มีคือ **คำสั่งศักดิ์สิทธิ์ (Divine Order)** เลือกสาย Protector ซึ่งให้ความชำนาญอาวุธ Martial และเกราะหนัก
+
+Species Traits ของ Aasimar ได้แก่ Celestial Resistance, Darkvision ระยะ 60 ฟุต, Healing Hands และ Light Bearer
+Origin Feat จาก Acolyte คือ Magic Initiate สาย Cleric
+
+อุปกรณ์ ได้แก่ Chain Mail, โล่, Mace, สัญลักษณ์ศักดิ์สิทธิ์, Priest's Pack และเงิน 7 GP
+
+---
+
+## สรุปการสร้างตัวละครในหนึ่งบรรทัด
+
+เลือกคลาสก่อนเพราะเป็นตัวกำหนดวิธีเล่น แล้วเลือก Background ที่ให้ค่าพลังตรงกับคลาสนั้น ที่เหลือคือการคำนวณตามสูตรและการตอบคำถามว่าทำไมตัวละครนี้ถึงอยู่กับกลุ่ม
 
 ---
 
@@ -307,3 +303,4 @@ Equipment: Chain Mail, Shield, Mace, Holy Symbol, Priest's Pack, 7 GP
 - [ภาพรวมคลาสทั้ง 12](../04-classes/00-classes-overview.md)
 - [ภาพรวม Species](../02-species/00-species-overview.md)
 - [Background ทั้ง 16](../03-backgrounds/00-backgrounds-overview.md)
+- [กลับสารบัญ](../README.md)
