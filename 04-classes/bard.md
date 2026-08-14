@@ -34,7 +34,7 @@
 
 ---
 
-## ตารางความก้าวหน้าเลเวล 1-20
+## ความก้าวหน้าเลเวล 1 ถึง 20
 
 - **เลเวล 1** Proficiency Bonus +2, ได้ความสามารถ Bardic Inspiration [แนะนำ], Spellcasting, Bardic Die d6, รู้ Cantrip 2, เตรียมสเปลได้ 4, Spell Slot ระดับ 1 จำนวน 2 ช่อง
 - **เลเวล 2** Proficiency Bonus +2, ได้ความสามารถ Expertise [แนะนำ], Jack of All Trades, Bardic Die d6, รู้ Cantrip 2, เตรียมสเปลได้ 5, Spell Slot ระดับ 1 จำนวน 3 ช่อง
@@ -82,7 +82,7 @@
 - 10-14 **d10**
 - 15-20 **d12**
 
-**เวลาที่ควรใช้ที่สุด:** ให้ Fighter/Barbarian ตอนโจมตีบอส • ให้เพื่อนที่ทอย Saving Throw สำคัญ • ให้ Rogue ตอน Stealth เข้าปราสาท
+**เวลาที่ควรใช้ที่สุด:** ให้ Fighter/Barbarian ตอนโจมตีบอส, ให้เพื่อนที่ทอย Saving Throw สำคัญ และ ให้ Rogue ตอน Stealth เข้าปราสาท
 
 ---
 
@@ -209,11 +209,11 @@ Bard มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **�
 
 **เลเวล 3 Martial Training**
 
-[แนะนำ] ได้ Proficiency ใน **Martial Weapons** และ **Medium Armor + Shield** • และใช้ **เครื่องดนตรีเป็น Spellcasting Focus ขณะถืออาวุธได้**
+[แนะนำ] ได้ Proficiency ใน **Martial Weapons** และ **Medium Armor + Shield** และ และใช้ **เครื่องดนตรีเป็น Spellcasting Focus ขณะถืออาวุธได้**
 
 **เลเวล 6 Extra Attack**
 
-**โจมตีได้ 2 ครั้ง** [แนะนำมาก] • และสามารถ**แทนการโจมตี 1 ครั้ง ด้วยการร่าย Cantrip** ที่มี Casting Time เป็น Action
+**โจมตีได้ 2 ครั้ง** [แนะนำมาก] และ และสามารถ**แทนการโจมตี 1 ครั้ง ด้วยการร่าย Cantrip** ที่มี Casting Time เป็น Action
 
 **เลเวล 14 Battle Magic**
 
@@ -244,7 +244,7 @@ Bard มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **�
 
 **เลเวล 14 Leading Evasion**
 
-[แนะนำมาก] เมื่อทอย **DEX Save** เพื่อลดดาเมจครึ่ง **สำเร็จ = 0, ล้มเหลว = ครึ่ง** • **และเพื่อนในระยะ 5 ฟุตได้ผลนี้ด้วย!**
+[แนะนำมาก] เมื่อทอย **DEX Save** เพื่อลดดาเมจครึ่ง **สำเร็จ = 0, ล้มเหลว = ครึ่ง** และ **และเพื่อนในระยะ 5 ฟุตได้ผลนี้ด้วย!**
 
 **สายที่มี AC สูงที่สุดของ Bard** DEX 20 + CHA 20 = **AC 20** โดยไม่ใส่เกราะ
 
@@ -256,7 +256,7 @@ Bard มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **�
 
 **เลเวล 3 Beguiling Magic**
 
-[แนะนำ] • ได้สเปล **Charm Person** และ **Mirror Image** เตรียมไว้เสมอ
+[แนะนำ] และ ได้สเปล **Charm Person** และ **Mirror Image** เตรียมไว้เสมอ
 - **หลังร่ายสเปล Enchantment หรือ Illusion:** ทำให้สิ่งมีชีวิตในระยะ 60 ฟุตทอย **WIS Save** ล้มเหลว = **Charmed หรือ Frightened 1 นาที** (ใช้ได้ Prof Bonus ครั้ง/Long Rest)
 
 **เลเวล 3 Mantle of Inspiration**
@@ -316,15 +316,15 @@ Spell Save DC เท่ากับ 8 บวก Proficiency Bonus บวก CHA 
 
 ### Species ที่แนะนำ
 
-- **Human** [แนะนำ] Feat ฟรี
-- **Halfling** [แนะนำ] Luck (ทอย 1 ใหม่) Bard ทอยเยอะมาก
-- **Tiefling** [แนะนำ] สเปลฟรีเข้าธีม + CHA
-- **Aasimar** Healing Hands + Necrotic Shroud (ใช้ CHA)
-- **Gnome** Advantage ใน INT/WIS/CHA Save
-- **Elf (High)** Cantrip + Misty Step ฟรี
+- **มนุษย์ (Human)** [แนะนำ] Feat ฟรี
+- **ฮาล์ฟลิง (Halfling)** [แนะนำ] Luck (ทอย 1 ใหม่) Bard ทอยเยอะมาก
+- **ลูกหลานปีศาจ (Tiefling)** [แนะนำ] สเปลฟรีเข้าธีม + CHA
+- **ลูกหลานสวรรค์ (Aasimar)** Healing Hands + Necrotic Shroud (ใช้ CHA)
+- **โนม (Gnome)** Advantage ใน INT/WIS/CHA Save
+- **เอลฟ์ (Elf) สาย High** Cantrip + Misty Step ฟรี
 
 ### Background ที่แนะนำ
-**Charlatan** (DEX/CON/CHA) [แนะนำมาก] ตรงเป๊ะทั้ง 3 ค่า • **STR/DEX/CHA ได้ Musician (Entertainer)** [แนะนำ] เข้าธีม • **Noble** (STR/INT/CHA) • **Wayfarer** (DEX/WIS/CHA)
+**Charlatan** (DEX/CON/CHA) [แนะนำมาก] ตรงเป๊ะทั้ง 3 ค่า, **STR/DEX/CHA ได้ Musician (Entertainer)** [แนะนำ] เข้าธีม, **Noble** (STR/INT/CHA) และ **Wayfarer** (DEX/WIS/CHA)
 
 ### Feat ที่แนะนำ (เลเวล 4+)
 

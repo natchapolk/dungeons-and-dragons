@@ -17,7 +17,7 @@
 
 ---
 
-## ตารางสรุปทั้งหมด (เรียงตามความนิยม)
+## รายการสรุปทั้งหมด (เรียงตามความนิยม)
 
 - **เพิ่มค่าพลัง (Ability Score Improvement)** ค่าพลัง **+2 / +1+1**, ผลย่อ เพิ่มค่าพลังล้วน ๆ (Repeatable)
 - **ผู้ร่ายเวทสงคราม (War Caster)** ค่าพลัง INT/WIS/CHA +1, ผลย่อ **Advantage ในการรักษา Concentration**
@@ -34,7 +34,7 @@
 - **คล่องแคล่ว (Mobile)** ผลย่อ Speed +10 + ไม่โดน Opportunity Attack จากคนที่ตี
 - **Alert** ผลย่อ เป็น **Origin Feat** ไม่ใช่ General Feat
 
-ตารางเต็มอยู่ด้านล่าง จัดกลุ่มตามแนวทางการเล่น
+รายละเอียดเต็มอยู่ด้านล่าง จัดกลุ่มตามแนวทางการเล่น
 
 ---
 ---
@@ -47,7 +47,7 @@
 
 ---
 
-### Ability Score Improvement เพิ่มค่าพลัง
+### เพิ่มค่าพลัง (Ability Score Improvement)
 
 **เพิ่มค่า Ability Score:**
 - **+2 ให้ค่าเดียว** หรือ
@@ -63,7 +63,7 @@
 
 ---
 
-### War Caster ผู้ร่ายเวทสงคราม
+### ผู้ร่ายเวทสงคราม (War Caster)
 
 **ค่าพลัง:** **+1 ให้ INT, WIS, หรือ CHA**
 
@@ -78,7 +78,7 @@
 
 ---
 
-### Resilient ทนทาน
+### ทนทาน (Resilient)
 
 **ค่าพลัง:** **+1 ให้ค่าใดก็ได้ 1 ค่า**
 **และคุณได้ Proficiency ใน Saving Throw ของค่านั้น**
@@ -93,7 +93,7 @@
 
 ---
 
-### Skill Expert ผู้เชี่ยวชาญทักษะ
+### ผู้เชี่ยวชาญทักษะ (Skill Expert)
 
 **ค่าพลัง:** **+1 ให้ค่าใดก็ได้ 1 ค่า**
 
@@ -103,11 +103,11 @@
 **ทำไมดี [แนะนำมาก]:** ทำให้คลาสที่ไม่ใช่ Rogue/Bard มี Expertise ได้
 
 ### เหมาะกับ
-ตัวละครที่เป็น "หน้ากลุ่ม" • คลาสที่มีสกิลน้อย (Fighter, Sorcerer, Barbarian)
+ตัวละครที่เป็น "หน้ากลุ่ม" และ คลาสที่มีสกิลน้อย (Fighter, Sorcerer, Barbarian)
 
 ---
 
-### Inspiring Leader ผู้นำสร้างแรงบันดาลใจ
+### ผู้นำสร้างแรงบันดาลใจ (Inspiring Leader)
 
 **ค่าพลัง:** **+1 ให้ WIS หรือ CHA**
 
@@ -120,7 +120,7 @@
 - เลเวล 10, CHA 20 (+5): แจก Temp HP 15 ให้ 6 คน = HP รวมของทีมเพิ่ม 90 ต่อการพัก 1 ครั้ง!
 
 ### เหมาะกับ
-**CHA สูง (Paladin, Bard, Warlock, Sorcerer)** • **WIS สูง (Cleric, Druid, Ranger)**
+**CHA สูง (Paladin, Bard, Warlock, Sorcerer)** และ **WIS สูง (Cleric, Druid, Ranger)**
 
 ---
 
@@ -128,7 +128,7 @@
 
 ---
 
-### Great Weapon Master ปรมาจารย์อาวุธใหญ่
+### ปรมาจารย์อาวุธใหญ่ (Great Weapon Master)
 
 **ค่าพลัง:** **+1 ให้ STR**
 
@@ -144,7 +144,7 @@
 
 ---
 
-### Sentinel ผู้พิทักษ์
+### ผู้พิทักษ์ (Sentinel)
 
 **ค่าพลัง:** **+1 ให้ STR หรือ DEX**
 
@@ -159,7 +159,7 @@
 
 ---
 
-### Polearm Master ปรมาจารย์ทวน
+### ปรมาจารย์ทวน (Polearm Master)
 
 **ค่าพลัง:** **+1 ให้ STR หรือ DEX**
 
@@ -176,7 +176,7 @@
 
 ---
 
-### Grappler นักมวยปล้ำ
+### นักมวยปล้ำ (Grappler)
 
 **ค่าพลัง:** **+1 ให้ STR หรือ DEX**
 
@@ -191,7 +191,7 @@
 
 ---
 
-### Dual Wielder นักรบสองอาวุธ
+### นักรบสองอาวุธ (Dual Wielder)
 
 **ค่าพลัง:** **+1 ให้ STR หรือ DEX**
 
@@ -204,7 +204,7 @@
 
 ---
 
-### Shield Master ปรมาจารย์โล่
+### ปรมาจารย์โล่ (Shield Master)
 
 **ค่าพลัง:** **+1 ให้ STR**
 
@@ -217,17 +217,17 @@
 
 ---
 
-### Crusher / Piercer / Slasher ผู้เชี่ยวชาญดาเมจแต่ละชนิด
+### ผู้เชี่ยวชาญดาเมจแต่ละชนิด (Crusher / Piercer / Slasher)
 
-- **ทุบ (Crusher)** ค่าพลัง STR หรือ CON +1, ผล **1 ครั้ง/เทิร์น:** เมื่อทำ **Bludgeoning damage** **ผลักเป้าหมาย 5 ฟุต** • **เมื่อทำ Critical Hit ทุกคนได้ Advantage ในการโจมตีเป้าหมายนั้นจนถึงเทิร์นหน้า**
-- **แทง (Piercer)** ค่าพลัง STR หรือ DEX +1, ผล **1 ครั้ง/เทิร์น:** เมื่อทำ **Piercing damage** **ทอยเต๋าดาเมจใหม่ได้ 1 ลูก** • **เมื่อ Critical Hit ทอยเต๋าดาเมจเพิ่มอีก 1 ลูก**
-- **ฟัน (Slasher)** ค่าพลัง STR หรือ DEX +1, ผล **1 ครั้ง/เทิร์น:** เมื่อทำ **Slashing damage** **ลด Speed เป้าหมาย 10 ฟุต** • **เมื่อ Critical Hit เป้าหมายเสียเปรียบในการทอยโจมตีจนถึงเทิร์นหน้า**
+- **ทุบ (Crusher)** ค่าพลัง STR หรือ CON +1, ผล **1 ครั้ง/เทิร์น:** เมื่อทำ **Bludgeoning damage** **ผลักเป้าหมาย 5 ฟุต** และ **เมื่อทำ Critical Hit ทุกคนได้ Advantage ในการโจมตีเป้าหมายนั้นจนถึงเทิร์นหน้า**
+- **แทง (Piercer)** ค่าพลัง STR หรือ DEX +1, ผล **1 ครั้ง/เทิร์น:** เมื่อทำ **Piercing damage** **ทอยเต๋าดาเมจใหม่ได้ 1 ลูก** และ **เมื่อ Critical Hit ทอยเต๋าดาเมจเพิ่มอีก 1 ลูก**
+- **ฟัน (Slasher)** ค่าพลัง STR หรือ DEX +1, ผล **1 ครั้ง/เทิร์น:** เมื่อทำ **Slashing damage** **ลด Speed เป้าหมาย 10 ฟุต** และ **เมื่อ Critical Hit เป้าหมายเสียเปรียบในการทอยโจมตีจนถึงเทิร์นหน้า**
 
 **เลือกตามอาวุธหลักของคุณ** Greatsword = Slasher, Rapier/Longbow = Piercer, Maul = Crusher
 
 ---
 
-### Charger นักพุ่งชน
+### นักพุ่งชน (Charger)
 
 **ค่าพลัง:** **+1 ให้ STR หรือ DEX**
 
@@ -236,7 +236,7 @@
 
 ---
 
-### Mounted Combatant นักรบขี่พาหนะ
+### นักรบขี่พาหนะ (Mounted Combatant)
 
 **ค่าพลัง:** **+1 ให้ STR, DEX, หรือ WIS**
 
@@ -250,7 +250,7 @@
 
 ---
 
-### Sharpshooter นักแม่นปืน
+### นักแม่นปืน (Sharpshooter)
 
 **ค่าพลัง:** **+1 ให้ DEX**
 
@@ -265,7 +265,7 @@
 
 ---
 
-### Crossbow Expert ผู้เชี่ยวชาญหน้าไม้
+### ผู้เชี่ยวชาญหน้าไม้ (Crossbow Expert)
 
 **ค่าพลัง:** **+1 ให้ DEX**
 
@@ -278,7 +278,7 @@
 
 ---
 
-### Spell Sniper นักแม่นเวท
+### นักแม่นเวท (Spell Sniper)
 
 **ค่าพลัง:** **+1 ให้ INT, WIS, หรือ CHA** (ต้องมีความสามารถร่ายเวท)
 
@@ -287,7 +287,7 @@
 - **ได้ Cantrip 1 อัน** จากรายการ Cleric, Druid, Sorcerer, Warlock, หรือ Wizard
 
 ### เหมาะกับ
-**Eldritch Blast ระยะ 240 ฟุต! (Warlock)** [แนะนำ] • Wizard, Sorcerer สายโจมตี
+**Eldritch Blast ระยะ 240 ฟุต! (Warlock)** [แนะนำ] และ Wizard, Sorcerer สายโจมตี
 
 ---
 
@@ -295,7 +295,7 @@
 
 ---
 
-### Fey Touched สัมผัสภูตพราย
+### สัมผัสภูตพราย (Fey Touched)
 
 **ค่าพลัง:** **+1 ให้ INT, WIS, หรือ CHA**
 
@@ -309,7 +309,7 @@
 
 ---
 
-### Shadow Touched สัมผัสเงามืด
+### สัมผัสเงามืด (Shadow Touched)
 
 **ค่าพลัง:** **+1 ให้ INT, WIS, หรือ CHA**
 
@@ -320,7 +320,7 @@
 
 ---
 
-### Metamagic Adept ผู้ชำนาญเวทดัดแปลง
+### ผู้ชำนาญเวทดัดแปลง (Metamagic Adept)
 
 **ค่าพลัง:** **+1 ให้ INT, WIS, หรือ CHA** (ต้องมีความสามารถร่ายเวท)
 
@@ -329,11 +329,11 @@
 - ถ้าเป็น Sorcerer อยู่แล้ว **แต้มรวมกัน**
 
 ### เหมาะกับ
-**Sorcerer** (ได้ Metamagic เพิ่ม) • สายเวทอื่นที่อยากได้ Subtle Spell หรือ Quickened Spell
+**Sorcerer** (ได้ Metamagic เพิ่ม) และ สายเวทอื่นที่อยากได้ Subtle Spell หรือ Quickened Spell
 
 ---
 
-### Eldritch Adept ผู้ชำนาญมนตราลึกลับ
+### ผู้ชำนาญมนตราลึกลับ (Eldritch Adept)
 
 **ต้องมีความสามารถร่ายเวท**
 
@@ -343,11 +343,11 @@
 **ไม่ให้ค่าพลังเพิ่ม**
 
 ### เหมาะกับ
-**Warlock** (ได้ Invocation เพิ่ม) • สายเวทที่อยากได้ Armor of Shadows หรือ Devil's Sight
+**Warlock** (ได้ Invocation เพิ่ม) และ สายเวทที่อยากได้ Armor of Shadows หรือ Devil's Sight
 
 ---
 
-### Ritual Caster ผู้ร่ายพิธีกรรม
+### ผู้ร่ายพิธีกรรม (Ritual Caster)
 
 **ค่าพลัง:** **+1 ให้ INT, WIS, หรือ CHA**
 
@@ -359,7 +359,7 @@
 
 ---
 
-### Elemental Adept ผู้ชำนาญธาตุ
+### ผู้ชำนาญธาตุ (Elemental Adept)
 
 **ต้องมีความสามารถร่ายเวท**
 
@@ -374,7 +374,7 @@
 
 ---
 
-### Telekinetic / Telepathic พลังจิต
+### พลังจิต (Telekinetic / Telepathic)
 
 - **Telekinetic** ค่าพลัง INT/WIS/CHA +1, ผล ได้ Cantrip **Mage Hand** (มือมองไม่เห็น + ระยะ +30 ฟุต) **Bonus Action:** [แนะนำ] ผลักหรือดึงสิ่งมีชีวิตในระยะ 30 ฟุต ไป **5 ฟุต** (STR Save)
 - **Telepathic** ค่าพลัง INT/WIS/CHA +1, ผล **สื่อสารทางจิตกับใครก็ได้ในระยะ 60 ฟุต** ได้สเปล **Detect Thoughts** ร่ายฟรี 1 ครั้ง/Long Rest
@@ -385,7 +385,7 @@
 
 ---
 
-### Mobile คล่องแคล่ว
+### คล่องแคล่ว (Mobile)
 
 - **Speed +10 ฟุต** [แนะนำ]
 - **Difficult Terrain ไม่ทำให้คุณช้าลง** [แนะนำ] เมื่อ Dash
@@ -396,11 +396,11 @@
 **ทำไมดี [แนะนำอย่างยิ่ง]:** **ตีแล้วหนีได้ฟรี** เหมาะกับตัวละครที่ต้องเข้าออกจากวงศัตรู
 
 ### เหมาะกับ
-**Monk, Rogue, Barbarian** • ตัวละครที่ต้องเคลื่อนที่บ่อย
+**Monk, Rogue, Barbarian** และ ตัวละครที่ต้องเคลื่อนที่บ่อย
 
 ---
 
-### Speedy ว่องไว
+### ว่องไว (Speedy)
 
 **ค่าพลัง:** **+1 ให้ DEX หรือ CON**
 
@@ -410,7 +410,7 @@
 
 ---
 
-### Durable อึดทน
+### อึดทน (Durable)
 
 **ค่าพลัง:** **+1 ให้ CON**
 
@@ -419,7 +419,7 @@
 
 ---
 
-### Heavy Armor Master ปรมาจารย์เกราะหนัก
+### ปรมาจารย์เกราะหนัก (Heavy Armor Master)
 
 **ค่าพลัง:** **+1 ให้ STR** (ต้องมี Proficiency ใน Heavy Armor)
 
@@ -432,7 +432,7 @@
 
 ---
 
-### Medium Armor Master ปรมาจารย์เกราะกลาง
+### ปรมาจารย์เกราะกลาง (Medium Armor Master)
 
 **ค่าพลัง:** **+1 ให้ STR หรือ DEX**
 
@@ -441,7 +441,7 @@
 
 ---
 
-### Defensive Duelist ผู้ป้องกันในการประลอง
+### ผู้ป้องกันในการประลอง (Defensive Duelist)
 
 **ค่าพลัง:** **+1 ให้ DEX**
 
@@ -449,7 +449,7 @@
 
 ---
 
-### Mage Slayer นักล่าจอมเวท
+### นักล่าจอมเวท (Mage Slayer)
 
 **ค่าพลัง:** **+1 ให้ STR หรือ DEX**
 
@@ -463,12 +463,12 @@
 
 ## กลุ่มที่ 6: Feat สายบทบาทและอรรถประโยชน์
 
-- **นักแสดง (Actor)** ค่าพลัง CHA +1, ผล Advantage ใน Deception/Performance เมื่อปลอมเป็นคนอื่น • เลียนเสียงคนหรือสัตว์ที่เคยได้ยิน
-- **นักกีฬา (Athlete)** ค่าพลัง STR หรือ DEX +1, ผล ลุกจาก Prone ใช้แค่ 5 ฟุต • ปีนไม่เสียความเร็ว 2 เท่า • กระโดดไกลขึ้น
-- **พ่อครัว (Chef)** ค่าพลัง CON หรือ WIS +1, ผล ทำอาหารระหว่าง Short Rest เพื่อนฟื้น HP เพิ่ม • ทำขนมให้ Temp HP
-- **จิตเฉียบคม (Keen Mind)** ค่าพลัง INT +1, ผล รู้ทิศเหนือเสมอ • รู้เวลาที่เหลือถึงพระอาทิตย์ขึ้น/ตก • **จำทุกอย่างที่เห็นและได้ยินใน 1 เดือน**
-- **ช่างสังเกต (Observant)** ค่าพลัง INT หรือ WIS +1, ผล **+Prof Bonus ใน Perception และ Investigation** • อ่านปากได้
-- **ผู้ใช้พิษ (Poisoner)** ค่าพลัง DEX หรือ INT +1, ผล ทำยาพิษได้ • **การโจมตีด้วยพิษไม่สนใจ Poison Resistance** • ใช้ Bonus Action ทายาพิษ
+- **นักแสดง (Actor)** ค่าพลัง CHA +1, ผล Advantage ใน Deception/Performance เมื่อปลอมเป็นคนอื่น และ เลียนเสียงคนหรือสัตว์ที่เคยได้ยิน
+- **นักกีฬา (Athlete)** ค่าพลัง STR หรือ DEX +1, ผล ลุกจาก Prone ใช้แค่ 5 ฟุต, ปีนไม่เสียความเร็ว 2 เท่า และ กระโดดไกลขึ้น
+- **พ่อครัว (Chef)** ค่าพลัง CON หรือ WIS +1, ผล ทำอาหารระหว่าง Short Rest เพื่อนฟื้น HP เพิ่ม และ ทำขนมให้ Temp HP
+- **จิตเฉียบคม (Keen Mind)** ค่าพลัง INT +1, ผล รู้ทิศเหนือเสมอ, รู้เวลาที่เหลือถึงพระอาทิตย์ขึ้น/ตก และ **จำทุกอย่างที่เห็นและได้ยินใน 1 เดือน**
+- **ช่างสังเกต (Observant)** ค่าพลัง INT หรือ WIS +1, ผล **+Prof Bonus ใน Perception และ Investigation** และ อ่านปากได้
+- **ผู้ใช้พิษ (Poisoner)** ค่าพลัง DEX หรือ INT +1, ผล ทำยาพิษได้, **การโจมตีด้วยพิษไม่สนใจ Poison Resistance** และ ใช้ Bonus Action ทายาพิษ
 - **Lightly / Moderately / Heavily Armored** ค่าพลัง STR หรือ DEX +1, ผล ได้ Proficiency ในเกราะระดับนั้น (สำหรับคลาสที่ไม่มี)
 - **Martial Weapon Training** ค่าพลัง STR หรือ DEX +1, ผล ได้ Proficiency ใน **Martial Weapons ทั้งหมด** (สำหรับคลาสที่ไม่มี)
 
@@ -477,7 +477,7 @@
 ## ไม่ใช่ General Feat (Alert)
 
 **Alert, Lucky, Tough, Skilled, Healer, Magic Initiate, Musician, Savage Attacker, Crafter, Tavern Brawler**
-ทั้งหมดนี้เป็น **[Origin Feat](../03-backgrounds/origin-feats.md)** ได้จาก **Background** หรือ **Species: Human** ที่เลเวล 1
+ทั้งหมดนี้เป็น **[Origin Feat](../03-backgrounds/origin-feats.md)** ได้จาก **Background** หรือ **Species: มนุษย์ (Human)** ที่เลเวล 1
 
 **เลือกเป็น General Feat ตอนเลเวล 4 ไม่ได้**
 

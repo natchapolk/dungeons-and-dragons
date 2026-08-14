@@ -4,7 +4,7 @@
 
 ---
 
-## Ettin เอตทิน (ยักษ์สองหัว)
+## เอตทิน ยักษ์สองหัว (Ettin)
 
 **CR 4, XP 1,100, Large Giant**
 
@@ -22,7 +22,7 @@
 
 **Skills** Perception +4
 **Senses** Darkvision 60 ft., Passive Perception 14
-**Languages** Giant, Orc
+**Languages** Giant, ออร์ค (Orc)
 
 ### ความสามารถพิเศษ
 - **Two Heads** **Advantage ในการทอย Perception Check** และ **Save ต้านสภาวะ Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious**
@@ -37,7 +37,7 @@
 
 ---
 
-## Ghost ผี
+## ผี (Ghost)
 
 **CR 4, XP 1,100, Medium Undead**
 
@@ -74,7 +74,7 @@ Possession เป็นสิ่งที่ทำให้ผู้เล่น
 
 ---
 
-## Troll โทรลล์
+## โทรลล์ (Troll)
 
 **CR 5, XP 1,800, Large Giant**
 
@@ -111,7 +111,7 @@ Possession เป็นสิ่งที่ทำให้ผู้เล่น
 
 ---
 
-## Hill Giant ยักษ์เนินเขา
+## ยักษ์เนินเขา (Hill Giant)
 
 **CR 5, XP 1,800, Huge Giant**
 
@@ -141,7 +141,7 @@ Possession เป็นสิ่งที่ทำให้ผู้เล่น
 
 ---
 
-## Vampire Spawn ลูกน้องแวมไพร์
+## ลูกน้องแวมไพร์ (Vampire Spawn)
 
 **CR 5, XP 1,800, Medium Undead**
 
@@ -180,7 +180,7 @@ Possession เป็นสิ่งที่ทำให้ผู้เล่น
 
 ---
 
-## Wraith แรธ
+## แรธ (Wraith)
 
 **CR 5, XP 1,800, Medium Undead**
 
@@ -214,7 +214,7 @@ Possession เป็นสิ่งที่ทำให้ผู้เล่น
 
 ---
 
-## Mage จอมเวท
+## จอมเวท (Mage)
 
 **CR 6, XP 2,300, Medium Humanoid**
 
@@ -254,7 +254,7 @@ Possession เป็นสิ่งที่ทำให้ผู้เล่น
 
 ---
 
-## Medusa เมดูซ่า
+## เมดูซ่า (Medusa)
 
 **CR 6, XP 2,300, Medium Monstrosity**
 
@@ -292,7 +292,7 @@ Possession เป็นสิ่งที่ทำให้ผู้เล่น
 
 ---
 
-## Wyvern ไวเวิร์น
+## ไวเวิร์น (Wyvern)
 
 **CR 6, XP 2,300, Large Dragon**
 
@@ -322,7 +322,7 @@ Possession เป็นสิ่งที่ทำให้ผู้เล่น
 
 ---
 
-## Mind Flayer มายด์เฟลเยอร์
+## มายด์เฟลเยอร์ (Mind Flayer)
 
 **CR 7, XP 2,900, Medium Aberration**
 
@@ -364,7 +364,7 @@ Possession เป็นสิ่งที่ทำให้ผู้เล่น
 
 ---
 
-## Young Red Dragon มังกรแดงหนุ่ม
+## มังกรแดงหนุ่ม (Young Red Dragon)
 
 **CR 10, XP 5,900, Large Dragon**
 
@@ -402,7 +402,7 @@ Fire Breath 56 ดาเมจสามารถฆ่าตัวละคร�
 
 ---
 
-## ตารางเปรียบเทียบเร็ว
+## รายการเปรียบเทียบเร็ว
 
 - **Ettin** CR 4, HP 85, AC 12, ดาเมจต่อเทิร์น ~28, จุดอันตราย ต้านสภาวะควบคุม
 - **Ghost** CR 4, HP 45, AC 11, ดาเมจต่อเทิร์น ~17, จุดอันตราย ทะลุกำแพง เข้าสิงร่าง

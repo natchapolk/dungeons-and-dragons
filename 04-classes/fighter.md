@@ -33,7 +33,7 @@
 
 ---
 
-## ตารางความก้าวหน้าเลเวล 1-20
+## ความก้าวหน้าเลเวล 1 ถึง 20
 
 - **เลเวล 1** Proficiency Bonus +2, ได้ความสามารถ Fighting Style, Second Wind, Weapon Mastery, Second Wind 2, Weapon Mastery 3
 - **เลเวล 2** Proficiency Bonus +2, ได้ความสามารถ 1 ครั้ง (Action Surge) [แนะนำ], Tactical Mind, Second Wind 2, Weapon Mastery 3
@@ -124,10 +124,12 @@
 
 **ทำไมนี่คือความสามารถที่ทรงพลังที่สุดของ Fighter:**
 
-- 2 **2 ครั้ง**
-- 5 **4 ครั้ง**
-- 11 **6 ครั้ง**
-- 20 **8 ครั้ง**
+รายการข้างล่างบอกว่า ถ้าใช้ Action Surge ในเทิร์นเดียว จะโจมตีได้รวมกี่ครั้ง
+
+- เลเวล 2 โจมตีได้รวม **2 ครั้ง**
+- เลเวล 5 โจมตีได้รวม **4 ครั้ง**
+- เลเวล 11 โจมตีได้รวม **6 ครั้ง**
+- เลเวล 20 โจมตีได้รวม **8 ครั้ง**
 
 **เก็บ Action Surge ไว้ใช้กับบอส** 1 เทิร์นที่โจมตี 6-8 ครั้งสามารถจบการต่อสู้ได้เลย
 
@@ -216,7 +218,7 @@ Fighter มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **เลเวล 3 Remarkable Athlete**
 
-ได้ Advantage ใน **Initiative** และ **Strength (Athletics)** Check • เมื่อทอย Advantage ในการทอย Str/Dex/Con Check สำเร็จ **เคลื่อนที่ได้ครึ่ง Speed ฟรี**
+ได้ Advantage ใน **Initiative** และ **Strength (Athletics)** Check และ เมื่อทอย Advantage ในการทอย Str/Dex/Con Check สำเร็จ **เคลื่อนที่ได้ครึ่ง Speed ฟรี**
 
 **เลเวล 7 Additional Fighting Style**
 
@@ -232,7 +234,7 @@ Fighter มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **เลเวล 18 Survivor**
 
-ได้ **Advantage ในการทอย Death Saving Throw** • และเมื่อเริ่มเทิร์นโดย HP เหลือไม่เกินครึ่ง **ฟื้น 5 + CON modifier HP**
+ได้ **Advantage ในการทอย Death Saving Throw** และ และเมื่อเริ่มเทิร์นโดย HP เหลือไม่เกินครึ่ง **ฟื้น 5 + CON modifier HP**
 
 **แนะนำมือใหม่ที่สุด** ไม่มีทรัพยากรให้จัดการ ไม่มีกฎซับซ้อน แค่ตี
 
@@ -244,7 +246,7 @@ Fighter มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **เลเวล 3 Combat Superiority**
 
-ได้ **Superiority Dice 4 ลูก (d8)** และเรียนรู้ **Maneuver 3 ท่า** • ฟื้นเมื่อ Short/Long Rest
+ได้ **Superiority Dice 4 ลูก (d8)** และเรียนรู้ **Maneuver 3 ท่า** และ ฟื้นเมื่อ Short/Long Rest
 
 **เลเวล 3 Student of War**
 
@@ -296,7 +298,7 @@ Fighter มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **เลเวล 3 War Bond**
 
-ผูกพันกับอาวุธ 2 ชิ้น **เรียกกลับมือด้วย Bonus Action** • ปลดอาวุธจากมือคุณไม่ได้
+ผูกพันกับอาวุธ 2 ชิ้น **เรียกกลับมือด้วย Bonus Action** และ ปลดอาวุธจากมือคุณไม่ได้
 
 **เลเวล 7 War Magic**
 
@@ -314,16 +316,19 @@ Fighter มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 เมื่อใช้ Attack action คุณสามารถ**แทนการโจมตี 1 ครั้ง ด้วยการร่ายสเปลระดับ 1 หรือ 2**
 
-**ตาราง Spell Slot (Third Caster):**
+**ความก้าวหน้าการร่ายเวทของ Eldritch Knight (Third Caster)**
 
-- 3 2 3 2
-- 4 2 4 3
-- 7 2 5 4 2
-- 10 **3** 6 4 3
-- 13 3 8 4 3 2
-- 16 3 10 4 3 3
-- 19 4 12 4 3 3 1
-- 20 4 13 4 3 3 1
+รายการข้างล่างบอกทีละเลเวลว่า รู้ Cantrip กี่อัน เตรียมสเปลได้กี่อัน และมี Spell Slot ระดับไหนกี่ช่อง
+เขียนเฉพาะเลเวลที่มีอะไรเปลี่ยน เลเวลที่ไม่ได้เขียนไว้ ให้ใช้ค่าเดิมของเลเวลก่อนหน้า
+
+- เลเวล 3 รู้ Cantrip 2 อัน เตรียมสเปลได้ 3 อัน มี Spell Slot ระดับ 1 จำนวน 2 ช่อง
+- เลเวล 4 รู้ Cantrip 2 อัน เตรียมสเปลได้ 4 อัน มี Spell Slot ระดับ 1 จำนวน 3 ช่อง
+- เลเวล 7 รู้ Cantrip 2 อัน เตรียมสเปลได้ 5 อัน มี Spell Slot ระดับ 1 จำนวน 4 ช่อง และระดับ 2 จำนวน 2 ช่อง
+- เลเวล 10 รู้ Cantrip 3 อัน เตรียมสเปลได้ 6 อัน มี Spell Slot ระดับ 1 จำนวน 4 ช่อง และระดับ 2 จำนวน 3 ช่อง
+- เลเวล 13 รู้ Cantrip 3 อัน เตรียมสเปลได้ 8 อัน มี Spell Slot ระดับ 1 จำนวน 4 ช่อง ระดับ 2 จำนวน 3 ช่อง และระดับ 3 จำนวน 2 ช่อง
+- เลเวล 16 รู้ Cantrip 3 อัน เตรียมสเปลได้ 10 อัน มี Spell Slot ระดับ 1 จำนวน 4 ช่อง ระดับ 2 จำนวน 3 ช่อง และระดับ 3 จำนวน 3 ช่อง
+- เลเวล 19 รู้ Cantrip 4 อัน เตรียมสเปลได้ 12 อัน มี Spell Slot ระดับ 1 จำนวน 4 ช่อง ระดับ 2 จำนวน 3 ช่อง ระดับ 3 จำนวน 3 ช่อง และระดับ 4 จำนวน 1 ช่อง
+- เลเวล 20 รู้ Cantrip 4 อัน เตรียมสเปลได้ 13 อัน มี Spell Slot ระดับ 1 จำนวน 4 ช่อง ระดับ 2 จำนวน 3 ช่อง ระดับ 3 จำนวน 3 ช่อง และระดับ 4 จำนวน 1 ช่อง
 
 ** สเปลที่แนะนำ:**
 - **Cantrip:** Booming Blade [แนะนำ], Green-Flame Blade, True Strike, Fire Bolt, Mage Hand
@@ -352,7 +357,7 @@ Fighter มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **เลเวล 10 Guarded Mind**
 
-**Resistance ต่อ Psychic damage** • เมื่อเริ่มเทิร์นโดยมีสภาวะ **Charmed หรือ Frightened** ใช้ 1 เต๋าเพื่อ**ลบสภาวะนั้นทันที**
+**Resistance ต่อ Psychic damage** และ เมื่อเริ่มเทิร์นโดยมีสภาวะ **Charmed หรือ Frightened** ใช้ 1 เต๋าเพื่อ**ลบสภาวะนั้นทันที**
 
 **เลเวล 15 Bulwark of Force**
 
@@ -360,7 +365,7 @@ Fighter มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **เลเวล 18 Telekinetic Master**
 
-ได้สเปล **Telekinesis** ร่ายฟรี 1 ครั้ง/Long Rest (ใช้ INT) • ระหว่างที่รักษา Concentration ใช้ **Bonus Action** โจมตีด้วยอาวุธ 1 ครั้ง
+ได้สเปล **Telekinesis** ร่ายฟรี 1 ครั้ง/Long Rest (ใช้ INT) และ ระหว่างที่รักษา Concentration ใช้ **Bonus Action** โจมตีด้วยอาวุธ 1 ครั้ง
 
 **Psionic Energy Dice ตามเลเวล:** เลเวล 3 = d6, เลเวล 5 = d8, เลเวล 11 = d10, เลเวล 17 = d12
 **ฟื้น:** 1 เต๋าเมื่อ Short Rest, ทั้งหมดเมื่อ Long Rest
@@ -408,14 +413,14 @@ Fighter มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 ### Species ที่แนะนำ
 
-- **Human** [แนะนำมาก] Feat ฟรี Fighter ใช้ Feat ได้คุ้มที่สุดในเกม
-- **Dwarf** [แนะนำ] +1 HP ทุกเลเวล + Darkvision 120
-- **Goliath** [แนะนำ] Speed 35 + Giant Ancestry (Hill's Tumble ล้มศัตรู)
-- **Orc** Relentless Endurance + Adrenaline Rush
-- **Elf (High)** Misty Step ช่วยเข้าถึงสายเวทศัตรู
+- **มนุษย์ (Human)** [แนะนำมาก] Feat ฟรี Fighter ใช้ Feat ได้คุ้มที่สุดในเกม
+- **คนแคระ (Dwarf)** [แนะนำ] +1 HP ทุกเลเวล + Darkvision 120
+- **ลูกหลานยักษ์ (Goliath)** [แนะนำ] Speed 35 + Giant Ancestry (Hill's Tumble ล้มศัตรู)
+- **ออร์ค (Orc)** Relentless Endurance + Adrenaline Rush
+- **เอลฟ์ (Elf) สาย High** Misty Step ช่วยเข้าถึงสายเวทศัตรู
 
 ### Background ที่แนะนำ
-**Soldier** (STR/DEX/CON) [แนะนำมาก] • **Guard** (STR/INT/WIS) • **DEX/CON/INT ได้ Alert (Criminal)**
+**Soldier** (STR/DEX/CON) [แนะนำมาก], **Guard** (STR/INT/WIS) และ **DEX/CON/INT ได้ Alert (Criminal)**
 
 ### ข้อผิดพลาดที่มือใหม่ทำบ่อย
 

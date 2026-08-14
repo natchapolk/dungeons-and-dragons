@@ -9,14 +9,14 @@
 **ความสามารถพิเศษเริ่มต้น (Origin Feat)** คือ Feat ประเภทหนึ่งที่ตัวละคร **ได้ตั้งแต่เลเวล 1** จาก **Background**
 
 - **Background** 1 อัน (บังคับตามที่ Background กำหนด)
-- **Species: Human** (Trait Versatile) +1 อัน (เลือกได้เอง)
+- **Species: มนุษย์ (Human)** (Trait Versatile) +1 อัน (เลือกได้เอง)
 - **Feat Skilled ที่เอาซ้ำ** ไม่ได้ เอา Feat ซ้ำไม่ได้
 
 **Human ได้ 2 อัน** เพราะได้จาก Background + จาก Trait Versatile
 
 ---
 
-## ตารางสรุปทั้ง 10 Origin Feats
+## รายการสรุปทั้ง 10 Origin Feats
 
 - **ตื่นตัว (Alert)** ทำอะไรสั้น ๆ **+Prof Bonus ในการทอย Initiative** + สลับลำดับกับเพื่อน, Background ที่ให้ Criminal, Guard, คะแนน [แนะนำอย่างยิ่ง]
 - **ช่างฝีมือ (Crafter)** ทำอะไรสั้น ๆ ซื้อของถูกลง 20% + ทำของเร็ว, Background ที่ให้ Artisan, คะแนน [แนะนำ]
@@ -36,7 +36,7 @@
 
 ---
 
-## Alert ตื่นตัว
+## ตื่นตัว (Alert)
 
 **Background ที่ให้:** Criminal, Guard
 
@@ -57,7 +57,7 @@
 
 ---
 
-## Crafter ช่างฝีมือ
+## ช่างฝีมือ (Crafter)
 
 **Background ที่ให้:** Artisan
 
@@ -80,7 +80,7 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 
 ---
 
-## Healer นักรักษา
+## นักรักษา (Healer)
 
 **Background ที่ให้:** Hermit
 
@@ -99,11 +99,11 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 - **Healing Reroll ใช้กับสเปลรักษาทุกชนิดด้วย** Cleric/Druid เอาก็ดี
 
 ### เหมาะกับ
-ทีมที่ **ไม่มี Healer** • Fighter/Rogue/Barbarian ที่อยากช่วยเพื่อน • Cleric ที่อยากรักษาแรงขึ้น
+ทีมที่ **ไม่มี Healer**, Fighter/Rogue/Barbarian ที่อยากช่วยเพื่อน และ Cleric ที่อยากรักษาแรงขึ้น
 
 ---
 
-## Lucky โชคดี
+## โชคดี (Lucky)
 
 **Background ที่ให้:** Merchant, Wayfarer
 
@@ -132,7 +132,7 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 
 ---
 
-## Magic Initiate ผู้เริ่มเวท
+## ผู้เริ่มเวท (Magic Initiate)
 
 **Background ที่ให้:** Acolyte (Cleric), Guide (Druid), Sage (Wizard)
 
@@ -173,7 +173,7 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 
 ---
 
-## Musician นักดนตรี
+## นักดนตรี (Musician)
 
 **Background ที่ให้:** Entertainer
 
@@ -203,7 +203,7 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 
 ---
 
-## Savage Attacker นักรบดุดัน
+## นักรบดุดัน (Savage Attacker)
 
 **Background ที่ให้:** Soldier
 
@@ -231,7 +231,7 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 
 ---
 
-## Skilled หลากทักษะ
+## หลากทักษะ (Skilled)
 
 **Background ที่ให้:** Charlatan, Noble, Scribe
 
@@ -257,11 +257,11 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 - **Thieves' Tools** (Tool) [แนะนำ] เปิดกุญแจ ปลดกับดัก สำคัญมากถ้าไม่มี Rogue
 
 ### เหมาะกับ
-คลาสที่มีสกิลน้อย (**Fighter, Sorcerer, Barbarian, Wizard**) • ผู้เล่นสาย roleplay
+คลาสที่มีสกิลน้อย (**Fighter, Sorcerer, Barbarian, Wizard**) และ ผู้เล่นสาย roleplay
 
 ---
 
-## Tavern Brawler นักตีกันในบาร์
+## นักตีกันในบาร์ (Tavern Brawler)
 
 **Background ที่ให้:** Sailor
 
@@ -285,11 +285,11 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 - เป็น Feat ที่แรงน้อยที่สุดในทางตัวเลข **ยกเว้นถ้าคุณสร้างตัวละครสายมวยปล้ำ/จับล็อกโดยเฉพาะ**
 
 ### เหมาะกับ
-**Barbarian สายจับล็อก (Grappler)** • ตัวละครธีมนักสู้มือเปล่า
+**Barbarian สายจับล็อก (Grappler)** และ ตัวละครธีมนักสู้มือเปล่า
 
 ---
 
-## Tough อึด
+## อึด (Tough)
 
 **Background ที่ให้:** Farmer
 
@@ -298,11 +298,11 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 **HP สูงสุดของคุณเพิ่มขึ้นเท่ากับ 2 คูณ เลเวลตัวละคร**
 **และเพิ่มอีก 2 ทุกครั้งที่เลื่อนเลเวล**
 
-- 1 **+2**
-- 5 **+10**
-- 10 **+20**
-- 15 **+30**
-- 20 **+40**
+- เลเวล 1 ได้ HP สูงสุดเพิ่ม **+2**
+- เลเวล 5 ได้ HP สูงสุดเพิ่ม **+10**
+- เลเวล 10 ได้ HP สูงสุดเพิ่ม **+20**
+- เลเวล 15 ได้ HP สูงสุดเพิ่ม **+30**
+- เลเวล 20 ได้ HP สูงสุดเพิ่ม **+40**
 
 ### ทำไมดี
 

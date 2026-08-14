@@ -15,7 +15,7 @@
 
 ## ค่าที่ใช้บ่อยที่สุด (จดไว้ข้างตัว)
 
-- Ranger เลเวล 1, Wood Elf, Guide
+- Ranger เลเวล 1, เอลฟ์ป่า (Wood Elf), Guide
 
 - HP 12 / 12 AC 15 Speed 35 ft
 - Initiative +3 Proficiency Bonus +2 Passive Perception 14
@@ -82,7 +82,7 @@
 
 ### สเปลระดับ 1 Spell Slot 2 ช่อง
 
-- **Hunter's Mark [แนะนำ]** ใช้ Action **Bonus Action** (Concentration), ทำอะไร **เตรียมไว้เสมอ ไม่นับโควตา** ทำเครื่องหมายศัตรู 1 ตัว **เพิ่ม 1d6 Force ทุกครั้งที่คุณตีมัน** • ถ้ามันตาย ย้ายเครื่องหมายได้ฟรี • **ร่ายฟรี 2 ครั้งต่อวัน**
+- **Hunter's Mark [แนะนำ]** ใช้ Action **Bonus Action** (Concentration), ทำอะไร **เตรียมไว้เสมอ ไม่นับโควตา** ทำเครื่องหมายศัตรู 1 ตัว **เพิ่ม 1d6 Force ทุกครั้งที่คุณตีมัน**, ถ้ามันตาย ย้ายเครื่องหมายได้ฟรี และ **ร่ายฟรี 2 ครั้งต่อวัน**
 - **Cure Wounds** ใช้ Action Action, ทำอะไร สัมผัส แล้ว ฟื้น **2d8 + 2** HP
 - **Ensnaring Strike** ใช้ Action **Bonus Action** (Concentration), ทำอะไร หลังตีโดน แล้ว ศัตรูทอย STR Save ล้มเหลว = **Restrained + 1d6 Piercing ทุกเทิร์น**
 
@@ -115,7 +115,7 @@
 - **Darkvision 60 ฟุต** มองเห็นในความมืด
 - **Fey Ancestry** **Advantage ในการทอย Save ต้านสภาวะ Charmed**
 - **Keen Senses** ได้ทักษะ Insight
-- **Trance** **ไม่ต้องนอน** ใช้สมาธิลึก 4 ชั่วโมงแทน (เฝ้ายามได้ทั้งคืน) • และ **เปลี่ยน Proficiency ได้ 1 อย่างทุกครั้งที่จบ Long Rest**
+- **Trance** **ไม่ต้องนอน** ใช้สมาธิลึก 4 ชั่วโมงแทน (เฝ้ายามได้ทั้งคืน) และ และ **เปลี่ยน Proficiency ได้ 1 อย่างทุกครั้งที่จบ Long Rest**
 - **Druidcraft** ได้ Cantrip นี้
 
 ### Feat ที่มี

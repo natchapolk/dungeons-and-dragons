@@ -15,7 +15,7 @@
 
 ## ค่าที่ใช้บ่อยที่สุด (จดไว้ข้างตัว)
 
-- Wizard เลเวล 1, Gnome (Forest), Sage
+- Wizard เลเวล 1, โนม (Gnome) สาย Forest, Sage
 
 - HP 8 / 8 AC 12 (15 เมื่อร่าย Mage Armor) Speed 30 ft
 - Initiative +2 Proficiency Bonus +2 Passive Perception 11
@@ -85,7 +85,7 @@ Mage Armor, Magic Missile, Shield, Sleep, Detect Magic, Find Familiar
 ### สเปลที่เตรียมไว้วันนี้ (4 อัน) Spell Slot 2 ช่อง
 
 - **Mage Armor [แนะนำ]** ใช้ Action Action, ทำอะไร **AC = 13 + DEX = 15** เป็นเวลา **8 ชั่วโมง** **ร่ายทุกเช้าก่อนออกเดินทาง**
-- **Shield [แนะนำ]** ใช้ Action **Reaction**, ทำอะไร เมื่อถูกโจมตี จะ **+5 AC ทันที** (AC 20) จนจบเทิร์นหน้า • และภูมิคุ้มกัน Magic Missile
+- **Shield [แนะนำ]** ใช้ Action **Reaction**, ทำอะไร เมื่อถูกโจมตี จะ **+5 AC ทันที** (AC 20) จนจบเทิร์นหน้า และ และภูมิคุ้มกัน Magic Missile
 - **Magic Missile** ใช้ Action Action, ทำอะไร ยิงลูกศรพลัง **3 ลูก คูณ 1d4+1 Force** **ไม่มีวันพลาด ไม่ต้องทอยโจมตี**
 - **Sleep** ใช้ Action Action, ทำอะไร ศัตรูในพื้นที่ทอย **CON Save DC 13** ล้มเหลว = **Incapacitated** (ทำอะไรไม่ได้)
 

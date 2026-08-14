@@ -32,7 +32,7 @@
 
 ---
 
-## ตารางความก้าวหน้าเลเวล 1-20
+## ความก้าวหน้าเลเวล 1 ถึง 20
 
 - **เลเวล 1** Proficiency Bonus +2, ได้ความสามารถ Rage, Unarmored Defense, Weapon Mastery, Rages (ครั้ง/วัน) 2, Rage Damage +2, Weapon Mastery 2
 - **เลเวล 2** Proficiency Bonus +2, ได้ความสามารถ Danger Sense, Reckless Attack, Rages (ครั้ง/วัน) 2, Rage Damage +2, Weapon Mastery 2
@@ -69,7 +69,7 @@
 **ระหว่างที่ Rage คุณได้:**
 
 - **Damage Resistance** **Resistance ต่อ Bludgeoning, Piercing, และ Slashing damage** (รับดาเมจกายภาพครึ่งเดียว!)
-- **Rage Damage** **+2 ดาเมจ** เมื่อโจมตีด้วยอาวุธหรือ Unarmed Strike **ที่ใช้ STR แล้วทำดาเมจโดน** • เพิ่มเป็น **+3 ที่เลเวล 9** และ **+4 ที่เลเวล 16**
+- **Rage Damage** **+2 ดาเมจ** เมื่อโจมตีด้วยอาวุธหรือ Unarmed Strike **ที่ใช้ STR แล้วทำดาเมจโดน** และ เพิ่มเป็น **+3 ที่เลเวล 9** และ **+4 ที่เลเวล 16**
 - **Strength Advantage** **Advantage ในการทอย Strength Check และ Strength Saving Throw**
 - **Subclass Feature** ปลดล็อกความสามารถของ Subclass บางอย่าง
 
@@ -254,7 +254,7 @@ Brutal Strike เพิ่มดาเมจเป็น **3d10** และ**ใ
 
 - **STR และ CON เพิ่มขึ้นอย่างละ 4**
 - **เพดานสูงสุดของทั้งสองค่ากลายเป็น 25** (แทนที่จะเป็น 20)
-- (พร้อมกับตารางที่ให้ **Rage ไม่จำกัดครั้ง**)
+- (พร้อมกับความก้าวหน้าเลเวล 20 ที่ให้ **Rage ไม่จำกัดครั้ง**)
 
 **ผลลัพธ์:** STR 25 (+7), CON 25 (+7) HP มหาศาล + AC สูง + ดาเมจสูงสุด
 
@@ -333,7 +333,7 @@ Barbarian มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่
 
 **เลเวล 3 Vitality of the Tree**
 
-**เมื่อเข้า Rage:** ได้ **Temp HP = เลเวล Barbarian** • **เมื่อเริ่มเทิร์นระหว่าง Rage:** ให้ Temp HP กับเพื่อน 1 คนในระยะ 10 ฟุต (ทอย **d6 จำนวนเท่ากับครึ่งเลเวล Barbarian**)
+**เมื่อเข้า Rage:** ได้ **Temp HP = เลเวล Barbarian** และ **เมื่อเริ่มเทิร์นระหว่าง Rage:** ให้ Temp HP กับเพื่อน 1 คนในระยะ 10 ฟุต (ทอย **d6 จำนวนเท่ากับครึ่งเลเวล Barbarian**)
 
 **เลเวล 6 Branches of the Tree**
 
@@ -345,7 +345,7 @@ Barbarian มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่
 
 **เลเวล 14 Travel Along the Tree**
 
-**Bonus Action ระหว่าง Rage:** วาร์ปตัวเองไปได้ **60 ฟุต** • หรือใช้ **Rage 1 ครั้ง** วาร์ปไป **150 ฟุต** พร้อมเพื่อนได้ถึง 6 คนในระยะ 10 ฟุต
+**Bonus Action ระหว่าง Rage:** วาร์ปตัวเองไปได้ **60 ฟุต** และ หรือใช้ **Rage 1 ครั้ง** วาร์ปไป **150 ฟุต** พร้อมเพื่อนได้ถึง 6 คนในระยะ 10 ฟุต
 
 **สายซัพพอร์ตที่ดีที่สุดของ Barbarian** Temp HP ให้ทีมทุกเทิร์น + ดึงศัตรูออกจากเพื่อนสายเวท
 
@@ -361,7 +361,7 @@ Barbarian มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่
 
 **เลเวล 3 Warrior of the Gods**
 
-มี **คลังเต๋าฟื้นฟู d12** เท่ากับ Prof Bonus **Bonus Action:** ใช้เต๋ากี่ลูกก็ได้เพื่อฟื้น HP • ฟื้นคลังเมื่อ Long Rest
+มี **คลังเต๋าฟื้นฟู d12** เท่ากับ Prof Bonus **Bonus Action:** ใช้เต๋ากี่ลูกก็ได้เพื่อฟื้น HP และ ฟื้นคลังเมื่อ Long Rest
 
 **เลเวล 6 Fanatical Focus**
 
@@ -400,14 +400,14 @@ Barbarian มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่
 
 ### Species ที่แนะนำ
 
-- **Goliath** [แนะนำมาก] Speed 35 + Powerful Build + Giant Ancestry เข้าธีมและแรง
-- **Orc** [แนะนำมาก] Relentless Endurance + Adrenaline Rush = ทนสุด ๆ
-- **Dwarf** [แนะนำ] +1 HP ทุกเลเวล + ต้านพิษ
-- **Human** Feat ฟรี (Tough = +2 HP/เลเวล)
-- **Dragonborn** Breath Weapon ใช้แทนการโจมตีได้
+- **ลูกหลานยักษ์ (Goliath)** [แนะนำมาก] Speed 35 + Powerful Build + Giant Ancestry เข้าธีมและแรง
+- **ออร์ค (Orc)** [แนะนำมาก] Relentless Endurance + Adrenaline Rush = ทนสุด ๆ
+- **คนแคระ (Dwarf)** [แนะนำ] +1 HP ทุกเลเวล + ต้านพิษ
+- **มนุษย์ (Human)** Feat ฟรี (Tough = +2 HP/เลเวล)
+- **คนมังกร (Dragonborn)** Breath Weapon ใช้แทนการโจมตีได้
 
 ### Background ที่แนะนำ
-**Soldier** (STR/DEX/CON) [แนะนำ] • **STR/CON/WIS ได้ Tough (Farmer)** • **Guard** (STR/INT/WIS)
+**Soldier** (STR/DEX/CON) [แนะนำ], **STR/CON/WIS ได้ Tough (Farmer)** และ **Guard** (STR/INT/WIS)
 
 ### Feat ที่แนะนำ (เลเวล 4+)
 

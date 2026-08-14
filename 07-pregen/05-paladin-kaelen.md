@@ -15,7 +15,7 @@
 
 ## ค่าที่ใช้บ่อยที่สุด (จดไว้ข้างตัว)
 
-- Paladin เลเวล 1, Dragonborn (Gold), Noble
+- Paladin เลเวล 1, คนมังกร (Dragonborn) สาย Gold, Noble
 
 - HP 12 / 12 AC 18 Speed 30 ft
 - Initiative +0 Proficiency Bonus +2 Passive Perception 13

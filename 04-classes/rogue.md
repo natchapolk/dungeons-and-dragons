@@ -33,7 +33,7 @@
 
 ---
 
-## ตารางความก้าวหน้าเลเวล 1-20
+## ความก้าวหน้าเลเวล 1 ถึง 20
 
 - **เลเวล 1** Proficiency Bonus +2, ได้ความสามารถ Expertise, Sneak Attack, Thieves' Cant, Weapon Mastery, Sneak Attack 1d6
 - **เลเวล 2** Proficiency Bonus +2, ได้ความสามารถ Cunning Action [แนะนำ], Sneak Attack 1d6
@@ -179,7 +179,7 @@
 
 **เมื่อคุณทำ Sneak Attack** คุณสามารถ **สละเต๋า Sneak Attack บางลูก** เพื่อสร้างผลพิเศษ
 
-- **Poison** **1d6** เป้าหมายทอย **CON Save** ล้มเหลว = **Poisoned 1 นาที** (ทอยใหม่ได้ทุกจบเทิร์นของมัน) • ต้องมี **Poisoner's Kit**
+- **Poison** **1d6** เป้าหมายทอย **CON Save** ล้มเหลว = **Poisoned 1 นาที** (ทอยใหม่ได้ทุกจบเทิร์นของมัน) และ ต้องมี **Poisoner's Kit**
 - **Trip** **1d6** ถ้าเป้าหมาย **Large หรือเล็กกว่า** ทอย **DEX Save** ล้มเหลว = **Prone**
 - **Withdraw** **1d6** คุณ**เคลื่อนที่ได้ครึ่ง Speed ทันที โดยไม่โดน Opportunity Attack**
 
@@ -281,19 +281,19 @@ Rogue มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **�
 
 **เลเวล 3 Fast Hands**
 
-**Bonus Action:** ใช้ **Sleight of Hand** เพื่อล้วงกระเป๋า/ใช้ Thieves' Tools ปลดกับดักหรือเปิดกุญแจ • **หรือ**ใช้ **เช่นดื่มยา ใช้ของ (Utilize action)**
+**Bonus Action:** ใช้ **Sleight of Hand** เพื่อล้วงกระเป๋า/ใช้ Thieves' Tools ปลดกับดักหรือเปิดกุญแจ และ **หรือ**ใช้ **เช่นดื่มยา ใช้ของ (Utilize action)**
 
 **เลเวล 3 Second-Story Work**
 
-[แนะนำ] ได้ **Climb Speed = Speed** • และเมื่อกระโดดไกล **บวกระยะเพิ่ม = DEX modifier (ฟุต)**
+[แนะนำ] ได้ **Climb Speed = Speed** และ และเมื่อกระโดดไกล **บวกระยะเพิ่ม = DEX modifier (ฟุต)**
 
 **เลเวล 9 Supreme Sneak**
 
-เมื่อใช้ **Cunning Strike: Withdraw** ให้ใช้ **Hide action ฟรี** ด้วย • ต้นทุน Withdraw ลดเหลือ 0 เต๋า
+เมื่อใช้ **Cunning Strike: Withdraw** ให้ใช้ **Hide action ฟรี** ด้วย และ ต้นทุน Withdraw ลดเหลือ 0 เต๋า
 
 **เลเวล 13 Use Magic Device**
 
-[แนะนำมาก] • ใช้ **Magic Item ทุกชนิดได้** แม้จะไม่ตรงเงื่อนไข (คลาส/Attunement)
+[แนะนำมาก] และ ใช้ **Magic Item ทุกชนิดได้** แม้จะไม่ตรงเงื่อนไข (คลาส/Attunement)
 - **Scroll:** ร่ายสเปลจาก Spell Scroll ได้ถึงระดับ 1-2 (ทอย DC 10 + ระดับสเปลถ้าสูงกว่า)
 - **Charges:** ใช้ของที่มี Charge ทอย d6, ออก 6 = ไม่เสีย Charge
 - **Attunement:** Attune ของวิเศษได้ **4 ชิ้น** (แทน 3)
@@ -312,7 +312,7 @@ Rogue มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **�
 
 **เลเวล 3 Assassinate**
 
-[แนะนำ] • **Advantage ในการทอย Initiative**
+[แนะนำ] และ **Advantage ในการทอย Initiative**
 - **ในเทิร์นแรกของการต่อสู้:** คุณมี **Advantage** ในการโจมตีศัตรูที่ยังไม่ได้เล่นเทิร์น
 - **ถ้าตีโดนในเทิร์นแรกนั้น เพิ่มดาเมจเท่ากับเลเวล Rogue**
 
@@ -322,7 +322,7 @@ Rogue มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **�
 
 **เลเวล 9 Infiltration Expertise**
 
-ใช้เวลา 7 วัน + 25 GP **สร้างตัวตนปลอมที่สมบูรณ์แบบ** • ปลอมตัวเป็นตัวตนนั้นได้ในเวลา 1 นาที
+ใช้เวลา 7 วัน + 25 GP **สร้างตัวตนปลอมที่สมบูรณ์แบบ** และ ปลอมตัวเป็นตัวตนนั้นได้ในเวลา 1 นาที
 
 **เลเวล 13 Envenom Weapons**
 
@@ -346,7 +346,7 @@ Rogue มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **�
 
 **เลเวล 3 Mage Hand Legerdemain**
 
-[แนะนำ] ได้ Cantrip Mage Hand • มือลอย **มองไม่เห็น** • ใช้มือ **ล้วงกระเป๋า / เปิดกุญแจ / ใช้ Thieves' Tools** ระยะไกลได้ • ควบคุมด้วย **Bonus Action**
+[แนะนำ] ได้ Cantrip Mage Hand, มือลอย **มองไม่เห็น**, ใช้มือ **ล้วงกระเป๋า / เปิดกุญแจ / ใช้ Thieves' Tools** ระยะไกลได้ และ ควบคุมด้วย **Bonus Action**
 
 **เลเวล 9 Magical Ambush**
 
@@ -360,7 +360,8 @@ Rogue มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **�
 
 **Reaction:** [แนะนำมาก] เมื่อศัตรูร่ายเวทใส่คุณ มันทอย **Save ตามค่าร่ายเวทของคุณ** ล้มเหลว = **สเปลนั้นไม่มีผล และคุณขโมยสเปลนั้นมาใช้ได้ 8 ชั่วโมง** (ศัตรูใช้สเปลนั้นไม่ได้ระหว่างนั้น) ใช้ได้ 1 ครั้ง/Long Rest
 
-**ตาราง Spell Slot (Third Caster):** เหมือน Eldritch Knight [ดูตารางในไฟล์ Fighter](fighter.md#3--eldritch-knight--อัศวินเวทมนตร์)
+**ความก้าวหน้าการร่ายเวท (Third Caster)** ใช้ค่าเดียวกับ Eldritch Knight ทุกประการ
+ดูรายการทีละเลเวลได้ที่หัวข้อ Subclass ข้อ 3 Eldritch Knight อัศวินเวทมนตร์ ใน [นักรบ (Fighter)](fighter.md)
 
 ** สเปลที่แนะนำ:**
 - **Cantrip:** Mage Hand (ได้ฟรี), Minor Illusion [แนะนำ], Booming Blade [แนะนำ], Prestidigitation
@@ -433,15 +434,15 @@ Rogue มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **�
 
 ### Species ที่แนะนำ
 
-- **Halfling** [แนะนำมาก] **ซ่อนหลังเพื่อน = Sneak Attack ทุกเทิร์น (Naturally Stealthy)** + **Luck**
-- **Elf (Wood)** [แนะนำ] Speed 35 + Pass Without Trace + Perception
+- **ฮาล์ฟลิง (Halfling)** [แนะนำมาก] **ซ่อนหลังเพื่อน = Sneak Attack ทุกเทิร์น (Naturally Stealthy)** + **Luck**
+- **เอลฟ์ (Elf) สาย Wood** [แนะนำ] Speed 35 + Pass Without Trace + Perception
 - **Elf (Drow)** [แนะนำ] Darkvision 120 ft + Faerie Fire (ให้ Advantage ทั้งทีม)
-- **Gnome** Advantage ใน INT/WIS/CHA Save + Small ซ่อนง่าย
-- **Human** Feat ฟรี (Alert = ไปก่อนศัตรู)
-- **Orc / Dwarf** Darkvision 120 ft
+- **โนม (Gnome)** Advantage ใน INT/WIS/CHA Save + Small ซ่อนง่าย
+- **มนุษย์ (Human)** Feat ฟรี (Alert = ไปก่อนศัตรู)
+- **ออร์ค (Orc) / คนแคระ (Dwarf)** Darkvision 120 ft
 
 ### Background ที่แนะนำ
-**DEX/CON/INT ได้ Alert (Criminal)** [แนะนำมาก] • **DEX/WIS/CHA ได้ Lucky (Wayfarer)** • **Charlatan** (DEX/CON/CHA)
+**DEX/CON/INT ได้ Alert (Criminal)** [แนะนำมาก], **DEX/WIS/CHA ได้ Lucky (Wayfarer)** และ **Charlatan** (DEX/CON/CHA)
 
 ### Feat ที่แนะนำ (เลเวล 4+)
 

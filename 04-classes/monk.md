@@ -32,7 +32,7 @@
 
 ---
 
-## ตารางความก้าวหน้าเลเวล 1-20
+## ความก้าวหน้าเลเวล 1 ถึง 20
 
 - **เลเวล 1** Proficiency Bonus +2, ได้ความสามารถ Martial Arts, Unarmored Defense, Martial Arts Die d6
 - **เลเวล 2** Proficiency Bonus +2, ได้ความสามารถ Monk's Focus [แนะนำ], Unarmored Movement, Uncanny Metabolism, Martial Arts Die d6, Focus Points 2, Unarmored Movement +10 ft
@@ -67,7 +67,7 @@
 
 - **Bonus Unarmed Strike** [แนะนำ] เมื่อใช้ **Attack action** คุณสามารถโจมตีมือเปล่า **1 ครั้งเพิ่มด้วย Bonus Action**
 - **Martial Arts Die** [แนะนำ] **Unarmed Strike ทำดาเมจ = Martial Arts Die** (d6 d12 ตามเลเวล) แทนที่จะเป็น 1
-- **Dexterous Attacks** [แนะนำ] ใช้ **DEX แทน STR** ในการทอยโจมตีและดาเมจของ **Unarmed Strike และ Monk Weapons** • และใช้ **DEX แทน STR** ในการคำนวณ **DC ของ Grapple/Shove**
+- **Dexterous Attacks** [แนะนำ] ใช้ **DEX แทน STR** ในการทอยโจมตีและดาเมจของ **Unarmed Strike และ Monk Weapons** และ และใช้ **DEX แทน STR** ในการคำนวณ **DC ของ Grapple/Shove**
 
 ### อาวุธของ Monk (Monk Weapons)
 
@@ -100,8 +100,8 @@
 ใช้ทำ 3 อย่างพื้นฐาน (Subclass จะให้ตัวเลือกเพิ่ม):
 
 - **Flurry of Blows** **1 Focus** **Bonus Action:** โจมตีมือเปล่า **2 ครั้ง** (แทน 1 ครั้ง) เพิ่มเป็น **3 ครั้ง** ที่เลเวล 10
-- **Patient Defense** **ฟรี (Disengage)** หรือ **1 Focus (Disengage + Dodge)** **Bonus Action:** ใช้ **Disengage** ฟรี • หรือใช้ 1 Focus เพื่อได้ทั้ง **Disengage และ Dodge**
-- **Step of the Wind** **ฟรี (Dash)** หรือ **1 Focus (Dash + Disengage + กระโดดไกล 2 เท่า)** **Bonus Action:** ใช้ **Dash** ฟรี • หรือใช้ 1 Focus เพื่อได้ **Dash + Disengage** และ **ระยะกระโดดเพิ่มเป็น 2 เท่า**
+- **Patient Defense** **ฟรี (Disengage)** หรือ **1 Focus (Disengage + Dodge)** **Bonus Action:** ใช้ **Disengage** ฟรี และ หรือใช้ 1 Focus เพื่อได้ทั้ง **Disengage และ Dodge**
+- **Step of the Wind** **ฟรี (Dash)** หรือ **1 Focus (Dash + Disengage + กระโดดไกล 2 เท่า)** **Bonus Action:** ใช้ **Dash** ฟรี และ หรือใช้ 1 Focus เพื่อได้ **Dash + Disengage** และ **ระยะกระโดดเพิ่มเป็น 2 เท่า**
 
 **กฎ 2024 บัฟใหญ่:** Patient Defense (Disengage) และ Step of the Wind (Dash) **ใช้ได้ฟรีโดยไม่เสีย Focus!**
 
@@ -109,13 +109,13 @@
 
 ### เลเวล 2 การเคลื่อนที่ไร้เกราะ (Unarmored Movement)
 
-**Speed เพิ่มขึ้น 10 ฟุต** ตราบที่ไม่ใส่เกราะและไม่ถือโล่ (เพิ่มขึ้นตามตาราง จนถึง **+30 ฟุต** ที่เลเวล 18)
+**Speed เพิ่มขึ้น 10 ฟุต** ตราบที่ไม่ใส่เกราะและไม่ถือโล่ (เพิ่มขึ้นตามเลเวล จนถึง **+30 ฟุต** ที่เลเวล 18)
 
-- 2 **40 ฟุต**
-- 6 **45 ฟุต**
-- 10 **50 ฟุต**
-- 14 **55 ฟุต**
-- 18 **60 ฟุต**
+- เลเวล 2 Speed รวมเป็น **40 ฟุต**
+- เลเวล 6 Speed รวมเป็น **45 ฟุต**
+- เลเวล 10 Speed รวมเป็น **50 ฟุต**
+- เลเวล 14 Speed รวมเป็น **55 ฟุต**
+- เลเวล 18 Speed รวมเป็น **60 ฟุต**
 
 ---
 
@@ -282,7 +282,7 @@ Monk มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **�
 **เลเวล 17 Quivering Palm**
 
 **ฝ่ามือสั่นสะเทือน** [แนะนำมาก] ใช้ **4 Focus Points** เมื่อตีโดนด้วย Unarmed Strike ฝังการสั่นสะเทือนไว้ **23 วัน**
-- **Action ในภายหลัง:** สั่นสะเทือนทำงาน เป้าหมายทอย **CON Save** **ล้มเหลว = ลดเหลือ 0 HP ทันที** • **สำเร็จ = รับ 10d12 Force damage**
+- **Action ในภายหลัง:** สั่นสะเทือนทำงาน เป้าหมายทอย **CON Save** **ล้มเหลว = ลดเหลือ 0 HP ทันที** และ **สำเร็จ = รับ 10d12 Force damage**
 
 **แนะนำมือใหม่ที่สุด** Topple ทุกครั้งที่ Flurry of Blows = ล้มศัตรูให้ทีมได้ Advantage
 
@@ -300,15 +300,15 @@ Monk มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **�
 
 **เลเวล 6 Shadow Step**
 
-**Bonus Action:** [แนะนำ] ถ้าคุณอยู่ใน **Dim Light หรือ Darkness** **วาร์ปได้ 60 ฟุต** ไปยังที่ที่มืดเหมือนกัน • **การโจมตี Melee ครั้งถัดไปได้ Advantage**
+**Bonus Action:** [แนะนำ] ถ้าคุณอยู่ใน **Dim Light หรือ Darkness** **วาร์ปได้ 60 ฟุต** ไปยังที่ที่มืดเหมือนกัน และ **การโจมตี Melee ครั้งถัดไปได้ Advantage**
 
 **เลเวล 11 Improved Shadow Step**
 
-**Shadow Step ใช้ได้แม้อยู่ในที่สว่าง** • เมื่อวาร์ป **ใช้ Unarmed Strike ฟรี 1 ครั้งทันที**
+**Shadow Step ใช้ได้แม้อยู่ในที่สว่าง** และ เมื่อวาร์ป **ใช้ Unarmed Strike ฟรี 1 ครั้งทันที**
 
 **เลเวล 17 Cloak of Shadows**
 
-**Magic action + 3 Focus:** [แนะนำมาก] กลายเป็น **Invisible 1 นาที** • ระหว่างนั้น **คุณยังคง Invisible แม้จะโจมตีหรือร่ายเวท** และได้ **Resistance ต่อทุกดาเมจยกเว้น Force และ Psychic**
+**Magic action + 3 Focus:** [แนะนำมาก] กลายเป็น **Invisible 1 นาที** และ ระหว่างนั้น **คุณยังคง Invisible แม้จะโจมตีหรือร่ายเวท** และได้ **Resistance ต่อทุกดาเมจยกเว้น Force และ Psychic**
 
 **สายลอบเร้นที่ดีที่สุด** วาร์ปได้ทุกเทิร์น + Advantage ฟรี
 
@@ -402,14 +402,14 @@ Monk มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **�
 
 ### Species ที่แนะนำ
 
-- **Elf (Wood)** [แนะนำมาก] Speed 35 รวม Unarmored Movement = **65 ฟุตที่เลเวล 18**
-- **Human** [แนะนำ] Feat ฟรี (Tough แก้ปัญหา HP น้อย)
-- **Goliath** [แนะนำ] Speed 35 + Powerful Build (Grapple เก่ง)
-- **Halfling** Luck + ซ่อนตัวเก่ง + ไม่มีปัญหาเรื่องอาวุธ Heavy
-- **Orc** Adrenaline Rush (Dash ฟรี + Temp HP)
+- **เอลฟ์ (Elf) สาย Wood** [แนะนำมาก] Speed 35 รวม Unarmored Movement = **65 ฟุตที่เลเวล 18**
+- **มนุษย์ (Human)** [แนะนำ] Feat ฟรี (Tough แก้ปัญหา HP น้อย)
+- **ลูกหลานยักษ์ (Goliath)** [แนะนำ] Speed 35 + Powerful Build (Grapple เก่ง)
+- **ฮาล์ฟลิง (Halfling)** Luck + ซ่อนตัวเก่ง + ไม่มีปัญหาเรื่องอาวุธ Heavy
+- **ออร์ค (Orc)** Adrenaline Rush (Dash ฟรี + Temp HP)
 
 ### Background ที่แนะนำ
-**Sailor** (STR/DEX/WIS) [แนะนำมาก] • **Wayfarer** (DEX/WIS/CHA) • **Guide** (DEX/CON/WIS) [แนะนำ]
+**Sailor** (STR/DEX/WIS) [แนะนำมาก], **Wayfarer** (DEX/WIS/CHA) และ **Guide** (DEX/CON/WIS) [แนะนำ]
 
 ### Feat ที่แนะนำ (เลเวล 4+)
 

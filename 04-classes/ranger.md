@@ -33,7 +33,7 @@
 
 ---
 
-## ตารางความก้าวหน้าเลเวล 1-20
+## ความก้าวหน้าเลเวล 1 ถึง 20
 
 - **เลเวล 1** Proficiency Bonus +2, ได้ความสามารถ Spellcasting, Favored Enemy [แนะนำ], Weapon Mastery, Favored Enemy 2, เตรียมสเปลได้ 2, Slot 1 2
 - **เลเวล 2** Proficiency Bonus +2, ได้ความสามารถ Deft Explorer [แนะนำ], Fighting Style, Favored Enemy 2, เตรียมสเปลได้ 3, Slot 1 2
@@ -67,7 +67,7 @@
 ### เลเวล 1 ศัตรูที่ถูกเลือก (Favored Enemy) กฎใหม่ 2024
 
 - **สเปล Hunter's Mark เป็นสเปลที่เตรียมไว้เสมอ** (ไม่นับโควตา)
-- **ร่ายฟรีได้ตามจำนวนในตาราง (2-6 ครั้ง) ต่อ Long Rest โดยไม่เสีย Spell Slot**
+- **ร่ายฟรีได้ตามจำนวนที่ระบุไว้ในแต่ละเลเวล (2 ถึง 6 ครั้ง) ต่อ Long Rest โดยไม่เสีย Spell Slot**
 
 ### รอยพราน (Hunter's Mark) เป็นสเปลระดับ 1 สำนัก Divination ที่ต้องใช้สมาธิ (Concentration)
 
@@ -75,7 +75,7 @@
 - **Range** 90 ฟุต
 - **Duration** **Concentration, 1 ชั่วโมง**
 - **ผล** ทำเครื่องหมายศัตรู 1 ตัว **การโจมตีด้วยอาวุธของคุณต่อมัน เพิ่มดาเมจ 1d6 Force** **ถ้ามันตาย ย้ายเครื่องหมายไปตัวใหม่ได้ด้วย Bonus Action ฟรี**
-- **ใช้ Slot สูงกว่า** ระดับ 3-4: **Concentration 8 ชั่วโมง** • ระดับ 5+: **24 ชั่วโมง**
+- **ใช้ Slot สูงกว่า** ระดับ 3-4: **Concentration 8 ชั่วโมง** และ ระดับ 5+: **24 ชั่วโมง**
 
 **ทำไมนี่คือการบัฟที่สำคัญที่สุดของ Ranger ในกฎ 2024:**
 
@@ -210,11 +210,11 @@ Ranger มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 **Subclass Spells:**
 
-- 3 Hunter's Mark (ได้จาก Favored Enemy อยู่แล้ว)
-- 5 Pass Without Trace
-- 9 Conjure Barrage
-- 13 Grasping Vine
-- 17 Volley / Conjure Volley
+- เลเวล 3 ได้ Hunter's Mark (ได้จาก Favored Enemy อยู่แล้ว)
+- เลเวล 5 ได้ Pass Without Trace
+- เลเวล 9 ได้ Conjure Barrage
+- เลเวล 13 ได้ Grasping Vine
+- เลเวล 17 ได้ Volley / Conjure Volley
 
 **เลเวล 3 Hunter's Lore**
 
@@ -250,20 +250,20 @@ Ranger มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 **Subclass Spells:**
 
-- 3 Disguise Self
-- 5 Rope Trick
-- 9 Fear
-- 13 Greater Invisibility
-- 17 Seeming
+- เลเวล 3 ได้ Disguise Self
+- เลเวล 5 ได้ Rope Trick
+- เลเวล 9 ได้ Fear
+- เลเวล 13 ได้ Greater Invisibility
+- เลเวล 17 ได้ Seeming
 
 **เลเวล 3 Dread Ambusher**
 
-[แนะนำมาก] • **Bonus Action:** ทำ **Dread Ambusher Attack** โจมตี 1 ครั้ง เพิ่มดาเมจ **Prof Bonus เป็น Psychic** (ใช้ได้ Prof Bonus ครั้ง/Long Rest)
+[แนะนำมาก] และ **Bonus Action:** ทำ **Dread Ambusher Attack** โจมตี 1 ครั้ง เพิ่มดาเมจ **Prof Bonus เป็น Psychic** (ใช้ได้ Prof Bonus ครั้ง/Long Rest)
 - **เมื่อทอย Initiative: ได้ Speed +10 ฟุต ในเทิร์นแรก** และ **Bonus Action ใช้ Dread Ambusher ฟรี**
 
 **เลเวล 3 Umbral Sight**
 
-[แนะนำ] • **หรือ +60 ถ้ามีอยู่แล้ว (Darkvision 60 ft)**
+[แนะนำ] และ **หรือ +60 ถ้ามีอยู่แล้ว (Darkvision 60 ft)**
 - **คุณ Invisible ต่อสิ่งมีชีวิตที่ใช้ Darkvision มองหาคุณในความมืด** [แนะนำมาก]
 
 **เลเวล 7 Iron Mind**
@@ -272,7 +272,7 @@ Ranger มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 **เลเวล 11 Stalker's Flurry**
 
-**1 ครั้ง/เทิร์น** [แนะนำ] เมื่อ Dread Ambusher Attack **พลาด** **โจมตีซ้ำอีก 1 ครั้ง** • หรือถ้าโดน เลือกผล **โจมตีศัตรูอีกตัว (Sudden Strike)** หรือ **เพิ่มดาเมจ Psychic ให้ศัตรูรอบข้าง (Mote of Potential)**
+**1 ครั้ง/เทิร์น** [แนะนำ] เมื่อ Dread Ambusher Attack **พลาด** **โจมตีซ้ำอีก 1 ครั้ง** และ หรือถ้าโดน เลือกผล **โจมตีศัตรูอีกตัว (Sudden Strike)** หรือ **เพิ่มดาเมจ Psychic ให้ศัตรูรอบข้าง (Mote of Potential)**
 
 **เลเวล 15 Shadowy Dodge**
 
@@ -288,11 +288,11 @@ Ranger มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 **Subclass Spells:**
 
-- 3 Charm Person
-- 5 Misty Step
-- 9 Dispel Magic
-- 13 Dimension Door
-- 17 Mislead
+- เลเวล 3 ได้ Charm Person
+- เลเวล 5 ได้ Misty Step
+- เลเวล 9 ได้ Dispel Magic
+- เลเวล 13 ได้ Dimension Door
+- เลเวล 17 ได้ Mislead
 
 **เลเวล 3 Dreadful Strikes**
 
@@ -300,7 +300,7 @@ Ranger มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 **เลเวล 3 Otherworldly Glamour**
 
-**บวก WIS modifier ในการทอย Charisma Check ทั้งหมด** [แนะนำ] (ขั้นต่ำ +1) • และได้ Proficiency ใน **Deception, Performance, หรือ Persuasion** 1 อย่าง
+**บวก WIS modifier ในการทอย Charisma Check ทั้งหมด** [แนะนำ] (ขั้นต่ำ +1) และ และได้ Proficiency ใน **Deception, Performance, หรือ Persuasion** 1 อย่าง
 
 **เลเวล 7 Beguiling Twist**
 
@@ -309,11 +309,11 @@ Ranger มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 **เลเวล 11 Fey Reinforcements**
 
-[แนะนำ] ได้สเปล **Summon Fey** เตรียมไว้เสมอ และ **ร่ายฟรี 1 ครั้ง/Long Rest** • ร่ายได้โดยไม่ต้อง Concentration
+[แนะนำ] ได้สเปล **Summon Fey** เตรียมไว้เสมอ และ **ร่ายฟรี 1 ครั้ง/Long Rest** และ ร่ายได้โดยไม่ต้อง Concentration
 
 **เลเวล 15 Misty Wanderer**
 
-**ร่าย Misty Step โดยไม่เสีย Spell Slot ได้ Prof Bonus ครั้ง/Long Rest** [แนะนำ] • และ**พาเพื่อน 1 คนในระยะ 5 ฟุตไปด้วยได้**
+**ร่าย Misty Step โดยไม่เสีย Spell Slot ได้ Prof Bonus ครั้ง/Long Rest** [แนะนำ] และ และ**พาเพื่อน 1 คนในระยะ 5 ฟุตไปด้วยได้**
 
 **สายที่ทำให้ Ranger เป็น "หน้ากลุ่ม" ได้** WIS สูงอยู่แล้ว บวกเข้าไปใน CHA Check ทั้งหมด
 
@@ -325,11 +325,11 @@ Ranger มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 **Subclass Spells:**
 
-- 3 Animal Friendship
-- 5 Beast Sense
-- 9 Conjure Animals
-- 13 Stoneskin
-- 17 Commune with Nature
+- เลเวล 3 ได้ Animal Friendship
+- เลเวล 5 ได้ Beast Sense
+- เลเวล 9 ได้ Conjure Animals
+- เลเวล 13 ได้ Stoneskin
+- เลเวล 17 ได้ Commune with Nature
 
 **เลเวล 3 Primal Companion**
 
@@ -339,16 +339,16 @@ Ranger มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 - **Beast of the Sea** ว่ายน้ำ + Grapple เก่ง
 - สัตว์เล่นในเทิร์นของคุณ คุณใช้ **Bonus Action สั่งให้มันโจมตี**
 - มัน **เคลื่อนที่และทำ Action อื่นได้เองฟรี**
-- **HP = 5 คูณ เลเวล Ranger** • **โบนัสของมันใช้ Proficiency Bonus ของคุณ**
+- **HP = 5 คูณ เลเวล Ranger** และ **โบนัสของมันใช้ Proficiency Bonus ของคุณ**
 - ถ้าตาย เรียกใหม่ได้ (ฟรี 1 ครั้ง/Long Rest หรือใช้ Spell Slot)
 
 **เลเวล 7 Exceptional Training**
 
-[แนะนำ] เมื่อใช้ **Bonus Action** สั่งสัตว์ มันสามารถใช้ **Dash, Disengage, Dodge, หรือ Help** ได้ด้วย • และ **การโจมตีของมันนับเป็น Magical**
+[แนะนำ] เมื่อใช้ **Bonus Action** สั่งสัตว์ มันสามารถใช้ **Dash, Disengage, Dodge, หรือ Help** ได้ด้วย และ และ **การโจมตีของมันนับเป็น Magical**
 
 **เลเวล 11 Bestial Fury**
 
-**สัตว์ของคุณโจมตี 2 ครั้ง** [แนะนำมาก] เมื่อคุณสั่งให้มันโจมตี • และ **1 ครั้ง/เทิร์น** เมื่อมันตีโดนศัตรูที่ติด Hunter's Mark **เพิ่มดาเมจ Hunter's Mark**
+**สัตว์ของคุณโจมตี 2 ครั้ง** [แนะนำมาก] เมื่อคุณสั่งให้มันโจมตี และ และ **1 ครั้ง/เทิร์น** เมื่อมันตีโดนศัตรูที่ติด Hunter's Mark **เพิ่มดาเมจ Hunter's Mark**
 
 **เลเวล 15 Share Spells**
 
@@ -406,14 +406,14 @@ Spell Save DC เท่ากับ 8 บวก Proficiency Bonus บวก WIS 
 
 ### Species ที่แนะนำ
 
-- **Elf (Wood)** [แนะนำมาก] Speed 35 + Pass Without Trace ฟรี + Perception เข้าธีมเต็ม
-- **Human** [แนะนำ] Feat ฟรี
-- **Halfling** Luck + ซ่อนตัวเก่ง
-- **Goliath** Speed 35
-- **Orc / Dwarf** Darkvision 120 ft (ดีต่อ Gloom Stalker)
+- **เอลฟ์ (Elf) สาย Wood** [แนะนำมาก] Speed 35 + Pass Without Trace ฟรี + Perception เข้าธีมเต็ม
+- **มนุษย์ (Human)** [แนะนำ] Feat ฟรี
+- **ฮาล์ฟลิง (Halfling)** Luck + ซ่อนตัวเก่ง
+- **ลูกหลานยักษ์ (Goliath)** Speed 35
+- **ออร์ค (Orc) / คนแคระ (Dwarf)** Darkvision 120 ft (ดีต่อ Gloom Stalker)
 
 ### Background ที่แนะนำ
-**Guide** (DEX/CON/WIS) [แนะนำมาก] (ตรงเป๊ะ + ได้ Magic Initiate Druid) • **Sailor** (STR/DEX/WIS) • **Wayfarer** (DEX/WIS/CHA)
+**Guide** (DEX/CON/WIS) [แนะนำมาก] (ตรงเป๊ะ + ได้ Magic Initiate Druid), **Sailor** (STR/DEX/WIS) และ **Wayfarer** (DEX/WIS/CHA)
 
 ### Feat ที่แนะนำ (เลเวล 4+)
 

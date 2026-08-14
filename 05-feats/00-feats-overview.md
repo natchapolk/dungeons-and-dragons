@@ -15,7 +15,7 @@
 
 ## Feat มี 4 ประเภท
 
-- **[ความสามารถเริ่มต้น (Origin Feat)](../03-backgrounds/origin-feats.md)** ได้เมื่อไหร่ **เลเวล 1** (จาก Background + Human), เพิ่มค่าพลัง? ไม่
+- **[ความสามารถเริ่มต้น (Origin Feat)](../03-backgrounds/origin-feats.md)** ได้เมื่อไหร่ **เลเวล 1** (จาก Background + มนุษย์ (Human)), เพิ่มค่าพลัง? ไม่
 - **[ความสามารถทั่วไป (General Feat)](general-feats.md)** ได้เมื่อไหร่ **เลเวล 4+** (แทน ASI), เพิ่มค่าพลัง? ส่วนใหญ่ **+1**
 - **[สไตล์การต่อสู้ (Fighting Style Feat)](fighting-styles.md)** ได้เมื่อไหร่ จาก Class (Fighter, Paladin, Ranger, Bard/Valor), เพิ่มค่าพลัง? ไม่
 - **[พรมหากาพย์ (Epic Boon Feat)](epic-boons.md)** ได้เมื่อไหร่ **เลเวล 19**, เพิ่มค่าพลัง? **+1** (เพดาน 30)

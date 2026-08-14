@@ -33,7 +33,7 @@
 
 ---
 
-## ตารางความก้าวหน้าเลเวล 1-20
+## ความก้าวหน้าเลเวล 1 ถึง 20
 
 - **เลเวล 1** Proficiency Bonus +2, ได้ความสามารถ Spellcasting, Divine Order [แนะนำ], รู้ Cantrip 3, เตรียมสเปลได้ 4, Spell Slot ระดับ 1 จำนวน 2 ช่อง
 - **เลเวล 2** Proficiency Bonus +2, ได้ความสามารถ Channel Divinity [แนะนำ], รู้ Cantrip 3, เตรียมสเปลได้ 5, Channel Divinity 2, Spell Slot ระดับ 1 จำนวน 3 ช่อง
@@ -115,7 +115,7 @@
 - **Divine Strike** **1 ครั้ง/เทิร์น:** เมื่อคุณตีโดนด้วย **อาวุธ** เพิ่มดาเมจ **1d8 Necrotic หรือ Radiant**
 - **Potent Spellcasting** **บวก WIS modifier ในดาเมจของ Cantrip ทุกอัน**
 
-**Protector Cleric เลือก Divine Strike** • **Thaumaturge Cleric เลือก Potent Spellcasting**
+**Protector Cleric เลือก Divine Strike** และ **Thaumaturge Cleric เลือก Potent Spellcasting**
 
 ---
 
@@ -128,7 +128,7 @@
 
 **กฎ 2024 เปลี่ยนจากกฎเก่าอย่างสิ้นเชิง** เมื่อก่อนต้องทอยเปอร์เซ็นต์ลุ้น ตอนนี้ **ได้ผลแน่นอน 100%**
 
-**ตัวอย่างการใช้:** ร่าย Raise Dead ฟรี เมื่อเพื่อนตาย • ร่าย Wall of Force ฟรีในจังหวะคับขัน • ร่าย Greater Restoration ฟรี
+**ตัวอย่างการใช้:** ร่าย Raise Dead ฟรี เมื่อเพื่อนตาย, ร่าย Wall of Force ฟรีในจังหวะคับขัน และ ร่าย Greater Restoration ฟรี
 
 ---
 
@@ -159,10 +159,10 @@ Cleric มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 **Domain Spells:**
 
-- 3 Aid, Bless, Cure Wounds, Lesser Restoration
-- 5 Mass Healing Word, Revivify
-- 7 Aura of Life, Death Ward
-- 9 Greater Restoration, Mass Cure Wounds
+- เลเวล 3 ได้ Aid, Bless, Cure Wounds, Lesser Restoration
+- เลเวล 5 ได้ Mass Healing Word, Revivify
+- เลเวล 7 ได้ Aura of Life, Death Ward
+- เลเวล 9 ได้ Greater Restoration, Mass Cure Wounds
 
 **เลเวล 3 Disciple of Life**
 
@@ -191,14 +191,14 @@ Cleric มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 **Domain Spells:**
 
-- 3 Burning Hands, Faerie Fire, Scorching Ray, See Invisibility
-- 5 Daylight, Fireball [แนะนำ]
-- 7 Arcane Eye, Wall of Fire
-- 9 Flame Strike, Scrying
+- เลเวล 3 ได้ Burning Hands, Faerie Fire, Scorching Ray, See Invisibility
+- เลเวล 5 ได้ Daylight, Fireball [แนะนำ]
+- เลเวล 7 ได้ Arcane Eye, Wall of Fire
+- เลเวล 9 ได้ Flame Strike, Scrying
 
 **เลเวล 3 Radiance of the Dawn (Channel Divinity)**
 
-**Magic action:** [แนะนำ] สลาย Magical Darkness ในระยะ 30 ฟุต • ศัตรูในระยะทอย **CON Save** ล้มเหลว = **2d10 + เลเวล Cleric Radiant damage** (สำเร็จ = ครึ่ง)
+**Magic action:** [แนะนำ] สลาย Magical Darkness ในระยะ 30 ฟุต และ ศัตรูในระยะทอย **CON Save** ล้มเหลว = **2d10 + เลเวล Cleric Radiant damage** (สำเร็จ = ครึ่ง)
 
 **เลเวล 3 Warding Flare**
 
@@ -206,7 +206,7 @@ Cleric มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 **เลเวล 6 Improved Warding Flare**
 
-**Warding Flare ฟื้นทุก Short Rest** • และเป้าหมายที่คุณป้องกัน **ฟื้น 2d6 + WIS modifier HP**
+**Warding Flare ฟื้นทุก Short Rest** และ และเป้าหมายที่คุณป้องกัน **ฟื้น 2d6 + WIS modifier HP**
 
 **เลเวล 17 Corona of Light**
 
@@ -222,10 +222,10 @@ Cleric มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 **Domain Spells:**
 
-- 3 Charm Person, Disguise Self, Invisibility, Pass Without Trace
-- 5 Hypnotic Pattern, Nondetection
-- 7 Confusion, Dimension Door
-- 9 Dominate Person, Modify Memory
+- เลเวล 3 ได้ Charm Person, Disguise Self, Invisibility, Pass Without Trace
+- เลเวล 5 ได้ Hypnotic Pattern, Nondetection
+- เลเวล 7 ได้ Confusion, Dimension Door
+- เลเวล 9 ได้ Dominate Person, Modify Memory
 
 **เลเวล 3 Blessing of the Trickster**
 
@@ -244,7 +244,7 @@ Cleric มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 **เลเวล 17 Improved Duplicity**
 
-[แนะนำ] ภาพลวงตาให้ **Advantage** ในการโจมตีแก่ **เพื่อนทุกคน** ที่อยู่ในระยะ 5 ฟุตจากมัน • และเมื่อภาพหายไป **แจก HP รวม 4d10 ให้สิ่งมีชีวิตที่เลือกในระยะ 30 ฟุต**
+[แนะนำ] ภาพลวงตาให้ **Advantage** ในการโจมตีแก่ **เพื่อนทุกคน** ที่อยู่ในระยะ 5 ฟุตจากมัน และ และเมื่อภาพหายไป **แจก HP รวม 4d10 ให้สิ่งมีชีวิตที่เลือกในระยะ 30 ฟุต**
 
 **Invoke Duplicity ทรงพลังมาก** ร่ายเวทจากตำแหน่งภาพลวงตา = ปลอดภัยอยู่หลังแนวแต่ปล่อยเวทจากกลางวงศัตรู
 
@@ -256,18 +256,18 @@ Cleric มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 **Domain Spells:**
 
-- 3 Divine Favor, Guiding Bolt, Magic Weapon, Shield of Faith, Spiritual Weapon
-- 5 Crusader's Mantle, Spirit Guardians
-- 7 Fire Shield, Freedom of Movement
-- 9 Hold Monster, Steel Wind Strike
+- เลเวล 3 ได้ Divine Favor, Guiding Bolt, Magic Weapon, Shield of Faith, Spiritual Weapon
+- เลเวล 5 ได้ Crusader's Mantle, Spirit Guardians
+- เลเวล 7 ได้ Fire Shield, Freedom of Movement
+- เลเวล 9 ได้ Hold Monster, Steel Wind Strike
 
 **เลเวล 3 War Priest**
 
-**Bonus Action:** [แนะนำ] โจมตีด้วยอาวุธเพิ่ม 1 ครั้ง ใช้ได้ **WIS modifier ครั้ง (ขั้นต่ำ 1)** • ฟื้นทุก **Short Rest**
+**Bonus Action:** [แนะนำ] โจมตีด้วยอาวุธเพิ่ม 1 ครั้ง ใช้ได้ **WIS modifier ครั้ง (ขั้นต่ำ 1)** และ ฟื้นทุก **Short Rest**
 
 **เลเวล 3 Guided Strike (Channel Divinity)**
 
-**บวก +10 ในการทอยโจมตี** [แนะนำ] (ใช้หลังทอย ก่อนรู้ผล) • ใช้กับ**เพื่อนได้ด้วย** (ใช้ Reaction)
+**บวก +10 ในการทอยโจมตี** [แนะนำ] (ใช้หลังทอย ก่อนรู้ผล) และ ใช้กับ**เพื่อนได้ด้วย** (ใช้ Reaction)
 
 **เลเวล 6 War God's Blessing**
 
@@ -326,14 +326,14 @@ Spell Save DC เท่ากับ 8 บวก Proficiency Bonus บวก WIS 
 
 ### Species ที่แนะนำ
 
-- **Aasimar** [แนะนำมาก] เข้าธีมสมบูรณ์แบบ + Healing Hands + Radiant/Necrotic Resistance
-- **Dwarf** [แนะนำ] +1 HP ทุกเลเวล (แก้ปัญหา d8) + Darkvision 120
-- **Human** Feat ฟรี
-- **Goliath** Speed 35 + ทน
-- **Gnome** Advantage ใน INT/WIS/CHA Save
+- **ลูกหลานสวรรค์ (Aasimar)** [แนะนำมาก] เข้าธีมสมบูรณ์แบบ + Healing Hands + Radiant/Necrotic Resistance
+- **คนแคระ (Dwarf)** [แนะนำ] +1 HP ทุกเลเวล (แก้ปัญหา d8) + Darkvision 120
+- **มนุษย์ (Human)** Feat ฟรี
+- **ลูกหลานยักษ์ (Goliath)** Speed 35 + ทน
+- **โนม (Gnome)** Advantage ใน INT/WIS/CHA Save
 
 ### Background ที่แนะนำ
-**Acolyte** (INT/WIS/CHA) [แนะนำมาก] เข้าธีม + ได้ Magic Initiate (Cleric) • **Hermit** (CON/WIS/CHA) • **Sage** (CON/INT/WIS)
+**Acolyte** (INT/WIS/CHA) [แนะนำมาก] เข้าธีม + ได้ Magic Initiate (Cleric), **Hermit** (CON/WIS/CHA) และ **Sage** (CON/INT/WIS)
 
 ### Feat ที่แนะนำ (เลเวล 4+)
 

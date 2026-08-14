@@ -74,7 +74,7 @@ Background ในกฎ 2024 สำคัญกว่าเดิมมาก �
 Species เป็นตัวกำหนด 3 อย่าง
 
 - **ขนาด (Size)** เป็น Small หรือ Medium
-- **ความเร็ว (Speed)** โดยทั่วไป 30 ฟุต ส่วน Goliath ได้ 35 ฟุต
+- **ความเร็ว (Speed)** โดยทั่วไป 30 ฟุต ส่วน ลูกหลานยักษ์ (Goliath) ได้ 35 ฟุต
 - **ความสามารถพิเศษ (Special Traits)** เช่น Darkvision การต้านทานธาตุ หรือสเปลฟรี
 
 ---
@@ -226,7 +226,7 @@ Alignment เป็นแค่แนวทาง ไม่ใช่กฎบั
 
 ### Fighter ชื่อ Bran ทหารผ่านศึก
 
-เป็น Fighter เลเวล 1 เผ่า Human ภูมิหลัง **ทหาร (Soldier)**
+เป็น Fighter เลเวล 1 เผ่า มนุษย์ (Human) ภูมิหลัง **ทหาร (Soldier)**
 
 ค่าพลังใช้ Standard Array บวกกับ Soldier แบบ A ซึ่งให้ STR +2 และ CON +1 ได้เป็น
 STR 17 ให้ Modifier +3, DEX 14 ให้ +2, CON 15 ให้ +2, INT 10 ให้ 0, WIS 12 ให้ +1 และ CHA 8 ให้ ลบ 1
@@ -259,7 +259,7 @@ Origin Feat จาก Soldier คือ Savage Attacker
 
 ### Cleric ชื่อ Elara ผู้รับใช้แสงสว่าง
 
-เป็น Cleric เลเวล 1 เผ่า Aasimar ภูมิหลัง **นักบวชฝึกหัด (Acolyte)**
+เป็น Cleric เลเวล 1 เผ่า ลูกหลานสวรรค์ (Aasimar) ภูมิหลัง **นักบวชฝึกหัด (Acolyte)**
 
 ค่าพลังใช้ Standard Array บวกกับ Acolyte แบบ A ซึ่งให้ WIS +2 และ CON +1 ได้เป็น
 STR 12 ให้ Modifier +1, DEX 10 ให้ 0, CON 15 ให้ +2, INT 8 ให้ ลบ 1, WIS 17 ให้ +3 และ CHA 14 ให้ +2

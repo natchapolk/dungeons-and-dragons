@@ -14,7 +14,7 @@
 
 ## ค่าที่ใช้บ่อยที่สุด (จดไว้ข้างตัว)
 
-- Rogue เลเวล 1, Halfling, Criminal
+- Rogue เลเวล 1, ฮาล์ฟลิง (Halfling), Criminal
 
 - HP 10 / 10 AC 14 Speed 30 ft
 - Initiative +5 Proficiency Bonus +2 Passive Perception 15

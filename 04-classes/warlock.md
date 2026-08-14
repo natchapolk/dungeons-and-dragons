@@ -33,7 +33,7 @@
 
 ---
 
-## ตารางความก้าวหน้าเลเวล 1-20
+## ความก้าวหน้าเลเวล 1 ถึง 20
 
 - **เลเวล 1** Proficiency Bonus +2, ได้ความสามารถ Eldritch Invocations [แนะนำ], Pact Magic [แนะนำมาก], Invocations 1, รู้ Cantrip 2, เตรียมสเปลได้ 2, Spell Slots 1, ระดับ Slot 1
 - **เลเวล 2** Proficiency Bonus +2, ได้ความสามารถ Magical Cunning, Invocations 3, รู้ Cantrip 2, เตรียมสเปลได้ 3, Spell Slots 2, ระดับ Slot 1
@@ -97,7 +97,7 @@
 
 ### เลเวล 1 มนตราลึกลับ (Eldritch Invocations) ความสามารถหลักของคลาส
 
-เลือก **Invocation** ตามจำนวนในตาราง เป็น**ความสามารถถาวรที่กำหนดรูปแบบการเล่นของคุณ**
+เลือก **Invocation** ตามจำนวนที่ระบุไว้ในแต่ละเลเวล เป็น**ความสามารถถาวรที่กำหนดรูปแบบการเล่นของคุณ**
 **เปลี่ยนตัวเลือกได้ 1 อย่างทุกครั้งที่เลื่อนเลเวล** [แนะนำ]
 
  **ดูรายการ Invocation ทั้งหมดในหัวข้อถัดไป**
@@ -127,10 +127,10 @@
 
 **ได้เพิ่มตามเลเวล:**
 
-- **11** **6**
-- **13** **7**
-- **15** **8**
-- **17** **9**
+- เลเวล 11 ได้ Mystic Arcanum สเปล**ระดับ 6**
+- เลเวล 13 ได้เพิ่มสเปล**ระดับ 7**
+- เลเวล 15 ได้เพิ่มสเปล**ระดับ 8**
+- เลเวล 17 ได้เพิ่มสเปล**ระดับ 9**
 
 **นี่คือวิธีที่ Warlock เข้าถึงสเปลระดับสูง** เพราะ Pact Magic Slot สูงสุดแค่ระดับ 5
 **เปลี่ยนตัวเลือกได้ทุกครั้งที่เลื่อนเลเวล**
@@ -221,7 +221,7 @@ Invocation 3 อันนี้เป็น "แกนหลัก" ที่ก
 
 ## Invocations สำหรับ Pact of the Chain
 
-- **พรแห่งเจ้าโซ่ (Investment of the Chain Master)** [แนะนำมาก] เลเวล 5, Pact of the Chain Familiar ได้: **Fly หรือ Swim Speed 40 ฟุต** • **การโจมตีของมันนับเป็น Magical** • **สั่งมันด้วย Bonus Action** • **ศัตรูที่ Save ต่อ Familiar ใช้ DC ของคุณ** • **Reaction: ให้มัน Resistance ต่อดาเมจ**
+- **พรแห่งเจ้าโซ่ (Investment of the Chain Master)** [แนะนำมาก] เลเวล 5, Pact of the Chain Familiar ได้: **Fly หรือ Swim Speed 40 ฟุต**, **การโจมตีของมันนับเป็น Magical**, **สั่งมันด้วย Bonus Action**, **ศัตรูที่ Save ต่อ Familiar ใช้ DC ของคุณ** และ **Reaction: ให้มัน Resistance ต่อดาเมจ**
 - **ของขวัญแห่งผู้ไม่ตาย (Gift of the Ever-Living Ones)** [แนะนำ] Pact of the Chain เมื่อคุณฟื้น HP ขณะที่ Familiar อยู่ในระยะ 100 ฟุต **ใช้ค่าสูงสุดของเต๋าทุกลูก**
 
 ---
@@ -250,7 +250,7 @@ Invocation 3 อันนี้เป็น "แกนหลัก" ที่ก
 ## Invocations เลเวลสูง
 
 - **ก้าวย่างลอยฟ้า (Ascendant Step)** [แนะนำ] เลเวล 5 **ร่าย Levitate ใส่ตัวเองได้ไม่จำกัด**
-- **ของขวัญแห่งห้วงลึก (Gift of the Depths)** เลเวล 5 **หายใจใต้น้ำได้ + Swim Speed = Speed** • ร่าย Water Breathing ฟรี 1 ครั้ง/Long Rest
+- **ของขวัญแห่งห้วงลึก (Gift of the Depths)** เลเวล 5 **หายใจใต้น้ำได้ + Swim Speed = Speed** และ ร่าย Water Breathing ฟรี 1 ครั้ง/Long Rest
 - **ผู้เชี่ยวชาญพันร่าง (Master of Myriad Forms)** [แนะนำ] เลเวล 5 **ร่าย Alter Self ได้ไม่จำกัด**
 - **หนึ่งเดียวกับเงา (One with Shadows)** [แนะนำมาก] เลเวล 5 **ร่าย Invisibility ใส่ตัวเองได้ไม่จำกัด** [แนะนำ]
 - **เสียงกระซิบจากหลุมศพ (Whispers of the Grave)** เลเวล 7 **ร่าย Speak with Dead ได้ไม่จำกัด**
@@ -263,7 +263,7 @@ Invocation 3 อันนี้เป็น "แกนหลัก" ที่ก
 
 ### สาย ยิง Eldritch Blast (Blaster) แนะนำมือใหม่ที่สุด
 
-- 1 Agonizing Blast
+- เลเวล 1 ได้ Agonizing Blast
 - 2 + Devil's Sight + Armor of Shadows
 - 5 + Repelling Blast
 - 7 + Eldritch Mind
@@ -271,7 +271,7 @@ Invocation 3 อันนี้เป็น "แกนหลัก" ที่ก
 
 ### สาย ตีด้วยอาวุธ (Blade)
 
-- 1 Pact of the Blade
+- เลเวล 1 ได้ Pact of the Blade
 - 2 + Agonizing Blast + Armor of Shadows
 - 5 + Thirsting Blade
 - 7 + Eldritch Smite
@@ -293,10 +293,10 @@ Warlock มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **Fiend Spells (เตรียมไว้เสมอ):**
 
-- 3 Burning Hands, Command, Scorching Ray, Suggestion
-- 5 Fireball, Stinking Cloud
-- 7 Fire Shield, Wall of Fire
-- 9 Geas, Insect Plague
+- เลเวล 3 ได้ Burning Hands, Command, Scorching Ray, Suggestion
+- เลเวล 5 ได้ Fireball, Stinking Cloud
+- เลเวล 7 ได้ Fire Shield, Wall of Fire
+- เลเวล 9 ได้ Geas, Insect Plague
 
 **เลเวล 3 Dark One's Blessing**
 
@@ -324,14 +324,14 @@ Warlock มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **Celestial Spells (เตรียมไว้เสมอ):**
 
-- 3 Aid, Cure Wounds, Guiding Bolt, Lesser Restoration
-- 5 Daylight, Revivify
-- 7 Guardian of Faith, Wall of Fire
-- 9 Greater Restoration, Summon Celestial
+- เลเวล 3 ได้ Aid, Cure Wounds, Guiding Bolt, Lesser Restoration
+- เลเวล 5 ได้ Daylight, Revivify
+- เลเวล 7 ได้ Guardian of Faith, Wall of Fire
+- เลเวล 9 ได้ Greater Restoration, Summon Celestial
 
 **เลเวล 3 Healing Light**
 
-[แนะนำมาก] มี **คลังเต๋า d6 จำนวน 1 + เลเวล Warlock** **Bonus Action:** ใช้เต๋าได้ถึง CHA modifier ลูก เพื่อฟื้น HP ให้ตัวเองหรือเพื่อนในระยะ 60 ฟุต • ฟื้นคลังเมื่อ Long Rest
+[แนะนำมาก] มี **คลังเต๋า d6 จำนวน 1 + เลเวล Warlock** **Bonus Action:** ใช้เต๋าได้ถึง CHA modifier ลูก เพื่อฟื้น HP ให้ตัวเองหรือเพื่อนในระยะ 60 ฟุต และ ฟื้นคลังเมื่อ Long Rest
 
 **เลเวล 3 Bonus Cantrips**
 
@@ -339,7 +339,7 @@ Warlock มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **เลเวล 6 Radiant Soul**
 
-[แนะนำมาก] • **Resistance ต่อ Radiant damage**
+[แนะนำมาก] และ **Resistance ต่อ Radiant damage**
 - **1 ครั้ง/เทิร์น:** [แนะนำ] เมื่อสเปลของคุณทำ **Radiant หรือ Fire damage** **เพิ่มดาเมจ CHA modifier**
 
 **เลเวล 10 Celestial Resilience**
@@ -350,7 +350,7 @@ Warlock มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **เลเวล 14 Searing Vengeance**
 
-[แนะนำมาก] เมื่อคุณกำลังจะทอย **Death Saving Throw** **ฟื้นทันทีด้วย HP = ครึ่งหนึ่งของ HP สูงสุด + ลุกขึ้นยืน** • และศัตรูในระยะ 30 ฟุตทอย **CON Save** ล้มเหลว = **2d8 + CHA modifier Radiant + Blinded** ใช้ได้ 1 ครั้ง/Long Rest
+[แนะนำมาก] เมื่อคุณกำลังจะทอย **Death Saving Throw** **ฟื้นทันทีด้วย HP = ครึ่งหนึ่งของ HP สูงสุด + ลุกขึ้นยืน** และ และศัตรูในระยะ 30 ฟุตทอย **CON Save** ล้มเหลว = **2d8 + CHA modifier Radiant + Blinded** ใช้ได้ 1 ครั้ง/Long Rest
 
 **สายซัพพอร์ตที่ดีที่สุดของ Warlock** Healing Light ทำให้ทีมที่ไม่มี Cleric อยู่รอดได้
 
@@ -362,14 +362,14 @@ Warlock มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **Archfey Spells (เตรียมไว้เสมอ):**
 
-- 3 Calm Emotions, Faerie Fire, Misty Step, Phantasmal Force, Sleep
-- 5 Blink, Plant Growth
-- 7 Dominate Beast, Greater Invisibility
-- 9 Dominate Person, Seeming
+- เลเวล 3 ได้ Calm Emotions, Faerie Fire, Misty Step, Phantasmal Force, Sleep
+- เลเวล 5 ได้ Blink, Plant Growth
+- เลเวล 7 ได้ Dominate Beast, Greater Invisibility
+- เลเวล 9 ได้ Dominate Person, Seeming
 
 **เลเวล 3 Steps of the Fey**
 
-**ร่าย Misty Step ได้ Prof Bonus ครั้ง/Long Rest โดยไม่เสีย Slot** [แนะนำมาก] • [แนะนำ] และทุกครั้งที่ร่าย เลือกผลเพิ่ม 1 อย่าง:
+**ร่าย Misty Step ได้ Prof Bonus ครั้ง/Long Rest โดยไม่เสีย Slot** [แนะนำมาก] และ [แนะนำ] และทุกครั้งที่ร่าย เลือกผลเพิ่ม 1 อย่าง:
 - **Refreshing Step** คุณหรือเพื่อน 1 คนที่มองเห็น **ได้ Temp HP = 1d10 + CHA modifier**
 - **Taunting Step** ศัตรูในระยะ 5 ฟุตจากจุดที่คุณหายไป ทอย **WIS Save** ล้มเหลว = **เสียเปรียบเมื่อโจมตีคนอื่นที่ไม่ใช่คุณ** จนจบเทิร์นหน้า
 
@@ -379,7 +379,7 @@ Warlock มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **เลเวล 10 Beguiling Defenses**
 
-[แนะนำ] • **ภูมิคุ้มกันสภาวะ Charmed**
+[แนะนำ] และ **ภูมิคุ้มกันสภาวะ Charmed**
 - **Reaction:** [แนะนำ] เมื่อศัตรูพยายามทำให้คุณ Charmed **สะท้อนกลับ** มันทอย **WIS Save** ล้มเหลว = **2d10 Psychic และ Charmed โดยคุณ 1 นาที**
 
 **เลเวล 14 Bewitching Magic**
@@ -396,10 +396,10 @@ Warlock มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **Psychic Spells (เตรียมไว้เสมอ):**
 
-- 3 Detect Thoughts, Dissonant Whispers, Phantasmal Force, Tasha's Hideous Laughter
-- 5 Clairvoyance, Hunger of Hadar
-- 7 Confusion, Summon Aberration
-- 9 Modify Memory, Telekinesis
+- เลเวล 3 ได้ Detect Thoughts, Dissonant Whispers, Phantasmal Force, Tasha's Hideous Laughter
+- เลเวล 5 ได้ Clairvoyance, Hunger of Hadar
+- เลเวล 7 ได้ Confusion, Summon Aberration
+- เลเวล 9 ได้ Modify Memory, Telekinesis
 
 **เลเวล 3 Awakened Mind**
 
@@ -407,7 +407,7 @@ Warlock มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **เลเวล 3 Psychic Spells**
 
-[แนะนำมาก] • **เมื่อสเปล Warlock ของคุณทำดาเมจ เปลี่ยนเป็น Psychic ได้**
+[แนะนำมาก] และ **เมื่อสเปล Warlock ของคุณทำดาเมจ เปลี่ยนเป็น Psychic ได้**
 - **ร่ายสเปล Enchantment หรือ Illusion โดยไม่ต้องใช้องค์ประกอบ Verbal และ Somatic** [แนะนำ] (ร่ายเงียบ ๆ ไม่มีใครรู้!)
 
 **เลเวล 6 Clairvoyant Combatant**
@@ -416,11 +416,11 @@ Warlock มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **เลเวล 10 Eldritch Hex**
 
-[แนะนำ] ได้สเปล **Hex** เตรียมไว้เสมอ • **ศัตรูที่ติด Hex ของคุณ เสียเปรียบในการทอย Saving Throw ต่อค่าที่คุณเลือกใน Hex** [แนะนำ]
+[แนะนำ] ได้สเปล **Hex** เตรียมไว้เสมอ และ **ศัตรูที่ติด Hex ของคุณ เสียเปรียบในการทอย Saving Throw ต่อค่าที่คุณเลือกใน Hex** [แนะนำ]
 
 **เลเวล 14 Create Thrall**
 
-**Magic action:** [แนะนำมาก] สัมผัสสิ่งมีชีวิตที่ **Incapacitated** มันทอย **WIS Save** ล้มเหลว = **Charmed โดยคุณอย่างถาวร** จนกว่าจะถูก Remove Curse • คุณสื่อสารทางจิตกับมันได้ข้ามระยะทางในมิติเดียวกัน
+**Magic action:** [แนะนำมาก] สัมผัสสิ่งมีชีวิตที่ **Incapacitated** มันทอย **WIS Save** ล้มเหลว = **Charmed โดยคุณอย่างถาวร** จนกว่าจะถูก Remove Curse และ คุณสื่อสารทางจิตกับมันได้ข้ามระยะทางในมิติเดียวกัน
 
 **สายที่แข็งแรงที่สุดในเชิงกลยุทธ์** Psychic Spells ทำให้ร่ายเวทได้โดยไม่มีใครรู้ = ทรงพลังมากในการเล่นบทบาท
 
@@ -473,15 +473,15 @@ Spell Save DC เท่ากับ 8 บวก Proficiency Bonus บวก CHA 
 
 ### Species ที่แนะนำ
 
-- **Tiefling** [แนะนำมาก] เข้าธีมสมบูรณ์แบบ + สเปลฟรี + Fire Resistance
-- **Elf (Drow)** [แนะนำมาก] ได้ Darkness ฟรี + Darkvision 120 (คอมโบกับ Devil's Sight)
-- **Human** [แนะนำ] Feat ฟรี
-- **Aasimar** Healing Hands + Necrotic Shroud (ใช้ CHA)
-- **Dwarf** +1 HP ทุกเลเวล
+- **ลูกหลานปีศาจ (Tiefling)** [แนะนำมาก] เข้าธีมสมบูรณ์แบบ + สเปลฟรี + Fire Resistance
+- **เอลฟ์ (Elf) สาย Drow** [แนะนำมาก] ได้ Darkness ฟรี + Darkvision 120 (คอมโบกับ Devil's Sight)
+- **มนุษย์ (Human)** [แนะนำ] Feat ฟรี
+- **ลูกหลานสวรรค์ (Aasimar)** Healing Hands + Necrotic Shroud (ใช้ CHA)
+- **คนแคระ (Dwarf)** +1 HP ทุกเลเวล
 - **Gnome** Advantage ใน INT/WIS/CHA Save
 
 ### Background ที่แนะนำ
-**Charlatan** (DEX/CON/CHA) [แนะนำมาก] ตรงเป๊ะ • **Acolyte** (INT/WIS/CHA) • **Merchant** (CON/INT/CHA) • **ถ้าเน้นความรู้ (Sage)**
+**Charlatan** (DEX/CON/CHA) [แนะนำมาก] ตรงเป๊ะ, **Acolyte** (INT/WIS/CHA), **Merchant** (CON/INT/CHA) และ **ถ้าเน้นความรู้ (Sage)**
 
 ### Feat ที่แนะนำ (เลเวล 4+)
 

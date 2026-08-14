@@ -33,7 +33,7 @@
 
 ---
 
-## ตารางความก้าวหน้าเลเวล 1-20
+## ความก้าวหน้าเลเวล 1 ถึง 20
 
 - **เลเวล 1** Proficiency Bonus +2, ได้ความสามารถ Spellcasting, Innate Sorcery [แนะนำ], รู้ Cantrip 4, เตรียมสเปลได้ 2, Spell Slot ระดับ 1 จำนวน 2 ช่อง
 - **เลเวล 2** Proficiency Bonus +2, ได้ความสามารถ Font of Magic [แนะนำมาก], 2 อย่าง (Metamagic), Sorcery Points 2, รู้ Cantrip 4, เตรียมสเปลได้ 4, Spell Slot ระดับ 1 จำนวน 3 ช่อง
@@ -126,7 +126,7 @@
 - **เวทระมัดระวัง (Careful Spell)** [แนะนำมาก] **1 SP** เลือกเพื่อนได้ถึง **CHA modifier คน** **พวกเขา Save สำเร็จอัตโนมัติและรับดาเมจ 0** (ปล่อย Fireball ใส่กลางวงได้!)
 - **เวทเข้มข้น (Heightened Spell)** [แนะนำมาก] **2 SP** เป้าหมาย 1 ตัว **เสียเปรียบในการทอย Saving Throw ครั้งแรก** ต่อสเปลนั้น
 - **เวทเสริมพลัง (Empowered Spell)** [แนะนำ] **1 SP** **ทอยเต๋าดาเมจใหม่ได้ถึง CHA modifier ลูก** (ต้องใช้ผลใหม่) **ใช้ร่วมกับ Metamagic อื่นได้!** [แนะนำ]
-- **เวทระยะไกล (Distant Spell)** [แนะนำ] **1 SP** **ระยะเพิ่มเป็น 2 เท่า** • หรือสเปลระยะ **Touch 30 ฟุต**
+- **เวทระยะไกล (Distant Spell)** [แนะนำ] **1 SP** **ระยะเพิ่มเป็น 2 เท่า** และ หรือสเปลระยะ **Touch 30 ฟุต**
 - **เวทยืดเวลา (Extended Spell)** **1 SP** **ระยะเวลาเพิ่มเป็น 2 เท่า** (สูงสุด 24 ชม.) + **Advantage ในการทอย Concentration Save** ของสเปลนั้น
 - **เวทติดตาม (Seeking Spell)** **1 SP** เมื่อ **Spell Attack พลาด ทอยใหม่ได้**
 - **เวทแปรธาตุ (Transmuted Spell)** **1 SP** **เปลี่ยนธาตุของสเปล** เป็น Acid, Cold, Fire, Lightning, Poison, หรือ Thunder
@@ -180,14 +180,14 @@ Sorcerer มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ 
 
 **Draconic Spells (เตรียมไว้เสมอ):**
 
-- 3 Alter Self, Chromatic Orb, Command, Dragon's Breath
-- 5 Fear, Fly
-- 7 Arcane Eye, Charm Monster
-- 9 Legend Lore, Summon Dragon
+- เลเวล 3 ได้ Alter Self, Chromatic Orb, Command, Dragon's Breath
+- เลเวล 5 ได้ Fear, Fly
+- เลเวล 7 ได้ Arcane Eye, Charm Monster
+- เลเวล 9 ได้ Legend Lore, Summon Dragon
 
 **เลเวล 3 Draconic Resilience**
 
-[แนะนำมาก] • **HP สูงสุด +1 ต่อเลเวล Sorcerer** (แก้ปัญหา d6!)
+[แนะนำมาก] และ **HP สูงสุด +1 ต่อเลเวล Sorcerer** (แก้ปัญหา d6!)
 - **ตอนไม่ใส่เกราะ: AC = 10 + DEX + CHA** [แนะนำ] เกล็ดมังกรขึ้นบนผิว
 
 **เลเวล 6 Elemental Affinity**
@@ -202,7 +202,7 @@ Sorcerer มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ 
 
 **เลเวล 18 Dragon Companion**
 
-[แนะนำ] ร่ายสเปล **Summon Dragon ฟรี 1 ครั้ง/Long Rest** โดยไม่เสีย Slot • มังกรที่เรียกมา **ไม่ต้อง Concentration**
+[แนะนำ] ร่ายสเปล **Summon Dragon ฟรี 1 ครั้ง/Long Rest** โดยไม่เสีย Slot และ มังกรที่เรียกมา **ไม่ต้อง Concentration**
 
 **แนะนำมือใหม่ที่สุด** AC 10+DEX+CHA (ประมาณ 16-18) + HP เพิ่ม ทำให้ไม่ตายง่ายเหมือน Sorcerer สายอื่น
 
@@ -214,14 +214,14 @@ Sorcerer มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ 
 
 **Wild Magic Spells (เตรียมไว้เสมอ):**
 
-- 3 Detect Magic, Fog Cloud, Blur, Silence
-- 5 Haste, Slow
-- 7 Polymorph, Confusion
-- 9 Contact Other Plane, Bigby's Hand
+- เลเวล 3 ได้ Detect Magic, Fog Cloud, Blur, Silence
+- เลเวล 5 ได้ Haste, Slow
+- เลเวล 7 ได้ Polymorph, Confusion
+- เลเวล 9 ได้ Contact Other Plane, Bigby's Hand
 
 **เลเวล 3 Wild Magic Surge**
 
-**ทันทีหลังร่ายสเปลระดับ 1 ขึ้นไป** [แนะนำ] **ทอย d20** **ออก 20 = เกิด Wild Magic Surge** (ทอย d100 บนตาราง 50 ผลลัพธ์)
+**ทันทีหลังร่ายสเปลระดับ 1 ขึ้นไป** [แนะนำ] **ทอย d20** **ออก 20 = เกิด Wild Magic Surge** (ทอย d100 บนรายการสุ่ม 50 ผลลัพธ์)
 - (หรือ DM อาจสั่งให้ทอยเมื่อไหร่ก็ได้)
 
 **เลเวล 3 Tides of Chaos**
@@ -238,12 +238,12 @@ Sorcerer มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ 
 
 **เลเวล 18 Tamed Surge**
 
-**ทันทีหลังร่ายสเปล เลือกผลจากตาราง Wild Magic Surge ได้เองเลย** [แนะนำมาก] (ไม่ต้องทอย) ใช้ได้ 1 ครั้ง/Long Rest
+**ทันทีหลังร่ายสเปล เลือกผลจากรายการสุ่ม Wild Magic Surge ได้เองเลย** [แนะนำมาก] (ไม่ต้องทอย) ใช้ได้ 1 ครั้ง/Long Rest
 
-**ตัวอย่างผล Wild Magic Surge (จากตาราง d100):**
-- ร่าย Fireball ทันทีที่จุดที่เลือก • กลายเป็นกระถางต้นไม้ 1 นาที • ฟื้น HP เต็ม
-- Speed เพิ่ม 10 ฟุต 1 นาที • ผมเปลี่ยนสี • ทุกคนในระยะ 30 ฟุตกลายเป็น Invisible 1 นาที
-- ตัวคุณลอยขึ้น 10 ฟุต • เรียก Unicorn มา 1 นาที • Sorcery Points ฟื้น 5 แต้ม
+**ตัวอย่างผล Wild Magic Surge (จากรายการสุ่ม d100):**
+- ร่าย Fireball ทันทีที่จุดที่เลือก, กลายเป็นกระถางต้นไม้ 1 นาที และ ฟื้น HP เต็ม
+- Speed เพิ่ม 10 ฟุต 1 นาที, ผมเปลี่ยนสี และ ทุกคนในระยะ 30 ฟุตกลายเป็น Invisible 1 นาที
+- ตัวคุณลอยขึ้น 10 ฟุต, เรียก Unicorn มา 1 นาที และ Sorcery Points ฟื้น 5 แต้ม
 
 **สายที่สนุกที่สุดในการเล่นบทบาท** แต่ **ต้องมี DM ที่เปิดใจ** เพราะผลลัพธ์อาจทำให้แผนพัง
 
@@ -255,10 +255,10 @@ Sorcerer มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ 
 
 **Psionic Spells (เตรียมไว้เสมอ):**
 
-- 3 Arms of Hadar, Calm Emotions, Detect Thoughts, Dissonant Whispers, Mind Sliver
-- 5 Hunger of Hadar, Sending
-- 7 Evard's Black Tentacles, Summon Aberration
-- 9 Rary's Telepathic Bond, Telekinesis
+- เลเวล 3 ได้ Arms of Hadar, Calm Emotions, Detect Thoughts, Dissonant Whispers, Mind Sliver
+- เลเวล 5 ได้ Hunger of Hadar, Sending
+- เลเวล 7 ได้ Evard's Black Tentacles, Summon Aberration
+- เลเวล 9 ได้ Rary's Telepathic Bond, Telekinesis
 
 **เลเวล 3 Telepathic Speech**
 
@@ -266,7 +266,7 @@ Sorcerer มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ 
 
 **เลเวล 6 Psionic Sorcery**
 
-**เมื่อร่าย Psionic Spell** [แนะนำมาก] ร่ายด้วย **Sorcery Points แทน Spell Slot** ได้ (SP = ระดับสเปล) • และร่ายแบบนั้น **ไม่ต้องใช้องค์ประกอบ Verbal, Somatic, Material** เลย
+**เมื่อร่าย Psionic Spell** [แนะนำมาก] ร่ายด้วย **Sorcery Points แทน Spell Slot** ได้ (SP = ระดับสเปล) และ และร่ายแบบนั้น **ไม่ต้องใช้องค์ประกอบ Verbal, Somatic, Material** เลย
 
 **เลเวล 6 Psychic Defenses**
 
@@ -292,10 +292,10 @@ Sorcerer มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ 
 
 **Clockwork Spells (เตรียมไว้เสมอ):**
 
-- 3 Aid, Alarm, Lesser Restoration, Protection from Evil and Good
-- 5 Dispel Magic, Protection from Energy
-- 7 Freedom of Movement, Summon Construct
-- 9 Greater Restoration, Wall of Force
+- เลเวล 3 ได้ Aid, Alarm, Lesser Restoration, Protection from Evil and Good
+- เลเวล 5 ได้ Dispel Magic, Protection from Energy
+- เลเวล 7 ได้ Freedom of Movement, Summon Construct
+- เลเวล 9 ได้ Greater Restoration, Wall of Force
 
 **เลเวล 3 Restore Balance**
 
@@ -328,7 +328,7 @@ Sorcerer มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ 
 ## เปรียบเทียบ 4 Subclass
 
 - **จุดเด่น** **ทนที่สุด (AC+HP)** สนุก คาดเดาไม่ได้ ควบคุมจิต + ร่ายเงียบ **ซัพพอร์ต+ควบคุมโชค**
-- **ความยาก** ง่ายสุด กลาง (ต้องเปิดตาราง) กลาง ง่าย
+- **ความยาก** ง่ายสุด กลาง (ต้องเปิดรายการสุ่ม) กลาง ง่าย
 - **ช่วยทีม** ต่ำ กลาง (Bend Luck) กลาง **สูงสุด**
 - **แนะนำมือใหม่** **ใช่** ใช่ (ถ้าชอบลุ้น) ใช่ **ใช่**
 
@@ -361,15 +361,15 @@ Spell Save DC เท่ากับ 8 บวก Proficiency Bonus บวก CHA 
 
 ### Species ที่แนะนำ
 
-- **Dragonborn** [แนะนำ] เข้าธีมสายเลือดมังกรสมบูรณ์แบบ + Breath Weapon
-- **Tiefling** [แนะนำมาก] สเปลฟรี + Resistance ธาตุ + เข้าธีม
-- **Dwarf** [แนะนำมาก] +1 HP ทุกเลเวล (แก้ปัญหา d6)
+- **คนมังกร (Dragonborn)** [แนะนำ] เข้าธีมสายเลือดมังกรสมบูรณ์แบบ + Breath Weapon
+- **ลูกหลานปีศาจ (Tiefling)** [แนะนำมาก] สเปลฟรี + Resistance ธาตุ + เข้าธีม
+- **คนแคระ (Dwarf)** [แนะนำมาก] +1 HP ทุกเลเวล (แก้ปัญหา d6)
 - **Gnome** [แนะนำ] Advantage ใน INT/WIS/CHA Save
-- **Human** Feat ฟรี (Tough)
-- **Aasimar** Healing Hands + Necrotic Shroud (ใช้ CHA)
+- **มนุษย์ (Human)** Feat ฟรี (Tough)
+- **ลูกหลานสวรรค์ (Aasimar)** Healing Hands + Necrotic Shroud (ใช้ CHA)
 
 ### Background ที่แนะนำ
-**Charlatan** (DEX/CON/CHA) [แนะนำมาก] ตรงเป๊ะทั้ง 3 ค่า • **CON/INT/CHA ได้ Lucky (Merchant)** • **Acolyte** (INT/WIS/CHA)
+**Charlatan** (DEX/CON/CHA) [แนะนำมาก] ตรงเป๊ะทั้ง 3 ค่า, **CON/INT/CHA ได้ Lucky (Merchant)** และ **Acolyte** (INT/WIS/CHA)
 
 ### Feat ที่แนะนำ (เลเวล 4+)
 

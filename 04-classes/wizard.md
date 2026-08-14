@@ -33,7 +33,7 @@
 
 ---
 
-## ตารางความก้าวหน้าเลเวล 1-20
+## ความก้าวหน้าเลเวล 1 ถึง 20
 
 - **เลเวล 1** Proficiency Bonus +2, ได้ความสามารถ Spellcasting, Ritual Adept [แนะนำ], Arcane Recovery [แนะนำ], รู้ Cantrip 3, เตรียมสเปลได้ 4, Spell Slot ระดับ 1 จำนวน 2 ช่อง
 - **เลเวล 2** Proficiency Bonus +2, ได้ความสามารถ Scholar, รู้ Cantrip 3, เตรียมสเปลได้ 5, Spell Slot ระดับ 1 จำนวน 3 ช่อง
@@ -69,7 +69,7 @@ Wizard มีระบบเวทที่ **ซับซ้อนที่ส�
 - เลือกมาบางส่วนตอน Long Rest ได้เป็น
 
 - ชั้นที่ 2 PREPARED SPELLS (สเปลที่เตรียมไว้)
-- สเปลที่พร้อมร่ายในวันนี้ จำนวนตามตาราง
+- สเปลที่พร้อมร่ายในวันนี้ จำนวนตามที่ระบุไว้ในแต่ละเลเวล
 
 - ร่ายโดยใช้
 
@@ -192,7 +192,7 @@ Wizard มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 **เลเวล 3 Evocation Savant**
 
-[แนะนำ] ได้สเปล **Evocation ระดับ 1-2 ฟรี 2 อัน** ลง Spellbook • **คัดลอกสเปล Evocation ใช้เวลาและเงินครึ่งเดียว**
+[แนะนำ] ได้สเปล **Evocation ระดับ 1-2 ฟรี 2 อัน** ลง Spellbook และ **คัดลอกสเปล Evocation ใช้เวลาและเงินครึ่งเดียว**
 
 **เลเวล 3 Potent Cantrip**
 
@@ -223,7 +223,7 @@ Wizard มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 **เลเวล 3 Abjuration Savant**
 
-ได้สเปล **Abjuration ระดับ 1-2 ฟรี 2 อัน** • คัดลอกสเปล Abjuration ครึ่งราคา
+ได้สเปล **Abjuration ระดับ 1-2 ฟรี 2 อัน** และ คัดลอกสเปล Abjuration ครึ่งราคา
 
 **เลเวล 3 Arcane Ward**
 
@@ -238,7 +238,7 @@ Wizard มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 **เลเวล 10 Spell Breaker**
 
-**Counterspell และ Dispel Magic เตรียมไว้เสมอ** [แนะนำ] (ไม่นับโควตา) • และร่ายทั้งสองแบบ**ไม่เสีย Slot ได้ 1 ครั้ง/Long Rest** • **เมื่อใช้ Counterspell ถือว่าใช้ Slot ระดับสูงกว่า 1 ระดับเสมอ**
+**Counterspell และ Dispel Magic เตรียมไว้เสมอ** [แนะนำ] (ไม่นับโควตา), และร่ายทั้งสองแบบ**ไม่เสีย Slot ได้ 1 ครั้ง/Long Rest** และ **เมื่อใช้ Counterspell ถือว่าใช้ Slot ระดับสูงกว่า 1 ระดับเสมอ**
 
 **เลเวล 14 Spell Resistance**
 
@@ -254,12 +254,12 @@ Wizard มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 **เลเวล 3 Illusion Savant**
 
-ได้สเปล **Illusion ระดับ 1-2 ฟรี 2 อัน** • คัดลอกสเปล Illusion ครึ่งราคา
+ได้สเปล **Illusion ระดับ 1-2 ฟรี 2 อัน** และ คัดลอกสเปล Illusion ครึ่งราคา
 
 **เลเวล 3 Improved Illusions**
 
-[แนะนำ] • ร่ายสเปล Illusion ได้**โดยไม่ต้องมีองค์ประกอบ Verbal** (ร่ายเงียบ ๆ ได้!)
-- ได้ Cantrip **Minor Illusion** ฟรี และ**ระยะเพิ่มเป็น 60 ฟุต** • สร้างทั้งเสียงและภาพพร้อมกันได้
+[แนะนำ] และ ร่ายสเปล Illusion ได้**โดยไม่ต้องมีองค์ประกอบ Verbal** (ร่ายเงียบ ๆ ได้!)
+- ได้ Cantrip **Minor Illusion** ฟรี และ**ระยะเพิ่มเป็น 60 ฟุต** และ สร้างทั้งเสียงและภาพพร้อมกันได้
 
 **เลเวล 6 Phantasmal Creatures**
 
@@ -283,13 +283,13 @@ Wizard มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 **เลเวล 3 Divination Savant**
 
-ได้สเปล **Divination ระดับ 1-2 ฟรี 2 อัน** • คัดลอกสเปล Divination ครึ่งราคา
+ได้สเปล **Divination ระดับ 1-2 ฟรี 2 อัน** และ คัดลอกสเปล Divination ครึ่งราคา
 
 **เลเวล 3 Portent**
 
 **เมื่อจบ Long Rest ทอย d20 จำนวน 2 ลูก และจดค่าไว้** [แนะนำอย่างยิ่ง]
 - **คุณสามารถแทนที่การทอย d20 ของใครก็ได้ (ตัวเอง เพื่อน หรือศัตรู) ด้วยค่าที่จดไว้**
-- (ต้องใช้ก่อนทอย • ใช้ได้ 1 ครั้งต่อค่า • ทอยใหม่ทุก Long Rest)
+- (ต้องใช้ก่อนทอย, ใช้ได้ 1 ครั้งต่อค่า และ ทอยใหม่ทุก Long Rest)
 
 **เลเวล 6 Expert Divination**
 
@@ -350,13 +350,13 @@ Spell Save DC เท่ากับ 8 บวก Proficiency Bonus บวก INT 
 ### Species ที่แนะนำ
 
 - **Gnome** [แนะนำมาก] **Advantage ใน INT/WIS/CHA Save ทั้งหมด** แก้จุดอ่อนใหญ่ที่สุดของ Wizard
-- **Dwarf** [แนะนำมาก] **+1 HP ทุกเลเวล** แก้ปัญหา HP d6
-- **Human** [แนะนำ] Feat ฟรี (Tough = +2 HP/เลเวล)
-- **Elf (High)** Cantrip เพิ่ม + Misty Step ฟรี
-- **Tiefling** Cantrip + สเปลฟรี + Resistance ธาตุ
+- **คนแคระ (Dwarf)** [แนะนำมาก] **+1 HP ทุกเลเวล** แก้ปัญหา HP d6
+- **มนุษย์ (Human)** [แนะนำ] Feat ฟรี (Tough = +2 HP/เลเวล)
+- **เอลฟ์ (Elf) สาย High** Cantrip เพิ่ม + Misty Step ฟรี
+- **ลูกหลานปีศาจ (Tiefling)** Cantrip + สเปลฟรี + Resistance ธาตุ
 
 ### Background ที่แนะนำ
-**Sage** (CON/INT/WIS) [แนะนำมาก] ตรงเป๊ะและได้ Magic Initiate (Wizard) • **Scribe** (DEX/INT/WIS) • **Artisan** (STR/DEX/INT) • **Merchant** (CON/INT/CHA)
+**Sage** (CON/INT/WIS) [แนะนำมาก] ตรงเป๊ะและได้ Magic Initiate (Wizard), **Scribe** (DEX/INT/WIS), **Artisan** (STR/DEX/INT) และ **Merchant** (CON/INT/CHA)
 
 ### Feat ที่แนะนำ (เลเวล 4+)
 

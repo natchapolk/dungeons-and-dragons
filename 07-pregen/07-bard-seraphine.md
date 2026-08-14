@@ -15,7 +15,7 @@ HP น้อยที่สุดรองจาก Fizzwick ต้องยื�
 
 ## ค่าที่ใช้บ่อยที่สุด (จดไว้ข้างตัว)
 
-- Bard เลเวล 1, Tiefling (Infernal), Charlatan
+- Bard เลเวล 1, ลูกหลานปีศาจ (Tiefling) สาย Infernal, Charlatan
 
 - HP 9 / 9 AC 13 Speed 30 ft
 - Initiative +2 Proficiency Bonus +2 Passive Perception 13
@@ -85,7 +85,7 @@ HP น้อยที่สุดรองจาก Fizzwick ต้องยื�
 
 - **Healing Word [แนะนำ]** ใช้ Action **Bonus Action**, ทำอะไร ระยะ 60 ฟุต ฟื้น **2d4 + 3** HP **ช่วยเพื่อนที่ล้มลงได้จากไกล**
 - **Faerie Fire [แนะนำ]** ใช้ Action Action (Concentration), ทำอะไร ลูกบาศก์ 20 ฟุต ศัตรูทอย DEX Save ล้มเหลว = **เปล่งแสง และทุกคนโจมตีมันได้ Advantage**
-- **Dissonant Whispers** ใช้ Action Action, ทำอะไร ศัตรูทอย WIS Save **3d6 Psychic** • ล้มเหลว = **ต้องวิ่งหนีจากคุณ** (โดนตีสวนจากเพื่อน)
+- **Dissonant Whispers** ใช้ Action Action, ทำอะไร ศัตรูทอย WIS Save **3d6 Psychic** และ ล้มเหลว = **ต้องวิ่งหนีจากคุณ** (โดนตีสวนจากเพื่อน)
 - **Tasha's Hideous Laughter** ใช้ Action Action (Concentration), ทำอะไร ศัตรูทอย WIS Save ล้มเหลว = **ล้มลงหัวเราะ Incapacitated**
 
 **เปลี่ยนสเปลที่เตรียมไว้ได้ 1 อัน ทุกครั้งที่เลื่อนเลเวล** (ไม่ใช่ทุกวันเหมือน Cleric)

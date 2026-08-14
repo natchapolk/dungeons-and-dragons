@@ -14,7 +14,7 @@
 
 ## ค่าที่ใช้บ่อยที่สุด (จดไว้ข้างตัว)
 
-- Fighter เลเวล 1, Human, Soldier
+- Fighter เลเวล 1, มนุษย์ (Human), Soldier
 
 - HP 12 / 12 AC 19 Speed 30 ft
 - Initiative +1 Proficiency Bonus +2 Passive Perception 13

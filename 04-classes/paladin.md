@@ -33,7 +33,7 @@
 
 ---
 
-## ตารางความก้าวหน้าเลเวล 1-20
+## ความก้าวหน้าเลเวล 1 ถึง 20
 
 - **เลเวล 1** Proficiency Bonus +2, ได้ความสามารถ Lay On Hands, Spellcasting, Weapon Mastery, เตรียมสเปลได้ 2, Slot 1 2
 - **เลเวล 2** Proficiency Bonus +2, ได้ความสามารถ Fighting Style, Paladin's Smite [แนะนำ], เตรียมสเปลได้ 3, Slot 1 2
@@ -74,10 +74,10 @@
 
 **ฟื้นคลัง:** Long Rest
 
-- 1 5
-- 5 25
-- 10 50
-- 20 **100**
+- เลเวล 1 คลังพลังรักษามี 5 HP
+- เลเวล 5 คลังพลังรักษามี 25 HP
+- เลเวล 10 คลังพลังรักษามี 50 HP
+- เลเวล 20 คลังพลังรักษามี **100 HP**
 
 **Lay On Hands ไม่ฟื้นสภาวะอื่นนอกจาก Poisoned** และไม่ให้ Temp HP
 
@@ -132,13 +132,16 @@
 - **เพิ่มดาเมจ** **+1d8 ต่อระดับ Slot ที่สูงขึ้น**
 - **โบนัสพิเศษ** **+1d8 เพิ่มอีก** ถ้าเป้าหมายเป็น **Fiend (ปีศาจ) หรือ Undead (อันเดด)**
 
-**ตารางดาเมจ Divine Smite:**
+**ดาเมจของ Divine Smite แยกตามระดับ Spell Slot ที่ใช้**
 
-- ระดับ 1 **2d8** (~9) **3d8** (~13.5)
-- ระดับ 2 **3d8** (~13.5) **4d8** (~18)
-- ระดับ 3 **4d8** (~18) **5d8** (~22.5)
-- ระดับ 4 **5d8** (~22.5) **6d8** (~27)
-- ระดับ 5 **6d8** (~27) **7d8** (~31.5)
+รายการข้างล่างบอกทีละระดับ Slot ว่าได้ดาเมจเท่าไหร่ ตัวเลขในวงเล็บคือค่าเฉลี่ย
+ค่าแรกคือดาเมจใส่เป้าหมายทั่วไป ค่าที่สองคือดาเมจใส่ Fiend (ปีศาจ) หรือ Undead (อันเดด) ซึ่งได้ 1d8 เพิ่ม
+
+- ใช้ Slot ระดับ 1 ได้ 2d8 เฉลี่ย 9 ส่วนใส่ปีศาจหรืออันเดดได้ 3d8 เฉลี่ย 13.5
+- ใช้ Slot ระดับ 2 ได้ 3d8 เฉลี่ย 13.5 ส่วนใส่ปีศาจหรืออันเดดได้ 4d8 เฉลี่ย 18
+- ใช้ Slot ระดับ 3 ได้ 4d8 เฉลี่ย 18 ส่วนใส่ปีศาจหรืออันเดดได้ 5d8 เฉลี่ย 22.5
+- ใช้ Slot ระดับ 4 ได้ 5d8 เฉลี่ย 22.5 ส่วนใส่ปีศาจหรืออันเดดได้ 6d8 เฉลี่ย 27
+- ใช้ Slot ระดับ 5 ได้ 6d8 เฉลี่ย 27 ส่วนใส่ปีศาจหรืออันเดดได้ 7d8 เฉลี่ย 31.5
 
 **จุดที่เปลี่ยนจากกฎเก่า (สำคัญมาก):**
 - **ใช้ Bonus Action** ไม่สามารถใช้ Smite หลายครั้งในเทิร์นเดียวได้อีกแล้ว (เมื่อก่อนทำได้)
@@ -184,9 +187,11 @@
 
 **ทำไมนี่คือ Feature ที่ทีมทุกทีมอยากได้:**
 
-- 16 (+3) **+3**
-- 18 (+4) **+4**
-- 20 (+5) **+5**
+รายการข้างล่างบอกว่า ถ้า CHA ของคุณสูงขึ้น ทั้งทีมจะได้โบนัส Saving Throw เท่าไหร่
+
+- CHA 16 ซึ่งให้ modifier +3 ทีมได้โบนัส Saving Throw **+3**
+- CHA 18 ซึ่งให้ modifier +4 ทีมได้โบนัส Saving Throw **+4**
+- CHA 20 ซึ่งให้ modifier +5 ทีมได้โบนัส Saving Throw **+5**
 
 **+5 ในทุก Saving Throw ของทุกคนในทีม** = ทีมแทบไม่โดนสเปลควบคุมของศัตรูเลย
 นี่คือเหตุผลที่ผู้เล่นหลายคน Multiclass **2 เลเวล Paladin** เพื่อเอา Smite หรือ **6-7 เลเวล** เพื่อเอา Aura นี้
@@ -248,11 +253,11 @@ Paladin มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **Oath Spells:**
 
-- 3 Protection from Evil and Good, Shield of Faith
-- 5 Aid, Zone of Truth
-- 9 Beacon of Hope, Dispel Magic
-- 13 Freedom of Movement, Guardian of Faith
-- 17 Commune, Flame Strike
+- เลเวล 3 ได้ Protection from Evil and Good, Shield of Faith
+- เลเวล 5 ได้ Aid, Zone of Truth
+- เลเวล 9 ได้ Beacon of Hope, Dispel Magic
+- เลเวล 13 ได้ Freedom of Movement, Guardian of Faith
+- เลเวล 17 ได้ Commune, Flame Strike
 
 **เลเวล 3 Sacred Weapon (Channel Divinity)**
 
@@ -287,15 +292,15 @@ Paladin มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **Oath Spells:**
 
-- 3 Guiding Bolt, Heroism
-- 5 Enhance Ability, Magic Weapon
-- 9 Haste, Protection from Energy
-- 13 Compulsion, Freedom of Movement
-- 17 Commune, Flame Strike
+- เลเวล 3 ได้ Guiding Bolt, Heroism
+- เลเวล 5 ได้ Enhance Ability, Magic Weapon
+- เลเวล 9 ได้ Haste, Protection from Energy
+- เลเวล 13 ได้ Compulsion, Freedom of Movement
+- เลเวล 17 ได้ Commune, Flame Strike
 
 **เลเวล 3 Peerless Athlete (Channel Divinity)**
 
-**Bonus Action:** **1 ชั่วโมง** **Advantage ใน Athletics และ Acrobatics Check** • **ยกของได้เป็น 2 เท่า** • **ระยะกระโดด +10 ฟุต**
+**Bonus Action:** **1 ชั่วโมง** **Advantage ใน Athletics และ Acrobatics Check**, **ยกของได้เป็น 2 เท่า** และ **ระยะกระโดด +10 ฟุต**
 
 **เลเวล 3 Inspiring Smite (Channel Divinity)**
 
@@ -303,7 +308,7 @@ Paladin มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **เลเวล 7 Aura of Alacrity**
 
-**Speed ของคุณ +10 ฟุต** [แนะนำ] • เพื่อนที่เริ่มเทิร์นในระยะ 10 ฟุตจากคุณ **ได้ Speed +10 ฟุต** จนจบเทิร์น
+**Speed ของคุณ +10 ฟุต** [แนะนำ] และ เพื่อนที่เริ่มเทิร์นในระยะ 10 ฟุตจากคุณ **ได้ Speed +10 ฟุต** จนจบเทิร์น
 
 **เลเวล 15 Glorious Defense**
 
@@ -327,11 +332,11 @@ Paladin มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **Oath Spells:**
 
-- 3 Ensnaring Strike, Speak with Animals
-- 5 Misty Step, Moonbeam
-- 9 Plant Growth, Protection from Energy
-- 13 Ice Storm, Stoneskin
-- 17 Commune with Nature, Tree Stride
+- เลเวล 3 ได้ Ensnaring Strike, Speak with Animals
+- เลเวล 5 ได้ Misty Step, Moonbeam
+- เลเวล 9 ได้ Plant Growth, Protection from Energy
+- เลเวล 13 ได้ Ice Storm, Stoneskin
+- เลเวล 17 ได้ Commune with Nature, Tree Stride
 
 **เลเวล 3 Nature's Wrath (Channel Divinity)**
 
@@ -343,7 +348,7 @@ Paladin มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **เลเวล 15 Undying Sentinel**
 
-**เมื่อ HP ลดเหลือ 0 แต่ไม่ตายทันที HP เหลือ 1 แทน** [แนะนำ] (ใช้ได้ 1 ครั้ง/Long Rest) • และคุณ **ไม่แก่ตัวลงอีกต่อไป**
+**เมื่อ HP ลดเหลือ 0 แต่ไม่ตายทันที HP เหลือ 1 แทน** [แนะนำ] (ใช้ได้ 1 ครั้ง/Long Rest) และ และคุณ **ไม่แก่ตัวลงอีกต่อไป**
 
 **เลเวล 20 Elder Champion**
 
@@ -363,11 +368,11 @@ Paladin มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **Oath Spells:**
 
-- 3 Bane, Hunter's Mark
-- 5 Hold Person, Misty Step
-- 9 Haste, Protection from Energy
-- 13 Banishment, Dimension Door
-- 17 Hold Monster, Scrying
+- เลเวล 3 ได้ Bane, Hunter's Mark
+- เลเวล 5 ได้ Hold Person, Misty Step
+- เลเวล 9 ได้ Haste, Protection from Energy
+- เลเวล 13 ได้ Banishment, Dimension Door
+- เลเวล 17 ได้ Hold Monster, Scrying
 
 **เลเวล 3 Vow of Enmity (Channel Divinity)**
 
@@ -431,14 +436,14 @@ Spell Save DC เท่ากับ 8 บวก Proficiency Bonus บวก CHA 
 
 ### Species ที่แนะนำ
 
-- **Aasimar** [แนะนำมาก] เข้าธีมสมบูรณ์แบบ + Celestial Revelation (บินได้/ทำ Frightened) + CHA สูง
-- **Human** [แนะนำ] Feat ฟรี
-- **Dragonborn** [แนะนำ] Breath Weapon แทนการโจมตีได้ + บินได้เลเวล 5
-- **Goliath** Speed 35 + Giant Ancestry
-- **Dwarf** +1 HP ทุกเลเวล
+- **ลูกหลานสวรรค์ (Aasimar)** [แนะนำมาก] เข้าธีมสมบูรณ์แบบ + Celestial Revelation (บินได้/ทำ Frightened) + CHA สูง
+- **มนุษย์ (Human)** [แนะนำ] Feat ฟรี
+- **คนมังกร (Dragonborn)** [แนะนำ] Breath Weapon แทนการโจมตีได้ + บินได้เลเวล 5
+- **ลูกหลานยักษ์ (Goliath)** Speed 35 + Giant Ancestry
+- **คนแคระ (Dwarf)** +1 HP ทุกเลเวล
 
 ### Background ที่แนะนำ
-**Noble** (STR/INT/CHA) [แนะนำมาก] (Background เดียวที่ให้ทั้ง STR และ CHA) • **Entertainer** (STR/DEX/CHA) • **INT/WIS/CHA เข้าธีม (Acolyte)**
+**Noble** (STR/INT/CHA) [แนะนำมาก] (Background เดียวที่ให้ทั้ง STR และ CHA), **Entertainer** (STR/DEX/CHA) และ **INT/WIS/CHA เข้าธีม (Acolyte)**
 
 ### Feat ที่แนะนำ (เลเวล 4+)
 

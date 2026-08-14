@@ -1,4 +1,4 @@
-# เผ่าพันธุ์ (ภาพรวมทั้ง 10 เผ่า) (Species)
+# เผ่าพันธุ์ (Species) ภาพรวมทั้ง 10 เผ่า
 
 [กลับสารบัญ](../README.md)
 
@@ -25,17 +25,17 @@
 
 ---
 
-## ตารางเปรียบเทียบทั้ง 10 เผ่า
+## รายการเปรียบเทียบทั้ง 10 เผ่า
 
-- **[ลูกหลานสวรรค์ (Aasimar)](aasimar.md)** Size Small/Medium, Speed 30, Darkvision 60 ft, จุดเด่นสั้น ๆ รักษาเพื่อนได้ • ต้าน Radiant+Necrotic • **ปีกบิน (เลเวล 3)**
-- **[คนมังกร (Dragonborn)](dragonborn.md)** Size Medium, Speed 30, Darkvision 60 ft, จุดเด่นสั้น ๆ **ลมหายใจธาตุ** • ต้านทานธาตุ • **บินได้ (เลเวล 5)**
-- **[คนแคระ (Dwarf)](dwarf.md)** Size Medium, Speed 30, Darkvision **120 ft**, จุดเด่นสั้น ๆ **+1 HP ทุกเลเวล** • ต้านพิษ • หากับดัก/โพรงลับผ่านหิน
-- **[เอลฟ์ (Elf)](elf.md)** Size Medium, Speed 30, Darkvision 60 ft, จุดเด่นสั้น ๆ ต้านการสะกดจิต • **เลือกสายได้ 3 แบบ (ได้สเปลฟรี)** • ไม่ต้องนอน
+- **[ลูกหลานสวรรค์ (Aasimar)](aasimar.md)** Size Small/Medium, Speed 30, Darkvision 60 ft, จุดเด่นสั้น ๆ รักษาเพื่อนได้, ต้าน Radiant+Necrotic และ **ปีกบิน (เลเวล 3)**
+- **[คนมังกร (Dragonborn)](dragonborn.md)** Size Medium, Speed 30, Darkvision 60 ft, จุดเด่นสั้น ๆ **ลมหายใจธาตุ**, ต้านทานธาตุ และ **บินได้ (เลเวล 5)**
+- **[คนแคระ (Dwarf)](dwarf.md)** Size Medium, Speed 30, Darkvision **120 ft**, จุดเด่นสั้น ๆ **+1 HP ทุกเลเวล**, ต้านพิษ และ หากับดัก/โพรงลับผ่านหิน
+- **[เอลฟ์ (Elf)](elf.md)** Size Medium, Speed 30, Darkvision 60 ft, จุดเด่นสั้น ๆ ต้านการสะกดจิต, **เลือกสายได้ 3 แบบ (ได้สเปลฟรี)** และ ไม่ต้องนอน
 - **[โนม (Gnome)](gnome.md)** Size **Small**, Speed 30, Darkvision 60 ft, จุดเด่นสั้น ๆ **Advantage ใน INT/WIS/CHA Save ทั้งหมด** ทรงพลังมาก
-- **[ลูกหลานยักษ์ (Goliath)](goliath.md)** Size Medium, Speed **35**, Darkvision ไม่, จุดเด่นสั้น ๆ **เลือกพลังยักษ์ 6 แบบ** • แบกของได้เยอะ • **ตัวใหญ่ขึ้น (เลเวล 5)**
-- **[ฮาล์ฟลิง (Halfling)](halfling.md)** Size **Small**, Speed 30, Darkvision ไม่, จุดเด่นสั้น ๆ **ทอย 1 ใหม่ได้ (Luck)** • ซ่อนหลังคนตัวใหญ่ • ต้านความกลัว
+- **[ลูกหลานยักษ์ (Goliath)](goliath.md)** Size Medium, Speed **35**, Darkvision ไม่, จุดเด่นสั้น ๆ **เลือกพลังยักษ์ 6 แบบ**, แบกของได้เยอะ และ **ตัวใหญ่ขึ้น (เลเวล 5)**
+- **[ฮาล์ฟลิง (Halfling)](halfling.md)** Size **Small**, Speed 30, Darkvision ไม่, จุดเด่นสั้น ๆ **ทอย 1 ใหม่ได้ (Luck)**, ซ่อนหลังคนตัวใหญ่ และ ต้านความกลัว
 - **[มนุษย์ (Human)](human.md)** Size Small/Medium, Speed 30, Darkvision ไม่, จุดเด่นสั้น ๆ **Origin Feat ฟรี 1 อัน** [แนะนำ] + สกิลฟรี + Heroic Inspiration ทุกวัน
-- **[ออร์ค (Orc)](orc.md)** Size Medium, Speed 30, Darkvision **120 ft**, จุดเด่นสั้น ๆ **ไม่ตายง่าย (Relentless Endurance)** • วิ่งฟรี + Temp HP
+- **[ออร์ค (Orc)](orc.md)** Size Medium, Speed 30, Darkvision **120 ft**, จุดเด่นสั้น ๆ **ไม่ตายง่าย (Relentless Endurance)** และ วิ่งฟรี + Temp HP
 - **[ลูกหลานปีศาจ (Tiefling)](tiefling.md)** Size Small/Medium, Speed 30, Darkvision 60 ft, จุดเด่นสั้น ๆ **เลือกสายมรดกปีศาจ 3 แบบ (ได้สเปลฟรี)**
 
 ---

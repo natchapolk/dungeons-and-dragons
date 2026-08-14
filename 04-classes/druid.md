@@ -36,7 +36,7 @@
 
 ---
 
-## ตารางความก้าวหน้าเลเวล 1-20
+## ความก้าวหน้าเลเวล 1 ถึง 20
 
 - **เลเวล 1** Proficiency Bonus +2, ได้ความสามารถ Spellcasting, Druidic, Primal Order [แนะนำ], รู้ Cantrip 2, เตรียมสเปลได้ 4, Spell Slot ระดับ 1 จำนวน 2 ช่อง
 - **เลเวล 2** Proficiency Bonus +2, ได้ความสามารถ Wild Shape [แนะนำมาก], Wild Companion, Wild Shape 2, รู้ Cantrip 2, เตรียมสเปลได้ 5, Spell Slot ระดับ 1 จำนวน 3 ช่อง
@@ -163,7 +163,7 @@
 - **Potent Spellcasting** **บวก WIS modifier ในดาเมจของ Cantrip ทุกอัน**
 - **Primal Strike** **1 ครั้ง/เทิร์น:** เมื่อคุณตีโดนด้วย **อาวุธ** หรือ **การโจมตีของร่างสัตว์ (Wild Shape)** เพิ่มดาเมจ **1d8** เป็น **Cold, Fire, Lightning, หรือ Thunder**
 
-**Circle of the Moon เลือก Primal Strike** • **Circle อื่น ๆ เลือก Potent Spellcasting**
+**Circle of the Moon เลือก Primal Strike** และ **Circle อื่น ๆ เลือก Potent Spellcasting**
 
 ---
 
@@ -205,11 +205,11 @@ Druid มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **�
 
 **เลเวล 3 Land's Aid**
 
-**ใช้ Wild Shape 1 ครั้ง:** [แนะนำ] เลือกจุดในระยะ 60 ฟุต ทรงกลม 10 ฟุต ศัตรูทอย **CON Save** ล้มเหลว = **2d6 Necrotic** (สำเร็จ = ครึ่ง) • **และเพื่อน 1 คนในพื้นที่ฟื้น 2d6 HP**
+**ใช้ Wild Shape 1 ครั้ง:** [แนะนำ] เลือกจุดในระยะ 60 ฟุต ทรงกลม 10 ฟุต ศัตรูทอย **CON Save** ล้มเหลว = **2d6 Necrotic** (สำเร็จ = ครึ่ง) และ **และเพื่อน 1 คนในพื้นที่ฟื้น 2d6 HP**
 
 **เลเวล 6 Natural Recovery**
 
-[แนะนำมาก] • **ร่ายสเปล Circle Spell 1 อันได้ฟรี** โดยไม่เสีย Slot (1 ครั้ง/Long Rest)
+[แนะนำมาก] และ **ร่ายสเปล Circle Spell 1 อันได้ฟรี** โดยไม่เสีย Slot (1 ครั้ง/Long Rest)
 - **หลัง Short Rest: ฟื้น Spell Slot รวมระดับไม่เกินครึ่งเลเวล Druid** (1 ครั้ง/Long Rest)
 
 **เลเวล 10 Nature's Ward**
@@ -220,12 +220,39 @@ Druid มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **�
 
 **ใช้ Wild Shape 1 ครั้ง:** [แนะนำมาก] สร้างพื้นที่ศักดิ์สิทธิ์รัศมี 15 ฟุต **1 นาที** คุณและเพื่อนในพื้นที่ได้ **Half Cover และ Resistance ต่อธาตุของภูมิประเทศ**
 
-**Circle Spells ตามภูมิประเทศ:**
+**Circle Spells ตามภูมิประเทศ**
 
-- 3 Burning Hands, Blur, Fire Bolt, Fireball Fog Cloud, Hold Person, Ray of Frost, Sleet Storm Misty Step, Shocking Grasp, Sleep, Lightning Bolt Acid Splash, Ray of Sickness, Web, Stinking Cloud
-- 5 Blight Ice Storm Freedom of Movement Polymorph
-- 7 Wall of Stone Cone of Cold Tree Stride Insect Plague
-- 9 Wall of Fire Wall of Ice Wall of Force (บางฉบับ) Wall of Thorns
+คุณเลือกภูมิประเทศ 1 แบบจาก 4 แบบ แล้วได้สเปลของภูมิประเทศนั้นเป็นสเปลที่เตรียมไว้เสมอ
+สเปลเหล่านี้ไม่นับโควตาการเตรียมสเปลปกติ และเปลี่ยนภูมิประเทศได้ทุกครั้งที่จบ Long Rest
+ข้างล่างแยกเป็นหัวข้อย่อยของแต่ละภูมิประเทศ แล้วบอกทีละเลเวลว่าได้สเปลอะไร
+
+**ภูมิประเทศแห้งแล้ง (Arid)** ธาตุประจำคือ Fire
+
+- เลเวล 3 ได้ Burning Hands, Blur, Fire Bolt และ Fireball
+- เลเวล 5 ได้ Blight
+- เลเวล 7 ได้ Wall of Stone
+- เลเวล 9 ได้ Wall of Fire
+
+**ภูมิประเทศขั้วโลก (Polar)** ธาตุประจำคือ Cold
+
+- เลเวล 3 ได้ Fog Cloud, Hold Person, Ray of Frost และ Sleet Storm
+- เลเวล 5 ได้ Ice Storm
+- เลเวล 7 ได้ Cone of Cold
+- เลเวล 9 ได้ Wall of Ice
+
+**ภูมิประเทศเขตอบอุ่น (Temperate)** ธาตุประจำคือ Lightning
+
+- เลเวล 3 ได้ Misty Step, Shocking Grasp, Sleep และ Lightning Bolt
+- เลเวล 5 ได้ Freedom of Movement
+- เลเวล 7 ได้ Tree Stride
+- เลเวล 9 ได้ Wall of Force ซึ่งบางฉบับระบุไม่ตรงกัน ให้เช็คกับหนังสือต้นฉบับ
+
+**ภูมิประเทศเขตร้อน (Tropical)** ธาตุประจำคือ Poison
+
+- เลเวล 3 ได้ Acid Splash, Ray of Sickness, Web และ Stinking Cloud
+- เลเวล 5 ได้ Polymorph
+- เลเวล 7 ได้ Insect Plague
+- เลเวล 9 ได้ Wall of Thorns
 
 **สายที่ยืดหยุ่นที่สุด** เปลี่ยนภูมิประเทศได้ทุกวันตามภารกิจ
 
@@ -248,7 +275,7 @@ Druid มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **�
 
 **เลเวล 6 Improved Circle Forms**
 
-[แนะนำ] • **การโจมตีของร่างสัตว์นับเป็น Magical**
+[แนะนำ] และ **การโจมตีของร่างสัตว์นับเป็น Magical**
 - **ใช้ WIS modifier แทนค่าของสัตว์ในการทอยโจมตีและดาเมจได้**
 
 **เลเวล 10 Moonlight Step**
@@ -257,7 +284,7 @@ Druid มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **�
 
 **เลเวล 14 Lunar Form**
 
-[แนะนำมาก] • **1 ครั้ง/เทิร์น:** การโจมตีในร่างสัตว์ **เพิ่มดาเมจ 2d10 Radiant**
+[แนะนำมาก] และ **1 ครั้ง/เทิร์น:** การโจมตีในร่างสัตว์ **เพิ่มดาเมจ 2d10 Radiant**
 - **เมื่อใช้ Moonlight Step พาเพื่อน 1 คนวาร์ปไปด้วยได้**
 
 **แนะนำสำหรับผู้เล่นที่อยากตี** เป็นสายที่แข็งแรงและเข้าใจง่ายที่สุดของ Druid
@@ -280,7 +307,7 @@ Druid มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **�
 
 **เลเวล 6 Aquatic Affinity**
 
-[แนะนำ] • **ระยะออร่าเพิ่มเป็น 10 ฟุต**
+[แนะนำ] และ **ระยะออร่าเพิ่มเป็น 10 ฟุต**
 - ได้ **Swim Speed เท่ากับ Speed**
 
 **เลเวล 10 Stormborn**
@@ -291,7 +318,7 @@ Druid มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **�
 
 **เลเวล 14 Oceanic Gift**
 
-**ให้ออร่าแก่เพื่อนแทนตัวเองได้** [แนะนำ] (เพื่อนใช้ Bonus Action สั่งงานเอง โดยใช้ WIS modifier ของคุณ) • และ**สร้างออร่าให้ทั้งคุณและเพื่อนพร้อมกันได้** ถ้าใช้ Wild Shape 2 ครั้ง
+**ให้ออร่าแก่เพื่อนแทนตัวเองได้** [แนะนำ] (เพื่อนใช้ Bonus Action สั่งงานเอง โดยใช้ WIS modifier ของคุณ) และ และ**สร้างออร่าให้ทั้งคุณและเพื่อนพร้อมกันได้** ถ้าใช้ Wild Shape 2 ครั้ง
 
 **สายที่ยืนกลางวงศัตรูแล้วดาเมจอัตโนมัติ** คล้าย Spirit Guardians แต่ผลักศัตรูได้ด้วย
 
@@ -303,7 +330,7 @@ Druid มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **�
 
 **เลเวล 3 Star Map**
 
-ได้ **แผนที่ดาว** (Spellcasting Focus) • ได้สเปล **Guidance** และ **Guiding Bolt** เตรียมไว้เสมอ • **ร่าย Guiding Bolt ฟรีได้ Prof Bonus ครั้ง/Long Rest**
+ได้ **แผนที่ดาว** (Spellcasting Focus), ได้สเปล **Guidance** และ **Guiding Bolt** เตรียมไว้เสมอ และ **ร่าย Guiding Bolt ฟรีได้ Prof Bonus ครั้ง/Long Rest**
 
 **เลเวล 3 Starry Form**
 
@@ -321,7 +348,7 @@ Druid มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **�
 
 **เลเวล 10 Twinkling Constellations**
 
-[แนะนำ] • **Archer และ Chalice เพิ่มดาเมจ/การรักษาเป็น 2d8**
+[แนะนำ] และ **Archer และ Chalice เพิ่มดาเมจ/การรักษาเป็น 2d8**
 - **Dragon ได้ Fly Speed 20 ฟุต (บินอยู่กับที่ได้)**
 - **เปลี่ยนกลุ่มดาวได้ทุกครั้งที่เริ่มเทิร์นของคุณ (ฟรี)**
 
@@ -379,14 +406,14 @@ Spell Save DC เท่ากับ 8 บวก Proficiency Bonus บวก WIS 
 
 ### Species ที่แนะนำ
 
-- **Elf (Wood)** [แนะนำมาก] เข้าธีมเต็ม + Speed 35 + Pass Without Trace ฟรี
-- **Dwarf** [แนะนำ] +1 HP ทุกเลเวล + Darkvision 120
-- **Human** [แนะนำ] Feat ฟรี
-- **Halfling** Luck (ทอย 1 ใหม่)
-- **Goliath** Speed 35 + ทน
+- **เอลฟ์ (Elf) สาย Wood** [แนะนำมาก] เข้าธีมเต็ม + Speed 35 + Pass Without Trace ฟรี
+- **คนแคระ (Dwarf)** [แนะนำ] +1 HP ทุกเลเวล + Darkvision 120
+- **มนุษย์ (Human)** [แนะนำ] Feat ฟรี
+- **ฮาล์ฟลิง (Halfling)** Luck (ทอย 1 ใหม่)
+- **ลูกหลานยักษ์ (Goliath)** Speed 35 + ทน
 
 ### Background ที่แนะนำ
-**Guide** (DEX/CON/WIS) [แนะนำมาก] ตรงเป๊ะ + ได้ Magic Initiate (Druid) • **Sage** (CON/INT/WIS) • **STR/CON/WIS ได้ Tough (Farmer)** • **Hermit** (CON/WIS/CHA)
+**Guide** (DEX/CON/WIS) [แนะนำมาก] ตรงเป๊ะ + ได้ Magic Initiate (Druid), **Sage** (CON/INT/WIS), **STR/CON/WIS ได้ Tough (Farmer)** และ **Hermit** (CON/WIS/CHA)
 
 ### Feat ที่แนะนำ (เลเวล 4+)
 

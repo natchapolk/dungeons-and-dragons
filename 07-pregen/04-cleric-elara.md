@@ -15,7 +15,7 @@
 
 ## ค่าที่ใช้บ่อยที่สุด (จดไว้ข้างตัว)
 
-- Cleric เลเวล 1, Aasimar, Acolyte
+- Cleric เลเวล 1, ลูกหลานสวรรค์ (Aasimar), Acolyte
 
 - HP 10 / 10 AC 17 Speed 30 ft
 - Initiative +1 Proficiency Bonus +2 Passive Perception 13
@@ -71,7 +71,7 @@
 ### Cantrip (ร่ายได้ไม่จำกัดครั้ง) 5 อัน
 
 - **Guidance** [แนะนำ] สัมผัสเพื่อน แล้ว เขาได้ **+1d4 ใน Ability Check 1 ครั้ง** (ใช้บ่อยที่สุดนอกการต่อสู้)
-- **Sacred Flame** ศัตรูในระยะ 60 ฟุตทอย **DEX Save DC 13** ล้มเหลว = **1d8 Radiant** • **ไม่สนที่กำบัง**
+- **Sacred Flame** ศัตรูในระยะ 60 ฟุตทอย **DEX Save DC 13** ล้มเหลว = **1d8 Radiant** และ **ไม่สนที่กำบัง**
 - **Spare the Dying** **Bonus Action:** ทำให้เพื่อนที่ HP 0 **Stable ทันที** (ระยะ 15 ฟุต)
 - **Toll the Dead** ศัตรูทอย **WIS Save DC 13** ล้มเหลว = **1d8 Necrotic** (**1d12** ถ้า HP ไม่เต็ม) จาก Magic Initiate
 - **Thaumaturgy** สร้างปรากฏการณ์เหนือธรรมชาติเล็ก ๆ (เสียงดัง ไฟกระพริบ พื้นสั่น) จาก Magic Initiate

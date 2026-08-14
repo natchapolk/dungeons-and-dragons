@@ -39,14 +39,14 @@
 - [05-combat.md](01-basics/05-combat.md) ลำดับการต่อสู้, Action/Bonus Action/Reaction, AC, HP
 - [06-conditions.md](01-basics/06-conditions.md) สภาวะผิดปกติ 15 แบบ + Exhaustion
 - [07-spellcasting-rules.md](01-basics/07-spellcasting-rules.md) กฎการร่ายเวททั้งหมด, Spell Slot, Concentration
-- [08-equipment.md](01-basics/08-equipment.md) อาวุธ, Weapon Mastery, ชุดเกราะ, ของใช้, เงิน
-- [09-rest-and-leveling.md](01-basics/09-rest-and-leveling.md) การพัก, การเลื่อนเลเวล, ตาราง XP
+- [08-equipment.md](01-basics/08-equipment.md) อาวุธ, ความชำนาญอาวุธ (Weapon Mastery) ครบทั้ง 8 แบบ พร้อมรายชื่ออาวุธของแต่ละแบบ, ชุดเกราะ, ของใช้, เงิน
+- [09-rest-and-leveling.md](01-basics/09-rest-and-leveling.md) การพัก, การเลื่อนเลเวล, รายการ XP
 - [10-adventuring.md](01-basics/10-adventuring.md) การเดินทาง, การซ่อน, สิ่งแวดล้อม, การเข้าสังคม
 - [11-multiclassing.md](01-basics/11-multiclassing.md) การเล่นหลายคลาส (Multiclassing) แบบละเอียด
 
 ### 02-species เผ่าพันธุ์
 
-- [00-species-overview.md](02-species/00-species-overview.md) **เริ่มที่นี่** ตารางเปรียบเทียบทั้ง 10 เผ่า
+- [00-species-overview.md](02-species/00-species-overview.md) **เริ่มที่นี่** รายการเปรียบเทียบทั้ง 10 เผ่า
 - [aasimar.md](02-species/aasimar.md) ลูกหลานสวรรค์ (Aasimar)
 - [dragonborn.md](02-species/dragonborn.md) คนมังกร (Dragonborn)
 - [dwarf.md](02-species/dwarf.md) คนแคระ (Dwarf)
@@ -97,7 +97,7 @@
 
 ### 07-pregen ตัวละครสำเร็จรูป (หยิบเล่นได้ทันที)
 
-- [00-pregen-overview.md](07-pregen/00-pregen-overview.md) **เริ่มที่นี่** ตารางเทียบ 8 ตัว และเลือกตัวไหนดี
+- [00-pregen-overview.md](07-pregen/00-pregen-overview.md) **เริ่มที่นี่** รายการเทียบ 8 ตัว และเลือกตัวไหนดี
 - [01-fighter-bran.md](07-pregen/01-fighter-bran.md) **Bran** นักรบผ่านศึก (Fighter / Human) AC 19
 - [02-barbarian-thokk.md](07-pregen/02-barbarian-thokk.md) **Thokk** ลูกหลานยักษ์ (Barbarian / Goliath) HP 16
 - [03-rogue-pip.md](07-pregen/03-rogue-pip.md) **Pip** หัวขโมยจอมโชคดี (Rogue / Halfling)
@@ -109,7 +109,7 @@
 
 ### 08-bestiary สมุดมอนสเตอร์ (Stat Block เต็ม)
 
-- [00-bestiary-overview.md](08-bestiary/00-bestiary-overview.md) วิธีอ่าน Stat Block + ตารางเลือกมอนสเตอร์
+- [00-bestiary-overview.md](08-bestiary/00-bestiary-overview.md) วิธีอ่าน Stat Block และรายการเลือกมอนสเตอร์
 - [01-tier-1.md](08-bestiary/01-tier-1.md) CR 0-3 สำหรับเลเวล 1-4 (17 ตัว)
 - [02-tier-2.md](08-bestiary/02-tier-2.md) CR 4-10 สำหรับเลเวล 5-10 (11 ตัว)
 - [03-tier-3-4.md](08-bestiary/03-tier-3-4.md) CR 11+ สำหรับเลเวล 11-20 (5 บอส พร้อม Legendary Action)
@@ -163,7 +163,7 @@
 - **ค่าพลังบวกเพิ่ม** กฎเก่า 2014 ได้จาก Race, กฎใหม่ 2024 **ได้จาก Background แทน**
 - **Background** กฎเก่า 2014 ให้แค่สกิลกับของ, กฎใหม่ 2024 **ให้ค่าพลัง + Origin Feat ด้วย**
 - **Subclass (สายย่อย)** กฎเก่า 2014 เลือกที่เลเวลต่างกันแต่ละคลาส, กฎใหม่ 2024 **ทุกคลาสเลือกที่เลเวล 3**
-- **อาวุธ** กฎเก่า 2014 ไม่มีลูกเล่นพิเศษ, กฎใหม่ 2024 **มี Weapon Mastery (ความชำนาญอาวุธ)**
+- **อาวุธ** กฎเก่า 2014 ไม่มีลูกเล่นพิเศษ, กฎใหม่ 2024 **มีความชำนาญอาวุธ (Weapon Mastery)**
 - **Inspiration** กฎเก่า 2014 Inspiration, กฎใหม่ 2024 **ทอยใหม่ได้เลย (Heroic Inspiration)**
 - **Exhaustion** กฎเก่า 2014 6 ระดับ ผลต่างกัน, กฎใหม่ 2024 **6 ระดับ ผลเหมือนกันหมด (-2 ทุกการทอย d20, -5 ความเร็ว)**
 - **Surprise (จู่โจม)** กฎเก่า 2014 มีรอบจู่โจมพิเศษ, กฎใหม่ 2024 **ไม่มีรอบพิเศษ แต่ทอย Initiative แบบ Disadvantage**

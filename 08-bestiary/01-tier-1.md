@@ -4,7 +4,7 @@
 
 ---
 
-## Kobold Warrior โคบอลด์นักรบ
+## โคบอลด์นักรบ (Kobold Warrior)
 
 **CR 1/8, XP 25, Small Dragon**
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Bandit โจร
+## โจร (Bandit)
 
 **CR 1/8, XP 25, Medium Humanoid**
 
@@ -61,7 +61,7 @@
 
 ---
 
-## Goblin Warrior ก็อบลินนักรบ
+## ก็อบลินนักรบ (Goblin Warrior)
 
 **CR 1/4, XP 50, Small Fey**
 
@@ -93,7 +93,7 @@
 
 ---
 
-## Skeleton โครงกระดูก
+## โครงกระดูก (Skeleton)
 
 **CR 1/4, XP 50, Medium Undead**
 
@@ -123,7 +123,7 @@
 
 ---
 
-## Zombie ซอมบี้
+## ซอมบี้ (Zombie)
 
 **CR 1/4, XP 50, Medium Undead**
 
@@ -154,7 +154,7 @@
 
 ---
 
-## Wolf หมาป่า
+## หมาป่า (Wolf)
 
 **CR 1/4, XP 50, Medium Beast**
 
@@ -185,7 +185,7 @@
 
 ---
 
-## Orc Warrior ออร์คนักรบ
+## ออร์คนักรบ (Orc Warrior)
 
 **CR 1/2, XP 100, Medium Humanoid**
 
@@ -216,7 +216,7 @@
 
 ---
 
-## Hobgoblin Warrior ฮอบก็อบลินนักรบ
+## ฮอบก็อบลินนักรบ (Hobgoblin Warrior)
 
 **CR 1/2, XP 100, Medium Fey**
 
@@ -247,7 +247,7 @@
 
 ---
 
-## Bugbear Warrior บักแบร์นักรบ
+## บักแบร์นักรบ (Bugbear Warrior)
 
 **CR 1, XP 200, Medium Fey**
 
@@ -279,7 +279,7 @@
 
 ---
 
-## Dire Wolf หมาป่ายักษ์
+## หมาป่ายักษ์ (Dire Wolf)
 
 **CR 1, XP 200, Large Beast**
 
@@ -309,7 +309,7 @@
 
 ---
 
-## Giant Spider แมงมุมยักษ์
+## แมงมุมยักษ์ (Giant Spider)
 
 **CR 1, XP 200, Large Beast**
 
@@ -344,7 +344,7 @@
 
 ---
 
-## Ghoul กูล
+## กูล (Ghoul)
 
 **CR 1, XP 200, Medium Undead**
 
@@ -366,7 +366,7 @@
 ### Actions
 - **Bite** โจมตี **+2**, ระยะ 5 ฟุต **9 (2d6+2)** Piercing
 - **Claws** [แนะนำ] โจมตี **+4**, ระยะ 5 ฟุต **7 (2d4+2)** Slashing
- ถ้าเป้าหมายไม่ใช่ Elf หรือ Undead ให้ทอย **CON Save DC 10**
+ ถ้าเป้าหมายไม่ใช่ เอลฟ์ (Elf) หรือ Undead ให้ทอย **CON Save DC 10**
  **ล้มเหลว = Paralyzed 1 นาที** (ทอยใหม่ได้ทุกจบเทิร์นของมัน)
 
 **วิธีใช้:** **อันตรายกว่าที่ CR บอกมาก** ตัวละครที่ Paralyzed จะโดนตีคริติคอลทุกครั้ง
@@ -374,7 +374,7 @@
 
 ---
 
-## Ogre โอเกอร์
+## โอเกอร์ (Ogre)
 
 **CR 2, XP 450, Large Giant**
 
@@ -402,7 +402,7 @@
 
 ---
 
-## Bandit Captain หัวหน้าโจร
+## หัวหน้าโจร (Bandit Captain)
 
 **CR 2, XP 450, Medium Humanoid**
 
@@ -435,7 +435,7 @@
 
 ---
 
-## Cult Fanatic สาวกคลั่ง
+## สาวกคลั่ง (Cult Fanatic)
 
 **CR 2, XP 450, Medium Humanoid**
 
@@ -473,7 +473,7 @@
 
 ---
 
-## Owlbear นกฮูกหมี
+## นกฮูกหมี (Owlbear)
 
 **CR 3, XP 700, Large Monstrosity**
 
@@ -505,7 +505,7 @@
 
 ---
 
-## Wight ไวท์
+## ไวท์ (Wight)
 
 **CR 3, XP 700, Medium Undead**
 
