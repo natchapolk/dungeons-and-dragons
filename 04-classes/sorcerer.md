@@ -361,7 +361,7 @@ Spell Save DC เท่ากับ 8 บวก Proficiency Bonus บวก CHA 
 
 ### Species ที่แนะนำ
 
-- **คนมังกร (Dragonborn)** [แนะนำ] เข้าธีมสายเลือดมังกรสมบูรณ์แบบ + Breath Weapon
+- **ดรากอนบอร์น (Dragonborn)** [แนะนำ] เข้าธีมสายเลือดมังกรสมบูรณ์แบบ + Breath Weapon
 - **ลูกหลานปีศาจ (Tiefling)** [แนะนำมาก] สเปลฟรี + Resistance ธาตุ + เข้าธีม
 - **คนแคระ (Dwarf)** [แนะนำมาก] +1 HP ทุกเลเวล (แก้ปัญหา d6)
 - **Gnome** [แนะนำ] Advantage ใน INT/WIS/CHA Save

@@ -404,7 +404,7 @@ Barbarian มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่
 - **ออร์ค (Orc)** [แนะนำมาก] Relentless Endurance + Adrenaline Rush = ทนสุด ๆ
 - **คนแคระ (Dwarf)** [แนะนำ] +1 HP ทุกเลเวล + ต้านพิษ
 - **มนุษย์ (Human)** Feat ฟรี (Tough = +2 HP/เลเวล)
-- **คนมังกร (Dragonborn)** Breath Weapon ใช้แทนการโจมตีได้
+- **ดรากอนบอร์น (Dragonborn)** Breath Weapon ใช้แทนการโจมตีได้
 
 ### Background ที่แนะนำ
 **Soldier** (STR/DEX/CON) [แนะนำ], **STR/CON/WIS ได้ Tough (Farmer)** และ **Guard** (STR/INT/WIS)

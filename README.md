@@ -48,7 +48,7 @@
 
 - [ภาพรวมเผ่าพันธุ์](02-species/00-species-overview.md) เริ่มที่นี่ รายการเปรียบเทียบทั้ง 10 เผ่า
 - [ลูกหลานสวรรค์ (Aasimar)](02-species/aasimar.md)
-- [คนมังกร (Dragonborn)](02-species/dragonborn.md)
+- [ดรากอนบอร์น (Dragonborn)](02-species/dragonborn.md)
 - [คนแคระ (Dwarf)](02-species/dwarf.md)
 - [เอลฟ์ (Elf)](02-species/elf.md)
 - [โนม (Gnome)](02-species/gnome.md)

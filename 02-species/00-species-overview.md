@@ -28,7 +28,7 @@ Species ไม่ให้ค่า Ability Score เพิ่มอีกต่
 ## รายการเปรียบเทียบทั้ง 10 เผ่า
 
 - **[ลูกหลานสวรรค์ (Aasimar)](aasimar.md)** Size Small/Medium, Speed 30, Darkvision 60 ft, จุดเด่นสั้น ๆ รักษาเพื่อนได้, ต้าน Radiant+Necrotic และ ปีกบิน (เลเวล 3)
-- **[คนมังกร (Dragonborn)](dragonborn.md)** Size Medium, Speed 30, Darkvision 60 ft, จุดเด่นสั้น ๆ ลมหายใจธาตุ, ต้านทานธาตุ และ บินได้ (เลเวล 5)
+- **[ดรากอนบอร์น (Dragonborn)](dragonborn.md)** Size Medium, Speed 30, Darkvision 60 ft, จุดเด่นสั้น ๆ ลมหายใจธาตุ, ต้านทานธาตุ และ บินได้ (เลเวล 5)
 - **[คนแคระ (Dwarf)](dwarf.md)** Size Medium, Speed 30, Darkvision 120 ft, จุดเด่นสั้น ๆ +1 HP ทุกเลเวล, ต้านพิษ และ หากับดัก/โพรงลับผ่านหิน
 - **[เอลฟ์ (Elf)](elf.md)** Size Medium, Speed 30, Darkvision 60 ft, จุดเด่นสั้น ๆ ต้านการสะกดจิต, เลือกสายได้ 3 แบบ (ได้สเปลฟรี) และ ไม่ต้องนอน
 - **[โนม (Gnome)](gnome.md)** Size **Small**, Speed 30, Darkvision 60 ft, จุดเด่นสั้น ๆ Advantage ใน INT/WIS/CHA Save ทั้งหมด ทรงพลังมาก
@@ -45,7 +45,7 @@ Species ไม่ให้ค่า Ability Score เพิ่มอีกต่
 - อันดับ 1 คือ **มนุษย์ (Human)** เหตุผล ได้ Origin Feat ฟรี จึงแรงที่สุดในทางตัวเลข และจำง่ายที่สุด
 - อันดับ 2 คือ **คนแคระ (Dwarf)** เหตุผล ได้ 1 HP เพิ่มทุกเลเวล ทำให้อึดมาก และมี Darkvision 120 ฟุต
 - อันดับ 3 คือ **โนม (Gnome)** เหตุผล ได้ Advantage ใน INT, WIS และ CHA Save ป้องกันสภาวะอันตรายได้เยอะที่สุด
-- อันดับ 4 คือ **คนมังกร (Dragonborn)** เหตุผล เท่ มีลมหายใจธาตุ และเข้าใจง่าย
+- อันดับ 4 คือ **ดรากอนบอร์น (Dragonborn)** เหตุผล เท่ มีลมหายใจธาตุ และเข้าใจง่าย
 - อันดับ 5 คือ **ออร์ค (Orc)** เหตุผล ทนที่สุด เหมาะกับสายยืนหน้า
 
 ---
@@ -124,7 +124,7 @@ Species ไม่ให้ค่า Ability Score เพิ่มอีกต่
 ## อ่านไฟล์แต่ละเผ่า
 
 - [ลูกหลานสวรรค์ (Aasimar)](aasimar.md)
-- [คนมังกร (Dragonborn)](dragonborn.md)
+- [ดรากอนบอร์น (Dragonborn)](dragonborn.md)
 - [คนแคระ (Dwarf)](dwarf.md)
 - [เอลฟ์ (Elf)](elf.md)
 - [โนม (Gnome)](gnome.md)

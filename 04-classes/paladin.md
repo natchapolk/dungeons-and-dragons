@@ -438,7 +438,7 @@ Spell Save DC เท่ากับ 8 บวก Proficiency Bonus บวก CHA 
 
 - **ลูกหลานสวรรค์ (Aasimar)** [แนะนำมาก] เข้าธีมสมบูรณ์แบบ + Celestial Revelation (บินได้/ทำ Frightened) + CHA สูง
 - **มนุษย์ (Human)** [แนะนำ] Feat ฟรี
-- **คนมังกร (Dragonborn)** [แนะนำ] Breath Weapon แทนการโจมตีได้ + บินได้เลเวล 5
+- **ดรากอนบอร์น (Dragonborn)** [แนะนำ] Breath Weapon แทนการโจมตีได้ + บินได้เลเวล 5
 - **ลูกหลานยักษ์ (Goliath)** Speed 35 + Giant Ancestry
 - **คนแคระ (Dwarf)** +1 HP ทุกเลเวล
 
