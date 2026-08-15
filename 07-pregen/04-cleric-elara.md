@@ -8,8 +8,8 @@
 
 **Elara Dawnmere** เกิดมาพร้อมดวงตาที่เรืองแสงอ่อน ๆ ในความมืด วิหารรับเธอไว้ตั้งแต่ยังเป็นทารกและเลี้ยงดูเธอในฐานะ "ผู้ถูกเลือก" เธอไม่เคยแน่ใจว่าเชื่อในสิ่งนั้นหรือไม่ แต่เธอเชื่อในคนที่เธอช่วยได้ และนั่นก็เพียงพอแล้วสำหรับตอนนี้
 
-**แนะนำสำหรับคนที่อยากลองใช้เวทแต่กลัวเลือกผิด** Cleric **เตรียมเวทใหม่ได้ทุกวัน** ถ้าเลือกไม่ดีวันนี้ พรุ่งนี้เปลี่ยนได้หมด
-และเป็นตัวเดียวที่ทั้ง **รักษาเพื่อน** และ **ยืนแนวหน้าได้** (AC 17)
+แนะนำสำหรับคนที่อยากลองใช้เวทแต่กลัวเลือกผิด Cleric เตรียมเวทใหม่ได้ทุกวัน ถ้าเลือกไม่ดีวันนี้ พรุ่งนี้เปลี่ยนได้หมด
+และเป็นตัวเดียวที่ทั้ง รักษาเพื่อน และ ยืนแนวหน้าได้ (AC 17)
 
 ---
 
@@ -33,16 +33,14 @@
 
 ## ค่าพลัง (Ability Scores)
 
-ตารางข้างล่างมี 4 คอลัมน์ คือ ค่า, คะแนน, Modifier และ Saving Throw
+รายการข้างล่างเรียงค่าตามลำดับ คือ ค่า, คะแนน, Modifier และ Saving Throw
 
-| ค่า | คะแนน | Modifier | Saving Throw |
-|---|---|---|---|
-| **STR** | 10 | 0 | 0 |
-| **DEX** | 12 | +1 | +1 |
-| **CON** | **14** | **+2** | +2 |
-| **INT** | 8 | −1 | −1 |
-| **WIS** | **17** | **+3** | **+5** (ถนัด) |
-| **CHA** | **14** | **+2** | **+4** (ถนัด) |
+- STR มีคะแนน 10 Modifier 0 และ Saving Throw 0
+- DEX มีคะแนน 12 Modifier +1 และ Saving Throw +1
+- CON มีคะแนน 14 Modifier +2 และ Saving Throw +2
+- INT มีคะแนน 8 Modifier -1 และ Saving Throw -1
+- WIS มีคะแนน 17 Modifier +3 และ Saving Throw +5 ซึ่งเป็นค่าที่ถนัด
+- CHA มีคะแนน 14 Modifier +2 และ Saving Throw +4 ซึ่งเป็นค่าที่ถนัด
 
 **ที่มา:** Standard Array + Acolyte แบบ A (WIS +2, CON +1)
 
@@ -50,16 +48,14 @@
 
 ## ทักษะ (Skills)
 
-ตารางข้างล่างมี 3 คอลัมน์ คือ ทักษะ, ค่า และ มาจาก
+รายการข้างล่างเรียงค่าตามลำดับ คือ ทักษะ, ค่า และ มาจาก
 
-| ทักษะ | ค่า | มาจาก |
-|---|---|---|
-| **Insight** | **+5** | Acolyte |
-| **Medicine** | **+5** | Cleric |
-| **Persuasion** | **+4** | Cleric |
-| **Religion** | **+1** | Acolyte |
+- Insight ค่า +5 มาจาก Acolyte
+- Medicine ค่า +5 มาจาก Cleric
+- Persuasion ค่า +4 มาจาก Cleric
+- Religion ค่า +1 มาจาก Acolyte
 
-**Tool:** Calligrapher's Supplies **+2**
+**Tool:** Calligrapher's Supplies +2
 
 ---
 
@@ -70,21 +66,21 @@
 
 ### Cantrip (ร่ายได้ไม่จำกัดครั้ง) 5 อัน
 
-- **Guidance** [แนะนำ] สัมผัสเพื่อน แล้ว เขาได้ **+1d4 ใน Ability Check 1 ครั้ง** (ใช้บ่อยที่สุดนอกการต่อสู้)
-- **Sacred Flame** ศัตรูในระยะ 60 ฟุตทอย **DEX Save DC 13** ล้มเหลว = **1d8 Radiant** และ **ไม่สนที่กำบัง**
-- **Spare the Dying** **Bonus Action:** ทำให้เพื่อนที่ HP 0 **Stable ทันที** (ระยะ 15 ฟุต)
-- **Toll the Dead** ศัตรูทอย **WIS Save DC 13** ล้มเหลว = **1d8 Necrotic** (**1d12** ถ้า HP ไม่เต็ม) จาก Magic Initiate
+- **Guidance** [แนะนำ] สัมผัสเพื่อน แล้ว เขาได้ +1d4 ใน Ability Check 1 ครั้ง (ใช้บ่อยที่สุดนอกการต่อสู้)
+- **Sacred Flame** ศัตรูในระยะ 60 ฟุตทอย **DEX Save DC 13** ล้มเหลว = 1d8 Radiant และ ไม่สนที่กำบัง
+- **Spare the Dying** **Bonus Action:** ทำให้เพื่อนที่ HP 0 Stable ทันที (ระยะ 15 ฟุต)
+- **Toll the Dead** ศัตรูทอย **WIS Save DC 13** ล้มเหลว = 1d8 Necrotic (1d12 ถ้า HP ไม่เต็ม) จาก Magic Initiate
 - **Thaumaturgy** สร้างปรากฏการณ์เหนือธรรมชาติเล็ก ๆ (เสียงดัง ไฟกระพริบ พื้นสั่น) จาก Magic Initiate
 - **Light** วัตถุเปล่งแสง 20 ฟุต จาก Aasimar
 
 ### สเปลระดับ 1 ที่เตรียมไว้ (4 อัน) Spell Slot 2 ช่อง
 
-- **Healing Word [แนะนำ]** ใช้ Action **Bonus Action**, ทำอะไร ระยะ 60 ฟุต ฟื้น **2d4 + 3** HP **ช่วยเพื่อนที่ล้มลงได้จากไกล และยังตีได้ในเทิร์นเดียวกัน**
-- **Bless [แนะนำ]** ใช้ Action Action (Concentration), ทำอะไร เพื่อน 3 คนได้ **+1d4 ในการทอยโจมตีและ Saving Throw** นาน 1 นาที
-- **Guiding Bolt** ใช้ Action Action, ทำอะไร Spell Attack +5 จะ **4d6 Radiant** + **คนต่อไปที่ตีมันได้ Advantage**
-- **Cure Wounds** ใช้ Action Action, ทำอะไร สัมผัส แล้ว ฟื้น **2d8 + 3** HP (รักษาเยอะกว่า Healing Word แต่ต้องเข้าไปติด)
+- **Healing Word [แนะนำ]** ใช้ Action **Bonus Action**, ทำอะไร ระยะ 60 ฟุต ฟื้น 2d4 + 3 HP ช่วยเพื่อนที่ล้มลงได้จากไกล และยังตีได้ในเทิร์นเดียวกัน
+- **Bless [แนะนำ]** ใช้ Action Action (Concentration), ทำอะไร เพื่อน 3 คนได้ +1d4 ในการทอยโจมตีและ Saving Throw นาน 1 นาที
+- **Guiding Bolt** ใช้ Action Action, ทำอะไร Spell Attack +5 จะ 4d6 Radiant + คนต่อไปที่ตีมันได้ Advantage
+- **Cure Wounds** ใช้ Action Action, ทำอะไร สัมผัส แล้ว ฟื้น 2d8 + 3 HP (รักษาเยอะกว่า Healing Word แต่ต้องเข้าไปติด)
 
-**เตรียมเวทใหม่ได้ทุกครั้งที่จบ Long Rest** เลือกจากรายการ Cleric ทั้งหมด ไม่จำกัดแค่ 4 อันนี้
+เตรียมเวทใหม่ได้ทุกครั้งที่จบ Long Rest เลือกจากรายการ Cleric ทั้งหมด ไม่จำกัดแค่ 4 อันนี้
 
 **สเปลฟรีจาก Magic Initiate:** ร่าย **Healing Word** ได้ฟรี 1 ครั้งต่อ Long Rest โดยไม่เสีย Spell Slot
 
@@ -94,12 +90,12 @@
 
 ### จากคลาส Cleric
 
-- **Divine Order: Protector** ได้ Proficiency ใน **Martial Weapons และ Heavy Armor** (ทำให้ยืนแนวหน้าได้)
+- **Divine Order: Protector** ได้ Proficiency ใน Martial Weapons และ Heavy Armor (ทำให้ยืนแนวหน้าได้)
 
 ### จากเผ่าพันธุ์ Aasimar
 
-- **Healing Hands** [แนะนำ] **Action:** สัมผัสใครก็ได้ แล้ว ฟื้น **2d4** HP ใช้ได้ **1 ครั้งต่อ Long Rest** (ฟรี ไม่เสีย Spell Slot)
-- **Celestial Resistance** **Resistance ต่อ Necrotic และ Radiant damage** (รับดาเมจครึ่งเดียว)
+- **Healing Hands** [แนะนำ] **Action:** สัมผัสใครก็ได้ แล้ว ฟื้น 2d4 HP ใช้ได้ 1 ครั้งต่อ Long Rest (ฟรี ไม่เสีย Spell Slot)
+- **Celestial Resistance** Resistance ต่อ Necrotic และ Radiant damage (รับดาเมจครึ่งเดียว)
 - **Darkvision 60 ฟุต** มองเห็นในความมืด
 - **Light Bearer** ได้ Cantrip Light
 
@@ -116,9 +112,9 @@
 - **Mace** 1d6 Bludgeoning
 - **Holy Symbol** ใช้เป็น Spellcasting Focus
 - **Priest's Pack** เป้ ผ้าห่ม เทียน กล่องธูป เครื่องหอม จีวร เสบียง 2 วัน
-- **เงิน** **7 GP**
+- **เงิน** 7 GP
 
-**AC 17 = Scale Mail 14 + DEX 1 (จำกัดที่ 2) + Shield 2**
+AC 17 = Scale Mail 14 + DEX 1 (จำกัดที่ 2) + Shield 2
 
 ---
 
@@ -157,13 +153,13 @@
 
 ## เมื่อขึ้นเลเวล 2-3 ทำอะไรต่อ
 
-- **2** ได้อะไร **Channel Divinity** (2 ครั้ง) **Divine Spark** (รักษาหรือทำดาเมจ 1d8) และ **Turn Undead**, ควรเลือก ได้อัตโนมัติ **Turn Undead ทรงพลังมากถ้าเจอ Zombie หรือ Skeleton**
+- **2** ได้อะไร **Channel Divinity** (2 ครั้ง) **Divine Spark** (รักษาหรือทำดาเมจ 1d8) และ **Turn Undead**, ควรเลือก ได้อัตโนมัติ Turn Undead ทรงพลังมากถ้าเจอ Zombie หรือ Skeleton
 - **3** ได้อะไร เลือก **Subclass** + ได้ Spell Slot ระดับ 2, ควรเลือก เลือก **Life Domain** (รักษาแรงที่สุด + ได้ Aid และ Lesser Restoration เตรียมไว้เสมอ)
-- **4** ได้อะไร **ASI หรือ Feat** + Cantrip เพิ่ม 1 อัน, ควรเลือก **เพิ่ม WIS +2** ให้เป็น 19 (เพิ่มทั้ง Spell Save DC และการรักษา)
+- **4** ได้อะไร ASI หรือ Feat + Cantrip เพิ่ม 1 อัน, ควรเลือก เพิ่ม WIS +2 ให้เป็น 19 (เพิ่มทั้ง Spell Save DC และการรักษา)
 
-**HP ที่เพิ่มต่อเลเวล:** +5 (ค่าคงที่) + CON 2 = **+7 ต่อเลเวล**
+**HP ที่เพิ่มต่อเลเวล:** +5 (ค่าคงที่) + CON 2 = +7 ต่อเลเวล
 
-**สเปลระดับ 2 ที่ควรเตรียมเมื่อถึงเลเวล 3:** Spiritual Weapon (ดาเมจฟรีทุกเทิร์น), Aid (HP สูงสุด +5 ให้ 3 คน), Lesser Restoration
+สเปลระดับ 2 ที่ควรเตรียมเมื่อถึงเลเวล 3: Spiritual Weapon (ดาเมจฟรีทุกเทิร์น), Aid (HP สูงสุด +5 ให้ 3 คน), Lesser Restoration
 
 ---
 
@@ -180,7 +176,7 @@
 
 ## สรุป Elara ในหนึ่งบรรทัด
 
-**รักษาเพื่อนจากระยะ 60 ฟุตด้วย Bonus Action ยืนแนวหน้าได้ด้วย AC 17 และเปลี่ยนสเปลใหม่ได้ทุกวัน คลาสสายเวทที่ผิดพลาดได้**
+รักษาเพื่อนจากระยะ 60 ฟุตด้วย Bonus Action ยืนแนวหน้าได้ด้วย AC 17 และเปลี่ยนสเปลใหม่ได้ทุกวัน คลาสสายเวทที่ผิดพลาดได้
 
 ---
 

@@ -8,28 +8,28 @@
 
 **พาลาดิน / อัศวินศักดิ์สิทธิ์ (Paladin)** คือนักรบผู้สาบานตนต่ออุดมการณ์ พลังของพวกเขามาจาก **คำสาบาน (Oath)** ไม่ใช่จากเทพเจ้าโดยตรง พวกเขาตีแรง ทนมาก รักษาเพื่อนได้ และมี **ออร่า (Aura)** ที่บัฟทั้งทีม
 
-**Paladin คือคลาสที่ "ทำได้ทุกอย่าง"** แนวหน้า + ดาเมจ + รักษา + บัฟทีม แต่ต้องดัน 3 ค่าพลัง (STR, CHA, CON)
+Paladin คือคลาสที่ "ทำได้ทุกอย่าง" แนวหน้า + ดาเมจ + รักษา + บัฟทีม แต่ต้องดัน 3 ค่าพลัง (STR, CHA, CON)
 
 ---
 
 ## ข้อมูลพื้นฐาน (Class Table)
 
 - **Primary Ability** **Strength (STR)** และ **Charisma (CHA)**
-- **Hit Die** **d10**
-- **HP เลเวล 1** **10 + CON modifier**
-- **HP เลเวลถัดไป** **1d10 + CON** (หรือค่าคงที่ **6 + CON**)
+- **Hit Die** d10
+- **HP เลเวล 1** 10 + CON modifier
+- **HP เลเวลถัดไป** 1d10 + CON (หรือค่าคงที่ 6 + CON)
 - **Saving Throw Proficiency** **Wisdom, Charisma**
 - **Armor Proficiency** **ครบทุกอย่าง (Light, Medium, Heavy Armor + Shield)**
 - **Weapon Proficiency** Simple Weapons, **Martial Weapons**
-- **Skill Proficiency** เลือก **2** จาก: **Athletics, Insight, Intimidation, Medicine, Persuasion, Religion**
-- **Weapon Mastery** **2 ชนิด**
+- **Skill Proficiency** เลือก 2 จาก: **Athletics, Insight, Intimidation, Medicine, Persuasion, Religion**
+- **Weapon Mastery** 2 ชนิด
 - **Spellcasting Ability** **Charisma (CHA)**
-- **Subclass (Sacred Oath)** เลือกที่ **เลเวล 3**
+- **Subclass (Sacred Oath)** เลือกที่ เลเวล 3
 
 ### อุปกรณ์เริ่มต้น
 
-**เลือก A:** Chain Mail, Shield, Longsword, Javelin 6 อัน, Holy Symbol, Priest's Pack, **9 GP**
-**เลือก B:** **150 GP** ไปซื้อเอง
+**เลือก A:** Chain Mail, Shield, Longsword, Javelin 6 อัน, Holy Symbol, Priest's Pack, 9 GP
+**เลือก B:** 150 GP ไปซื้อเอง
 
 ---
 
@@ -70,16 +70,16 @@
 
 **Bonus Action:** สัมผัสสิ่งมีชีวิต ดึง HP จากคลังมาฟื้นให้เท่าไหร่ก็ได้
 
-**หรือ:** ใช้ **5 HP จากคลัง** เพื่อ **ลบสภาวะ Poisoned** ออกจากเป้าหมาย
+**หรือ:** ใช้ 5 HP จากคลัง เพื่อ ลบสภาวะ Poisoned ออกจากเป้าหมาย
 
 **ฟื้นคลัง:** Long Rest
 
 - เลเวล 1 คลังพลังรักษามี 5 HP
 - เลเวล 5 คลังพลังรักษามี 25 HP
 - เลเวล 10 คลังพลังรักษามี 50 HP
-- เลเวล 20 คลังพลังรักษามี **100 HP**
+- เลเวล 20 คลังพลังรักษามี 100 HP
 
-**Lay On Hands ไม่ฟื้นสภาวะอื่นนอกจาก Poisoned** และไม่ให้ Temp HP
+Lay On Hands ไม่ฟื้นสภาวะอื่นนอกจาก Poisoned และไม่ให้ Temp HP
 
 ---
 
@@ -88,14 +88,14 @@
 - ใช้ **Charisma** เป็นค่าร่ายเวท
 - **Spell Save DC = 8 + CHA modifier + Proficiency Bonus**
 - **Spell Attack = CHA modifier + Proficiency Bonus**
-- **เตรียมสเปลใหม่ได้ทุกครั้งที่จบ Long Rest** (เลือกจากรายการ Paladin ทั้งหมด)
+- เตรียมสเปลใหม่ได้ทุกครั้งที่จบ Long Rest (เลือกจากรายการ Paladin ทั้งหมด)
 - **Spellcasting Focus:** **ติดบนโล่ได้! (Holy Symbol)**
 
 ---
 
 ### เลเวล 1 Weapon Mastery
 
-เลือกอาวุธ **2 ชนิด** ปลดล็อก Mastery Property
+เลือกอาวุธ 2 ชนิด ปลดล็อก Mastery Property
 
 ** แนะนำ:** **Longsword (Sap)** + **Javelin (Slow)** สำหรับสายดาบ+โล่
 หรือ **Greatsword (Graze)** + **Maul (Topple)** สำหรับสาย 2 มือ
@@ -104,7 +104,7 @@
 
 ### เลเวล 2 Fighting Style
 
-ได้ **Fighting Style Feat 1 อัน**
+ได้ Fighting Style Feat 1 อัน
 
 ** แนะนำสำหรับ Paladin:**
 
@@ -112,27 +112,27 @@
 - **+2 ดาเมจ (Dueling)** [แนะนำ] สายดาบ+โล่
 - **Great Weapon Fighting** สายอาวุธ 2 มือ
 - **Protection** สายปกป้องเพื่อน (Reaction ทำให้ศัตรูที่ตีเพื่อนเสียเปรียบ)
-- **Blessed Warrior** [แนะนำ] **ได้ Cantrip จากรายการ Cleric 2 อัน** แก้ปัญหาที่ Paladin ไม่มี Cantrip
+- **Blessed Warrior** [แนะนำ] ได้ Cantrip จากรายการ Cleric 2 อัน แก้ปัญหาที่ Paladin ไม่มี Cantrip
 
 ---
 
 ### เลเวล 2 การฟาดฟันศักดิ์สิทธิ์ (Paladin's Smite) ความสามารถที่โด่งดังที่สุด
 
-**กฎ 2024 เปลี่ยน Divine Smite เป็น "สเปลระดับ 1"** แทนที่จะเป็นความสามารถอิสระ
+กฎ 2024 เปลี่ยน Divine Smite เป็น "สเปลระดับ 1" แทนที่จะเป็นความสามารถอิสระ
 
 **Paladin's Smite ให้:**
-- **สเปล Divine Smite เป็นสเปลที่เตรียมไว้เสมอ** (ไม่นับโควตา)
-- **ร่ายได้ฟรี 1 ครั้งต่อ Long Rest โดยไม่เสีย Spell Slot**
+- สเปล Divine Smite เป็นสเปลที่เตรียมไว้เสมอ (ไม่นับโควตา)
+- ร่ายได้ฟรี 1 ครั้งต่อ Long Rest โดยไม่เสีย Spell Slot
 
 ### สเปล ระดับ 1, Evocation (Divine Smite)
 
-- **Casting Time** **Bonus Action** ใช้ทันทีหลังจากที่คุณ**ตีโดนด้วยอาวุธ Melee หรือ Unarmed Strike**
+- **Casting Time** **Bonus Action** ใช้ทันทีหลังจากที่คุณตีโดนด้วยอาวุธ Melee หรือ Unarmed Strike
 - **Range** Self
-- **ผล** เพิ่มดาเมจ **2d8 Radiant** ให้การโจมตีนั้น
-- **เพิ่มดาเมจ** **+1d8 ต่อระดับ Slot ที่สูงขึ้น**
-- **โบนัสพิเศษ** **+1d8 เพิ่มอีก** ถ้าเป้าหมายเป็น **Fiend (ปีศาจ) หรือ Undead (อันเดด)**
+- **ผล** เพิ่มดาเมจ 2d8 Radiant ให้การโจมตีนั้น
+- **เพิ่มดาเมจ** +1d8 ต่อระดับ Slot ที่สูงขึ้น
+- **โบนัสพิเศษ** +1d8 เพิ่มอีก ถ้าเป้าหมายเป็น Fiend (ปีศาจ) หรือ Undead (อันเดด)
 
-**ดาเมจของ Divine Smite แยกตามระดับ Spell Slot ที่ใช้**
+ดาเมจของ Divine Smite แยกตามระดับ Spell Slot ที่ใช้
 
 รายการข้างล่างบอกทีละระดับ Slot ว่าได้ดาเมจเท่าไหร่ ตัวเลขในวงเล็บคือค่าเฉลี่ย
 ค่าแรกคือดาเมจใส่เป้าหมายทั่วไป ค่าที่สองคือดาเมจใส่ Fiend (ปีศาจ) หรือ Undead (อันเดด) ซึ่งได้ 1d8 เพิ่ม
@@ -143,9 +143,9 @@
 - ใช้ Slot ระดับ 4 ได้ 5d8 เฉลี่ย 22.5 ส่วนใส่ปีศาจหรืออันเดดได้ 6d8 เฉลี่ย 27
 - ใช้ Slot ระดับ 5 ได้ 6d8 เฉลี่ย 27 ส่วนใส่ปีศาจหรืออันเดดได้ 7d8 เฉลี่ย 31.5
 
-**จุดที่เปลี่ยนจากกฎเก่า (สำคัญมาก):**
+จุดที่เปลี่ยนจากกฎเก่า (สำคัญมาก):
 - **ใช้ Bonus Action** ไม่สามารถใช้ Smite หลายครั้งในเทิร์นเดียวได้อีกแล้ว (เมื่อก่อนทำได้)
-- **นับเป็นสเปล** **ร่ายสเปลอื่นด้วย Action ในเทิร์นเดียวกันไม่ได้** (ยกเว้น Cantrip)
+- **นับเป็นสเปล** ร่ายสเปลอื่นด้วย Action ในเทิร์นเดียวกันไม่ได้ (ยกเว้น Cantrip)
 - **1 ครั้งต่อเทิร์นเท่านั้น**
 
 **กลยุทธ์:** เก็บ Slot ไว้ Smite ตอน **Critical Hit** ดาเมจคูณสอง!
@@ -154,14 +154,14 @@
 
 ### เลเวล 3 พลังแห่งเทพ (Channel Divinity)
 
-ใช้พลังศักดิ์สิทธิ์เพื่อสร้างผลพิเศษ **ใช้ได้ 2 ครั้ง** (3 ครั้งที่เลเวล 9)
-**ฟื้น: 1 ครั้งเมื่อ Short Rest, ทั้งหมดเมื่อ Long Rest**
+ใช้พลังศักดิ์สิทธิ์เพื่อสร้างผลพิเศษ ใช้ได้ 2 ครั้ง (3 ครั้งที่เลเวล 9)
+ฟื้น: 1 ครั้งเมื่อ Short Rest, ทั้งหมดเมื่อ Long Rest
 
-**ทุก Paladin ได้ 1 อย่างพื้นฐาน:**
+ทุก Paladin ได้ 1 อย่างพื้นฐาน:
 
-- **Divine Sense** **Bonus Action:** จนถึงจบเทิร์นหน้า คุณ**รู้ตำแหน่งของ Celestial, Fiend, และ Undead ทุกตัวในระยะ 60 ฟุต** ที่ไม่มี Total Cover และรู้ชนิดของมัน
+- **Divine Sense** **Bonus Action:** จนถึงจบเทิร์นหน้า คุณรู้ตำแหน่งของ Celestial, Fiend, และ Undead ทุกตัวในระยะ 60 ฟุต ที่ไม่มี Total Cover และรู้ชนิดของมัน
 
-**+ Channel Divinity เพิ่มจาก Subclass** (ดูส่วน Subclass)
++ Channel Divinity เพิ่มจาก Subclass (ดูส่วน Subclass)
 
 ---
 
@@ -173,52 +173,52 @@
 
 ### เลเวล 5 พาหนะผู้ภักดี (Faithful Steed)
 
-- **สเปล Find Steed เป็นสเปลที่เตรียมไว้เสมอ** (ไม่นับโควตา)
+- สเปล Find Steed เป็นสเปลที่เตรียมไว้เสมอ (ไม่นับโควตา)
 - **ร่ายฟรี 1 ครั้งต่อ Long Rest** โดยไม่เสีย Spell Slot
 
 ---
 
 ### เลเวล 6 ออร่าแห่งการปกป้อง (Aura of Protection) Feature ที่ทรงพลังที่สุดของ Paladin
 
-**คุณและเพื่อนร่วมทีมทุกคนในระยะ 10 ฟุตจากคุณ (30 ฟุตที่เลเวล 18)**
-**ได้โบนัสในการทอย Saving Throw ทั้งหมด เท่ากับ CHA modifier ของคุณ** (ขั้นต่ำ +1)
+คุณและเพื่อนร่วมทีมทุกคนในระยะ 10 ฟุตจากคุณ (30 ฟุตที่เลเวล 18)
+ได้โบนัสในการทอย Saving Throw ทั้งหมด เท่ากับ CHA modifier ของคุณ (ขั้นต่ำ +1)
 
 ต้องไม่ถูก Incapacitated
 
-**ทำไมนี่คือ Feature ที่ทีมทุกทีมอยากได้:**
+ทำไมนี่คือ Feature ที่ทีมทุกทีมอยากได้:
 
 รายการข้างล่างบอกว่า ถ้า CHA ของคุณสูงขึ้น ทั้งทีมจะได้โบนัส Saving Throw เท่าไหร่
 
-- CHA 16 ซึ่งให้ modifier +3 ทีมได้โบนัส Saving Throw **+3**
-- CHA 18 ซึ่งให้ modifier +4 ทีมได้โบนัส Saving Throw **+4**
-- CHA 20 ซึ่งให้ modifier +5 ทีมได้โบนัส Saving Throw **+5**
+- CHA 16 ซึ่งให้ modifier +3 ทีมได้โบนัส Saving Throw +3
+- CHA 18 ซึ่งให้ modifier +4 ทีมได้โบนัส Saving Throw +4
+- CHA 20 ซึ่งให้ modifier +5 ทีมได้โบนัส Saving Throw +5
 
-**+5 ในทุก Saving Throw ของทุกคนในทีม** = ทีมแทบไม่โดนสเปลควบคุมของศัตรูเลย
-นี่คือเหตุผลที่ผู้เล่นหลายคน Multiclass **2 เลเวล Paladin** เพื่อเอา Smite หรือ **6-7 เลเวล** เพื่อเอา Aura นี้
++5 ในทุก Saving Throw ของทุกคนในทีม = ทีมแทบไม่โดนสเปลควบคุมของศัตรูเลย
+นี่คือเหตุผลที่ผู้เล่นหลายคน Multiclass 2 เลเวล Paladin เพื่อเอา Smite หรือ 6-7 เลเวล เพื่อเอา Aura นี้
 
 ---
 
 ### เลเวล 9 ขับไล่ศัตรู (Abjure Foes)
 
-**Channel Divinity + Magic action:** เลือกสิ่งมีชีวิตได้ถึง **Prof Bonus ตัว** ในระยะ 60 ฟุต
-ทอย **WIS Save** **ล้มเหลว = Frightened 1 นาที**
+**Channel Divinity + Magic action:** เลือกสิ่งมีชีวิตได้ถึง Prof Bonus ตัว ในระยะ 60 ฟุต
+ทอย **WIS Save** ล้มเหลว = Frightened 1 นาที
 
-ระหว่าง Frightened: **ทำได้แค่ Action หรือ Bonus Action อย่างใดอย่างหนึ่ง** และ **เคลื่อนที่ไม่ได้**
+ระหว่าง Frightened: ทำได้แค่ Action หรือ Bonus Action อย่างใดอย่างหนึ่ง และ เคลื่อนที่ไม่ได้
 (จบทันทีเมื่อได้รับดาเมจ)
 
 ---
 
 ### เลเวล 10 ออร่าแห่งความกล้าหาญ (Aura of Courage)
 
-**คุณและเพื่อนร่วมทีมในระยะ Aura ของคุณ ภูมิคุ้มกันสภาวะ Frightened**
+คุณและเพื่อนร่วมทีมในระยะ Aura ของคุณ ภูมิคุ้มกันสภาวะ Frightened
 (ถ้ามีสภาวะอยู่แล้วจะถูกระงับชั่วคราวขณะอยู่ในออร่า)
 
 ---
 
 ### เลเวล 11 การโจมตีเปล่งรัศมี (Radiant Strikes)
 
-**การโจมตีด้วยอาวุธ Melee และ Unarmed Strike ของคุณทุกครั้ง**
-**เพิ่มดาเมจ 1d8 Radiant โดยอัตโนมัติ**
+การโจมตีด้วยอาวุธ Melee และ Unarmed Strike ของคุณทุกครั้ง
+เพิ่มดาเมจ 1d8 Radiant โดยอัตโนมัติ
 
 **ทำไมดี:** ดาเมจฟรีทุกครั้ง ไม่เสียทรัพยากรอะไรเลย
 
@@ -228,22 +228,22 @@
 
 ### เลเวล 14 สัมผัสฟื้นฟู (Restoring Touch)
 
-**เมื่อใช้ Lay On Hands** คุณสามารถ**ใช้ 5 HP จากคลัง** เพื่อลบสภาวะ 1 อย่าง:
-**Blinded, Charmed, Deafened, Frightened, Paralyzed, หรือ Stunned**
+**เมื่อใช้ Lay On Hands** คุณสามารถใช้ 5 HP จากคลัง เพื่อลบสภาวะ 1 อย่าง:
+Blinded, Charmed, Deafened, Frightened, Paralyzed, หรือ Stunned
 (ลบได้หลายอย่างในครั้งเดียว โดยจ่าย 5 HP ต่อสภาวะ)
 
 ---
 
 ### เลเวล 18 ขยายออร่า (Aura Expansion)
 
-**ระยะ Aura ทั้งหมดของคุณเพิ่มจาก 10 ฟุต เป็น 30 ฟุต**
+ระยะ Aura ทั้งหมดของคุณเพิ่มจาก 10 ฟุต เป็น 30 ฟุต
 
 ---
 
 ## Subclasses (Sacred Oath) เลือกที่เลเวล 3
 
-Paladin มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **เลเวล 3, 7, 15, 20**
-**ทุก Subclass ให้ "Oath Spells" ที่เตรียมไว้เสมอ (ไม่นับโควตา)**
+Paladin มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ เลเวล 3, 7, 15, 20
+ทุก Subclass ให้ "Oath Spells" ที่เตรียมไว้เสมอ (ไม่นับโควตา)
 
 ---
 
@@ -261,25 +261,25 @@ Paladin มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **เลเวล 3 Sacred Weapon (Channel Divinity)**
 
-**Bonus Action:** อาวุธของคุณเปล่งแสง **10 นาที**:
+**Bonus Action:** อาวุธของคุณเปล่งแสง 10 นาที:
 - **บวก CHA modifier ในการทอยโจมตี** (ขั้นต่ำ +1)
 - อาวุธนับเป็น **Magical**
-- เปล่งแสง **Bright Light 20 ฟุต + Dim Light 20 ฟุต**
+- เปล่งแสง Bright Light 20 ฟุต + Dim Light 20 ฟุต
 
 **เลเวล 7 Aura of Devotion**
 
-[แนะนำ] คุณและเพื่อนในระยะ Aura **ภูมิคุ้มกันสภาวะ Charmed**
+[แนะนำ] คุณและเพื่อนในระยะ Aura ภูมิคุ้มกันสภาวะ Charmed
 
 **เลเวล 15 Smite of Protection**
 
-[แนะนำ] เมื่อคุณร่าย Divine Smite **คุณและเพื่อนในระยะ Aura ได้ Half Cover** จนกว่าจะเริ่มเทิร์นหน้าของคุณ
+[แนะนำ] เมื่อคุณร่าย Divine Smite คุณและเพื่อนในระยะ Aura ได้ Half Cover จนกว่าจะเริ่มเทิร์นหน้าของคุณ
 
 **เลเวล 20 Holy Nimbus**
 
-**Bonus Action:** เข้าสู่สภาวะศักดิ์สิทธิ์ **10 นาที**:
-- เปล่ง **Bright Light 30 ฟุต**
-- **1 ครั้ง/เทิร์น เมื่อศัตรูเริ่มเทิร์นในแสง หรือเข้ามาในแสง รับ 10 Radiant damage**
-- **Advantage ในการทอย Saving Throw ต่อสเปลที่ร่ายโดย Fiend และ Undead**
+**Bonus Action:** เข้าสู่สภาวะศักดิ์สิทธิ์ 10 นาที:
+- เปล่ง Bright Light 30 ฟุต
+- 1 ครั้ง/เทิร์น เมื่อศัตรูเริ่มเทิร์นในแสง หรือเข้ามาในแสง รับ 10 Radiant damage
+- Advantage ในการทอย Saving Throw ต่อสเปลที่ร่ายโดย Fiend และ Undead
 - ใช้ได้ 1 ครั้ง/Long Rest (หรือใช้ Spell Slot ระดับ 5)
 
 **แนะนำมือใหม่** Sacred Weapon แก้ปัญหาการตีพลาด เข้าใจง่าย
@@ -300,29 +300,29 @@ Paladin มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **เลเวล 3 Peerless Athlete (Channel Divinity)**
 
-**Bonus Action:** **1 ชั่วโมง** **Advantage ใน Athletics และ Acrobatics Check**, **ยกของได้เป็น 2 เท่า** และ **ระยะกระโดด +10 ฟุต**
+**Bonus Action:** 1 ชั่วโมง Advantage ใน Athletics และ Acrobatics Check, ยกของได้เป็น 2 เท่า และ ระยะกระโดด +10 ฟุต
 
 **เลเวล 3 Inspiring Smite (Channel Divinity)**
 
-**Bonus Action** [แนะนำ] ทันทีหลังร่าย Divine Smite **แจก Temp HP รวม 2d8 + เลเวล Paladin** ให้ตัวเองและเพื่อนในระยะ 30 ฟุต (แบ่งได้ตามใจ)
+**Bonus Action** [แนะนำ] ทันทีหลังร่าย Divine Smite แจก Temp HP รวม 2d8 + เลเวล Paladin ให้ตัวเองและเพื่อนในระยะ 30 ฟุต (แบ่งได้ตามใจ)
 
 **เลเวล 7 Aura of Alacrity**
 
-**Speed ของคุณ +10 ฟุต** [แนะนำ] และ เพื่อนที่เริ่มเทิร์นในระยะ 10 ฟุตจากคุณ **ได้ Speed +10 ฟุต** จนจบเทิร์น
+**Speed ของคุณ +10 ฟุต** [แนะนำ] และ เพื่อนที่เริ่มเทิร์นในระยะ 10 ฟุตจากคุณ ได้ Speed +10 ฟุต จนจบเทิร์น
 
 **เลเวล 15 Glorious Defense**
 
-**Reaction:** [แนะนำ] เมื่อคุณหรือเพื่อนในระยะ 10 ฟุตถูกโจมตี **บวก CHA modifier ใน AC ของการโจมตีนั้น** ถ้าทำให้พลาด **โจมตีกลับ 1 ครั้งทันที** ใช้ได้ Prof Bonus ครั้ง/Long Rest
+**Reaction:** [แนะนำ] เมื่อคุณหรือเพื่อนในระยะ 10 ฟุตถูกโจมตี บวก CHA modifier ใน AC ของการโจมตีนั้น ถ้าทำให้พลาด โจมตีกลับ 1 ครั้งทันที ใช้ได้ Prof Bonus ครั้ง/Long Rest
 
 **เลเวล 20 Living Legend**
 
 **Bonus Action: 10 นาที**:
-- **Advantage ในการทอย Charisma Check ทั้งหมด**
-- **1 ครั้ง/เทิร์น: การโจมตีที่พลาด นับเป็นโดนแทน**
-- **เมื่อทอย Saving Throw ล้มเหลว ทอยใหม่ได้ (1 ครั้ง/เทิร์น)**
+- Advantage ในการทอย Charisma Check ทั้งหมด
+- 1 ครั้ง/เทิร์น: การโจมตีที่พลาด นับเป็นโดนแทน
+- เมื่อทอย Saving Throw ล้มเหลว ทอยใหม่ได้ (1 ครั้ง/เทิร์น)
 - ใช้ได้ 1 ครั้ง/Long Rest (หรือใช้ Spell Slot ระดับ 5)
 
-**สายที่ช่วยทีมด้านความเร็วและ Temp HP ได้ดีที่สุด**
+สายที่ช่วยทีมด้านความเร็วและ Temp HP ได้ดีที่สุด
 
 ---
 
@@ -340,31 +340,31 @@ Paladin มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **เลเวล 3 Nature's Wrath (Channel Divinity)**
 
-**Magic action:** สิ่งมีชีวิตที่เลือกในระยะ 15 ฟุต ทอย **STR Save** **ล้มเหลว = Restrained (ถูกตรึงด้วยเถาวัลย์) 1 นาที** (ทอยใหม่ได้ทุกจบเทิร์น)
+**Magic action:** สิ่งมีชีวิตที่เลือกในระยะ 15 ฟุต ทอย **STR Save** ล้มเหลว = Restrained (ถูกตรึงด้วยเถาวัลย์) 1 นาที (ทอยใหม่ได้ทุกจบเทิร์น)
 
 **เลเวล 7 Aura of Warding**
 
-[แนะนำมาก] คุณและเพื่อนในระยะ Aura ได้ **Resistance ต่อ Necrotic, Psychic, และ Radiant damage**
+[แนะนำมาก] คุณและเพื่อนในระยะ Aura ได้ Resistance ต่อ Necrotic, Psychic, และ Radiant damage
 
 **เลเวล 15 Undying Sentinel**
 
-**เมื่อ HP ลดเหลือ 0 แต่ไม่ตายทันที HP เหลือ 1 แทน** [แนะนำ] (ใช้ได้ 1 ครั้ง/Long Rest) และ และคุณ **ไม่แก่ตัวลงอีกต่อไป**
+เมื่อ HP ลดเหลือ 0 แต่ไม่ตายทันที HP เหลือ 1 แทน [แนะนำ] (ใช้ได้ 1 ครั้ง/Long Rest) และ และคุณ ไม่แก่ตัวลงอีกต่อไป
 
 **เลเวล 20 Elder Champion**
 
-**Bonus Action:** แปลงร่างเป็นสิ่งมีชีวิตแห่งธรรมชาติ **10 นาที**:
-- **ฟื้น 10 HP เมื่อเริ่มเทิร์นของคุณ**
-- **ร่ายสเปล Paladin ที่มี Casting Time เป็น Action ใช้ Bonus Action แทนได้**
-- **ศัตรูในระยะ 10 ฟุต เสียเปรียบในการทอย Saving Throw ต่อสเปลและ Channel Divinity ของคุณ**
+**Bonus Action:** แปลงร่างเป็นสิ่งมีชีวิตแห่งธรรมชาติ 10 นาที:
+- ฟื้น 10 HP เมื่อเริ่มเทิร์นของคุณ
+- ร่ายสเปล Paladin ที่มี Casting Time เป็น Action ใช้ Bonus Action แทนได้
+- ศัตรูในระยะ 10 ฟุต เสียเปรียบในการทอย Saving Throw ต่อสเปลและ Channel Divinity ของคุณ
 - ใช้ได้ 1 ครั้ง/Long Rest (หรือใช้ Spell Slot ระดับ 5)
 
-**Aura of Warding เป็นหนึ่งใน Aura ที่ทรงพลังที่สุดในเกม** Resistance 3 ธาตุให้ทั้งทีม
+Aura of Warding เป็นหนึ่งใน Aura ที่ทรงพลังที่สุดในเกม Resistance 3 ธาตุให้ทั้งทีม
 
 ---
 
 ### 4. Oath of Vengeance คำสาบานแห่งการล้างแค้น
 
-**ธีม:** ผู้ตามล่าความชั่วร้ายโดยไม่สนวิธีการ **ดาเมจสูงที่สุด**
+**ธีม:** ผู้ตามล่าความชั่วร้ายโดยไม่สนวิธีการ ดาเมจสูงที่สุด
 
 **Oath Spells:**
 
@@ -376,21 +376,21 @@ Paladin มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 **เลเวล 3 Vow of Enmity (Channel Divinity)**
 
-**Bonus Action:** [แนะนำมาก] เลือกศัตรู 1 ตัวในระยะ 30 ฟุต **คุณมี Advantage ในการโจมตีมันทุกครั้ง เป็นเวลา 1 นาที** (ถ้ามันตายก่อน ย้ายไปตัวใหม่ได้ด้วย Bonus Action)
+**Bonus Action:** [แนะนำมาก] เลือกศัตรู 1 ตัวในระยะ 30 ฟุต คุณมี Advantage ในการโจมตีมันทุกครั้ง เป็นเวลา 1 นาที (ถ้ามันตายก่อน ย้ายไปตัวใหม่ได้ด้วย Bonus Action)
 
 **เลเวล 7 Relentless Avenger**
 
-เมื่อคุณตีโดนด้วย **Opportunity Attack** **เคลื่อนที่ได้ครึ่ง Speed ทันที** โดยไม่โดน Opportunity Attack
+เมื่อคุณตีโดนด้วย **Opportunity Attack** เคลื่อนที่ได้ครึ่ง Speed ทันที โดยไม่โดน Opportunity Attack
 
 **เลเวล 15 Soul of Vengeance**
 
-**Reaction:** [แนะนำ] เมื่อศัตรูที่ติด **Vow of Enmity** โจมตีหรือร่ายเวท **โจมตีมัน 1 ครั้งทันที**
+**Reaction:** [แนะนำ] เมื่อศัตรูที่ติด **Vow of Enmity** โจมตีหรือร่ายเวท โจมตีมัน 1 ครั้งทันที
 
 **เลเวล 20 Avenging Angel**
 
-**Bonus Action:** งอกปีก **10 นาที**:
+**Bonus Action:** งอกปีก 10 นาที:
 - **Fly Speed 60 ฟุต**
-- **ศัตรูที่เริ่มเทิร์นในระยะ 30 ฟุต ทอย WIS Save ล้มเหลว = Frightened 1 นาที** และ **การโจมตีของคุณต่อมันมี Advantage**
+- ศัตรูที่เริ่มเทิร์นในระยะ 30 ฟุต ทอย WIS Save ล้มเหลว = Frightened 1 นาที และ การโจมตีของคุณต่อมันมี Advantage
 - ใช้ได้ 1 ครั้ง/Long Rest (หรือใช้ Spell Slot ระดับ 5)
 
 **สายดาเมจสูงสุด** Vow of Enmity ให้ Advantage ตลอด = คริติคอลบ่อย = Smite แรง
@@ -399,10 +399,10 @@ Paladin มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ *
 
 ## เปรียบเทียบ 4 Subclass
 
-- **จุดเด่น** ไม่พลาด + ต้าน Charm ความเร็ว + Temp HP Resistance 3 ธาตุ **ดาเมจสูงสุด**
+- **จุดเด่น** ไม่พลาด + ต้าน Charm ความเร็ว + Temp HP Resistance 3 ธาตุ ดาเมจสูงสุด
 - **ความยาก** ง่าย กลาง ง่าย ง่าย
-- **ช่วยทีม** สูง **สูงสุด** **สูงสุด** ต่ำ
-- **แนะนำมือใหม่** **ใช่** ใช่ ใช่ **ใช่ (สายตี)**
+- **ช่วยทีม** สูง สูงสุด สูงสุด ต่ำ
+- **แนะนำมือใหม่** ใช่ ใช่ ใช่ ใช่ (สายตี)
 
 ---
 ---
@@ -456,17 +456,17 @@ Spell Save DC เท่ากับ 8 บวก Proficiency Bonus บวก CHA 
 
 ### ข้อผิดพลาดที่มือใหม่ทำบ่อย
 
-- ปล่อย CHA ต่ำ **CHA คือหัวใจของ Paladin** Aura of Protection บัฟทั้งทีม
-- ใช้ Smite ทุกครั้งที่ตีโดน **เก็บ Slot ไว้ใช้ตอน Critical Hit** หรือกับบอส
-- ลืมว่า Smite ใช้ Bonus Action (กฎ 2024) **ร่ายสเปลอื่นด้วย Action ในเทิร์นเดียวกันไม่ได้**
-- ยืนห่างจากทีม **ยืนใกล้ทีมเสมอ** เพื่อให้ Aura of Protection ครอบคลุม
-- ลืมใช้ Lay On Hands เป็นการรักษาที่ **ไม่เสีย Spell Slot** ใช้ให้หมดทุกวัน
+- ปล่อย CHA ต่ำ CHA คือหัวใจของ Paladin Aura of Protection บัฟทั้งทีม
+- ใช้ Smite ทุกครั้งที่ตีโดน เก็บ Slot ไว้ใช้ตอน Critical Hit หรือกับบอส
+- ลืมว่า Smite ใช้ Bonus Action (กฎ 2024) ร่ายสเปลอื่นด้วย Action ในเทิร์นเดียวกันไม่ได้
+- ยืนห่างจากทีม ยืนใกล้ทีมเสมอ เพื่อให้ Aura of Protection ครอบคลุม
+- ลืมใช้ Lay On Hands เป็นการรักษาที่ ไม่เสีย Spell Slot ใช้ให้หมดทุกวัน
 
 ---
 
 ## สรุป Paladin ในหนึ่งบรรทัด
 
-**ตีแรงจัดด้วย Divine Smite + ทนเหมือน Fighter + รักษาเพื่อนได้ + Aura of Protection บัฟ Save ทั้งทีม = คลาสที่ทำได้ทุกอย่าง แต่ต้องดัน STR, CHA, CON**
+ตีแรงจัดด้วย Divine Smite + ทนเหมือน Fighter + รักษาเพื่อนได้ + Aura of Protection บัฟ Save ทั้งทีม = คลาสที่ทำได้ทุกอย่าง แต่ต้องดัน STR, CHA, CON
 
 ---
 

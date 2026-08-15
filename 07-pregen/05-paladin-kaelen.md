@@ -33,38 +33,34 @@
 
 ## ค่าพลัง (Ability Scores)
 
-ตารางข้างล่างมี 4 คอลัมน์ คือ ค่า, คะแนน, Modifier และ Saving Throw
+รายการข้างล่างเรียงค่าตามลำดับ คือ ค่า, คะแนน, Modifier และ Saving Throw
 
-| ค่า | คะแนน | Modifier | Saving Throw |
-|---|---|---|---|
-| **STR** | **17** | **+3** | +3 |
-| **DEX** | 10 | 0 | 0 |
-| **CON** | **14** | **+2** | +2 |
-| **INT** | 8 | −1 | −1 |
-| **WIS** | 12 | +1 | **+3** (ถนัด) |
-| **CHA** | **15** | **+2** | **+4** (ถนัด) |
+- STR มีคะแนน 17 Modifier +3 และ Saving Throw +3
+- DEX มีคะแนน 10 Modifier 0 และ Saving Throw 0
+- CON มีคะแนน 14 Modifier +2 และ Saving Throw +2
+- INT มีคะแนน 8 Modifier -1 และ Saving Throw -1
+- WIS มีคะแนน 12 Modifier +1 และ Saving Throw +3 ซึ่งเป็นค่าที่ถนัด
+- CHA มีคะแนน 15 Modifier +2 และ Saving Throw +4 ซึ่งเป็นค่าที่ถนัด
 
 **ที่มา:** Standard Array + Noble แบบ A (STR +2, CHA +1)
 
-**Noble เป็น Background เดียวที่ให้ทั้ง STR และ CHA** ซึ่งเป็นสองค่าที่ Paladin ต้องการ
+Noble เป็น Background เดียวที่ให้ทั้ง STR และ CHA ซึ่งเป็นสองค่าที่ Paladin ต้องการ
 
 ---
 
 ## ทักษะ (Skills)
 
-ตารางข้างล่างมี 3 คอลัมน์ คือ ทักษะ, ค่า และ มาจาก
+รายการข้างล่างเรียงค่าตามลำดับ คือ ทักษะ, ค่า และ มาจาก
 
-| ทักษะ | ค่า | มาจาก |
-|---|---|---|
-| **Athletics** | **+5** | Paladin |
-| **Intimidation** | **+4** | Paladin |
-| **Persuasion** | **+4** | Noble |
-| **History** | **+1** | Noble |
-| **Insight** | **+3** | Skilled |
-| **Perception** | **+3** | Skilled |
-| **Religion** | **+1** | Skilled |
+- Athletics ค่า +5 มาจาก Paladin
+- Intimidation ค่า +4 มาจาก Paladin
+- Persuasion ค่า +4 มาจาก Noble
+- History ค่า +1 มาจาก Noble
+- Insight ค่า +3 มาจาก Skilled
+- Perception ค่า +3 มาจาก Skilled
+- Religion ค่า +1 มาจาก Skilled
 
-**Tool:** Gaming Set **+2**
+**Tool:** Gaming Set +2
 
 ---
 
@@ -76,13 +72,13 @@
 
 ### สเปลระดับ 1 ที่เตรียมไว้ (2 อัน) Spell Slot 2 ช่อง
 
-- **Bless [แนะนำ]** ใช้ Action Action (Concentration), ทำอะไร เพื่อน 3 คนได้ **+1d4 ในการทอยโจมตีและ Saving Throw** นาน 1 นาที
-- **Shield of Faith** ใช้ Action **Bonus Action** (Concentration), ทำอะไร เป้าหมาย **+2 AC** นาน 10 นาที
+- **Bless [แนะนำ]** ใช้ Action Action (Concentration), ทำอะไร เพื่อน 3 คนได้ +1d4 ในการทอยโจมตีและ Saving Throw นาน 1 นาที
+- **Shield of Faith** ใช้ Action **Bonus Action** (Concentration), ทำอะไร เป้าหมาย +2 AC นาน 10 นาที
 
-**เตรียมเวทใหม่ได้ทุกครั้งที่จบ Long Rest** เลือกจากรายการ Paladin ทั้งหมด
+เตรียมเวทใหม่ได้ทุกครั้งที่จบ Long Rest เลือกจากรายการ Paladin ทั้งหมด
 **สเปลอื่นที่น่าสนใจ:** Cure Wounds, Divine Favor, Heroism, Searing Smite
 
-**Divine Smite ยังใช้ไม่ได้ที่เลเวล 1** ได้ที่เลเวล 2
+Divine Smite ยังใช้ไม่ได้ที่เลเวล 1 ได้ที่เลเวล 2
 
 ---
 
@@ -90,10 +86,10 @@
 
 ### Lay On Hands มือแห่งการเยียวยา
 
-คุณมี **คลังพลังรักษา 5 HP** (= 5 คูณ เลเวล Paladin) ฟื้นเต็มเมื่อ Long Rest
+คุณมี คลังพลังรักษา 5 HP (= 5 คูณ เลเวล Paladin) ฟื้นเต็มเมื่อ Long Rest
 
 **Bonus Action:** สัมผัสใครก็ได้ แล้ว ดึง HP จากคลังมาฟื้นให้เท่าไหร่ก็ได้
-**หรือ** ใช้ 5 HP จากคลังเพื่อ **ลบสภาวะ Poisoned**
+**หรือ** ใช้ 5 HP จากคลังเพื่อ ลบสภาวะ Poisoned
 
 **ไม่เสีย Spell Slot** ใช้ให้หมดทุกวัน เพราะฟื้นทุก Long Rest อยู่แล้ว
 
@@ -104,15 +100,15 @@
 ### Weapon Mastery ที่เลือกไว้
 
 - **Longsword** Mastery **Sap** (ทอนกำลัง), ผลเมื่อตีโดน การโจมตีครั้งถัดไปของศัตรูตัวนั้น **เสียเปรียบ**
-- **Javelin** Mastery **Slow** (หน่วง), ผลเมื่อตีโดน **ลด Speed ของศัตรู 10 ฟุต**
+- **Javelin** Mastery **Slow** (หน่วง), ผลเมื่อตีโดน ลด Speed ของศัตรู 10 ฟุต
 
 ### จากเผ่าพันธุ์ Dragonborn (มังกรทองคำ ธาตุไฟ)
 
-- **Breath Weapon** [แนะนำ] **แทนการโจมตี 1 ครั้ง:** พ่นไฟเป็น **กรวย 15 ฟุต** หรือ **เส้น 30 ฟุต** ศัตรูทอย **DEX Save DC 12** ล้มเหลว = **1d10 Fire** (สำเร็จ = ครึ่ง) ใช้ได้ **2 ครั้งต่อ Long Rest**
-- **Damage Resistance** **Resistance ต่อ Fire damage**
+- **Breath Weapon** [แนะนำ] แทนการโจมตี 1 ครั้ง: พ่นไฟเป็น กรวย 15 ฟุต หรือ เส้น 30 ฟุต ศัตรูทอย **DEX Save DC 12** ล้มเหลว = 1d10 Fire (สำเร็จ = ครึ่ง) ใช้ได้ 2 ครั้งต่อ Long Rest
+- **Damage Resistance** Resistance ต่อ Fire damage
 - **Darkvision 60 ฟุต** มองเห็นในความมืด
 
-**Breath Weapon DC ใช้ CON ไม่ใช่ CHA** DC = 8 + CON 2 + Prof 2 = **12**
+Breath Weapon DC ใช้ CON ไม่ใช่ CHA DC = 8 + CON 2 + Prof 2 = 12
 
 ### Feat ที่มี
 
@@ -128,7 +124,7 @@
 - **Javelin 6 อัน** 1d6 Piercing, ขว้างได้ 30/120
 - **Holy Symbol** Spellcasting Focus
 - **Priest's Pack** เป้ ผ้าห่ม เทียน กล่องธูป จีวร เสบียง 2 วัน
-- **เงิน** **9 GP**
+- **เงิน** 9 GP
 
 **AC 18 = Chain Mail 16 + Shield 2**
 
@@ -161,17 +157,17 @@
 
 - **ยืนแนวหน้าคู่กับ Bran** AC 18 ทำให้ทนได้ดี
 - **เป็นคนพูดเจรจา** Persuasion +4 และ Intimidation +4 สูงพอ ๆ กับ Bard
-- **เก็บ Lay On Hands ไว้ช่วยคนที่ล้มลง** 1 HP ก็ทำให้ลุกได้แล้ว
+- เก็บ Lay On Hands ไว้ช่วยคนที่ล้มลง 1 HP ก็ทำให้ลุกได้แล้ว
 
 ---
 
 ## เมื่อขึ้นเลเวล 2-3 ทำอะไรต่อ
 
-- **2** ได้อะไร **Fighting Style** + **Paladin's Smite** (ได้สเปล Divine Smite), ควรเลือก Fighting Style เลือก **Defense** (+1 AC เป็น 19) หรือ **Blessed Warrior** (ได้ Cantrip Cleric 2 อัน) **Divine Smite คือความสามารถที่ทำให้ Paladin ตีแรงที่สุดในเกม**
+- **2** ได้อะไร **Fighting Style** + **Paladin's Smite** (ได้สเปล Divine Smite), ควรเลือก Fighting Style เลือก **Defense** (+1 AC เป็น 19) หรือ **Blessed Warrior** (ได้ Cantrip Cleric 2 อัน) Divine Smite คือความสามารถที่ทำให้ Paladin ตีแรงที่สุดในเกม
 - **3** ได้อะไร เลือก **Subclass** + **Channel Divinity**, ควรเลือก เลือก **Oath of Devotion** (Sacred Weapon: บวก CHA ในการทอยโจมตี แก้ปัญหาตีพลาด)
-- **4** ได้อะไร **ASI หรือ Feat**, ควรเลือก **เพิ่ม CHA +2** ให้เป็น 17 (เตรียมพร้อมสำหรับ Aura of Protection ที่เลเวล 6)
+- **4** ได้อะไร ASI หรือ Feat, ควรเลือก เพิ่ม CHA +2 ให้เป็น 17 (เตรียมพร้อมสำหรับ Aura of Protection ที่เลเวล 6)
 
-**HP ที่เพิ่มต่อเลเวล:** +6 (ค่าคงที่) + CON 2 = **+8 ต่อเลเวล**
+**HP ที่เพิ่มต่อเลเวล:** +6 (ค่าคงที่) + CON 2 = +8 ต่อเลเวล
 
 ### วิธีใช้ Divine Smite เมื่อได้ที่เลเวล 2
 
@@ -197,7 +193,7 @@
 
 ## สรุป Kaelen ในหนึ่งบรรทัด
 
-**AC 18 ทน ตีแรง รักษาเพื่อนได้ด้วย Lay On Hands พ่นไฟใส่กลุ่มศัตรูได้ และเจรจาเก่ง ตัวละครที่ทำได้ทุกอย่างในตัวเดียว**
+AC 18 ทน ตีแรง รักษาเพื่อนได้ด้วย Lay On Hands พ่นไฟใส่กลุ่มศัตรูได้ และเจรจาเก่ง ตัวละครที่ทำได้ทุกอย่างในตัวเดียว
 
 ---
 

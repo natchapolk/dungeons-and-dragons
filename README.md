@@ -2,14 +2,14 @@
 
 คู่มือภาษาไทยสำหรับคนที่อยากเริ่มเล่น **ดันเจียนส์ แอนด์ ดราก้อนส์ (Dungeons & Dragons)** โดยอ้างอิงกฎล่าสุดคือ **คู่มือผู้เล่น ฉบับปี 2024 (D&D 2024 Player's Handbook)** หรือที่หลายคนเรียกว่า "D&D 5e ฉบับปรับปรุง 2024" / "One D&D"
 
-**หมายเหตุเรื่องภาษา:** เอกสารชุดนี้เขียนเป็นภาษาไทย และใช้รูปแบบ **คำไทยก่อน แล้ววงเล็บภาษาอังกฤษต่อท้าย** เช่น **โหมดคลั่ง (Rage)**, **การโจมตีลับ (Sneak Attack)**
+**หมายเหตุเรื่องภาษา:** เอกสารชุดนี้เขียนเป็นภาษาไทย และใช้รูปแบบ คำไทยก่อน แล้ววงเล็บภาษาอังกฤษต่อท้าย เช่น **โหมดคลั่ง (Rage)**, **การโจมตีลับ (Sneak Attack)**
 เพราะโต๊ะเล่นส่วนใหญ่และหนังสือจริงใช้คำอังกฤษ จึงคงคำอังกฤษไว้ให้เทียบได้เสมอ ส่วนคำที่ผู้เล่นไทยเรียกทับศัพท์อยู่แล้ว (HP, AC, Spell Slot, Saving Throw) คงไว้เป็นอังกฤษล้วน
 
 ---
 
 ## เริ่มอ่านจากตรงไหนดี?
 
-ถ้าคุณ **ไม่เคยเล่นมาก่อนเลย** อ่านตามลำดับนี้:
+ถ้าคุณ ไม่เคยเล่นมาก่อนเลย อ่านตามลำดับนี้:
 
 1. [D&D คืออะไร](01-basics/01-what-is-dnd.md) ทำความเข้าใจว่าเกมนี้เล่นยังไง
 2. [ลูกเต๋าและการทอย](01-basics/02-dice-and-rolls.md) หัวใจของทุกอย่างในเกม
@@ -22,7 +22,7 @@
 6. [การต่อสู้ (Combat)](01-basics/05-combat.md)
 7. [กฎการร่ายเวท (Spellcasting)](01-basics/07-spellcasting-rules.md)
 
-**ทางลัดสำหรับคนที่อยากเริ่มเล่นวันนี้เลย:**
+ทางลัดสำหรับคนที่อยากเริ่มเล่นวันนี้เลย:
 - ไม่อยากสร้างตัวละคร ใช้ [ตัวละครสำเร็จรูป](07-pregen/00-pregen-overview.md) หยิบไปเล่นได้ทันที
 - จะเป็น **ผู้คุมเกม (DM)** อ่าน [คู่มือ DM](06-dm/00-dm-overview.md) แล้วรัน [เหมืองเงาแบล็กรีช](09-adventures/01-blackreach-mine.md) ได้เลย
 
@@ -32,114 +32,114 @@
 
 ### 01-basics กฎพื้นฐาน
 
-- [01-what-is-dnd.md](01-basics/01-what-is-dnd.md) D&D คืออะไร, บทบาท DM/ผู้เล่น, ของที่ต้องเตรียม
-- [02-dice-and-rolls.md](01-basics/02-dice-and-rolls.md) ลูกเต๋า, D20 Test, Advantage/Disadvantage, DC
-- [03-ability-scores.md](01-basics/03-ability-scores.md) ค่าพลัง 6 ค่า, Modifier, Skills, Saving Throws
-- [04-character-creation.md](01-basics/04-character-creation.md) ขั้นตอนสร้างตัวละครทีละขั้น 8 ขั้นตอน
-- [05-combat.md](01-basics/05-combat.md) ลำดับการต่อสู้, Action/Bonus Action/Reaction, AC, HP
-- [06-conditions.md](01-basics/06-conditions.md) สภาวะผิดปกติ 15 แบบ + Exhaustion
-- [07-spellcasting-rules.md](01-basics/07-spellcasting-rules.md) กฎการร่ายเวททั้งหมด, Spell Slot, Concentration
-- [08-equipment.md](01-basics/08-equipment.md) อาวุธ, ความชำนาญอาวุธ (Weapon Mastery) ครบทั้ง 8 แบบ พร้อมรายชื่ออาวุธของแต่ละแบบ, ชุดเกราะ, ของใช้, เงิน
-- [09-rest-and-leveling.md](01-basics/09-rest-and-leveling.md) การพัก, การเลื่อนเลเวล, รายการ XP
-- [10-adventuring.md](01-basics/10-adventuring.md) การเดินทาง, การซ่อน, สิ่งแวดล้อม, การเข้าสังคม
-- [11-multiclassing.md](01-basics/11-multiclassing.md) การเล่นหลายคลาส (Multiclassing) แบบละเอียด
+- [D&D คืออะไร](01-basics/01-what-is-dnd.md) บทบาทของ DM และผู้เล่น, ของที่ต้องเตรียม
+- [ลูกเต๋าและการทอย](01-basics/02-dice-and-rolls.md) D20 Test, Advantage, Disadvantage และ DC
+- [ค่าพลังและสกิล](01-basics/03-ability-scores.md) ค่าพลัง 6 ค่า, Modifier, Skills และ Saving Throws
+- [ขั้นตอนการสร้างตัวละคร](01-basics/04-character-creation.md) ทีละขั้น 8 ขั้นตอน
+- [การต่อสู้](01-basics/05-combat.md) ลำดับการต่อสู้, Action, Bonus Action, Reaction, AC และ HP
+- [สภาวะผิดปกติ (Conditions)](01-basics/06-conditions.md) ทั้ง 15 แบบ บวก Exhaustion
+- [กฎการร่ายเวท](01-basics/07-spellcasting-rules.md) กฎทั้งหมด, Spell Slot และ Concentration
+- [อุปกรณ์และอาวุธ](01-basics/08-equipment.md) ความชำนาญอาวุธ (Weapon Mastery) ครบทั้ง 8 แบบ พร้อมรายชื่ออาวุธของแต่ละแบบ, ชุดเกราะ, ของใช้ และเงิน
+- [การพักและการเลื่อนเลเวล](01-basics/09-rest-and-leveling.md) การพัก, การเลื่อนเลเวล และรายการ XP
+- [การผจญภัยนอกการต่อสู้](01-basics/10-adventuring.md) การเดินทาง, การซ่อน, สิ่งแวดล้อม และการเข้าสังคม
+- [การเล่นหลายคลาส (Multiclassing)](01-basics/11-multiclassing.md) อธิบายแบบละเอียด
 
 ### 02-species เผ่าพันธุ์
 
-- [00-species-overview.md](02-species/00-species-overview.md) **เริ่มที่นี่** รายการเปรียบเทียบทั้ง 10 เผ่า
-- [aasimar.md](02-species/aasimar.md) ลูกหลานสวรรค์ (Aasimar)
-- [dragonborn.md](02-species/dragonborn.md) คนมังกร (Dragonborn)
-- [dwarf.md](02-species/dwarf.md) คนแคระ (Dwarf)
-- [elf.md](02-species/elf.md) เอลฟ์ (Elf)
-- [gnome.md](02-species/gnome.md) โนม (Gnome)
-- [goliath.md](02-species/goliath.md) ลูกหลานยักษ์ (Goliath)
-- [halfling.md](02-species/halfling.md) ฮาล์ฟลิง (Halfling)
-- [human.md](02-species/human.md) มนุษย์ (Human)
-- [orc.md](02-species/orc.md) ออร์ค (Orc)
-- [tiefling.md](02-species/tiefling.md) ลูกหลานปีศาจ (Tiefling)
+- [ภาพรวมเผ่าพันธุ์](02-species/00-species-overview.md) เริ่มที่นี่ รายการเปรียบเทียบทั้ง 10 เผ่า
+- [ลูกหลานสวรรค์ (Aasimar)](02-species/aasimar.md)
+- [คนมังกร (Dragonborn)](02-species/dragonborn.md)
+- [คนแคระ (Dwarf)](02-species/dwarf.md)
+- [เอลฟ์ (Elf)](02-species/elf.md)
+- [โนม (Gnome)](02-species/gnome.md)
+- [ลูกหลานยักษ์ (Goliath)](02-species/goliath.md)
+- [ฮาล์ฟลิง (Halfling)](02-species/halfling.md)
+- [มนุษย์ (Human)](02-species/human.md)
+- [ออร์ค (Orc)](02-species/orc.md)
+- [ลูกหลานปีศาจ (Tiefling)](02-species/tiefling.md)
 
 ### 03-backgrounds ภูมิหลัง
 
-- [00-backgrounds-overview.md](03-backgrounds/00-backgrounds-overview.md) ภูมิหลังทั้ง 16 แบบ ครบในไฟล์เดียว
-- [origin-feats.md](03-backgrounds/origin-feats.md) ความสามารถเริ่มต้น (Origin Feats) ทั้ง 10 อย่าง ที่ได้จาก Background
+- [ภูมิหลังทั้ง 16 แบบ](03-backgrounds/00-backgrounds-overview.md) ครบในไฟล์เดียว
+- [ความสามารถเริ่มต้น (Origin Feats)](03-backgrounds/origin-feats.md) ทั้ง 10 อย่าง ที่ได้จาก Background
 
 ### 04-classes คลาส/อาชีพ
 
-- [00-classes-overview.md](04-classes/00-classes-overview.md) **เริ่มที่นี่** ข้อมูลทั้ง 12 คลาส ที่เลเวล 1
-- [barbarian.md](04-classes/barbarian.md) นักรบคลั่ง (Barbarian) เลเวล 1-20
-- [bard.md](04-classes/bard.md) นักดนตรีเวท (Bard) เลเวล 1-20 + รายการเวท
-- [cleric.md](04-classes/cleric.md) นักบวช (Cleric) เลเวล 1-20 + รายการเวท
-- [druid.md](04-classes/druid.md) ดรูอิด (Druid) เลเวล 1-20 + รายการเวท
-- [fighter.md](04-classes/fighter.md) นักรบ (Fighter) เลเวล 1-20
-- [monk.md](04-classes/monk.md) นักพรตหมัด (Monk) เลเวล 1-20
-- [paladin.md](04-classes/paladin.md) อัศวินศักดิ์สิทธิ์ (Paladin) เลเวล 1-20 + รายการเวท
-- [ranger.md](04-classes/ranger.md) พรานป่า (Ranger) เลเวล 1-20 + รายการเวท
-- [rogue.md](04-classes/rogue.md) โจร / นักลอบสังหาร (Rogue) เลเวล 1-20
-- [sorcerer.md](04-classes/sorcerer.md) จอมเวทสายเลือด (Sorcerer) เลเวล 1-20 + รายการเวท
-- [warlock.md](04-classes/warlock.md) ผู้ทำสัญญา (Warlock) เลเวล 1-20 + รายการเวท
-- [wizard.md](04-classes/wizard.md) พ่อมด (Wizard) เลเวล 1-20 + รายการเวท
+- [ภาพรวมคลาส](04-classes/00-classes-overview.md) เริ่มที่นี่ ข้อมูลทั้ง 12 คลาส ที่เลเวล 1
+- [นักรบคลั่ง (Barbarian)](04-classes/barbarian.md) เลเวล 1 ถึง 20
+- [นักดนตรีเวท (Bard)](04-classes/bard.md) เลเวล 1 ถึง 20 พร้อมรายการเวท
+- [นักบวช (Cleric)](04-classes/cleric.md) เลเวล 1 ถึง 20 พร้อมรายการเวท
+- [ดรูอิด (Druid)](04-classes/druid.md) เลเวล 1 ถึง 20 พร้อมรายการเวท
+- [นักรบ (Fighter)](04-classes/fighter.md) เลเวล 1 ถึง 20
+- [นักพรตหมัด (Monk)](04-classes/monk.md) เลเวล 1 ถึง 20
+- [อัศวินศักดิ์สิทธิ์ (Paladin)](04-classes/paladin.md) เลเวล 1 ถึง 20 พร้อมรายการเวท
+- [พรานป่า (Ranger)](04-classes/ranger.md) เลเวล 1 ถึง 20 พร้อมรายการเวท
+- [โจร หรือนักลอบสังหาร (Rogue)](04-classes/rogue.md) เลเวล 1 ถึง 20
+- [จอมเวทสายเลือด (Sorcerer)](04-classes/sorcerer.md) เลเวล 1 ถึง 20 พร้อมรายการเวท
+- [ผู้ทำสัญญา (Warlock)](04-classes/warlock.md) เลเวล 1 ถึง 20 พร้อมรายการเวท
+- [พ่อมด (Wizard)](04-classes/wizard.md) เลเวล 1 ถึง 20 พร้อมรายการเวท
 
 ### 05-feats ความสามารถพิเศษ
 
-- [00-feats-overview.md](05-feats/00-feats-overview.md) Feat คืออะไร, ได้มายังไง, มีกี่ประเภท
-- [general-feats.md](05-feats/general-feats.md) ความสามารถทั่วไป (General Feats) เลเวล 4+ ทั้งหมด
-- [fighting-styles.md](05-feats/fighting-styles.md) สไตล์การต่อสู้ (Fighting Style Feats)
-- [epic-boons.md](05-feats/epic-boons.md) พรมหากาพย์ (Epic Boon Feats) เลเวล 19
+- [ภาพรวม Feat](05-feats/00-feats-overview.md) Feat คืออะไร, ได้มายังไง และมีกี่ประเภท
+- [ความสามารถทั่วไป (General Feats)](05-feats/general-feats.md) ของเลเวล 4 ขึ้นไป ทั้งหมด
+- [สไตล์การต่อสู้ (Fighting Style Feats)](05-feats/fighting-styles.md)
+- [พรมหากาพย์ (Epic Boon Feats)](05-feats/epic-boons.md) ของเลเวล 19
 
 ### 06-dm สำหรับผู้คุมเกม (Dungeon Master)
 
-- [00-dm-overview.md](06-dm/00-dm-overview.md) **เริ่มที่นี่ถ้าจะเป็น DM** หน้าที่ DM, Session Zero, เตรียมตัว, ปัญหาที่เจอบ่อย
-- [01-running-the-game.md](06-dm/01-running-the-game.md) ตัดสิน DC, เมื่อไหร่ควรให้ทอย, บรรยาย, คุมจังหวะ, จัดการโต๊ะ
-- [02-building-encounters.md](06-dm/02-building-encounters.md) XP Budget, ปรับความยาก, สมดุลการต่อสู้, วันผจญภัย
-- [03-monsters.md](06-dm/03-monsters.md) อ่าน Stat Block, มอนสเตอร์แนะนำทุกระดับ, การเล่นมอนสเตอร์, สร้างมอนสเตอร์เอง
-- [04-magic-items.md](06-dm/04-magic-items.md) Rarity, Attunement, แจกเมื่อไหร่, ของแนะนำทุกระดับ, สมบัติ
-- [05-adventure-design.md](06-dm/05-adventure-design.md) เบ็ดล่อ, ดันเจี้ยน 5 ห้อง, NPC, ผู้ร้าย, เทมเพลตเตรียมเซสชัน
+- [ภาพรวมคู่มือ DM](06-dm/00-dm-overview.md) เริ่มที่นี่ถ้าจะเป็น DM ได้แก่ หน้าที่ DM, Session Zero, การเตรียมตัว และปัญหาที่เจอบ่อย
+- [การรันเกม](06-dm/01-running-the-game.md) ตัดสิน DC, เมื่อไหร่ควรให้ทอย, การบรรยาย, การคุมจังหวะ และการจัดการโต๊ะ
+- [การออกแบบการเผชิญหน้า](06-dm/02-building-encounters.md) XP Budget, การปรับความยาก, สมดุลการต่อสู้ และวันผจญภัย
+- [การใช้มอนสเตอร์](06-dm/03-monsters.md) การอ่าน Stat Block, มอนสเตอร์แนะนำทุกระดับ, การเล่นมอนสเตอร์ และการสร้างมอนสเตอร์เอง
+- [ของวิเศษ](06-dm/04-magic-items.md) Rarity, Attunement, จังหวะที่ควรแจก, ของแนะนำทุกระดับ และสมบัติ
+- [การออกแบบการผจญภัย](06-dm/05-adventure-design.md) เบ็ดล่อ, ดันเจี้ยน 5 ห้อง, NPC, ผู้ร้าย และเทมเพลตเตรียมเซสชัน
 
 ### 07-pregen ตัวละครสำเร็จรูป (หยิบเล่นได้ทันที)
 
-- [00-pregen-overview.md](07-pregen/00-pregen-overview.md) **เริ่มที่นี่** รายการเทียบ 8 ตัว และเลือกตัวไหนดี
-- [01-fighter-bran.md](07-pregen/01-fighter-bran.md) **Bran** นักรบผ่านศึก (Fighter / Human) AC 19
-- [02-barbarian-thokk.md](07-pregen/02-barbarian-thokk.md) **Thokk** ลูกหลานยักษ์ (Barbarian / Goliath) HP 16
-- [03-rogue-pip.md](07-pregen/03-rogue-pip.md) **Pip** หัวขโมยจอมโชคดี (Rogue / Halfling)
-- [04-cleric-elara.md](07-pregen/04-cleric-elara.md) **Elara** ผู้รับใช้แสงสว่าง (Cleric / Aasimar)
-- [05-paladin-kaelen.md](07-pregen/05-paladin-kaelen.md) **Kaelen** อัศวินสายเลือดมังกร (Paladin / Dragonborn)
-- [06-ranger-lyra.md](07-pregen/06-ranger-lyra.md) **Lyra** พรานแห่งพงไพร (Ranger / Wood Elf)
-- [07-bard-seraphine.md](07-pregen/07-bard-seraphine.md) **Seraphine** นักร้องลิ้นทอง (Bard / Tiefling)
-- [08-wizard-fizzwick.md](07-pregen/08-wizard-fizzwick.md) **Fizzwick** นักประดิษฐ์จอมเวท (Wizard / Gnome)
+- [ภาพรวมตัวละครสำเร็จรูป](07-pregen/00-pregen-overview.md) เริ่มที่นี่ รายการเทียบ 8 ตัว และคำแนะนำว่าเลือกตัวไหนดี
+- [Bran นักรบผ่านศึก](07-pregen/01-fighter-bran.md) คลาส Fighter เผ่า Human มี AC 19
+- [Thokk ลูกหลานยักษ์ผู้เกรี้ยวกราด](07-pregen/02-barbarian-thokk.md) คลาส Barbarian เผ่า Goliath มี HP 16
+- [Pip หัวขโมยจอมโชคดี](07-pregen/03-rogue-pip.md) คลาส Rogue เผ่า Halfling
+- [Elara ผู้รับใช้แสงสว่าง](07-pregen/04-cleric-elara.md) คลาส Cleric เผ่า Aasimar
+- [Kaelen อัศวินสายเลือดมังกร](07-pregen/05-paladin-kaelen.md) คลาส Paladin เผ่า Dragonborn
+- [Lyra พรานแห่งพงไพร](07-pregen/06-ranger-lyra.md) คลาส Ranger เผ่า Wood Elf
+- [Seraphine นักร้องลิ้นทอง](07-pregen/07-bard-seraphine.md) คลาส Bard เผ่า Tiefling
+- [Fizzwick นักประดิษฐ์จอมเวท](07-pregen/08-wizard-fizzwick.md) คลาส Wizard เผ่า Gnome
 
 ### 08-bestiary สมุดมอนสเตอร์ (Stat Block เต็ม)
 
-- [00-bestiary-overview.md](08-bestiary/00-bestiary-overview.md) วิธีอ่าน Stat Block และรายการเลือกมอนสเตอร์
-- [01-tier-1.md](08-bestiary/01-tier-1.md) CR 0-3 สำหรับเลเวล 1-4 (17 ตัว)
-- [02-tier-2.md](08-bestiary/02-tier-2.md) CR 4-10 สำหรับเลเวล 5-10 (11 ตัว)
-- [03-tier-3-4.md](08-bestiary/03-tier-3-4.md) CR 11+ สำหรับเลเวล 11-20 (5 บอส พร้อม Legendary Action)
+- [ภาพรวมสมุดมอนสเตอร์](08-bestiary/00-bestiary-overview.md) วิธีอ่าน Stat Block และรายการเลือกมอนสเตอร์
+- [มอนสเตอร์ระดับ 1](08-bestiary/01-tier-1.md) CR 0 ถึง 3 สำหรับเลเวล 1 ถึง 4 จำนวน 17 ตัว
+- [มอนสเตอร์ระดับ 2](08-bestiary/02-tier-2.md) CR 4 ถึง 10 สำหรับเลเวล 5 ถึง 10 จำนวน 11 ตัว
+- [มอนสเตอร์ระดับ 3 และ 4](08-bestiary/03-tier-3-4.md) CR 11 ขึ้นไป สำหรับเลเวล 11 ถึง 20 จำนวน 5 บอส พร้อม Legendary Action
 
 ### 09-adventures การผจญภัยสำเร็จรูป
 
-- [00-adventures-overview.md](09-adventures/00-adventures-overview.md) วิธีใช้และสิ่งที่ต้องเตรียม
-- [01-blackreach-mine.md](09-adventures/01-blackreach-mine.md) **เหมืองเงาแบล็กรีช** เลเวล 1-3, 2-3 เซสชัน, พร้อมบทบรรยาย
+- [ภาพรวมการผจญภัย](09-adventures/00-adventures-overview.md) วิธีใช้และสิ่งที่ต้องเตรียม
+- [เหมืองเงาแบล็กรีช](09-adventures/01-blackreach-mine.md) สำหรับเลเวล 1 ถึง 3 เล่นประมาณ 2 ถึง 3 เซสชัน พร้อมบทบรรยาย
 
 ### 10-spells รายละเอียดสเปลแบบเต็ม
 
-- [00-spells-overview.md](10-spells/00-spells-overview.md) วิธีอ่าน + สเปลที่แนะนำในแต่ละระดับ
-- [01-cantrips.md](10-spells/01-cantrips.md) เวทระดับ 0 (Cantrips)
-- [02-level-1.md](10-spells/02-level-1.md) สเปลระดับ 1
-- [03-level-2.md](10-spells/03-level-2.md) สเปลระดับ 2
-- [04-level-3.md](10-spells/04-level-3.md) สเปลระดับ 3
-- [05-level-4-5.md](10-spells/05-level-4-5.md) สเปลระดับ 4-5
-- [06-level-6-9.md](10-spells/06-level-6-9.md) สเปลระดับ 6-9
+- [ภาพรวมสเปล](10-spells/00-spells-overview.md) วิธีอ่าน และสเปลที่แนะนำในแต่ละระดับ
+- [เวทระดับ 0 (Cantrips)](10-spells/01-cantrips.md)
+- [สเปลระดับ 1](10-spells/02-level-1.md)
+- [สเปลระดับ 2](10-spells/03-level-2.md)
+- [สเปลระดับ 3](10-spells/04-level-3.md)
+- [สเปลระดับ 4 และ 5](10-spells/05-level-4-5.md)
+- [สเปลระดับ 6 ถึง 9](10-spells/06-level-6-9.md)
 
 ### 10-spells/class-lists เวทแยกตามคลาส
 
-- [00-class-lists-overview.md](10-spells/class-lists/00-class-lists-overview.md) **เริ่มที่นี่** เวทของทั้ง 8 คลาสที่ร่ายเวทได้
-- [bard.md](10-spells/class-lists/bard.md) เวทของนักดนตรีเวท (Bard) 106 อัน
-- [cleric.md](10-spells/class-lists/cleric.md) เวทของนักบวช (Cleric) 87 อัน
-- [druid.md](10-spells/class-lists/druid.md) เวทของดรูอิด (Druid) 103 อัน
-- [paladin.md](10-spells/class-lists/paladin.md) เวทของอัศวินศักดิ์สิทธิ์ (Paladin) 52 อัน
-- [ranger.md](10-spells/class-lists/ranger.md) เวทของพรานป่า (Ranger) 61 อัน
-- [sorcerer.md](10-spells/class-lists/sorcerer.md) เวทของจอมเวทสายเลือด (Sorcerer) 117 อัน
-- [warlock.md](10-spells/class-lists/warlock.md) เวทของผู้ทำสัญญา (Warlock) 66 อัน
-- [wizard.md](10-spells/class-lists/wizard.md) เวทของพ่อมด (Wizard) 167 อัน
+- [ภาพรวมเวทแยกตามคลาส](10-spells/class-lists/00-class-lists-overview.md) เริ่มที่นี่ เวทของทั้ง 8 คลาสที่ร่ายเวทได้
+- [เวทของนักดนตรีเวท (Bard)](10-spells/class-lists/bard.md) จำนวน 106 อัน
+- [เวทของนักบวช (Cleric)](10-spells/class-lists/cleric.md) จำนวน 87 อัน
+- [เวทของดรูอิด (Druid)](10-spells/class-lists/druid.md) จำนวน 103 อัน
+- [เวทของอัศวินศักดิ์สิทธิ์ (Paladin)](10-spells/class-lists/paladin.md) จำนวน 52 อัน
+- [เวทของพรานป่า (Ranger)](10-spells/class-lists/ranger.md) จำนวน 61 อัน
+- [เวทของจอมเวทสายเลือด (Sorcerer)](10-spells/class-lists/sorcerer.md) จำนวน 117 อัน
+- [เวทของผู้ทำสัญญา (Warlock)](10-spells/class-lists/warlock.md) จำนวน 66 อัน
+- [เวทของพ่อมด (Wizard)](10-spells/class-lists/wizard.md) จำนวน 167 อัน
 
 ---
 
@@ -160,14 +160,14 @@
 ถ้าเคยดูคลิปหรืออ่านคู่มือเก่ามาก่อน ต้องรู้ว่าอะไรเปลี่ยนบ้าง:
 
 - **คำเรียกเผ่าพันธุ์** กฎเก่า 2014 Race, กฎใหม่ 2024 **Species**
-- **ค่าพลังบวกเพิ่ม** กฎเก่า 2014 ได้จาก Race, กฎใหม่ 2024 **ได้จาก Background แทน**
-- **Background** กฎเก่า 2014 ให้แค่สกิลกับของ, กฎใหม่ 2024 **ให้ค่าพลัง + Origin Feat ด้วย**
-- **Subclass (สายย่อย)** กฎเก่า 2014 เลือกที่เลเวลต่างกันแต่ละคลาส, กฎใหม่ 2024 **ทุกคลาสเลือกที่เลเวล 3**
+- **ค่าพลังบวกเพิ่ม** กฎเก่า 2014 ได้จาก Race, กฎใหม่ 2024 ได้จาก Background แทน
+- **Background** กฎเก่า 2014 ให้แค่สกิลกับของ, กฎใหม่ 2024 ให้ค่าพลัง + Origin Feat ด้วย
+- **Subclass (สายย่อย)** กฎเก่า 2014 เลือกที่เลเวลต่างกันแต่ละคลาส, กฎใหม่ 2024 ทุกคลาสเลือกที่เลเวล 3
 - **อาวุธ** กฎเก่า 2014 ไม่มีลูกเล่นพิเศษ, กฎใหม่ 2024 **มีความชำนาญอาวุธ (Weapon Mastery)**
 - **Inspiration** กฎเก่า 2014 Inspiration, กฎใหม่ 2024 **ทอยใหม่ได้เลย (Heroic Inspiration)**
-- **Exhaustion** กฎเก่า 2014 6 ระดับ ผลต่างกัน, กฎใหม่ 2024 **6 ระดับ ผลเหมือนกันหมด (-2 ทุกการทอย d20, -5 ความเร็ว)**
-- **Surprise (จู่โจม)** กฎเก่า 2014 มีรอบจู่โจมพิเศษ, กฎใหม่ 2024 **ไม่มีรอบพิเศษ แต่ทอย Initiative แบบ Disadvantage**
-- **Unarmed Strike** กฎเก่า 2014 ต่อยได้อย่างเดียว, กฎใหม่ 2024 **ต่อย / Grapple (จับล็อก) / Shove (ผลัก)**
+- **Exhaustion** กฎเก่า 2014 6 ระดับ ผลต่างกัน, กฎใหม่ 2024 6 ระดับ ผลเหมือนกันหมด (-2 ทุกการทอย d20, -5 ความเร็ว)
+- **Surprise (จู่โจม)** กฎเก่า 2014 มีรอบจู่โจมพิเศษ, กฎใหม่ 2024 ไม่มีรอบพิเศษ แต่ทอย Initiative แบบ Disadvantage
+- **Unarmed Strike** กฎเก่า 2014 ต่อยได้อย่างเดียว, กฎใหม่ 2024 ต่อย / Grapple (จับล็อก) / Shove (ผลัก)
 
 ---
 
@@ -193,6 +193,6 @@
 ## เครดิตและลิขสิทธิ์
 
 - เนื้อหาอ้างอิงกฎจาก **Dungeons & Dragons Player's Handbook (2024)** ของ Wizards of the Coast
-- เอกสารนี้เป็นเพียง **สรุปเพื่อการเรียนรู้ภาษาไทย** ไม่ใช่การแปลหนังสือฉบับเต็ม
-- คำอธิบายความสามารถบางส่วนถูกย่อให้กระชับ **ถ้าเจอกรณีที่กฎกำกวม ให้ยึดหนังสือต้นฉบับและคำตัดสินของ DM เป็นหลักเสมอ**
+- เอกสารนี้เป็นเพียง สรุปเพื่อการเรียนรู้ภาษาไทย ไม่ใช่การแปลหนังสือฉบับเต็ม
+- คำอธิบายความสามารถบางส่วนถูกย่อให้กระชับ ถ้าเจอกรณีที่กฎกำกวม ให้ยึดหนังสือต้นฉบับและคำตัดสินของ DM เป็นหลักเสมอ
 - D&D, Dungeons & Dragons และชื่อเฉพาะทั้งหมดเป็นเครื่องหมายการค้าของ Wizards of the Coast LLC

@@ -6,7 +6,7 @@
 
 ## Origin Feat คืออะไร?
 
-**ความสามารถพิเศษเริ่มต้น (Origin Feat)** คือ Feat ประเภทหนึ่งที่ตัวละคร **ได้ตั้งแต่เลเวล 1** จาก **Background**
+**ความสามารถพิเศษเริ่มต้น (Origin Feat)** คือ Feat ประเภทหนึ่งที่ตัวละคร ได้ตั้งแต่เลเวล 1 จาก **Background**
 
 - **Background** 1 อัน (บังคับตามที่ Background กำหนด)
 - **Species: มนุษย์ (Human)** (Trait Versatile) +1 อัน (เลือกได้เอง)
@@ -18,16 +18,16 @@
 
 ## รายการสรุปทั้ง 10 Origin Feats
 
-- **ตื่นตัว (Alert)** ทำอะไรสั้น ๆ **+Prof Bonus ในการทอย Initiative** + สลับลำดับกับเพื่อน, Background ที่ให้ Criminal, Guard, คะแนน [แนะนำอย่างยิ่ง]
+- **ตื่นตัว (Alert)** ทำอะไรสั้น ๆ +Prof Bonus ในการทอย Initiative + สลับลำดับกับเพื่อน, Background ที่ให้ Criminal, Guard, คะแนน [แนะนำอย่างยิ่ง]
 - **ช่างฝีมือ (Crafter)** ทำอะไรสั้น ๆ ซื้อของถูกลง 20% + ทำของเร็ว, Background ที่ให้ Artisan, คะแนน [แนะนำ]
 - **นักรักษา (Healer)** ทำอะไรสั้น ๆ ใช้ Healer's Kit ฟื้น HP ให้เพื่อน (Bonus Action), Background ที่ให้ Hermit, คะแนน [แนะนำมาก]
-- **โชคดี (Lucky)** ทำอะไรสั้น ๆ Luck Point = Prof Bonus/วัน **บังคับ Advantage หรือกันคริติคอล**, Background ที่ให้ Merchant, Wayfarer, คะแนน [แนะนำอย่างยิ่ง]
-- **ผู้เริ่มเวท (Magic Initiate)** ทำอะไรสั้น ๆ ได้ **Cantrip 2 + สเปลระดับ 1 อีก 1 อัน**, Background ที่ให้ Acolyte, Guide, Sage, คะแนน [แนะนำอย่างยิ่ง]
-- **นักดนตรี (Musician)** ทำอะไรสั้น ๆ ให้ **Heroic Inspiration แก่เพื่อน** หลังพัก, Background ที่ให้ Entertainer, คะแนน [แนะนำมาก]
+- **โชคดี (Lucky)** ทำอะไรสั้น ๆ Luck Point = Prof Bonus/วัน บังคับ Advantage หรือกันคริติคอล, Background ที่ให้ Merchant, Wayfarer, คะแนน [แนะนำอย่างยิ่ง]
+- **ผู้เริ่มเวท (Magic Initiate)** ทำอะไรสั้น ๆ ได้ Cantrip 2 + สเปลระดับ 1 อีก 1 อัน, Background ที่ให้ Acolyte, Guide, Sage, คะแนน [แนะนำอย่างยิ่ง]
+- **นักดนตรี (Musician)** ทำอะไรสั้น ๆ ให้ Heroic Inspiration แก่เพื่อน หลังพัก, Background ที่ให้ Entertainer, คะแนน [แนะนำมาก]
 - **นักรบดุดัน (Savage Attacker)** ทำอะไรสั้น ๆ 1 ครั้ง/เทิร์น ทอยดาเมจอาวุธใหม่ เอาที่ดีกว่า, Background ที่ให้ Soldier, คะแนน [แนะนำมาก]
-- **หลากทักษะ (Skilled)** ทำอะไรสั้น ๆ ได้ Proficiency เพิ่ม **3 อย่าง**, Background ที่ให้ Charlatan, Noble, Scribe, คะแนน [แนะนำมาก]
-- **นักตีกันในบาร์ (Tavern Brawler)** ทำอะไรสั้น ๆ Unarmed Strike ทำ **1d4** + ผลักศัตรู, Background ที่ให้ Sailor, คะแนน [แนะนำ]
-- **อึด (Tough)** ทำอะไรสั้น ๆ **HP สูงสุด +2 ต่อเลเวล**, Background ที่ให้ Farmer, คะแนน [แนะนำอย่างยิ่ง]
+- **หลากทักษะ (Skilled)** ทำอะไรสั้น ๆ ได้ Proficiency เพิ่ม 3 อย่าง, Background ที่ให้ Charlatan, Noble, Scribe, คะแนน [แนะนำมาก]
+- **นักตีกันในบาร์ (Tavern Brawler)** ทำอะไรสั้น ๆ Unarmed Strike ทำ 1d4 + ผลักศัตรู, Background ที่ให้ Sailor, คะแนน [แนะนำ]
+- **อึด (Tough)** ทำอะไรสั้น ๆ HP สูงสุด +2 ต่อเลเวล, Background ที่ให้ Farmer, คะแนน [แนะนำอย่างยิ่ง]
 
 ---
 ---
@@ -40,19 +40,19 @@
 
 **Background ที่ให้:** Criminal, Guard
 
-### ผล
+### ผลของตื่นตัว
 
-**1. Initiative Proficiency** เมื่อทอย Initiative คุณ**บวก Proficiency Bonus เข้าไปด้วย**
+**1. Initiative Proficiency** เมื่อทอย Initiative คุณบวก Proficiency Bonus เข้าไปด้วย
 
-**2. Initiative Swap** ทันทีหลังทอย Initiative คุณสามารถ**สลับลำดับกับเพื่อนร่วมทีมที่ยินยอม** ได้ 1 คน (แต่สลับไม่ได้ถ้าคุณหรือเพื่อนอยู่ในสภาวะ Incapacitated)
+**2. Initiative Swap** ทันทีหลังทอย Initiative คุณสามารถสลับลำดับกับเพื่อนร่วมทีมที่ยินยอม ได้ 1 คน (แต่สลับไม่ได้ถ้าคุณหรือเพื่อนอยู่ในสภาวะ Incapacitated)
 
-### ทำไมดี
+### ทำไมตื่นตัวถึงดี
 
-- **การไปก่อนศัตรูคือสิ่งสำคัญที่สุดในการต่อสู้** ได้ตีก่อน ได้ควบคุมสถานการณ์ก่อน
+- การไปก่อนศัตรูคือสิ่งสำคัญที่สุดในการต่อสู้ ได้ตีก่อน ได้ควบคุมสถานการณ์ก่อน
 - **+2 ถึง +6 ในการทอย Initiative** เป็นตัวเลขที่สูงมาก
 - **การสลับลำดับ** ทรงพลังในเชิงกลยุทธ์ เช่น Wizard ทอยได้ 22 แต่ Barbarian ทอยได้ 3 สลับให้ Barbarian วิ่งเข้าไปก่อนแล้ว Wizard ค่อยปล่อย Fireball ทีหลัง
 
-### เหมาะกับ
+### ตื่นตัว เหมาะกับใคร
 **ทุกคลาส** โดยเฉพาะ **Rogue** (ได้ Sneak Attack ก่อน) และ **สายเวท** (ปล่อยเวทควบคุมก่อนศัตรูขยับ)
 
 ---
@@ -61,22 +61,22 @@
 
 **Background ที่ให้:** Artisan
 
-### ผล
+### ผลของช่างฝีมือ
 
-**1. Tool Proficiency** ได้ Proficiency ใน **Artisan's Tools 3 ชนิด** ตามที่เลือก
+**1. Tool Proficiency** ได้ Proficiency ใน Artisan's Tools 3 ชนิด ตามที่เลือก
 
-**2. Discount** เมื่อซื้อของที่ไม่ใช่ของวิเศษ **ได้ส่วนลด 20%**
+**2. Discount** เมื่อซื้อของที่ไม่ใช่ของวิเศษ ได้ส่วนลด 20%
 
-**3. Fast Crafting** หลัง Long Rest คุณสามารถทำของจากรายการนี้ได้ **1 ชิ้น** (ถ้ามี Tool ที่เหมาะสม):
+**3. Fast Crafting** หลัง Long Rest คุณสามารถทำของจากรายการนี้ได้ 1 ชิ้น (ถ้ามี Tool ที่เหมาะสม):
 Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit, Component Pouch, Costume, Crowbar, Fishing Tackle, Flask, Grappling Hook, Healer's Kit, Hunting Trap, Ink, Jug, Ladder, Lamp, Lock, Manacles, Mess Kit, Mirror, Net, Oil, Paper, Parchment, Pole, Pot, Pouch, Quiver, Basket, Rope, Sack, Shovel, Signal Whistle, Waterskin
 
-### ทำไมดี
+### ทำไมช่างฝีมือถึงดี
 
 - **ส่วนลด 20%** สะสมได้เยอะในระยะยาว (เกราะ Plate 1,500 GP 1,200 GP ประหยัด 300 GP)
 - ทำ **Healer's Kit** ได้ฟรีทุกวัน
 
-### เหมาะกับ
-ผู้เล่นสาย **roleplay และการวางแผนระยะยาว** ไม่ได้เพิ่มพลังในการต่อสู้โดยตรง
+### ช่างฝีมือ เหมาะกับใคร
+ผู้เล่นสาย roleplay และการวางแผนระยะยาว ไม่ได้เพิ่มพลังในการต่อสู้โดยตรง
 
 ---
 
@@ -84,22 +84,22 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 
 **Background ที่ให้:** Hermit
 
-### ผล
+### ผลของนักรักษา
 
 **1. Battle Medic** ใช้ **Bonus Action** และ **ใช้ไป 1 ครั้งจาก 10 ครั้ง (Healer's Kit)**
-ฟื้น HP ให้ตัวเองหรือเพื่อนที่อยู่ในระยะ 5 ฟุต เท่ากับ **1d6 + 4 + Hit Die สูงสุดของเป้าหมาย**
+ฟื้น HP ให้ตัวเองหรือเพื่อนที่อยู่ในระยะ 5 ฟุต เท่ากับ 1d6 + 4 + Hit Die สูงสุดของเป้าหมาย
 *(เป้าหมายต้องยังไม่ใช้ Hit Die ครบ และไม่สามารถรับผลนี้ซ้ำจนกว่าจะพัก)*
 
-**2. Healing Rerolls** ทุกครั้งที่คุณทอยเต๋าเพื่อฟื้น HP **คุณทอยเต๋าที่ออก 1 ใหม่ได้** (ต้องใช้ผลใหม่)
+**2. Healing Rerolls** ทุกครั้งที่คุณทอยเต๋าเพื่อฟื้น HP คุณทอยเต๋าที่ออก 1 ใหม่ได้ (ต้องใช้ผลใหม่)
 
-### ทำไมดี
+### ทำไมนักรักษาถึงดี
 
-- **ทีมที่ไม่มี Cleric/Druid/Bard สามารถรักษาได้** ช่วยชีวิตในสถานการณ์คับขัน
+- ทีมที่ไม่มี Cleric/Druid/Bard สามารถรักษาได้ ช่วยชีวิตในสถานการณ์คับขัน
 - **ใช้ Bonus Action** = ยังตีได้ในเทิร์นเดียวกัน
-- **Healing Reroll ใช้กับสเปลรักษาทุกชนิดด้วย** Cleric/Druid เอาก็ดี
+- Healing Reroll ใช้กับสเปลรักษาทุกชนิดด้วย Cleric/Druid เอาก็ดี
 
-### เหมาะกับ
-ทีมที่ **ไม่มี Healer**, Fighter/Rogue/Barbarian ที่อยากช่วยเพื่อน และ Cleric ที่อยากรักษาแรงขึ้น
+### นักรักษา เหมาะกับใคร
+ทีมที่ ไม่มี Healer, Fighter/Rogue/Barbarian ที่อยากช่วยเพื่อน และ Cleric ที่อยากรักษาแรงขึ้น
 
 ---
 
@@ -107,27 +107,29 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 
 **Background ที่ให้:** Merchant, Wayfarer
 
-### ผล
+### ผลของโชคดี
 
-**1. Luck Points** คุณมี **Luck Point เท่ากับ Proficiency Bonus** ฟื้นทั้งหมดหลัง **Long Rest**
+**1. Luck Points** คุณมี Luck Point เท่ากับ Proficiency Bonus ฟื้นทั้งหมดหลัง **Long Rest**
 
-**2. Advantage** เมื่อคุณทอย **d20 Test** คุณสามารถใช้ **1 Luck Point** เพื่อ**ให้การทอยนั้นมี Advantage** (ต้องใช้ก่อนรู้ผล)
+**2. Advantage** เมื่อคุณทอย **d20 Test** คุณสามารถใช้ 1 Luck Point เพื่อให้การทอยนั้นมี Advantage (ต้องใช้ก่อนรู้ผล)
 
-**3. Disadvantage** เมื่อ**ศัตรูโจมตีคุณ** คุณสามารถใช้ **1 Luck Point** เพื่อ**ให้การโจมตีนั้นมี Disadvantage** (ต้องใช้ก่อนรู้ผล)
+**3. Disadvantage** เมื่อศัตรูโจมตีคุณ คุณสามารถใช้ 1 Luck Point เพื่อให้การโจมตีนั้นมี Disadvantage (ต้องใช้ก่อนรู้ผล)
 
-- 1-4 2
-- 5-8 3
-- 9-12 4
-- 13-16 5
-- 17-20 6
+จำนวน Luck Point ที่มีในแต่ละเลเวล มีดังนี้
 
-### ทำไมดี
+- เลเวล 1 ถึง 4 มี Luck Point 2 แต้ม
+- เลเวล 5 ถึง 8 มี Luck Point 3 แต้ม
+- เลเวล 9 ถึง 12 มี Luck Point 4 แต้ม
+- เลเวล 13 ถึง 16 มี Luck Point 5 แต้ม
+- เลเวล 17 ถึง 20 มี Luck Point 6 แต้ม
+
+### ทำไมโชคดีถึงดี
 
 - **ใช้ได้กับทุกอย่าง** Attack Roll, Saving Throw, Ability Check
-- **การให้ศัตรูมี Disadvantage** = **ป้องกันคริติคอล** ที่จะฆ่าคุณได้
+- **การให้ศัตรูมี Disadvantage** = ป้องกันคริติคอล ที่จะฆ่าคุณได้
 - ยืดหยุ่นสุด ๆ เก็บไว้ใช้ในจังหวะสำคัญที่สุดของวัน
 
-### เหมาะกับ
+### โชคดี เหมาะกับใคร
 **ทุกคลาส** เป็นหนึ่งใน Origin Feat ที่ดีที่สุดในเกม
 
 ---
@@ -136,29 +138,29 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 
 **Background ที่ให้:** Acolyte (Cleric), Guide (Druid), Sage (Wizard)
 
-### ผล
+### ผลของผู้เริ่มเวท
 
 เลือกรายการเวท 1 อย่าง (**Cleric**, **Druid**, หรือ **Wizard** ตาม Background หรือเลือกเองถ้าเป็น Human)
 
-**1. Two Cantrips** ได้ **Cantrip 2 อัน** จากรายการเวทนั้น
+**1. Two Cantrips** ได้ Cantrip 2 อัน จากรายการเวทนั้น
 
-**2. Level 1 Spell** ได้ **สเปลระดับ 1 จำนวน 1 อัน** จากรายการนั้น
+**2. Level 1 Spell** ได้ สเปลระดับ 1 จำนวน 1 อัน จากรายการนั้น
 - **ร่ายฟรี 1 ครั้งต่อ Long Rest**
-- **หรือใช้ Spell Slot ปกติร่ายก็ได้** (ถ้าคุณมี)
+- หรือใช้ Spell Slot ปกติร่ายก็ได้ (ถ้าคุณมี)
 
-**3. Spellcasting Ability** เลือก **INT, WIS, หรือ CHA** เป็นค่าร่ายเวทของสเปลเหล่านี้
+**3. Spellcasting Ability** เลือก INT, WIS, หรือ CHA เป็นค่าร่ายเวทของสเปลเหล่านี้
 
 **4. Repeatable** เอา Feat นี้ซ้ำได้ แต่ต้องเลือกรายการเวทที่ต่างจากเดิม
 
-**ทุกครั้งที่เลื่อนเลเวล คุณเปลี่ยนสเปลระดับ 1 ที่เลือกไว้เป็นอันอื่นได้**
+ทุกครั้งที่เลื่อนเลเวล คุณเปลี่ยนสเปลระดับ 1 ที่เลือกไว้เป็นอันอื่นได้
 
-### ทำไมดี
+### ทำไมผู้เริ่มเวทถึงดี
 
 - คลาสที่ไม่มีเวท (**Fighter, Barbarian, Rogue, Monk**) ได้ความสามารถใหม่ทั้งชุด
 - **Cantrip ร่ายได้ไม่จำกัด** ให้ตัวเลือกโจมตีระยะไกลกับคลาสสายรบ
 - คลาสที่มีเวทอยู่แล้ว ได้สเปลจากรายการอื่นที่ปกติเข้าไม่ถึง
 
-### Cantrip / สเปลที่แนะนำ
+### Cantrip และสเปลที่แนะนำสำหรับผู้เริ่มเวท
 
 - **Wizard** Cantrip ที่ดี Fire Bolt (โจมตี 1d10), Mage Hand (มือลอย), Minor Illusion, Prestidigitation, Booming Blade\*, True Strike\*, สเปลระดับ 1 ที่ดี **Shield** [แนะนำ] (+5 AC ด้วย Reaction), Absorb Elements, Find Familiar, Magic Missile
 - **Cleric** Cantrip ที่ดี Guidance [แนะนำ] (+1d4 ใน Ability Check), Sacred Flame, Toll the Dead, Spare the Dying, สเปลระดับ 1 ที่ดี **Bless** [แนะนำ], Cure Wounds, Healing Word, Shield of Faith
@@ -168,7 +170,7 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 
 **คอมโบยอดนิยม:** Fighter/Barbarian เอา Magic Initiate (Wizard) แล้วเลือก **Shield** ได้ +5 AC 1 ครั้งต่อวันในจังหวะที่ตายได้
 
-### เหมาะกับ
+### ผู้เริ่มเวท เหมาะกับใคร
 **ทุกคลาส** โดยเฉพาะคลาสที่ไม่มีเวท
 
 ---
@@ -177,20 +179,22 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 
 **Background ที่ให้:** Entertainer
 
-### ผล
+### ผลของนักดนตรี
 
-**1. Instrument Training** ได้ Proficiency ใน **เครื่องดนตรี 3 ชนิด**
+**1. Instrument Training** ได้ Proficiency ใน เครื่องดนตรี 3 ชนิด
 
-**2. Encouraging Song** เมื่อคุณจบ **Short Rest หรือ Long Rest** คุณสามารถเล่นดนตรีให้เพื่อนฟัง
-**มอบ Heroic Inspiration ให้เพื่อนร่วมทีม (และตัวเอง) จำนวนเท่ากับ Proficiency Bonus**
+**2. Encouraging Song** เมื่อคุณจบ Short Rest หรือ Long Rest คุณสามารถเล่นดนตรีให้เพื่อนฟัง
+มอบ Heroic Inspiration ให้เพื่อนร่วมทีม (และตัวเอง) จำนวนเท่ากับ Proficiency Bonus
 
-- 1-4 2 คน
-- 5-8 3 คน
-- 9-12 4 คน
-- 13-16 5 คน
-- 17-20 6 คน
+จำนวนเพื่อนที่มอบ Heroic Inspiration ให้ได้ในแต่ละเลเวล มีดังนี้
 
-### ทำไมดี
+- เลเวล 1 ถึง 4 มอบให้ได้ 2 คน
+- เลเวล 5 ถึง 8 มอบให้ได้ 3 คน
+- เลเวล 9 ถึง 12 มอบให้ได้ 4 คน
+- เลเวล 13 ถึง 16 มอบให้ได้ 5 คน
+- เลเวล 17 ถึง 20 มอบให้ได้ 6 คน
+
+### ทำไมนักดนตรีถึงดี
 
 - **Heroic Inspiration** = ทอย d20 ใหม่ได้ 1 ครั้ง
 - **ให้ทั้งทีม** เป็น Feat ที่เพิ่มพลังให้ทุกคน ไม่ใช่แค่ตัวเอง
@@ -198,8 +202,8 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 
 **ข้อควรจำ:** Heroic Inspiration เก็บได้ครั้งละ 1 อัน ถ้าเพื่อนมีอยู่แล้วจะไม่สะสม บอกให้เพื่อนใช้ก่อนพัก
 
-### เหมาะกับ
-ทีมทุกแบบ เป็น Feat ที่ **ให้ประโยชน์กับกลุ่มมากที่สุด**
+### นักดนตรี เหมาะกับใคร
+ทีมทุกแบบ เป็น Feat ที่ ให้ประโยชน์กับกลุ่มมากที่สุด
 
 ---
 
@@ -207,25 +211,25 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 
 **Background ที่ให้:** Soldier
 
-### ผล
+### ผลของนักรบดุดัน
 
 **1 ครั้งต่อเทิร์น** เมื่อคุณทำดาเมจด้วย **อาวุธ (Weapon)** หรือ **Unarmed Strike**
-คุณสามารถ **ทอยเต๋าดาเมจของอาวุธนั้นใหม่** และ**ใช้ผลรวมที่สูงกว่า**
+คุณสามารถ ทอยเต๋าดาเมจของอาวุธนั้นใหม่ และใช้ผลรวมที่สูงกว่า
 
-### ทำไมดี
+### ทำไมนักรบดุดันถึงดี
 
 ตารางข้างล่างมี 3 คอลัมน์ คือ อาวุธ, ดาเมจเฉลี่ยปกติ และ ดาเมจเฉลี่ยกับ Savage Attacker
 
 | อาวุธ | ดาเมจเฉลี่ยปกติ | ดาเมจเฉลี่ยกับ Savage Attacker |
 |---|---|---|
-| **Greatsword (2d6)** | 7.0 | **~8.5** (+1.5) |
-| **Greataxe (1d12)** | 6.5 | **~8.5** (+2.0) |
-| **Longsword (1d8)** | 4.5 | **~5.8** (+1.3) |
+| Greatsword (2d6) | 7.0 | ~8.5 (+1.5) |
+| Greataxe (1d12) | 6.5 | ~8.5 (+2.0) |
+| Longsword (1d8) | 4.5 | ~5.8 (+1.3) |
 
 - **แรงที่สุดกับอาวุธเต๋าใหญ่** โดยเฉพาะเวลาทอย Critical Hit (ทอยใหม่ทั้ง 2 ลูก!)
 - **ทอยใหม่ได้เฉพาะเต๋าของอาวุธ** ไม่รวม Sneak Attack หรือดาเมจพิเศษอื่น
 
-### เหมาะกับ
+### นักรบดุดัน เหมาะกับใคร
 **Barbarian, Fighter, Paladin** สายอาวุธหนัก 2 มือ
  **ไม่เหมาะกับ Rogue** (ทอยใหม่ไม่ได้กับ Sneak Attack)
 
@@ -235,13 +239,13 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 
 **Background ที่ให้:** Charlatan, Noble, Scribe
 
-### ผล
+### ผลของหลากทักษะ
 
-ได้ **Proficiency 3 อย่าง** เลือกได้อย่างอิสระจาก **Skill** หรือ **Tool** ใดก็ได้
+ได้ Proficiency 3 อย่าง เลือกได้อย่างอิสระจาก **Skill** หรือ **Tool** ใดก็ได้
 
 **Repeatable** เอา Feat นี้ซ้ำได้ (ถ้ามีโอกาส)
 
-### ทำไมดี
+### ทำไมหลากทักษะถึงดี
 
 - **3 Proficiency คือจำนวนที่มาก** เท่ากับสกิลที่ Rogue ได้จากคลาส
 - ทำให้ตัวละครทำอะไรได้หลากหลายนอกการต่อสู้
@@ -256,7 +260,7 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 - **Persuasion** เจรจา
 - **Thieves' Tools** (Tool) [แนะนำ] เปิดกุญแจ ปลดกับดัก สำคัญมากถ้าไม่มี Rogue
 
-### เหมาะกับ
+### หลากทักษะ เหมาะกับใคร
 คลาสที่มีสกิลน้อย (**Fighter, Sorcerer, Barbarian, Wizard**) และ ผู้เล่นสาย roleplay
 
 ---
@@ -265,26 +269,26 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 
 **Background ที่ให้:** Sailor
 
-### ผล
+### ผลของนักตีกันในบาร์
 
-**1. Enhanced Unarmed Strike** เมื่อคุณโจมตีมือเปล่าแบบ **Damage** ทำดาเมจ **1d4 + STR modifier** (แทน 1 + STR)
+**1. Enhanced Unarmed Strike** เมื่อคุณโจมตีมือเปล่าแบบ **Damage** ทำดาเมจ 1d4 + STR modifier (แทน 1 + STR)
 
-**2. Damage Rerolls** ทุกครั้งที่ทอยดาเมจของ **Unarmed Strike** คุณ**ทอยเต๋าที่ออก 1 ใหม่ได้** (ต้องใช้ผลใหม่)
+**2. Damage Rerolls** ทุกครั้งที่ทอยดาเมจของ **Unarmed Strike** คุณทอยเต๋าที่ออก 1 ใหม่ได้ (ต้องใช้ผลใหม่)
 
 **3. Improvised Weaponry** ได้ Proficiency ในการใช้ **อาวุธชั่วคราว (Improvised Weapon)** เช่น เก้าอี้ ขวดเหล้า
 
-**4. Push** **1 ครั้งต่อเทิร์น** เมื่อคุณตีโดนด้วย Unarmed Strike คุณสามารถ**ผลักเป้าหมายถอย 5 ฟุต** (เป้าหมายต้อง Large หรือเล็กกว่า)
+**4. Push** 1 ครั้งต่อเทิร์น เมื่อคุณตีโดนด้วย Unarmed Strike คุณสามารถผลักเป้าหมายถอย 5 ฟุต (เป้าหมายต้อง Large หรือเล็กกว่า)
 
-### ทำไมดี
+### ทำไมนักตีกันในบาร์ถึงดี
 
 - ทำให้การต่อยมือเปล่าเป็นทางเลือกจริง ๆ
 - การผลักฟรีมีประโยชน์ในเชิงตำแหน่ง (ผลักลงเหว ผลักออกจากพื้นที่อันตราย)
 
 ### ข้อควรระวัง
 - **Monk ไม่ค่อยได้ประโยชน์** Martial Arts ให้ดาเมจ 1d6 ขึ้นไปอยู่แล้ว (แต่ Reroll 1 ยังใช้ได้)
-- เป็น Feat ที่แรงน้อยที่สุดในทางตัวเลข **ยกเว้นถ้าคุณสร้างตัวละครสายมวยปล้ำ/จับล็อกโดยเฉพาะ**
+- เป็น Feat ที่แรงน้อยที่สุดในทางตัวเลข ยกเว้นถ้าคุณสร้างตัวละครสายมวยปล้ำ/จับล็อกโดยเฉพาะ
 
-### เหมาะกับ
+### นักตีกันในบาร์ เหมาะกับใคร
 **Barbarian สายจับล็อก (Grappler)** และ ตัวละครธีมนักสู้มือเปล่า
 
 ---
@@ -293,22 +297,22 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 
 **Background ที่ให้:** Farmer
 
-### ผล
+### ผลของอึด
 
-**HP สูงสุดของคุณเพิ่มขึ้นเท่ากับ 2 คูณ เลเวลตัวละคร**
-**และเพิ่มอีก 2 ทุกครั้งที่เลื่อนเลเวล**
+HP สูงสุดของคุณเพิ่มขึ้นเท่ากับ 2 คูณ เลเวลตัวละคร
+และเพิ่มอีก 2 ทุกครั้งที่เลื่อนเลเวล
 
-- เลเวล 1 ได้ HP สูงสุดเพิ่ม **+2**
-- เลเวล 5 ได้ HP สูงสุดเพิ่ม **+10**
-- เลเวล 10 ได้ HP สูงสุดเพิ่ม **+20**
-- เลเวล 15 ได้ HP สูงสุดเพิ่ม **+30**
-- เลเวล 20 ได้ HP สูงสุดเพิ่ม **+40**
+- เลเวล 1 ได้ HP สูงสุดเพิ่ม +2
+- เลเวล 5 ได้ HP สูงสุดเพิ่ม +10
+- เลเวล 10 ได้ HP สูงสุดเพิ่ม +20
+- เลเวล 15 ได้ HP สูงสุดเพิ่ม +30
+- เลเวล 20 ได้ HP สูงสุดเพิ่ม +40
 
-### ทำไมดี
+### ทำไมอึดถึงดี
 
-- **HP คือทรัพยากรที่สำคัญที่สุดในเกม** ตายแล้วทำอะไรไม่ได้
+- HP คือทรัพยากรที่สำคัญที่สุดในเกม ตายแล้วทำอะไรไม่ได้
 - **+40 HP ที่เลเวล 20** = มากกว่า HP ทั้งหมดของ Wizard เลเวล 6
-- **ไม่ต้องคิดอะไร ไม่มีเงื่อนไข ได้ตลอดเวลา**
+- ไม่ต้องคิดอะไร ไม่มีเงื่อนไข ได้ตลอดเวลา
 
 ### เทียบให้เห็นภาพ
 
@@ -316,24 +320,24 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 
 | คลาส | HP เลเวล 10 (CON +2) | + Tough |
 |---|---|---|
-| **Wizard (d6)** | 55 | **75** (+36%) |
-| **Rogue (d8)** | 68 | **88** (+29%) |
-| **Fighter (d10)** | 81 | **101** (+25%) |
-| **Barbarian (d12)** | 94 | **114** (+21%) |
+| Wizard (d6) | 55 | 75 (+36%) |
+| Rogue (d8) | 68 | 88 (+29%) |
+| Fighter (d10) | 81 | 101 (+25%) |
+| Barbarian (d12) | 94 | 114 (+21%) |
 
-### เหมาะกับ
+### อึด เหมาะกับใคร
 **ทุกคลาส** แรงที่สุดกับ **HP น้อย (Wizard, Sorcerer)** และ **สายยืนหน้า** (โดนตีเยอะ)
 
 ---
 
 ## จัดอันดับ สำหรับผู้เล่นใหม่ (Origin Feat)
 
-- **** Feat **Tough**, ทำไม ง่ายที่สุด แรงที่สุด ไม่ต้องจำอะไร
-- **** Feat **Magic Initiate**, ทำไม ให้ความสามารถใหม่ทั้งชุด โดยเฉพาะ Shield กับ Guidance
-- **** Feat **Alert**, ทำไม ไปก่อนศัตรู = ควบคุมการต่อสู้
-- **4** Feat **Lucky**, ทำไม ยืดหยุ่นที่สุด ช่วยชีวิตได้
-- **5** Feat **Musician**, ทำไม ช่วยทั้งทีม
-- **6** Feat **Skilled**, ทำไม เพิ่มความหลากหลายนอกการต่อสู้
+- อันดับ 1 คือ **Tough** เพราะง่ายที่สุด แรงที่สุด และไม่ต้องจำอะไร
+- อันดับ 2 คือ **Magic Initiate** เพราะให้ความสามารถใหม่ทั้งชุด โดยเฉพาะ Shield กับ Guidance
+- อันดับ 3 คือ **Alert** เพราะได้ไปก่อนศัตรู จึงควบคุมการต่อสู้ได้
+- อันดับ 4 คือ **Lucky** เพราะยืดหยุ่นที่สุด และช่วยชีวิตได้
+- อันดับ 5 คือ **Musician** เพราะช่วยได้ทั้งทีม
+- อันดับ 6 คือ **Skilled** เพราะเพิ่มความหลากหลายนอกการต่อสู้
 - **7** Feat **Healer**, ทำไม จำเป็นถ้าทีมไม่มีคนรักษา
 - **8** Feat **Savage Attacker**, ทำไม ดีกับสายอาวุธหนัก
 - **9** Feat **Crafter**, ทำไม เน้น roleplay
@@ -346,3 +350,13 @@ Bedroll, Block and Tackle, Book, Bucket, Caltrops, Candle, Chest, Climber's Kit,
 - [Background ทั้ง 16 แบบ](00-backgrounds-overview.md)
 - [เลเวล 4+ (General Feats)](../05-feats/general-feats.md)
 - [ภาพรวมคลาสทั้ง 12](../04-classes/00-classes-overview.md)
+
+---
+
+## สรุป Origin Feat ในหนึ่งบรรทัด
+
+Origin Feat คือความสามารถพิเศษที่ได้ฟรีตั้งแต่เลเวล 1 ผ่านภูมิหลัง (Background) โดยมือใหม่เลือก Tough, Magic Initiate หรือ Alert แล้วใช้ได้จริงกับทุกคลาส
+
+---
+
+[กลับหน้ารวม Background](00-backgrounds-overview.md)

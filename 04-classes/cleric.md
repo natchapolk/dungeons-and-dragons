@@ -6,30 +6,30 @@
 
 ## ภาพรวม
 
-**คลีริก / นักบวช (Cleric)** คือผู้รับใช้เทพเจ้าที่ได้รับพลังศักดิ์สิทธิ์มาใช้ พวกเขาเป็น **ผู้รักษาที่ดีที่สุดในเกม** แต่ก็สามารถสวมเกราะหนักและยืนแนวหน้าได้ด้วย
+**คลีริก / นักบวช (Cleric)** คือผู้รับใช้เทพเจ้าที่ได้รับพลังศักดิ์สิทธิ์มาใช้ พวกเขาเป็น ผู้รักษาที่ดีที่สุดในเกม แต่ก็สามารถสวมเกราะหนักและยืนแนวหน้าได้ด้วย
 
-**แนะนำสำหรับผู้เล่นใหม่ที่อยากใช้เวท** เพราะ Cleric **เตรียมสเปลใหม่ได้ทุกวัน** ถ้าเลือกผิดก็แก้ได้ ไม่เหมือนคลาสอื่นที่ผูกกับสเปลตลอดไป
+แนะนำสำหรับผู้เล่นใหม่ที่อยากใช้เวท เพราะ Cleric เตรียมสเปลใหม่ได้ทุกวัน ถ้าเลือกผิดก็แก้ได้ ไม่เหมือนคลาสอื่นที่ผูกกับสเปลตลอดไป
 
 ---
 
 ## ข้อมูลพื้นฐาน (Class Table)
 
 - **Primary Ability** **Wisdom (WIS)**
-- **Hit Die** **d8**
-- **HP เลเวล 1** **8 + CON modifier**
-- **HP เลเวลถัดไป** **1d8 + CON** (หรือค่าคงที่ **5 + CON**)
+- **Hit Die** d8
+- **HP เลเวล 1** 8 + CON modifier
+- **HP เลเวลถัดไป** 1d8 + CON (หรือค่าคงที่ 5 + CON)
 - **Saving Throw Proficiency** **Wisdom, Charisma**
 - **Armor Proficiency** Light, Medium Armor, **Heavy ได้จาก Divine Order: Protector (Shield)**
 - **Weapon Proficiency** Simple Weapons (Martial ได้จาก Divine Order: Protector)
-- **Skill Proficiency** เลือก **2** จาก: **History, Insight, Medicine, Persuasion, Religion**
+- **Skill Proficiency** เลือก 2 จาก: **History, Insight, Medicine, Persuasion, Religion**
 - **Spellcasting Ability** **Wisdom (WIS)**
 - **Spellcasting Focus** **ติดบนโล่ได้ (Holy Symbol)**
-- **Subclass (Divine Domain)** เลือกที่ **เลเวล 3**
+- **Subclass (Divine Domain)** เลือกที่ เลเวล 3
 
 ### อุปกรณ์เริ่มต้น
 
-**เลือก A:** Chain Shirt, Shield, Mace, Holy Symbol, Priest's Pack, **7 GP**
-**เลือก B:** **110 GP** ไปซื้อเอง
+**เลือก A:** Chain Shirt, Shield, Mace, Holy Symbol, Priest's Pack, 7 GP
+**เลือก B:** 110 GP ไปซื้อเอง
 
 ---
 
@@ -67,10 +67,10 @@
 - ใช้ **Wisdom** เป็นค่าร่ายเวท
 - **Spell Save DC = 8 + WIS modifier + Proficiency Bonus**
 - **Spell Attack = WIS modifier + Proficiency Bonus**
-- **เตรียมสเปลใหม่ได้ทั้งหมดทุกครั้งที่จบ Long Rest** [แนะนำ] เลือกจาก **รายการเวท Cleric ทั้งหมด**
+- เตรียมสเปลใหม่ได้ทั้งหมดทุกครั้งที่จบ Long Rest [แนะนำ] เลือกจาก รายการเวท Cleric ทั้งหมด
 - **Spellcasting Focus:** **สามารถติดบนโล่หรือประดับบนเกราะได้ (Holy Symbol)**
 
-**นี่คือข้อได้เปรียบที่ใหญ่ที่สุดของ Cleric** คุณ "รู้" สเปลทั้งหมดในรายการ แค่ต้องเลือกว่าจะเตรียมอันไหนในแต่ละวัน
+นี่คือข้อได้เปรียบที่ใหญ่ที่สุดของ Cleric คุณ "รู้" สเปลทั้งหมดในรายการ แค่ต้องเลือกว่าจะเตรียมอันไหนในแต่ละวัน
 
 ---
 
@@ -78,8 +78,8 @@
 
 เลือก 1 แบบ (เปลี่ยนไม่ได้):
 
-- **ผู้พิทักษ์ (Protector)** **Proficiency ใน Martial Weapons และ Heavy Armor** สายยืนหน้า AC สูง ตีได้แรง
-- **ผู้ทำอัศจรรย์ (Thaumaturge)** **Cantrip เพิ่ม 1 อัน** จากรายการ Cleric **บวก WIS modifier (ขั้นต่ำ +1) ในการทอย Arcana และ Religion Check** สายเวท เน้นร่ายเวทและความรู้
+- **ผู้พิทักษ์ (Protector)** Proficiency ใน Martial Weapons และ Heavy Armor สายยืนหน้า AC สูง ตีได้แรง
+- **ผู้ทำอัศจรรย์ (Thaumaturge)** Cantrip เพิ่ม 1 อัน จากรายการ Cleric บวก WIS modifier (ขั้นต่ำ +1) ในการทอย Arcana และ Religion Check สายเวท เน้นร่ายเวทและความรู้
 
 **แนะนำมือใหม่: Protector** ใส่ Plate Armor (AC 18) + Shield (+2) = **AC 20** ทำให้ไม่ต้องกลัวการยืนแนวหน้า
 
@@ -88,21 +88,21 @@
 ### เลเวล 2 พลังแห่งเทพ (Channel Divinity)
 
 **ใช้ได้ 2 ครั้ง** (3 ครั้งที่เลเวล 6, 4 ครั้งที่เลเวล 18)
-**ฟื้น: 1 ครั้งเมื่อ Short Rest, ทั้งหมดเมื่อ Long Rest**
+ฟื้น: 1 ครั้งเมื่อ Short Rest, ทั้งหมดเมื่อ Long Rest
 
 **ทุก Cleric ได้ 2 อย่างพื้นฐาน:**
 
-- **Divine Spark** [แนะนำ] **Magic action:** ชี้ไปที่สิ่งมีชีวิตในระยะ 30 ฟุต ทอย **d8 จำนวนเท่ากับครึ่งเลเวล Cleric (ปัดขึ้น)** **รักษา:** ฟื้น HP = ผลรวม + WIS modifier **หรือทำร้าย:** เป้าหมายทอย **CON Save** ล้มเหลว = รับ **Radiant หรือ Necrotic** = ผลรวม + WIS modifier (สำเร็จ = ครึ่ง)
-- **Turn Undead** **Magic action:** Undead ในระยะ 30 ฟุตทอย **WIS Save** ล้มเหลว = **Frightened + ต้องหนีจากคุณ** 1 นาที (จบเมื่อได้รับดาเมจ)
+- **Divine Spark** [แนะนำ] **Magic action:** ชี้ไปที่สิ่งมีชีวิตในระยะ 30 ฟุต ทอย d8 จำนวนเท่ากับครึ่งเลเวล Cleric (ปัดขึ้น) **รักษา:** ฟื้น HP = ผลรวม + WIS modifier หรือทำร้าย: เป้าหมายทอย **CON Save** ล้มเหลว = รับ Radiant หรือ Necrotic = ผลรวม + WIS modifier (สำเร็จ = ครึ่ง)
+- **Turn Undead** **Magic action:** Undead ในระยะ 30 ฟุตทอย **WIS Save** ล้มเหลว = Frightened + ต้องหนีจากคุณ 1 นาที (จบเมื่อได้รับดาเมจ)
 
-**+ Channel Divinity เพิ่มจาก Subclass**
++ Channel Divinity เพิ่มจาก Subclass
 
 ---
 
 ### เลเวล 5 เผาผลาญอันเดด (Sear Undead)
 
-**เมื่อคุณใช้ Turn Undead** Undead ทุกตัวที่ทอย Save ล้มเหลว **รับดาเมจ Radiant เพิ่มด้วย**
-**ดาเมจ = จำนวน d8 เท่ากับ WIS modifier +...**
+**เมื่อคุณใช้ Turn Undead** Undead ทุกตัวที่ทอย Save ล้มเหลว รับดาเมจ Radiant เพิ่มด้วย
+ดาเมจ = จำนวน d8 เท่ากับ WIS modifier +...
 
 (Undead ที่ Save สำเร็จก็ยังไม่รับดาเมจ)
 
@@ -112,21 +112,21 @@
 
 เลือก 1 แบบ (เปลี่ยนไม่ได้):
 
-- **Divine Strike** **1 ครั้ง/เทิร์น:** เมื่อคุณตีโดนด้วย **อาวุธ** เพิ่มดาเมจ **1d8 Necrotic หรือ Radiant**
-- **Potent Spellcasting** **บวก WIS modifier ในดาเมจของ Cantrip ทุกอัน**
+- **Divine Strike** 1 ครั้ง/เทิร์น: เมื่อคุณตีโดนด้วย **อาวุธ** เพิ่มดาเมจ 1d8 Necrotic หรือ Radiant
+- **Potent Spellcasting** บวก WIS modifier ในดาเมจของ Cantrip ทุกอัน
 
-**Protector Cleric เลือก Divine Strike** และ **Thaumaturge Cleric เลือก Potent Spellcasting**
+Protector Cleric เลือก Divine Strike และ Thaumaturge Cleric เลือก Potent Spellcasting
 
 ---
 
 ### เลเวล 10 การแทรกแซงของเทพ (Divine Intervention)
 
 **Magic action:** อธิษฐานขอความช่วยเหลือจากเทพ
-**ร่ายสเปลระดับ 5 หรือต่ำกว่า จากรายการ Cleric หรือ Wizard ได้ทันที โดยไม่เสีย Spell Slot และไม่ต้องใช้ Material Component**
+ร่ายสเปลระดับ 5 หรือต่ำกว่า จากรายการ Cleric หรือ Wizard ได้ทันที โดยไม่เสีย Spell Slot และไม่ต้องใช้ Material Component
 
 **ใช้ได้ 1 ครั้งต่อ Long Rest**
 
-**กฎ 2024 เปลี่ยนจากกฎเก่าอย่างสิ้นเชิง** เมื่อก่อนต้องทอยเปอร์เซ็นต์ลุ้น ตอนนี้ **ได้ผลแน่นอน 100%**
+กฎ 2024 เปลี่ยนจากกฎเก่าอย่างสิ้นเชิง เมื่อก่อนต้องทอยเปอร์เซ็นต์ลุ้น ตอนนี้ ได้ผลแน่นอน 100%
 
 **ตัวอย่างการใช้:** ร่าย Raise Dead ฟรี เมื่อเพื่อนตาย, ร่าย Wall of Force ฟรีในจังหวะคับขัน และ ร่าย Greater Restoration ฟรี
 
@@ -134,28 +134,28 @@
 
 ### เลเวล 14 Improved Blessed Strikes
 
-**Divine Strike:** ดาเมจเพิ่มเป็น **2d8**
-**Potent Spellcasting:** เมื่อคุณทำดาเมจใครด้วย Cantrip **ให้ Temp HP = ครึ่งหนึ่งของเลเวล Cleric** แก่ตัวเองหรือเพื่อนในระยะ 60 ฟุต
+**Divine Strike:** ดาเมจเพิ่มเป็น 2d8
+**Potent Spellcasting:** เมื่อคุณทำดาเมจใครด้วย Cantrip ให้ Temp HP = ครึ่งหนึ่งของเลเวล Cleric แก่ตัวเองหรือเพื่อนในระยะ 60 ฟุต
 
 ---
 
 ### เลเวล 20 Greater Divine Intervention Capstone
 
-**Divine Intervention สามารถร่ายสเปล Wish ได้**
-(แต่ถ้าใช้แบบนี้ จะใช้ Divine Intervention ไม่ได้อีก **จนกว่าจะผ่านไป 2d4 Long Rest**)
+Divine Intervention สามารถร่ายสเปล Wish ได้
+(แต่ถ้าใช้แบบนี้ จะใช้ Divine Intervention ไม่ได้อีก จนกว่าจะผ่านไป 2d4 Long Rest)
 
 ---
 
 ## Subclasses (Divine Domain) เลือกที่เลเวล 3
 
-Cleric มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **เลเวล 3, 6, 17**
-**ทุก Subclass ให้ "Domain Spells" ที่เตรียมไว้เสมอ (ไม่นับโควตา)**
+Cleric มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ เลเวล 3, 6, 17
+ทุก Subclass ให้ "Domain Spells" ที่เตรียมไว้เสมอ (ไม่นับโควตา)
 
 ---
 
 ### 1. Life Domain ศาสตร์แห่งชีวิต
 
-**ธีม:** ผู้รักษาผู้ยิ่งใหญ่ **สายรักษาที่แรงที่สุด**
+**ธีม:** ผู้รักษาผู้ยิ่งใหญ่ สายรักษาที่แรงที่สุด
 
 **Domain Spells:**
 
@@ -166,20 +166,20 @@ Cleric มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 **เลเวล 3 Disciple of Life**
 
-[แนะนำมาก] ทุกครั้งที่สเปลระดับ 1 ขึ้นไปของคุณฟื้น HP **ฟื้นเพิ่ม 2 + ระดับสเปล**
+[แนะนำมาก] ทุกครั้งที่สเปลระดับ 1 ขึ้นไปของคุณฟื้น HP ฟื้นเพิ่ม 2 + ระดับสเปล
 
 **เลเวล 3 Preserve Life (Channel Divinity)**
 
-**Magic action:** [แนะนำ] แจก HP รวม **5 คูณ เลเวล Cleric** ให้สิ่งมีชีวิตในระยะ 30 ฟุต (แบ่งได้ตามใจ) แต่ฟื้นได้ไม่เกินครึ่งหนึ่งของ HP สูงสุดของแต่ละคน
+**Magic action:** [แนะนำ] แจก HP รวม 5 คูณ เลเวล Cleric ให้สิ่งมีชีวิตในระยะ 30 ฟุต (แบ่งได้ตามใจ) แต่ฟื้นได้ไม่เกินครึ่งหนึ่งของ HP สูงสุดของแต่ละคน
 
 **เลเวล 6 Blessed Healer**
 
-[แนะนำ] เมื่อคุณร่ายสเปลรักษาใส่**คนอื่น** **คุณเองก็ฟื้น 2 + ระดับสเปล HP ด้วย**
+[แนะนำ] เมื่อคุณร่ายสเปลรักษาใส่คนอื่น คุณเองก็ฟื้น 2 + ระดับสเปล HP ด้วย
 
 **เลเวล 17 Supreme Healing**
 
-[แนะนำมาก] ทุกครั้งที่ทอยเต๋ารักษา **ใช้ค่าสูงสุดของเต๋าทันที ไม่ต้องทอย**
-- (เช่น Cure Wounds ระดับ 5 = 6d8 **48 HP เสมอ**)
+[แนะนำมาก] ทุกครั้งที่ทอยเต๋ารักษา ใช้ค่าสูงสุดของเต๋าทันที ไม่ต้องทอย
+- (เช่น Cure Wounds ระดับ 5 = 6d8 48 HP เสมอ)
 
 **แนะนำมือใหม่ที่สุด** เป็นสายที่ทีมต้องการมากที่สุดและเข้าใจง่ายที่สุด
 
@@ -198,21 +198,21 @@ Cleric มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 **เลเวล 3 Radiance of the Dawn (Channel Divinity)**
 
-**Magic action:** [แนะนำ] สลาย Magical Darkness ในระยะ 30 ฟุต และ ศัตรูในระยะทอย **CON Save** ล้มเหลว = **2d10 + เลเวล Cleric Radiant damage** (สำเร็จ = ครึ่ง)
+**Magic action:** [แนะนำ] สลาย Magical Darkness ในระยะ 30 ฟุต และ ศัตรูในระยะทอย **CON Save** ล้มเหลว = 2d10 + เลเวล Cleric Radiant damage (สำเร็จ = ครึ่ง)
 
 **เลเวล 3 Warding Flare**
 
-**Reaction:** [แนะนำ] เมื่อสิ่งมีชีวิตที่คุณมองเห็นในระยะ 30 ฟุตโจมตี **ทำให้การโจมตีนั้นเสียเปรียบ** ใช้ได้ **WIS modifier ครั้ง/Long Rest**
+**Reaction:** [แนะนำ] เมื่อสิ่งมีชีวิตที่คุณมองเห็นในระยะ 30 ฟุตโจมตี ทำให้การโจมตีนั้นเสียเปรียบ ใช้ได้ WIS modifier ครั้ง/Long Rest
 
 **เลเวล 6 Improved Warding Flare**
 
-**Warding Flare ฟื้นทุก Short Rest** และ และเป้าหมายที่คุณป้องกัน **ฟื้น 2d6 + WIS modifier HP**
+Warding Flare ฟื้นทุก Short Rest และ และเป้าหมายที่คุณป้องกัน ฟื้น 2d6 + WIS modifier HP
 
 **เลเวล 17 Corona of Light**
 
-**Magic action:** [แนะนำ] เปล่งแสง **Bright Light 60 ฟุต** เป็นเวลา 1 นาที ศัตรูในแสง **เสียเปรียบในการทอย Save ต้านสเปลที่ทำ Radiant หรือ Fire damage**
+**Magic action:** [แนะนำ] เปล่งแสง Bright Light 60 ฟุต เป็นเวลา 1 นาที ศัตรูในแสง เสียเปรียบในการทอย Save ต้านสเปลที่ทำ Radiant หรือ Fire damage
 
-**เป็น Cleric สายเดียวที่ได้ Fireball**
+เป็น Cleric สายเดียวที่ได้ Fireball
 
 ---
 
@@ -227,24 +227,24 @@ Cleric มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 - เลเวล 7 ได้ Confusion, Dimension Door
 - เลเวล 9 ได้ Dominate Person, Modify Memory
 
-**เลเวล 3 Blessing of the Trickster**
+เลเวล 3 Blessing of the Trickster
 
-**Magic action:** ให้เพื่อน 1 คน (หรือตัวเอง) **Advantage ใน Stealth Check** เป็นเวลา 1 ชั่วโมง
+**Magic action:** ให้เพื่อน 1 คน (หรือตัวเอง) Advantage ใน Stealth Check เป็นเวลา 1 ชั่วโมง
 
 **เลเวล 3 Invoke Duplicity (Channel Divinity)**
 
-**Bonus Action:** [แนะนำมาก] สร้าง **ภาพลวงตาของตัวเอง** ในระยะ 30 ฟุต **1 นาที**:
-- **ย้ายมันได้ 30 ฟุตด้วย Bonus Action**
+**Bonus Action:** [แนะนำมาก] สร้าง ภาพลวงตาของตัวเอง ในระยะ 30 ฟุต 1 นาที:
+- ย้ายมันได้ 30 ฟุตด้วย Bonus Action
 - **คุณร่ายเวทได้จากตำแหน่งของมัน** [แนะนำ]
-- **คุณมี Advantage ในการโจมตีศัตรูที่อยู่ในระยะ 5 ฟุตจากทั้งคุณและภาพลวงตา**
+- คุณมี Advantage ในการโจมตีศัตรูที่อยู่ในระยะ 5 ฟุตจากทั้งคุณและภาพลวงตา
 
-**เลเวล 6 Trickster's Transposition**
+เลเวล 6 Trickster's Transposition
 
-[แนะนำ] เมื่อคุณใช้ Bonus Action ย้ายภาพลวงตา **คุณสามารถวาร์ปสลับตำแหน่งกับมันได้**
+[แนะนำ] เมื่อคุณใช้ Bonus Action ย้ายภาพลวงตา คุณสามารถวาร์ปสลับตำแหน่งกับมันได้
 
 **เลเวล 17 Improved Duplicity**
 
-[แนะนำ] ภาพลวงตาให้ **Advantage** ในการโจมตีแก่ **เพื่อนทุกคน** ที่อยู่ในระยะ 5 ฟุตจากมัน และ และเมื่อภาพหายไป **แจก HP รวม 4d10 ให้สิ่งมีชีวิตที่เลือกในระยะ 30 ฟุต**
+[แนะนำ] ภาพลวงตาให้ **Advantage** ในการโจมตีแก่ เพื่อนทุกคน ที่อยู่ในระยะ 5 ฟุตจากมัน และ และเมื่อภาพหายไป แจก HP รวม 4d10 ให้สิ่งมีชีวิตที่เลือกในระยะ 30 ฟุต
 
 **Invoke Duplicity ทรงพลังมาก** ร่ายเวทจากตำแหน่งภาพลวงตา = ปลอดภัยอยู่หลังแนวแต่ปล่อยเวทจากกลางวงศัตรู
 
@@ -252,7 +252,7 @@ Cleric มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 ### 4. War Domain ศาสตร์แห่งสงคราม
 
-**ธีม:** นักบวชนักรบ **สายต่อสู้ที่แรงที่สุดของ Cleric**
+**ธีม:** นักบวชนักรบ สายต่อสู้ที่แรงที่สุดของ Cleric
 
 **Domain Spells:**
 
@@ -263,19 +263,19 @@ Cleric มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 **เลเวล 3 War Priest**
 
-**Bonus Action:** [แนะนำ] โจมตีด้วยอาวุธเพิ่ม 1 ครั้ง ใช้ได้ **WIS modifier ครั้ง (ขั้นต่ำ 1)** และ ฟื้นทุก **Short Rest**
+**Bonus Action:** [แนะนำ] โจมตีด้วยอาวุธเพิ่ม 1 ครั้ง ใช้ได้ WIS modifier ครั้ง (ขั้นต่ำ 1) และ ฟื้นทุก **Short Rest**
 
 **เลเวล 3 Guided Strike (Channel Divinity)**
 
-**บวก +10 ในการทอยโจมตี** [แนะนำ] (ใช้หลังทอย ก่อนรู้ผล) และ ใช้กับ**เพื่อนได้ด้วย** (ใช้ Reaction)
+**บวก +10 ในการทอยโจมตี** [แนะนำ] (ใช้หลังทอย ก่อนรู้ผล) และ ใช้กับเพื่อนได้ด้วย (ใช้ Reaction)
 
 **เลเวล 6 War God's Blessing**
 
-**สเปล Shield of Faith และ Spiritual Weapon ร่ายได้โดยไม่เสีย Spell Slot** [แนะนำ] ใช้ได้อย่างละ 1 ครั้ง/Long Rest
+สเปล Shield of Faith และ Spiritual Weapon ร่ายได้โดยไม่เสีย Spell Slot [แนะนำ] ใช้ได้อย่างละ 1 ครั้ง/Long Rest
 
 **เลเวล 17 Avatar of Battle**
 
-**Resistance ต่อ Bludgeoning, Piercing, และ Slashing damage** ที่ไม่ใช่เวท
+Resistance ต่อ Bludgeoning, Piercing, และ Slashing damage ที่ไม่ใช่เวท
 
 **แนะนำสำหรับผู้เล่นที่อยากตี** Divine Order: Protector + War Domain = Cleric ที่สู้ได้เกือบเท่า Paladin
 
@@ -283,10 +283,10 @@ Cleric มี Subclass 4 สายใน PHB 2024 ได้ Feature ที่ **
 
 ## เปรียบเทียบ 4 Subclass
 
-- **จุดเด่น** **รักษาแรงสุด** **ดาเมจสูงสุด** (Fireball) ลอบเร้น + ควบคุม **ต่อสู้แรงสุด**
+- **จุดเด่น** รักษาแรงสุด ดาเมจสูงสุด (Fireball) ลอบเร้น + ควบคุม ต่อสู้แรงสุด
 - **ความยาก** ง่ายสุด ง่าย กลาง ง่าย
 - **Divine Order** Thaumaturge Thaumaturge ทั้งสอง **Protector**
-- **แนะนำมือใหม่** **ใช่** ใช่ ใช่ **ใช่**
+- **แนะนำมือใหม่** ใช่ ใช่ ใช่ ใช่
 
 ---
 ---
@@ -346,18 +346,18 @@ Spell Save DC เท่ากับ 8 บวก Proficiency Bonus บวก WIS 
 
 ### ข้อผิดพลาดที่มือใหม่ทำบ่อย
 
-- เป็นแค่ "หมอ" คอยรักษาอย่างเดียว **Cleric สู้ได้!** Spirit Guardians + ตีอาวุธ ดาเมจดีมาก
+- เป็นแค่ "หมอ" คอยรักษาอย่างเดียว Cleric สู้ได้! Spirit Guardians + ตีอาวุธ ดาเมจดีมาก
 - ใช้ Cure Wounds ระหว่างการต่อสู้ ใช้ **Healing Word (Bonus Action)** แทน ยังตีได้ในเทิร์นเดียวกัน
-- รักษาเพื่อนตั้งแต่ HP เหลือครึ่ง **รอให้ล้มก่อนแล้วค่อย Healing Word** ประหยัด Slot กว่ามาก
-- ไม่ใช้ Guidance นอกการต่อสู้ **ใช้ทุกครั้งที่เพื่อนทอย Ability Check** +1d4 ฟรี
-- ลืมว่าเปลี่ยนสเปลที่เตรียมได้ทุกวัน **ปรับสเปลตามภารกิจ** เจอ Undead? เตรียม Guiding Bolt เยอะ ๆ
+- รักษาเพื่อนตั้งแต่ HP เหลือครึ่ง รอให้ล้มก่อนแล้วค่อย Healing Word ประหยัด Slot กว่ามาก
+- ไม่ใช้ Guidance นอกการต่อสู้ ใช้ทุกครั้งที่เพื่อนทอย Ability Check +1d4 ฟรี
+- ลืมว่าเปลี่ยนสเปลที่เตรียมได้ทุกวัน ปรับสเปลตามภารกิจ เจอ Undead? เตรียม Guiding Bolt เยอะ ๆ
 - ปล่อย CON ต่ำ CON ช่วยทั้ง HP และการรักษา Concentration
 
 ---
 
 ## สรุป Cleric ในหนึ่งบรรทัด
 
-**รักษาได้ดีที่สุด + ใส่เกราะหนักยืนแนวหน้าได้ + เข้าถึงสเปลทั้งรายการและเปลี่ยนได้ทุกวัน = คลาสสายเวทที่ผิดพลาดได้และทีมทุกทีมต้องการ**
+รักษาได้ดีที่สุด + ใส่เกราะหนักยืนแนวหน้าได้ + เข้าถึงสเปลทั้งรายการและเปลี่ยนได้ทุกวัน = คลาสสายเวทที่ผิดพลาดได้และทีมทุกทีมต้องการ
 
 ---
 

@@ -13,7 +13,7 @@
 ### ได้อะไรบ้างจาก Short Rest
 
 - **ฟื้น HP ด้วย Hit Dice** ใช้ Hit Dice กี่ลูกก็ได้ ทอยแล้วบวก CON modifier ต่อลูก
-- **ฟื้น Feature ที่ระบุว่าคืนทุก Short Rest** เช่น **ลมหายใจที่สอง (Second Wind)** และ **พลังโหมโรม (Action Surge)** ของ Fighter, Pact Magic Slots ของ Warlock, **แต้มสมาธิ (Focus Points)** ของ Monk และ **แรงบันดาลใจนักดนตรี (Bardic Inspiration)** ของ Bard ตั้งแต่เลเวล 5 ขึ้นไป
+- ฟื้น Feature ที่ระบุว่าคืนทุก Short Rest เช่น **ลมหายใจที่สอง (Second Wind)** และ **พลังโหมโรม (Action Surge)** ของ Fighter, Pact Magic Slots ของ Warlock, **แต้มสมาธิ (Focus Points)** ของ Monk และ **แรงบันดาลใจนักดนตรี (Bardic Inspiration)** ของ Bard ตั้งแต่เลเวล 5 ขึ้นไป
 
 ### เต๋าพลังชีวิต (Hit Dice)
 
@@ -38,7 +38,7 @@
 - **HP** ฟื้นเต็มทั้งหมด
 - **Hit Dice** คืนให้ครึ่งหนึ่งของเลเวล ปัดเศษลง แต่อย่างน้อยคืน 1 ลูก
 - **Spell Slots** คืนทั้งหมด
-- **Feature ที่ระบุว่าคืนทุก Long Rest** คืนทั้งหมด เช่น **โหมดคลั่ง (Rage)**, **พลังศักดิ์สิทธิ์ (Channel Divinity)** และ **แปลงร่างสัตว์ (Wild Shape)**
+- Feature ที่ระบุว่าคืนทุก Long Rest คืนทั้งหมด เช่น **โหมดคลั่ง (Rage)**, **พลังศักดิ์สิทธิ์ (Channel Divinity)** และ **แปลงร่างสัตว์ (Wild Shape)**
 - **Exhaustion** ลดลง 1 ระดับ โดยต้องกินอาหารและดื่มน้ำครบด้วย
 - **การเตรียมเวทใหม่** Cleric, Druid, Paladin และ Wizard เปลี่ยนรายการเวทที่เตรียมได้
 - **Temporary HP** หายไปทั้งหมด และไม่ได้คืน
@@ -172,7 +172,7 @@
 - **ยาฟื้นพลัง (Healing Potion)** ฟื้นตั้งแต่ 2d4 บวก 2 ขึ้นไป และดื่มเองได้ด้วย Bonus Action
 - **ลมหายใจที่สอง (Second Wind)** ของ Fighter ฟื้น 1d10 บวกเลเวล Fighter
 - **มือรักษา (Lay on Hands)** ของ Paladin ดึงจากคลัง HP ที่มีขนาดเท่ากับ 5 คูณเลเวล Paladin
-- **ชุดปฐมพยาบาลรวมกับ Feat ชื่อ Healer** ฟื้น 1d6 บวก 4 บวก Hit Die ของเป้าหมาย
+- ชุดปฐมพยาบาลรวมกับ Feat ชื่อ Healer ฟื้น 1d6 บวก 4 บวก Hit Die ของเป้าหมาย
 - **Feature ของคลาสอื่น ๆ** เช่น Song of Rest ให้ผลตามที่ระบุไว้ในคลาสนั้น
 
 ---

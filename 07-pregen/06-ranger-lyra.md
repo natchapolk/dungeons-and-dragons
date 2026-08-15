@@ -8,7 +8,7 @@
 
 **Lyra Nightbranch** ใช้เวลาแปดสิบปีแรกของชีวิตในป่าเดียวกัน จนกระทั่งต้นไม้เริ่มตายจากด้านใน เธอตามรอยความเน่านั้นออกมาจากป่า และพบว่ามันไม่ได้เริ่มต้นที่นั่น เธอยังตามรอยอยู่จนถึงตอนนี้
 
-**ยิงจากระยะไกลได้ปลอดภัย และเป็นคนที่หาทาง ตามรอย และมองเห็นสิ่งต่าง ๆ ได้ดีที่สุดนอกดันเจี้ยน**
+ยิงจากระยะไกลได้ปลอดภัย และเป็นคนที่หาทาง ตามรอย และมองเห็นสิ่งต่าง ๆ ได้ดีที่สุดนอกดันเจี้ยน
 เร็วที่สุดร่วมกับ Thokk (35 ฟุต)
 
 ---
@@ -34,16 +34,14 @@
 
 ## ค่าพลัง (Ability Scores)
 
-ตารางข้างล่างมี 4 คอลัมน์ คือ ค่า, คะแนน, Modifier และ Saving Throw
+รายการข้างล่างเรียงค่าตามลำดับ คือ ค่า, คะแนน, Modifier และ Saving Throw
 
-| ค่า | คะแนน | Modifier | Saving Throw |
-|---|---|---|---|
-| **STR** | 10 | 0 | **+2** (ถนัด) |
-| **DEX** | **17** | **+3** | **+5** (ถนัด) |
-| **CON** | **14** | **+2** | +2 |
-| **INT** | 12 | +1 | +1 |
-| **WIS** | **15** | **+2** | +2 |
-| **CHA** | 8 | −1 | −1 |
+- STR มีคะแนน 10 Modifier 0 และ Saving Throw +2 ซึ่งเป็นค่าที่ถนัด
+- DEX มีคะแนน 17 Modifier +3 และ Saving Throw +5 ซึ่งเป็นค่าที่ถนัด
+- CON มีคะแนน 14 Modifier +2 และ Saving Throw +2
+- INT มีคะแนน 12 Modifier +1 และ Saving Throw +1
+- WIS มีคะแนน 15 Modifier +2 และ Saving Throw +2
+- CHA มีคะแนน 8 Modifier -1 และ Saving Throw -1
 
 **ที่มา:** Standard Array + Guide แบบ A (DEX +2, WIS +1)
 
@@ -51,18 +49,16 @@
 
 ## ทักษะ (Skills)
 
-ตารางข้างล่างมี 3 คอลัมน์ คือ ทักษะ, ค่า และ มาจาก
+รายการข้างล่างเรียงค่าตามลำดับ คือ ทักษะ, ค่า และ มาจาก
 
-| ทักษะ | ค่า | มาจาก |
-|---|---|---|
-| **Stealth** | **+5** | Guide |
-| **Survival** | **+4** | Guide |
-| **Perception** | **+4** | Ranger |
-| **Animal Handling** | **+4** | Ranger |
-| **Insight** | **+4** | Wood Elf (Keen Senses) |
-| **Nature** | **+3** | Ranger |
+- Stealth ค่า +5 มาจาก Guide
+- Survival ค่า +4 มาจาก Guide
+- Perception ค่า +4 มาจาก Ranger
+- Animal Handling ค่า +4 มาจาก Ranger
+- Insight ค่า +4 มาจาก Wood Elf (Keen Senses)
+- Nature ค่า +3 มาจาก Ranger
 
-**Tool:** Cartographer's Tools **+3**
+**Tool:** Cartographer's Tools +3
 
 **Passive Perception 14** สูงเป็นอันดับสองรองจาก Pip
 
@@ -76,15 +72,15 @@
 
 ### Cantrip ที่มี
 
-- **Guidance [แนะนำ]** ทำอะไร สัมผัสเพื่อน แล้ว เขาได้ **+1d4 ใน Ability Check 1 ครั้ง**, มาจาก Magic Initiate (Druid)
-- **Thorn Whip** ทำอะไร Spell Attack +4 ระยะ 30 ฟุต จะ **1d6 Piercing** + **ดึงศัตรูเข้ามา 10 ฟุต**, มาจาก Magic Initiate (Druid)
+- **Guidance [แนะนำ]** ทำอะไร สัมผัสเพื่อน แล้ว เขาได้ +1d4 ใน Ability Check 1 ครั้ง, มาจาก Magic Initiate (Druid)
+- **Thorn Whip** ทำอะไร Spell Attack +4 ระยะ 30 ฟุต จะ 1d6 Piercing + ดึงศัตรูเข้ามา 10 ฟุต, มาจาก Magic Initiate (Druid)
 - **Druidcraft** ทำอะไร ทำนายอากาศ 24 ชม. / ทำให้ดอกไม้บาน / จุดหรือดับไฟเล็ก ๆ, มาจาก Wood Elf
 
 ### สเปลระดับ 1 Spell Slot 2 ช่อง
 
-- **Hunter's Mark [แนะนำ]** ใช้ Action **Bonus Action** (Concentration), ทำอะไร **เตรียมไว้เสมอ ไม่นับโควตา** ทำเครื่องหมายศัตรู 1 ตัว **เพิ่ม 1d6 Force ทุกครั้งที่คุณตีมัน**, ถ้ามันตาย ย้ายเครื่องหมายได้ฟรี และ **ร่ายฟรี 2 ครั้งต่อวัน**
-- **Cure Wounds** ใช้ Action Action, ทำอะไร สัมผัส แล้ว ฟื้น **2d8 + 2** HP
-- **Ensnaring Strike** ใช้ Action **Bonus Action** (Concentration), ทำอะไร หลังตีโดน แล้ว ศัตรูทอย STR Save ล้มเหลว = **Restrained + 1d6 Piercing ทุกเทิร์น**
+- **Hunter's Mark [แนะนำ]** ใช้ Action **Bonus Action** (Concentration), ทำอะไร เตรียมไว้เสมอ ไม่นับโควตา ทำเครื่องหมายศัตรู 1 ตัว เพิ่ม 1d6 Force ทุกครั้งที่คุณตีมัน, ถ้ามันตาย ย้ายเครื่องหมายได้ฟรี และ ร่ายฟรี 2 ครั้งต่อวัน
+- **Cure Wounds** ใช้ Action Action, ทำอะไร สัมผัส แล้ว ฟื้น 2d8 + 2 HP
+- **Ensnaring Strike** ใช้ Action **Bonus Action** (Concentration), ทำอะไร หลังตีโดน แล้ว ศัตรูทอย STR Save ล้มเหลว = Restrained + 1d6 Piercing ทุกเทิร์น
 
 **สเปลฟรีจาก Magic Initiate (Druid):** ร่าย **Goodberry** ได้ฟรี 1 ครั้งต่อ Long Rest
 (สร้างเบอร์รี่ 10 ลูก ลูกละ 1 HP กินด้วย Bonus Action เป็นการรักษาฉุกเฉินที่ดี)
@@ -95,10 +91,10 @@
 
 ### Favored Enemy ศัตรูที่ถูกเลือก
 
-**Hunter's Mark เป็นสเปลที่เตรียมไว้เสมอ** (ไม่นับโควตา 2 อัน)
-**และร่ายได้ฟรี 2 ครั้งต่อ Long Rest โดยไม่เสีย Spell Slot**
+Hunter's Mark เป็นสเปลที่เตรียมไว้เสมอ (ไม่นับโควตา 2 อัน)
+และร่ายได้ฟรี 2 ครั้งต่อ Long Rest โดยไม่เสีย Spell Slot
 
-**ร่าย Hunter's Mark ในเทิร์นแรกของทุกการต่อสู้** เพิ่ม 1d6 ทุกครั้งที่ยิงโดน
+ร่าย Hunter's Mark ในเทิร์นแรกของทุกการต่อสู้ เพิ่ม 1d6 ทุกครั้งที่ยิงโดน
 
 ### ความสามารถอื่นจากคลาส
 
@@ -106,16 +102,16 @@
 
 ### Weapon Mastery ที่เลือกไว้
 
-- **Longbow** Mastery **Slow** (หน่วง), ผลเมื่อตีโดน **ลด Speed ของศัตรู 10 ฟุต** ทำให้ศัตรูเข้าถึงคุณช้าลง
+- **Longbow** Mastery **Slow** (หน่วง), ผลเมื่อตีโดน ลด Speed ของศัตรู 10 ฟุต ทำให้ศัตรูเข้าถึงคุณช้าลง
 - **Shortsword** Mastery **Vex** (รบกวน), ผลเมื่อตีโดน การโจมตีครั้งถัดไปของคุณต่อศัตรูตัวนั้น **ได้เปรียบ**
 
 ### จากเผ่าพันธุ์ Wood Elf
 
 - **Speed 35 ฟุต** เร็วกว่าเผ่าอื่นส่วนใหญ่
 - **Darkvision 60 ฟุต** มองเห็นในความมืด
-- **Fey Ancestry** **Advantage ในการทอย Save ต้านสภาวะ Charmed**
+- **Fey Ancestry** Advantage ในการทอย Save ต้านสภาวะ Charmed
 - **Keen Senses** ได้ทักษะ Insight
-- **Trance** **ไม่ต้องนอน** ใช้สมาธิลึก 4 ชั่วโมงแทน (เฝ้ายามได้ทั้งคืน) และ และ **เปลี่ยน Proficiency ได้ 1 อย่างทุกครั้งที่จบ Long Rest**
+- **Trance** ไม่ต้องนอน ใช้สมาธิลึก 4 ชั่วโมงแทน (เฝ้ายามได้ทั้งคืน) และ และ เปลี่ยน Proficiency ได้ 1 อย่างทุกครั้งที่จบ Long Rest
 - **Druidcraft** ได้ Cantrip นี้
 
 ### Feat ที่มี
@@ -133,7 +129,7 @@
 - **Scimitar** 1d6 Slashing
 - **Druidic Focus** ไม้เท้ายอด ใช้เป็น Spellcasting Focus
 - **Explorer's Pack** เป้ ที่นอน เชือก คบไฟ เสบียง ถุงน้ำ
-- **เงิน** **7 GP**
+- **เงิน** 7 GP
 
 **AC 15 = Studded Leather 12 + DEX 3**
 
@@ -176,11 +172,11 @@
 
 ## เมื่อขึ้นเลเวล 2-3 ทำอะไรต่อ
 
-- **2** ได้อะไร **Fighting Style** + **Deft Explorer** (Expertise 1 ทักษะ + ภาษา 2 ภาษา), ควรเลือก Fighting Style เลือก **Archery** (**+2 ในการทอยโจมตีระยะไกล** ทำให้ยิงโดนแทบทุกครั้ง), Expertise เลือก **Perception**
+- **2** ได้อะไร **Fighting Style** + **Deft Explorer** (Expertise 1 ทักษะ + ภาษา 2 ภาษา), ควรเลือก Fighting Style เลือก **Archery** (+2 ในการทอยโจมตีระยะไกล ทำให้ยิงโดนแทบทุกครั้ง), Expertise เลือก **Perception**
 - **3** ได้อะไร เลือก **Subclass**, ควรเลือก เลือก **Hunter** (Colossus Slayer: +1d8 เมื่อศัตรู HP ไม่เต็ม ง่ายและดาเมจสม่ำเสมอ)
-- **4** ได้อะไร **ASI หรือ Feat**, ควรเลือก **เพิ่ม DEX +2** ให้เป็น 19 หรือเอา Feat **Sharpshooter**
+- **4** ได้อะไร ASI หรือ Feat, ควรเลือก เพิ่ม DEX +2 ให้เป็น 19 หรือเอา Feat **Sharpshooter**
 
-**HP ที่เพิ่มต่อเลเวล:** +6 (ค่าคงที่) + CON 2 = **+8 ต่อเลเวล**
+**HP ที่เพิ่มต่อเลเวล:** +6 (ค่าคงที่) + CON 2 = +8 ต่อเลเวล
 
 ---
 
@@ -197,7 +193,7 @@
 
 ## สรุป Lyra ในหนึ่งบรรทัด
 
-**ยิงจากระยะ 150 ฟุตพร้อม Hunter's Mark เพิ่ม 1d6 ทุกนัด เร็ว 35 ฟุต และเป็นคนนำทางที่ดีที่สุดในทีม ปลอดภัยและมีประโยชน์ทั้งในและนอกการต่อสู้**
+ยิงจากระยะ 150 ฟุตพร้อม Hunter's Mark เพิ่ม 1d6 ทุกนัด เร็ว 35 ฟุต และเป็นคนนำทางที่ดีที่สุดในทีม ปลอดภัยและมีประโยชน์ทั้งในและนอกการต่อสู้
 
 ---
 
