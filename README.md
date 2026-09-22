@@ -23,8 +23,8 @@
 7. [กฎการร่ายเวท (Spellcasting)](01-basics/07-spellcasting-rules.md)
 
 ทางลัดสำหรับคนที่อยากเริ่มเล่นวันนี้เลย:
-- ไม่อยากสร้างตัวละคร ใช้ [ตัวละครสำเร็จรูป](07-pregen/00-pregen-overview.md) หยิบไปเล่นได้ทันที
-- จะเป็น **ผู้คุมเกม (DM)** อ่าน [คู่มือ DM](06-dm/00-dm-overview.md) แล้วรัน [เหมืองเงาแบล็กรีช](09-adventures/01-blackreach-mine.md) ได้เลย
+- อ่าน [การต่อสู้ (Combat)](01-basics/05-combat.md) กับ [สภาวะผิดปกติ (Conditions)](01-basics/06-conditions.md) ให้จบ แล้วลงโต๊ะได้เลย
+- ยังไม่รู้จะเล่นคลาสไหน เปิด [ภาพรวมคลาสทั้ง 12](04-classes/00-classes-overview.md) แล้วเลือกจากรายการเทียบ
 
 ---
 
@@ -39,10 +39,11 @@
 - [การต่อสู้](01-basics/05-combat.md) ลำดับการต่อสู้, Action, Bonus Action, Reaction, AC และ HP
 - [สภาวะผิดปกติ (Conditions)](01-basics/06-conditions.md) ทั้ง 15 แบบ บวก Exhaustion
 - [กฎการร่ายเวท](01-basics/07-spellcasting-rules.md) กฎทั้งหมด, Spell Slot และ Concentration
-- [อุปกรณ์และอาวุธ](01-basics/08-equipment.md) ความชำนาญอาวุธ (Weapon Mastery) ครบทั้ง 8 แบบ พร้อมรายชื่ออาวุธของแต่ละแบบ, ชุดเกราะ, ของใช้ และเงิน
+- [อุปกรณ์และอาวุธ](01-basics/08-equipment.md) ความชำนาญอาวุธ (Weapon Mastery) ครบทั้ง 8 แบบ พร้อมรายชื่ออาวุธของแต่ละแบบ, อาวุธ 38 ชนิด, เกราะ 15 ชนิด และเงิน
 - [การพักและการเลื่อนเลเวล](01-basics/09-rest-and-leveling.md) การพัก, การเลื่อนเลเวล และรายการ XP
 - [การผจญภัยนอกการต่อสู้](01-basics/10-adventuring.md) การเดินทาง, การซ่อน, สิ่งแวดล้อม และการเข้าสังคม
 - [การเล่นหลายคลาส (Multiclassing)](01-basics/11-multiclassing.md) อธิบายแบบละเอียด
+- [ของใช้ผจญภัยและไอเทม](01-basics/12-gear-and-items.md) ของใช้ผจญภัยประมาณ 100 ชิ้นจัดกลุ่มตามการใช้งาน, ชุดอุปกรณ์สำเร็จทั้ง 7 ชุดพร้อมของข้างใน, Spellcasting Focus และองค์ประกอบเวท, เครื่องมือทุกชนิด และยา
 
 ### 02-species เผ่าพันธุ์
 
@@ -85,39 +86,6 @@
 - [ความสามารถทั่วไป (General Feats)](05-feats/general-feats.md) ของเลเวล 4 ขึ้นไป ทั้งหมด
 - [สไตล์การต่อสู้ (Fighting Style Feats)](05-feats/fighting-styles.md)
 - [พรมหากาพย์ (Epic Boon Feats)](05-feats/epic-boons.md) ของเลเวล 19
-
-### 06-dm สำหรับผู้คุมเกม (Dungeon Master)
-
-- [ภาพรวมคู่มือ DM](06-dm/00-dm-overview.md) เริ่มที่นี่ถ้าจะเป็น DM ได้แก่ หน้าที่ DM, Session Zero, การเตรียมตัว และปัญหาที่เจอบ่อย
-- [การรันเกม](06-dm/01-running-the-game.md) ตัดสิน DC, เมื่อไหร่ควรให้ทอย, การบรรยาย, การคุมจังหวะ และการจัดการโต๊ะ
-- [การออกแบบการเผชิญหน้า](06-dm/02-building-encounters.md) XP Budget, การปรับความยาก, สมดุลการต่อสู้ และวันผจญภัย
-- [การใช้มอนสเตอร์](06-dm/03-monsters.md) การอ่าน Stat Block, มอนสเตอร์แนะนำทุกระดับ, การเล่นมอนสเตอร์ และการสร้างมอนสเตอร์เอง
-- [ของวิเศษ](06-dm/04-magic-items.md) Rarity, Attunement, จังหวะที่ควรแจก, ของแนะนำทุกระดับ และสมบัติ
-- [การออกแบบการผจญภัย](06-dm/05-adventure-design.md) เบ็ดล่อ, ดันเจี้ยน 5 ห้อง, NPC, ผู้ร้าย และเทมเพลตเตรียมเซสชัน
-
-### 07-pregen ตัวละครสำเร็จรูป (หยิบเล่นได้ทันที)
-
-- [ภาพรวมตัวละครสำเร็จรูป](07-pregen/00-pregen-overview.md) เริ่มที่นี่ รายการเทียบ 8 ตัว และคำแนะนำว่าเลือกตัวไหนดี
-- [Bran นักรบผ่านศึก](07-pregen/01-fighter-bran.md) คลาส Fighter เผ่า Human มี AC 19
-- [Thokk ลูกหลานยักษ์ผู้เกรี้ยวกราด](07-pregen/02-barbarian-thokk.md) คลาส Barbarian เผ่า Goliath มี HP 16
-- [Pip หัวขโมยจอมโชคดี](07-pregen/03-rogue-pip.md) คลาส Rogue เผ่า Halfling
-- [Elara ผู้รับใช้แสงสว่าง](07-pregen/04-cleric-elara.md) คลาส Cleric เผ่า Aasimar
-- [Kaelen อัศวินสายเลือดมังกร](07-pregen/05-paladin-kaelen.md) คลาส Paladin เผ่า Dragonborn
-- [Lyra พรานแห่งพงไพร](07-pregen/06-ranger-lyra.md) คลาส Ranger เผ่า Wood Elf
-- [Seraphine นักร้องลิ้นทอง](07-pregen/07-bard-seraphine.md) คลาส Bard เผ่า Tiefling
-- [Fizzwick นักประดิษฐ์จอมเวท](07-pregen/08-wizard-fizzwick.md) คลาส Wizard เผ่า Gnome
-
-### 08-bestiary สมุดมอนสเตอร์ (Stat Block เต็ม)
-
-- [ภาพรวมสมุดมอนสเตอร์](08-bestiary/00-bestiary-overview.md) วิธีอ่าน Stat Block และรายการเลือกมอนสเตอร์
-- [มอนสเตอร์ระดับ 1](08-bestiary/01-tier-1.md) CR 0 ถึง 3 สำหรับเลเวล 1 ถึง 4 จำนวน 17 ตัว
-- [มอนสเตอร์ระดับ 2](08-bestiary/02-tier-2.md) CR 4 ถึง 10 สำหรับเลเวล 5 ถึง 10 จำนวน 11 ตัว
-- [มอนสเตอร์ระดับ 3 และ 4](08-bestiary/03-tier-3-4.md) CR 11 ขึ้นไป สำหรับเลเวล 11 ถึง 20 จำนวน 5 บอส พร้อม Legendary Action
-
-### 09-adventures การผจญภัยสำเร็จรูป
-
-- [ภาพรวมการผจญภัย](09-adventures/00-adventures-overview.md) วิธีใช้และสิ่งที่ต้องเตรียม
-- [เหมืองเงาแบล็กรีช](09-adventures/01-blackreach-mine.md) สำหรับเลเวล 1 ถึง 3 เล่นประมาณ 2 ถึง 3 เซสชัน พร้อมบทบรรยาย
 
 ### 10-spells รายละเอียดสเปลแบบเต็ม
 

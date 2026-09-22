@@ -1,6 +1,6 @@
 # ตัวละครสำเร็จรูป (Pregenerated Characters)
 
-[สารบัญ](../README.md)
+[สารบัญ](../../README.md)
 
 ---
 
@@ -109,4 +109,4 @@
 
 ---
 
-[สารบัญ](../README.md)
+[สารบัญ](../../README.md)

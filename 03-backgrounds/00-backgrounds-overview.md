@@ -84,7 +84,7 @@
 
 ---
 
-## 1. Acolyte นักบวชผู้ช่วย
+## 1. นักบวชผู้ช่วย (Acolyte)
 
 คุณรับใช้อยู่ในวิหารของเทพเจ้าองค์ใดองค์หนึ่ง เรียนรู้พิธีกรรม สวดมนต์ และดูแลผู้ศรัทธา
 
@@ -92,7 +92,7 @@
 - **Origin Feat** **Magic Initiate (Cleric)** ได้ Cantrip 2 + สเปลระดับ 1 จากรายการ Cleric
 - **Skills** **อ่านใจคน (Insight)**, **ความรู้ศาสนา (Religion)**
 - **Tool** **อุปกรณ์เขียนอักษร (Calligrapher's Supplies)**
-- **Equipment** Calligrapher's Supplies, Book (คัมภีร์), Holy Symbol, Parchment 10 อัน, Robe, 8 GP หรือ 50 GP
+- **Equipment** ได้ **อุปกรณ์เขียนอักษร (Calligrapher's Supplies)**, **หนังสือ (Book)** ที่เป็นคัมภีร์, **สัญลักษณ์ศักดิ์สิทธิ์ (Holy Symbol)**, **แผ่นหนังเขียน (Parchment)** 10 แผ่น, **ชุดคลุม (Robe)** และเงิน 8 GP หรือเลือกรับเงิน 50 GP แทนทั้งชุด แนะนำให้รับของ เพราะสัญลักษณ์ศักดิ์สิทธิ์เป็น Spellcasting Focus ที่สายศรัทธาต้องมีอยู่แล้ว
 
 **เหมาะกับ:** Cleric [แนะนำ], Paladin, Warlock (Celestial), Bard, Wizard
 
@@ -100,7 +100,7 @@
 
 ---
 
-## 2. Artisan ช่างฝีมือ
+## 2. ช่างฝีมือ (Artisan)
 
 คุณฝึกงานกับช่างฝีมือมาตั้งแต่เด็ก เรียนรู้การผลิตสินค้าและการค้าขาย
 
@@ -108,7 +108,7 @@
 - **Origin Feat** **Crafter** ซื้อของถูกลง 20% + ทำของได้เร็วขึ้น
 - **Skills** **สืบสวน (Investigation)**, **โน้มน้าว (Persuasion)**
 - **Tool** **เลือก 1 ชนิด (Artisan's Tools)**
-- **Equipment** Artisan's Tools, Pouch 2 อัน, Traveler's Clothes, 32 GP หรือ 50 GP
+- **Equipment** ได้ **เครื่องมือช่าง (Artisan's Tools)**, **ถุงเล็ก (Pouch)** 2 ใบ, **ชุดเดินทาง (Traveler's Clothes)** และเงิน 32 GP หรือเลือกรับเงิน 50 GP แทนทั้งชุด แนะนำให้รับของ เพราะเครื่องมือช่างบางชนิดราคาถึง 50 GP เอง
 
 **เหมาะกับ:** Rogue (Artificer-like), Fighter, Wizard, Monk
 
@@ -116,7 +116,7 @@
 
 ---
 
-## 3. Charlatan นักต้มตุ๋น
+## 3. นักต้มตุ๋น (Charlatan)
 
 คุณเลี้ยงชีพด้วยการหลอกลวง ขายยาปลอม เล่นแร่แปรธาตุตบตา ปลอมเอกสาร
 
@@ -124,7 +124,7 @@
 - **Origin Feat** **Skilled** ได้ Proficiency เพิ่ม 3 อย่าง (Skill หรือ Tool)
 - **Skills** **หลอกลวง (Deception)**, **มือไว (Sleight of Hand)**
 - **Tool** **ชุดปลอมเอกสาร (Forgery Kit)**
-- **Equipment** Forgery Kit, Costume, Fine Clothes, 15 GP หรือ 50 GP
+- **Equipment** ได้ **ชุดปลอมแปลง (Forgery Kit)**, **ชุดแฟนซี (Costume)**, **ชุดหรู (Fine Clothes)** และเงิน 15 GP หรือเลือกรับเงิน 50 GP แทนทั้งชุด แนะนำให้รับของ เพราะชุดปลอมแปลงกับชุดหรูรวมกันก็ 30 GP แล้ว
 
 **เหมาะกับ:** Bard [แนะนำ], Sorcerer [แนะนำ], Warlock [แนะนำ], Rogue
 
@@ -134,7 +134,7 @@ Charlatan เป็น Background ที่ดีที่สุดสำหร�
 
 ---
 
-## 4. Criminal อาชญากร
+## 4. อาชญากร (Criminal)
 
 คุณเคยอยู่ในโลกใต้ดิน ขโมย ลักลอบขนของ หรือทำงานให้แก๊ง
 
@@ -142,7 +142,7 @@ Charlatan เป็น Background ที่ดีที่สุดสำหร�
 - **Origin Feat** **Alert** +Proficiency Bonus ในการทอย Initiative + สลับลำดับกับเพื่อนได้
 - **Skills** **มือไว (Sleight of Hand)**, **ซ่อนตัว (Stealth)**
 - **Tool** **ชุดสะเดาะกุญแจ (Thieves' Tools)**
-- **Equipment** Dagger 2 อัน, Thieves' Tools, Crowbar, Pouch, Traveler's Clothes, 16 GP หรือ 50 GP
+- **Equipment** ได้ **มีดสั้น (Dagger)** 2 เล่ม, **เครื่องมือโจร (Thieves' Tools)**, **ชะแลง (Crowbar)**, **ถุงเล็ก (Pouch)**, **ชุดเดินทาง (Traveler's Clothes)** และเงิน 16 GP หรือเลือกรับเงิน 50 GP แทนทั้งชุด แนะนำอย่างยิ่งให้รับของ เพราะเครื่องมือโจรอย่างเดียวก็ 25 GP และเป็นของที่ทีมขาดไม่ได้
 
 **เหมาะกับ:** Rogue [แนะนำมาก], Fighter (DEX), Ranger, Monk
 
@@ -152,7 +152,7 @@ Alert เป็น Feat ที่ดีมากสำหรับ Rogue ได�
 
 ---
 
-## 5. Entertainer นักแสดง
+## 5. นักแสดง (Entertainer)
 
 คุณเคยเดินทางแสดงบนเวที ร้องเพลง เต้นรำ กายกรรม หรือเล่าเรื่อง
 
@@ -160,7 +160,7 @@ Alert เป็น Feat ที่ดีมากสำหรับ Rogue ได�
 - **Origin Feat** **Musician** ให้ Heroic Inspiration แก่เพื่อนได้หลังการพัก
 - **Skills** **กายกรรม (Acrobatics)**, **การแสดง (Performance)**
 - **Tool** **เครื่องดนตรี เลือก 1 ชนิด (Musical Instrument)**
-- **Equipment** Musical Instrument, Costume 2 อัน, Mirror, Perfume, Traveler's Clothes, 11 GP หรือ 50 GP
+- **Equipment** ได้ **เครื่องดนตรี (Musical Instrument)**, **ชุดแฟนซี (Costume)** 2 ชุด, **กระจกเหล็ก (Mirror)**, **น้ำหอม (Perfume)**, **ชุดเดินทาง (Traveler's Clothes)** และเงิน 11 GP หรือเลือกรับเงิน 50 GP แทนทั้งชุด แนะนำให้รับของ เพราะ Bard ใช้เครื่องดนตรีเป็น Spellcasting Focus ได้เลย
 
 **เหมาะกับ:** Bard [แนะนำ], Paladin (STR+CHA) [แนะนำ], Monk, Rogue
 
@@ -170,7 +170,7 @@ Alert เป็น Feat ที่ดีมากสำหรับ Rogue ได�
 
 ---
 
-## 6. Farmer ชาวนา
+## 6. ชาวนา (Farmer)
 
 คุณเติบโตมากับผืนดิน ทำงานหนักตั้งแต่เช้าจรดค่ำ ร่างกายแข็งแรงจากการใช้แรง
 
@@ -178,7 +178,7 @@ Alert เป็น Feat ที่ดีมากสำหรับ Rogue ได�
 - **Origin Feat** **Tough** HP สูงสุด +2 ต่อเลเวลตัวละคร [แนะนำ]
 - **Skills** **จัดการสัตว์ (Animal Handling)**, **ธรรมชาติ (Nature)**
 - **Tool** **เครื่องมือช่างไม้ (Carpenter's Tools)**
-- **Equipment** Sickle, Carpenter's Tools, Healer's Kit, Iron Pot, Shovel, Traveler's Clothes, 30 GP หรือ 50 GP
+- **Equipment** ได้ **เคียว (Sickle)**, **เครื่องมือช่างไม้ (Carpenter's Tools)**, **ชุดปฐมพยาบาล (Healer's Kit)**, **หม้อเหล็ก (Iron Pot)**, **พลั่ว (Shovel)**, **ชุดเดินทาง (Traveler's Clothes)** และเงิน 30 GP หรือเลือกรับเงิน 50 GP แทนทั้งชุด แนะนำให้รับของ เพราะได้ชุดปฐมพยาบาลซึ่งช่วยเพื่อนที่ 0 HP ได้โดยไม่ต้องทอยเต๋า
 
 **เหมาะกับ:** Barbarian [แนะนำ], Cleric, Druid [แนะนำ], Fighter, Ranger
 
@@ -188,7 +188,7 @@ Tough Feat ให้ HP มากที่สุดในบรรดา Origin 
 
 ---
 
-## 7. Guard ยาม
+## 7. ยาม (Guard)
 
 คุณเคยเฝ้าประตูเมือง ลาดตระเวนกำแพง หรือคุ้มกันคุก
 
@@ -196,7 +196,7 @@ Tough Feat ให้ HP มากที่สุดในบรรดา Origin 
 - **Origin Feat** **Alert** +Proficiency Bonus ในการทอย Initiative
 - **Skills** **กีฬา (Athletics)**, **การรับรู้ (Perception)**
 - **Tool** **ชุดเกมพนัน เลือก 1 ชนิด (Gaming Set)**
-- **Equipment** Spear, Light Crossbow + 20 Bolts, Gaming Set, Hooded Lantern, Manacles, Quiver, Traveler's Clothes, 12 GP หรือ 50 GP
+- **Equipment** ได้ **หอก (Spear)**, **หน้าไม้เบา (Light Crossbow)** พร้อม **ลูกหน้าไม้ (Bolts)** 20 ดอก, **ชุดเล่นเกม (Gaming Set)**, **ตะเกียงมีฝา (Hooded Lantern)**, **กุญแจมือ (Manacles)**, **กระบอกใส่ลูกธนู (Quiver)**, **ชุดเดินทาง (Traveler's Clothes)** และเงิน 12 GP หรือเลือกรับเงิน 50 GP แทนทั้งชุด แนะนำให้รับของ เพราะหน้าไม้เบาอย่างเดียวก็ 25 GP และตะเกียงมีฝาทำให้ทีมมีแสงโดยไม่ต้องถือคบไฟ
 
 **เหมาะกับ:** Fighter, Cleric (สาย WIS+STR), Paladin, Ranger, Monk
 
@@ -204,7 +204,7 @@ Tough Feat ให้ HP มากที่สุดในบรรดา Origin 
 
 ---
 
-## 8. Guide มัคคุเทศก์/พรานนำทาง
+## 8. มัคคุเทศก์ หรือ พรานนำทาง (Guide)
 
 คุณเติบโตในถิ่นทุรกันดาร รู้จักเส้นทาง สัตว์ป่า และวิธีเอาตัวรอดในธรรมชาติ
 
@@ -212,7 +212,7 @@ Tough Feat ให้ HP มากที่สุดในบรรดา Origin 
 - **Origin Feat** **Magic Initiate (Druid)** ได้ Cantrip 2 + สเปลระดับ 1 จากรายการ Druid
 - **Skills** **ซ่อนตัว (Stealth)**, **เอาตัวรอด (Survival)**
 - **Tool** **เครื่องมือเขียนแผนที่ (Cartographer's Tools)**
-- **Equipment** Shortbow + 20 Arrows, Cartographer's Tools, Bedroll, Quiver, Tent, Traveler's Clothes, 3 GP หรือ 50 GP
+- **Equipment** ได้ **ธนูสั้น (Shortbow)** พร้อม **ลูกธนู (Arrows)** 20 ดอก, **เครื่องมือทำแผนที่ (Cartographer's Tools)**, **ที่นอนม้วน (Bedroll)**, **กระบอกใส่ลูกธนู (Quiver)**, **เต็นท์ (Tent)**, **ชุดเดินทาง (Traveler's Clothes)** และเงิน 3 GP หรือเลือกรับเงิน 50 GP แทนทั้งชุด แนะนำให้รับของ เพราะธนูสั้นกับเครื่องมือทำแผนที่รวมกันก็ 40 GP แล้ว
 
 **เหมาะกับ:** Ranger [แนะนำมาก], Druid [แนะนำ], Monk, Rogue, Barbarian
 
@@ -222,7 +222,7 @@ Guide เป็น Background ที่ดีที่สุดสำหรั�
 
 ---
 
-## 9. Hermit ฤๅษี
+## 9. ฤๅษี (Hermit)
 
 คุณใช้เวลาหลายปีอยู่โดดเดี่ยว แสวงหาความจริง ศึกษาสมุนไพร และทำสมาธิ
 
@@ -230,7 +230,7 @@ Guide เป็น Background ที่ดีที่สุดสำหรั�
 - **Origin Feat** **Healer** ใช้ Healer's Kit ฟื้น HP ให้เพื่อน (Bonus Action)
 - **Skills** **การแพทย์ (Medicine)**, **ศาสนา (Religion)**
 - **Tool** **ชุดสมุนไพร (Herbalism Kit)**
-- **Equipment** Quarterstaff, Herbalism Kit, Bedroll, Book (ปรัชญา), Lamp, Oil 3 อัน, Traveler's Clothes, 16 GP หรือ 50 GP
+- **Equipment** ได้ **ไม้พลอง (Quarterstaff)**, **ชุดสมุนไพร (Herbalism Kit)**, **ที่นอนม้วน (Bedroll)**, **หนังสือ (Book)** ที่เป็นตำราปรัชญา, **ตะเกียงตั้งโต๊ะ (Lamp)**, **น้ำมัน (Oil)** 3 ขวด, **ชุดเดินทาง (Traveler's Clothes)** และเงิน 16 GP หรือเลือกรับเงิน 50 GP แทนทั้งชุด แนะนำให้รับของ เพราะหนังสืออย่างเดียวก็ 25 GP
 
 **เหมาะกับ:** Cleric, Druid, Monk, Warlock, Sorcerer
 
@@ -238,7 +238,7 @@ Guide เป็น Background ที่ดีที่สุดสำหรั�
 
 ---
 
-## 10. Merchant พ่อค้า
+## 10. พ่อค้า (Merchant)
 
 คุณเรียนรู้การค้าขาย เจรจาต่อรอง และรู้จักเส้นทางการค้าทั่วภูมิภาค
 
@@ -246,7 +246,7 @@ Guide เป็น Background ที่ดีที่สุดสำหรั�
 - **Origin Feat** **Lucky** ได้ Luck Point เท่ากับ Proficiency Bonus ต่อ Long Rest [แนะนำ]
 - **Skills** **จัดการสัตว์บรรทุก (Animal Handling)**, **โน้มน้าว (Persuasion)**
 - **Tool** **เครื่องมือนำทาง (Navigator's Tools)**
-- **Equipment** Navigator's Tools, Pouch 2 อัน, Traveler's Clothes, 22 GP หรือ 50 GP
+- **Equipment** ได้ **เครื่องมือนำทาง (Navigator's Tools)**, **ถุงเล็ก (Pouch)** 2 ใบ, **ชุดเดินทาง (Traveler's Clothes)** และเงิน 22 GP หรือเลือกรับเงิน 50 GP แทนทั้งชุด แนะนำให้รับเงิน 50 GP ถ้าทีมมีคนนำทางอยู่แล้ว เพราะของในชุดนี้น้อยและเครื่องมือนำทางไม่ค่อยได้ใช้ในดันเจี้ยน
 
 **เหมาะกับ:** Sorcerer, Warlock, Wizard (CON/INT), Bard
 
@@ -256,7 +256,7 @@ Lucky เป็นหนึ่งใน Feat ที่ดีที่สุด�
 
 ---
 
-## 11. Noble ขุนนาง
+## 11. ขุนนาง (Noble)
 
 คุณเกิดในตระกูลสูงศักดิ์ ได้รับการศึกษาอย่างดี และคุ้นเคยกับการเมืองในราชสำนัก
 
@@ -264,7 +264,7 @@ Lucky เป็นหนึ่งใน Feat ที่ดีที่สุด�
 - **Origin Feat** **Skilled** ได้ Proficiency เพิ่ม 3 อย่าง
 - **Skills** **ประวัติศาสตร์ (History)**, **โน้มน้าว (Persuasion)**
 - **Tool** **เลือก 1 ชนิด (Gaming Set)**
-- **Equipment** Gaming Set, Fine Clothes, Perfume, 29 GP หรือ 50 GP
+- **Equipment** ได้ **ชุดเล่นเกม (Gaming Set)**, **ชุดหรู (Fine Clothes)**, **น้ำหอม (Perfume)** และเงิน 29 GP หรือเลือกรับเงิน 50 GP แทนทั้งชุด แนะนำให้รับของ ถ้าแคมเปญมีฉากเข้าสังคมกับขุนนาง แต่ถ้าเป็นแคมเปญลุยดันเจี้ยนล้วน ให้รับเงิน 50 GP ไปซื้อของใช้จริงดีกว่า
 
 **เหมาะกับ:** Paladin [แนะนำ] (STR+CHA), Bard, Sorcerer, Fighter, Wizard
 
@@ -274,7 +274,7 @@ Noble เป็น Background เดียวที่ให้ทั้ง STR 
 
 ---
 
-## 12. Sage นักปราชญ์
+## 12. นักปราชญ์ (Sage)
 
 คุณใช้ชีวิตในห้องสมุดและมหาวิทยาลัยเวทมนตร์ ศึกษาความรู้ทุกแขนง
 
@@ -282,7 +282,7 @@ Noble เป็น Background เดียวที่ให้ทั้ง STR 
 - **Origin Feat** **Magic Initiate (Wizard)** ได้ Cantrip 2 + สเปลระดับ 1 จากรายการ Wizard
 - **Skills** **ความรู้เวท (Arcana)**, **ประวัติศาสตร์ (History)**
 - **Tool** **อุปกรณ์เขียนอักษร (Calligrapher's Supplies)**
-- **Equipment** Quarterstaff, Calligrapher's Supplies, Book (ประวัติศาสตร์), Parchment 8 อัน, Robe, 8 GP หรือ 50 GP
+- **Equipment** ได้ **ไม้พลอง (Quarterstaff)**, **อุปกรณ์เขียนอักษร (Calligrapher's Supplies)**, **หนังสือ (Book)** ที่เป็นตำราประวัติศาสตร์, **แผ่นหนังเขียน (Parchment)** 8 แผ่น, **ชุดคลุม (Robe)** และเงิน 8 GP หรือเลือกรับเงิน 50 GP แทนทั้งชุด แนะนำอย่างยิ่งสำหรับ Wizard ให้รับของ เพราะแผ่นหนังเขียนคือของที่ใช้คัดสเปลลงตำราเวท
 
 **เหมาะกับ:** Wizard [แนะนำมาก], Druid, Cleric, Warlock
 
@@ -292,7 +292,7 @@ Sage เป็น Background ที่ดีที่สุดสำหรับ
 
 ---
 
-## 13. Sailor กะลาสี
+## 13. กะลาสี (Sailor)
 
 คุณใช้ชีวิตกลางทะเล เรียนรู้การเดินเรือ ผูกเงื่อน และตีกันในบาร์ท่าเรือ
 
@@ -300,7 +300,7 @@ Sage เป็น Background ที่ดีที่สุดสำหรับ
 - **Origin Feat** **Tavern Brawler** Unarmed Strike ทำ 1d4 + ทอยดาเมจใหม่ได้ + ผลักศัตรูได้
 - **Skills** **กายกรรม (Acrobatics)**, **การรับรู้ (Perception)**
 - **Tool** **เครื่องมือนำทาง (Navigator's Tools)**
-- **Equipment** Dagger, Navigator's Tools, Rope, Traveler's Clothes, 20 GP หรือ 50 GP
+- **Equipment** ได้ **มีดสั้น (Dagger)**, **เครื่องมือนำทาง (Navigator's Tools)**, **เชือกป่าน 50 ฟุต (Rope)**, **ชุดเดินทาง (Traveler's Clothes)** และเงิน 20 GP หรือเลือกรับเงิน 50 GP แทนทั้งชุด แนะนำให้รับของ เพราะได้เชือกซึ่งเป็นของที่ใช้บ่อยที่สุดในเกม
 
 **เหมาะกับ:** Monk [แนะนำ] (DEX+WIS), Ranger, Fighter, Rogue, Druid
 
@@ -310,7 +310,7 @@ Sailor เป็น Background ที่ดีที่สุดสำหรั�
 
 ---
 
-## 14. Scribe อาลักษณ์
+## 14. อาลักษณ์ (Scribe)
 
 คุณทำงานคัดลอกเอกสาร บันทึกกฎหมาย และจัดการหอจดหมายเหตุ
 
@@ -318,7 +318,7 @@ Sailor เป็น Background ที่ดีที่สุดสำหรั�
 - **Origin Feat** **Skilled** ได้ Proficiency เพิ่ม 3 อย่าง
 - **Skills** **สืบสวน (Investigation)**, **การรับรู้ (Perception)**
 - **Tool** **Calligrapher's Supplies**
-- **Equipment** Calligrapher's Supplies, Fine Clothes, Lamp, Oil 3 อัน, Parchment 12 อัน, 23 GP หรือ 50 GP
+- **Equipment** ได้ **อุปกรณ์เขียนอักษร (Calligrapher's Supplies)**, **ชุดหรู (Fine Clothes)**, **ตะเกียงตั้งโต๊ะ (Lamp)**, **น้ำมัน (Oil)** 3 ขวด, **แผ่นหนังเขียน (Parchment)** 12 แผ่น และเงิน 23 GP หรือเลือกรับเงิน 50 GP แทนทั้งชุด แนะนำให้รับของ ถ้าเล่น Wizard เพราะได้แผ่นหนังเขียนมากที่สุดในบรรดาทุกภูมิหลัง
 
 **เหมาะกับ:** Wizard, Rogue (Arcane Trickster), Ranger, Monk
 
@@ -326,7 +326,7 @@ Sailor เป็น Background ที่ดีที่สุดสำหรั�
 
 ---
 
-## 15. Soldier ทหาร
+## 15. ทหาร (Soldier)
 
 คุณผ่านการฝึกทหารและออกรบมาแล้ว รู้จักระเบียบวินัยและความโหดร้ายของสงคราม
 
@@ -334,7 +334,7 @@ Sailor เป็น Background ที่ดีที่สุดสำหรั�
 - **Origin Feat** **Savage Attacker** 1 ครั้ง/เทิร์น ทอยเต๋าดาเมจอาวุธใหม่ เอาผลที่ดีกว่า
 - **Skills** **กีฬา (Athletics)**, **ข่มขู่ (Intimidation)**
 - **Tool** **เลือก 1 ชนิด (Gaming Set)**
-- **Equipment** Spear, Shortbow + 20 Arrows, Gaming Set, Healer's Kit, Quiver, Traveler's Clothes, 14 GP หรือ 50 GP
+- **Equipment** ได้ **หอก (Spear)**, **ธนูสั้น (Shortbow)** พร้อม **ลูกธนู (Arrows)** 20 ดอก, **ชุดเล่นเกม (Gaming Set)**, **ชุดปฐมพยาบาล (Healer's Kit)**, **กระบอกใส่ลูกธนู (Quiver)**, **ชุดเดินทาง (Traveler's Clothes)** และเงิน 14 GP หรือเลือกรับเงิน 50 GP แทนทั้งชุด แนะนำอย่างยิ่งให้รับของ เพราะได้ทั้งอาวุธระยะไกลและชุดปฐมพยาบาล เป็นชุดที่คุ้มที่สุดในบรรดา 16 ภูมิหลัง
 
 **เหมาะกับ:** Fighter [แนะนำมาก], Barbarian [แนะนำ], Paladin, Ranger, Monk
 
@@ -344,7 +344,7 @@ Soldier เป็น Background สายรบที่ดีที่สุด
 
 ---
 
-## 16. Wayfarer คนพเนจร
+## 16. คนพเนจร (Wayfarer)
 
 คุณใช้ชีวิตบนถนน ไร้บ้าน พึ่งพาไหวพริบและความเมตตาของคนแปลกหน้า
 
@@ -352,7 +352,7 @@ Soldier เป็น Background สายรบที่ดีที่สุด
 - **Origin Feat** **Lucky** ได้ Luck Point เท่ากับ Proficiency Bonus ต่อ Long Rest [แนะนำ]
 - **Skills** **อ่านใจคน (Insight)**, **ซ่อนตัว (Stealth)**
 - **Tool** **ชุดสะเดาะกุญแจ (Thieves' Tools)**
-- **Equipment** Dagger 2 อัน, Thieves' Tools, Gaming Set, Bedroll, Pouch 2 อัน, Traveler's Clothes, 16 GP หรือ 50 GP
+- **Equipment** ได้ **มีดสั้น (Dagger)** 2 เล่ม, **เครื่องมือโจร (Thieves' Tools)**, **ชุดเล่นเกม (Gaming Set)**, **ที่นอนม้วน (Bedroll)**, **ถุงเล็ก (Pouch)** 2 ใบ, **ชุดเดินทาง (Traveler's Clothes)** และเงิน 16 GP หรือเลือกรับเงิน 50 GP แทนทั้งชุด แนะนำอย่างยิ่งให้รับของ เพราะได้เครื่องมือโจรซึ่งราคา 25 GP เหมือนภูมิหลังอาชญากร
 
 **เหมาะกับ:** Rogue [แนะนำ], Monk, Ranger, Bard, Warlock
 

@@ -1,6 +1,6 @@
 # สร้างการเผชิญหน้า (Building Encounters)
 
-[กลับหน้ารวม DM](00-dm-overview.md) | [สารบัญ](../README.md)
+[กลับหน้ารวม DM](00-dm-overview.md) | [สารบัญ](../../README.md)
 
 ---
 

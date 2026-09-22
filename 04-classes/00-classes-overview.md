@@ -81,7 +81,8 @@ Class กำหนด:
 - **Weapon Mastery** ปลดล็อกคุณสมบัติพิเศษของอาวุธ 2 ชนิด
 
 ### อุปกรณ์เริ่มต้นของนักรบคลั่ง
-Greataxe, Handaxe 4 อัน, Explorer's Pack, 15 GP หรือ 75 GP
+เลือก A ได้ **ขวานใหญ่ (Greataxe)**, **ขวานมือ (Handaxe)** 4 อัน, **ชุดนักสำรวจ (Explorer's Pack)** และเงิน 15 GP
+ส่วนเลือก B ได้เงิน 75 GP ไปซื้อเอง มือใหม่ให้เลือก A
 
 ** [อ่านรายละเอียดเต็ม เลเวล 1-20](barbarian.md)**
 
@@ -108,7 +109,8 @@ Greataxe, Handaxe 4 อัน, Explorer's Pack, 15 GP หรือ 75 GP
 - **Spellcasting** Cantrip 2 อัน + สเปลระดับ 1 เตรียมได้ 4 อัน + Spell Slot ระดับ 1 จำนวน 2 ช่อง
 
 ### อุปกรณ์เริ่มต้นของนักดนตรีเวท
-**Leather Armor, Dagger, Musical Instrument, Entertainer's Pack, 19 GP** หรือ 90 GP
+เลือก A ได้ **เกราะหนัง (Leather Armor)**, **มีดสั้น (Dagger)**, **เครื่องดนตรี (Musical Instrument)**, **ชุดนักแสดง (Entertainer's Pack)** และเงิน 19 GP
+ส่วนเลือก B ได้เงิน 90 GP ไปซื้อเอง มือใหม่ให้เลือก A เพราะเครื่องดนตรีเป็น Spellcasting Focus ของ Bard ด้วย
 
 ** [อ่านรายละเอียดเต็ม + รายการเวท](bard.md)**
 
@@ -134,7 +136,8 @@ Greataxe, Handaxe 4 อัน, Explorer's Pack, 15 GP หรือ 75 GP
 - **Divine Order** [แนะนำ] เลือก 1 แบบ: **Protector** ได้ Proficiency **สายยืนหน้า (Martial Weapon + Heavy Armor)** **Thaumaturge** ได้ Cantrip เพิ่ม 1 อัน และ +WIS modifier ใน Religion/Arcana Check (สายเวท)
 
 ### อุปกรณ์เริ่มต้นของนักบวช
-**Chain Shirt, Shield, Mace, Holy Symbol, Priest's Pack, 7 GP** หรือ 110 GP
+เลือก A ได้ **เสื้อโซ่ (Chain Shirt)**, **โล่ (Shield)**, **กระบองหัวเหล็ก (Mace)**, **สัญลักษณ์ศักดิ์สิทธิ์ (Holy Symbol)**, **ชุดนักบวช (Priest's Pack)** และเงิน 7 GP
+ส่วนเลือก B ได้เงิน 110 GP ไปซื้อเอง มือใหม่ให้เลือก A แล้วขอสัญลักษณ์แบบตราบนโล่
 
 ** [อ่านรายละเอียดเต็ม + รายการเวท](cleric.md)**
 
@@ -162,7 +165,8 @@ Greataxe, Handaxe 4 อัน, Explorer's Pack, 15 GP หรือ 75 GP
 - **Primal Order** [แนะนำ] เลือก 1 แบบ: **Magician** ได้ Cantrip เพิ่ม 1 อัน และ +WIS modifier ใน Arcana/Nature Check **Warden** ได้ Proficiency **สายสู้ (Martial Weapon + Medium Armor)**
 
 ### อุปกรณ์เริ่มต้นของดรูอิด
-**Leather Armor, Shield, Sickle, Druidic Focus, Herbalism Kit, Explorer's Pack, 9 GP** หรือ 50 GP
+เลือก A ได้ **เกราะหนัง (Leather Armor)**, **โล่ (Shield)**, **เคียว (Sickle)**, **สื่อเวทดรูอิด (Druidic Focus)**, **ชุดสมุนไพร (Herbalism Kit)**, **ชุดนักสำรวจ (Explorer's Pack)** และเงิน 9 GP
+ส่วนเลือก B ได้เงิน 50 GP ไปซื้อเอง มือใหม่ให้เลือก A เพราะ 50 GP ซื้อของชุดนี้ไม่ครบ
 
 **Druid ยากสำหรับมือใหม่** Wild Shape (เลเวล 2) ต้องจำสถิติสัตว์ และรายการเวทใหญ่มาก
 
@@ -192,8 +196,9 @@ Greataxe, Handaxe 4 อัน, Explorer's Pack, 15 GP หรือ 75 GP
 - **Weapon Mastery** ปลดล็อกคุณสมบัติพิเศษของอาวุธ 3 ชนิด
 
 ### อุปกรณ์เริ่มต้นของนักรบ
-Chain Mail, Greatsword, Handaxe 2 อัน, Dungeoneer's Pack, 4 GP
-หรือ **Studded Leather, Scimitar, Shortsword, Longbow + 20 Arrows, Dungeoneer's Pack, 11 GP** หรือ 155 GP
+เลือก A สาย STR ได้ **เกราะโซ่ (Chain Mail)**, **ดาบใหญ่ (Greatsword)**, **ขวานมือ (Handaxe)** 2 อัน, **ชุดนักลุยดันเจี้ยน (Dungeoneer's Pack)** และเงิน 4 GP
+เลือก B สาย DEX ได้ **เกราะหนังหมุด (Studded Leather)**, **ดาบโค้ง (Scimitar)**, **ดาบสั้น (Shortsword)**, **ธนูยาว (Longbow)** พร้อมลูกธนู 20 ดอก, ชุดนักลุยดันเจี้ยน และเงิน 11 GP
+ส่วนเลือก C ได้เงิน 155 GP ซึ่งมากที่สุดในเกม มือใหม่ให้เลือก A เพราะได้ AC 16 ตั้งแต่เลเวล 1
 
 **แนะนำอันดับ 1 สำหรับมือใหม่** จำน้อยที่สุด ตัวแข็ง ตีแรง ผิดพลาดได้
 
@@ -222,7 +227,8 @@ Chain Mail, Greatsword, Handaxe 2 อัน, Dungeoneer's Pack, 4 GP
 - **Unarmored Defense** ตอนไม่ใส่เกราะและไม่ถือโล่: **AC = 10 + DEX + WIS**
 
 ### อุปกรณ์เริ่มต้นของนักพรตหมัด
-Spear, Dart 5 อัน, Artisan's Tools/Musical Instrument, Explorer's Pack, 11 GP หรือ 50 GP
+เลือก A ได้ **หอก (Spear)**, **ลูกดอก (Dart)** 5 อัน, **เครื่องมือช่าง (Artisan's Tools)** หรือ **เครื่องดนตรี (Musical Instrument)** อย่างใดอย่างหนึ่ง, **ชุดนักสำรวจ (Explorer's Pack)** และเงิน 11 GP
+ส่วนเลือก B ได้เงิน 50 GP ไปซื้อเอง มือใหม่ให้เลือก A เพราะ Monk ไม่ใส่เกราะอยู่แล้ว
 
 **Monk ต้องดันทั้ง DEX และ WIS** ยากในเลเวลต่ำ แต่แรงมากในเลเวลสูง
 
@@ -252,7 +258,8 @@ Spear, Dart 5 อัน, Artisan's Tools/Musical Instrument, Explorer's Pack, 11
 - **Weapon Mastery** ปลดล็อกคุณสมบัติพิเศษของอาวุธ 2 ชนิด
 
 ### อุปกรณ์เริ่มต้นของอัศวินศักดิ์สิทธิ์
-Chain Mail, Shield, Longsword, Javelin 6 อัน, Holy Symbol, Priest's Pack, 9 GP หรือ 150 GP
+เลือก A ได้ **เกราะโซ่ (Chain Mail)**, **โล่ (Shield)**, **ดาบยาว (Longsword)**, **หอกซัด (Javelin)** 6 อัน, **สัญลักษณ์ศักดิ์สิทธิ์ (Holy Symbol)**, **ชุดนักบวช (Priest's Pack)** และเงิน 9 GP
+ส่วนเลือก B ได้เงิน 150 GP ไปซื้อเอง มือใหม่ให้เลือก A เพราะได้ AC 18 ซึ่งสูงที่สุดที่เลเวล 1 ทำได้
 
 **เลเวล 2 (Divine Smite)** คือความสามารถที่ทำให้ Paladin ตีแรงที่สุดในเกมช่วงหนึ่ง
 
@@ -282,7 +289,8 @@ Chain Mail, Shield, Longsword, Javelin 6 อัน, Holy Symbol, Priest's Pack, 
 - **Weapon Mastery** ปลดล็อกคุณสมบัติพิเศษของอาวุธ 2 ชนิด
 
 ### อุปกรณ์เริ่มต้นของพรานป่า
-**Studded Leather, Scimitar, Shortsword, Longbow + 20 Arrows, Druidic Focus, Explorer's Pack, 7 GP** หรือ 150 GP
+เลือก A ได้ **เกราะหนังหมุด (Studded Leather)**, **ดาบโค้ง (Scimitar)**, **ดาบสั้น (Shortsword)**, **ธนูยาว (Longbow)** พร้อมลูกธนู 20 ดอก, **กระบอกใส่ลูกธนู (Quiver)**, **สื่อเวทดรูอิด (Druidic Focus)**, **ชุดนักสำรวจ (Explorer's Pack)** และเงิน 7 GP
+ส่วนเลือก B ได้เงิน 150 GP ไปซื้อเอง มือใหม่ให้เลือก A เพราะได้ทั้งชุดธนูและชุดสองอาวุธมาลองเล่นทั้งคู่
 
 ** [อ่านรายละเอียดเต็ม + รายการเวท](ranger.md)**
 
@@ -312,7 +320,8 @@ Chain Mail, Shield, Longsword, Javelin 6 อัน, Holy Symbol, Priest's Pack, 
 - **Weapon Mastery** ปลดล็อกคุณสมบัติพิเศษของอาวุธ 2 ชนิด
 
 ### อุปกรณ์เริ่มต้นของโจร/นักลอบสังหาร
-Leather Armor, Dagger 2 อัน, Shortsword, Shortbow + 20 Arrows, Thieves' Tools, Burglar's Pack, 8 GP หรือ 100 GP
+เลือก A ได้ **เกราะหนัง (Leather Armor)**, **มีดสั้น (Dagger)** 2 เล่ม, **ดาบสั้น (Shortsword)**, **ธนูสั้น (Shortbow)** พร้อมลูกธนู 20 ดอก, **เครื่องมือโจร (Thieves' Tools)**, **ชุดโจร (Burglar's Pack)** และเงิน 8 GP
+ส่วนเลือก B ได้เงิน 100 GP ไปซื้อเอง มือใหม่ให้เลือก A เพราะเครื่องมือโจรอย่างเดียวก็ 25 GP แล้ว
 
 **แนะนำสำหรับมือใหม่ที่อยากตีแรง** ไม่มีเวทให้จำ แต่ทำได้หลากหลาย
 
@@ -340,7 +349,8 @@ Leather Armor, Dagger 2 อัน, Shortsword, Shortbow + 20 Arrows, Thieves' To
 - **Innate Sorcery** [แนะนำ] **Bonus Action:** เข้าโหมดเวทล้น 1 นาที +1 Spell Save DC และ Advantage ในการทอย Spell Attack ทั้งหมด ใช้ได้ 2 ครั้ง/Long Rest
 
 ### อุปกรณ์เริ่มต้นของจอมเวทสายเลือด
-Spear, Dagger 2 อัน, Arcane Focus, Dungeoneer's Pack, 28 GP หรือ 50 GP
+เลือก A ได้ **หอก (Spear)**, **มีดสั้น (Dagger)** 2 เล่ม, **สื่อเวทอาถรรพ์ (Arcane Focus)** แบบคริสตัล, **ชุดนักลุยดันเจี้ยน (Dungeoneer's Pack)** และเงิน 28 GP
+ส่วนเลือก B ได้เงิน 50 GP ไปซื้อเอง มือใหม่ให้เลือก A เพราะได้เงินติดตัวมากที่สุดในบรรดาตัวเลือกแบบ A ของทุกคลาส
 
 ** [อ่านรายละเอียดเต็ม + รายการเวท](sorcerer.md)**
 
@@ -366,7 +376,8 @@ Spear, Dagger 2 อัน, Arcane Focus, Dungeoneer's Pack, 28 GP หรือ 5
 - **Pact Magic** [แนะนำ] Cantrip 2 อัน + เตรียมสเปลได้ 2 อัน + Spell Slot จำนวน 1 ช่อง Slot ฟื้นทุก Short Rest [แนะนำ] และเป็นระดับสูงสุดที่มีเสมอ
 
 ### อุปกรณ์เริ่มต้นของผู้ทำสัญญา
-Leather Armor, Sickle, Dagger 2 อัน, Arcane Focus, Book, Scholar's Pack, 15 GP หรือ 100 GP
+เลือก A ได้ **เกราะหนัง (Leather Armor)**, **เคียว (Sickle)**, **มีดสั้น (Dagger)** 2 เล่ม, **สื่อเวทอาถรรพ์ (Arcane Focus)** แบบลูกแก้ว, **หนังสือ (Book)**, **ชุดนักปราชญ์ (Scholar's Pack)** และเงิน 15 GP
+ส่วนเลือก B ได้เงิน 100 GP ไปซื้อเอง มือใหม่ให้เลือก A เพราะลูกแก้วกับหนังสือรวมกันก็ 45 GP แล้ว
 
 **Invocation Agonizing Blast** (เลเวล 2) + Cantrip Eldritch Blast = การโจมตีระยะไกลที่ดีที่สุดในเกม
 
@@ -395,7 +406,8 @@ Leather Armor, Sickle, Dagger 2 อัน, Arcane Focus, Book, Scholar's Pack, 1
 - **Arcane Recovery** [แนะนำ] 1 ครั้ง/วัน หลัง **Short Rest** ฟื้น Spell Slot ที่มีระดับรวมกันไม่เกินครึ่งเลเวล Wizard (ปัดขึ้น)
 
 ### อุปกรณ์เริ่มต้นของพ่อมด
-Dagger 2 อัน, Arcane Focus, Robe, Spellbook, Scholar's Pack, 5 GP หรือ 55 GP
+เลือก A ได้ **มีดสั้น (Dagger)** 2 เล่ม, **สื่อเวทอาถรรพ์ (Arcane Focus)** แบบไม้เท้า, **ชุดคลุม (Robe)**, **ตำราเวท (Spellbook)**, **ชุดนักปราชญ์ (Scholar's Pack)** และเงิน 5 GP
+ส่วนเลือก B ได้เงิน 55 GP ไปซื้อเอง โดยได้ตำราเวทฟรีเสมอ มือใหม่ให้เลือก A เพราะชุดนักปราชญ์มีหมึกและแผ่นหนังเขียนสำหรับคัดสเปลลงตำรา
 
 HP น้อยที่สุด (6+CON) และไม่มีเกราะ ต้องยืนหลังแนวเสมอ
 

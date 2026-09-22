@@ -1,6 +1,6 @@
 # Seraphine นักร้องลิ้นทอง (Bard)
 
-[กลับหน้ารวมตัวละครสำเร็จรูป](00-pregen-overview.md) | [สารบัญ](../README.md)
+[กลับหน้ารวมตัวละครสำเร็จรูป](00-pregen-overview.md) | [สารบัญ](../../README.md)
 
 ---
 
